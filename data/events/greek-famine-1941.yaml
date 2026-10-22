@@ -1,0 +1,31 @@
+id: greek-famine-1941
+title:
+  en: Great Famine (Greece)
+  fr: Grande Famine en Grèce
+description:
+  en: >-
+    Famine during the Axis occupation of Greece, at its worst in the winter of 1941-1942 in Athens, Piraeus and the islands. German and Italian forces requisitioned food and plundered the economy, fuel and transport were confiscated, the division of the country into German, Italian and Bulgarian zones cut food flows, and the Allied naval blockade stopped imports. Prices soared and hundreds died each day in Athens in December 1941. Turkish aid from late 1941 and the easing of the blockade in 1942, with Canadian wheat shipped by Sweden and distributed by the Red Cross, brought relief.
+  fr: >-
+    Famine pendant l’occupation de la Grèce par l’Axe, au plus fort l’hiver 1941-1942 à Athènes, au Pirée et dans les îles. Réquisitions et pillage par les forces allemandes et italiennes, confiscation du carburant et des transports, partage du pays en zones allemande, italienne et bulgare et blocus naval allié ont coupé l’approvisionnement. Les prix ont flambé et des centaines de personnes mouraient chaque jour à Athènes fin 1941. L’aide turque dès fin 1941 puis l’assouplissement du blocus en 1942, avec du blé canadien acheminé par la Suède et distribué par la Croix-Rouge, ont apporté un répit.
+categories: [famine]
+kind: event
+start: "1941"
+end: "1944"
+deaths:
+  best: 300000
+  note:
+    en: "Deaths from starvation and malnutrition during the Axis occupation. Best: about 300,000, the estimate given by Wikipedia and used by the World Peace Foundation; about 150,000 of them died in 1941 alone. Exact numbers are unknown because civil registration did not function during the occupation. A wartime German claim of about 70,000 deaths is not used."
+    fr: "Morts de faim et de malnutrition pendant l’occupation par l’Axe. Valeur centrale : environ 300 000, estimation donnée par Wikipédia et retenue par la World Peace Foundation ; environ 150 000 sont morts dès 1941. Les chiffres exacts sont inconnus car l’état civil ne fonctionnait pas sous l’occupation. Une affirmation allemande de l’époque, d’environ 70 000 morts, n’est pas retenue."
+countries:
+  - { code: GR, deaths: 300000 }
+partOf: second-world-war
+sources:
+  - title: Great Famine (Greece)
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Great_Famine_(Greece)
+    accessed: "2026-10-22"
+  - title: Famines and the deaths in them
+    publisher: Our World in Data (World Peace Foundation data)
+    url: https://ourworldindata.org/grapher/famines-and-the-deaths-in-them
+    accessed: "2026-10-22"
+reviewed: false

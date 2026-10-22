@@ -1,0 +1,41 @@
+id: great-plague-of-vienna
+title:
+  en: Great Plague of Vienna
+  fr: Grande peste de Vienne
+description:
+  en: >-
+    Epidemic of bubonic plague, the deadliest of the many that struck Vienna, the Habsburg capital of some 70,000 inhabitants. The first cases appeared in the Leopoldstadt suburb around the turn of 1678-1679, but the authorities long denied the danger despite warnings by the physician Paul de Sorbait. The imperial court fled in July 1679, deaths peaked in September and the last victims died in April 1680. The Plague Column on the Graben commemorates its end.
+  fr: >-
+    Épidémie de peste bubonique, la plus meurtrière de celles qui frappèrent Vienne, capitale des Habsbourg d’environ 70 000 habitants. Les premiers cas apparurent dans le faubourg de Leopoldstadt vers la fin de 1678, mais les autorités nièrent longtemps le danger malgré les avertissements du médecin Paul de Sorbait. La cour impériale quitta la ville en juillet 1679, les décès culminèrent en septembre et les dernières victimes moururent en avril 1680. La colonne de la Peste, sur le Graben, en commémore la fin.
+categories: [epidemic]
+kind: event
+start: "1679"
+end: "1680-04"
+deaths:
+  best: 12000
+  low: 7196
+  high: 15000
+  note:
+    en: Deaths in Vienna. Death records document 7,196 plague victims; the Wien Museum estimates the real toll at 12,000 to 15,000, and German Wikipedia at about 12,000, retained as best. Estimates including the surrounding countryside reach 30,000 to 50,000. The 76,000 given by English Wikipedia and Encyclopaedia Britannica (at least 76,000) echoes contemporary reports of 70,000 to 140,000, which historians consider exaggerated (Vienna had about 70,000 inhabitants).
+    fr: Morts à Vienne. Les registres de décès attestent 7 196 victimes de la peste ; le Wien Museum estime le bilan réel entre 12 000 et 15 000, et Wikipédia en allemand à environ 12 000, chiffre retenu. Les estimations incluant les environs atteignent 30 000 à 50 000. Les 76 000 morts avancés par Wikipédia en anglais et par l’Encyclopaedia Britannica (au moins 76 000) reprennent des récits de l’époque (70 000 à 140 000), jugés exagérés par les historiens (Vienne comptait environ 70 000 habitants).
+countries:
+  - { code: AT, deaths: 12000 }
+related: [black-death]
+sources:
+  - title: Great Plague of Vienna
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Great_Plague_of_Vienna
+    accessed: "2026-10-22"
+  - title: Pest in Wien
+    publisher: Wikipedia (German)
+    url: https://de.wikipedia.org/wiki/Pest_in_Wien
+    accessed: "2026-10-22"
+  - title: Die Pest in Wien 1679
+    publisher: Wien Museum Magazin (Walter Öhlinger)
+    url: https://magazin.wienmuseum.at/die-pest-in-wien-1679
+    accessed: "2026-10-22"
+  - title: "Plague: History (archived)"
+    publisher: Encyclopaedia Britannica
+    url: https://web.archive.org/web/20200116154728/https://www.britannica.com/science/plague/History
+    accessed: "2026-10-22"
+reviewed: false

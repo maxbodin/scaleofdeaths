@@ -1,0 +1,42 @@
+id: wars-of-the-three-kingdoms
+title:
+  en: Wars of the Three Kingdoms
+  fr: Guerres des Trois Royaumes (îles Britanniques)
+description:
+  en: >-
+    Interlinked conflicts in England, Scotland and Ireland, then ruled by the same king, Charles I: the Bishops' Wars, the Irish rebellion of 1641 and the Confederate wars, the English Civil Wars between Royalists and Parliamentarians, and Cromwell's conquests of Ireland and Scotland. Charles I was executed in 1649. Ireland suffered most, from massacres, guerrilla warfare, famine and epidemics, while in England and Scotland disease killed more people than battle.
+  fr: >-
+    Conflits imbriqués en Angleterre, en Écosse et en Irlande, alors gouvernées par le même roi, Charles Ier : guerres des évêques, rébellion irlandaise de 1641 et guerres confédérées, guerres civiles anglaises entre royalistes et parlementaires, puis conquêtes de l’Irlande et de l’Écosse par Cromwell. Charles Ier est exécuté en 1649. L’Irlande est la plus touchée, par les massacres, la guérilla, la famine et les épidémies, tandis qu’en Angleterre et en Écosse les maladies tuent davantage que les combats.
+categories: [war]
+kind: event
+start: "1639"
+end: "1653"
+deaths:
+  best: 868000
+  note:
+    en: "Military and civilian deaths from fighting, disease and famine. Best: 868,000, Charles Carlton's total (via Necrometrics): about 190,000 in England and Wales, 60,000 in Scotland and 618,000 in Ireland. The Irish figure comes from William Petty's 17th-century survey (400,000 to 620,000) and is considered too high; the lowest modern estimate for Ireland is about 200,000 (via Wikipedia), used here as Ireland's figure, so the real total may be well below 868,000. Wikipedia, citing Britannica, gives about 85,000 combat and 127,000 non-combat deaths for England and Wales. No lower overall estimate was found, hence no range."
+    fr: "Morts militaires et civiles dues aux combats, aux maladies et à la famine. Estimation centrale : 868 000, total de Charles Carlton (via Necrometrics) : environ 190 000 en Angleterre et au pays de Galles, 60 000 en Écosse et 618 000 en Irlande. Le chiffre irlandais vient de l’enquête de William Petty au XVIIe siècle (400 000 à 620 000) et est jugé trop élevé ; l’estimation moderne la plus basse pour l’Irlande est d’environ 200 000 (via Wikipédia), retenue ici pour l’Irlande, si bien que le total réel pourrait être bien inférieur à 868 000. Wikipédia, citant Britannica, donne environ 85 000 morts au combat et 127 000 morts hors combat pour l’Angleterre et le pays de Galles. Aucune estimation globale plus basse n’a été trouvée, d’où l’absence de fourchette."
+countries:
+  - {
+      name:
+        { en: Kingdom of England (with Wales), fr: Royaume d’Angleterre (avec le pays de Galles) },
+      deaths: 190000,
+    }
+  - { name: { en: Kingdom of Scotland, fr: Royaume d’Écosse }, deaths: 60000 }
+  - { name: { en: Kingdom of Ireland, fr: Royaume d’Irlande }, deaths: 200000 }
+  - { code: GB }
+  - { code: IE }
+sources:
+  - title: Wars of the Three Kingdoms
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Wars_of_the_Three_Kingdoms
+    accessed: "2026-10-22"
+  - title: Irish Confederate Wars
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Irish_Confederate_Wars
+    accessed: "2026-10-22"
+  - title: Selected Death Tolls for Wars, Massacres and Atrocities Before the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/pre1700a.htm
+    accessed: "2026-10-22"
+reviewed: false

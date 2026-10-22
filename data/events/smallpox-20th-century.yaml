@@ -1,0 +1,36 @@
+id: smallpox-20th-century
+title:
+  en: Smallpox in the 20th century
+  fr: Variole au XXe siècle
+description:
+  en: >-
+    Deaths from smallpox, a highly contagious disease caused by the variola virus, from 1900 until the last naturally occurring case, in Somalia in October 1977. It killed about 30% of those infected, and many survivors were left scarred or blind. As late as 1967 it still caused about 15 million cases a year, mostly in South Asia, Africa and South America; the WHO's intensified eradication programme, relying on mass and ring vaccination, then made it the only human disease ever eradicated.
+  fr: >-
+    Morts de la variole, maladie très contagieuse due au virus variolique, de 1900 au dernier cas naturel, en Somalie en octobre 1977. Elle tuait environ 30 % des personnes infectées, et beaucoup de survivants en gardaient des cicatrices ou devenaient aveugles. En 1967, elle causait encore quelque 15 millions de cas par an, surtout en Asie du Sud, en Afrique et en Amérique du Sud ; le programme d’éradication intensifié de l’OMS, fondé sur la vaccination de masse puis en anneau, en a fait la seule maladie humaine jamais éradiquée.
+categories: [epidemic]
+kind: endemic-total
+start: "1900"
+end: "1977-10"
+deaths:
+  best: 300000000
+  low: 250000000
+  high: 500000000
+  note:
+    en: >-
+      Best is the estimate of about 300 million smallpox deaths in the 20th century given by Donald Henderson, who directed the WHO eradication programme (quoted by Our World in Data and Wikipedia). Low and high are the 250 to 500 million range given by Koplow (2003). These are rough estimates: most deaths were never recorded, and reported case counts are known to be far too low. No source gives per-country totals for the period; the countries listed are those the sources name for the largest late outbreaks (India) and the last cases (Bangladesh for variola major in 1975, Somalia for the last natural case in 1977).
+    fr: >-
+      L’estimation centrale est celle d’environ 300 millions de morts de la variole au XXe siècle, avancée par Donald Henderson, qui a dirigé le programme d’éradication de l’OMS (citée par Our World in Data et Wikipédia). Les bornes basse et haute correspondent à la fourchette de 250 à 500 millions de Koplow (2003). Ce sont des ordres de grandeur : la plupart des décès n’ont jamais été enregistrés et les cas déclarés sont très sous-estimés. Aucune source ne donne de total par pays pour la période ; les pays listés sont ceux que citent les sources pour les plus grands foyers tardifs (Inde) et les derniers cas (Bangladesh pour la variole majeure en 1975, Somalie pour le dernier cas naturel en 1977).
+countries:
+  - { code: IN }
+  - { code: BD }
+  - { code: SO }
+sources:
+  - title: Smallpox
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Smallpox
+    accessed: "2026-10-22"
+  - title: Smallpox
+    publisher: Our World in Data
+    url: https://ourworldindata.org/smallpox
+    accessed: "2026-10-22"
+reviewed: false

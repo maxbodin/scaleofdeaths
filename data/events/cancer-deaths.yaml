@@ -1,0 +1,55 @@
+id: cancer-deaths
+title:
+  en: Deaths from cancer per year
+  fr: Décès dus au cancer par an
+description:
+  en: >-
+    People who died from cancer worldwide in one year, as estimated by the International Agency for Research on Cancer (IARC, part of WHO) with the American Cancer Society in GLOBOCAN, which covers 34 cancer types in 186 countries. Lung cancer was the leading cause of cancer death (about 19% of deaths), followed by colorectal, liver, breast and stomach cancers. Nearly a quarter of cancer deaths are due to tobacco, alcohol, high body weight, low fruit and vegetable intake and physical inactivity. Asia accounted for 56.5% of deaths, more than its share of cases.
+  fr: >-
+    Personnes mortes d’un cancer dans le monde en un an, selon les estimations GLOBOCAN du Centre international de recherche sur le cancer (CIRC, rattaché à l’OMS) et de l’American Cancer Society, couvrant 34 types de cancer dans 186 pays. Le cancer du poumon était la première cause de décès par cancer (environ 19 %), devant les cancers colorectal, du foie, du sein et de l’estomac. Près d’un quart des décès sont dus au tabac, à l’alcool, au surpoids, au manque de fruits et légumes et à la sédentarité. L’Asie concentrait 56,5 % des décès, plus que sa part des cas.
+categories: [annual]
+kind: endemic-total
+start: "2024"
+end: "2024"
+deaths:
+  best: 9800000
+  note:
+    en: >-
+      IARC, Global cancer statistics 2024 (GLOBOCAN, published 8 July 2026): 9.8 million cancer deaths in 2024, of which 9.7 million from cancers other than non-melanoma skin cancer; WHO's fact sheet says "nearly 10 million". GLOBOCAN publishes no uncertainty range for the total. Per-country figures are GLOBOCAN 2024 estimates from IARC's Global Cancer Observatory country fact sheets for China (2,582,164), India (901,828), the United States (632,166) and Japan (455,037); the GLOBOCAN paper presents China and India separately, and other countries' sheets were not checked.
+    fr: >-
+      CIRC, Global cancer statistics 2024 (GLOBOCAN, publié le 8 juillet 2026) : 9,8 millions de décès par cancer en 2024, dont 9,7 millions dus à des cancers autres que les cancers de la peau non mélanomes ; la fiche de l’OMS indique « près de 10 millions ». GLOBOCAN ne publie pas de fourchette pour le total. Les chiffres par pays sont les estimations GLOBOCAN 2024 des fiches pays du Global Cancer Observatory du CIRC pour la Chine (2 582 164), l’Inde (901 828), les États-Unis (632 166) et le Japon (455 037) ; l’article GLOBOCAN présente la Chine et l’Inde à part, et les fiches des autres pays n’ont pas été consultées.
+countries:
+  - { code: CN, deaths: 2582164 }
+  - { code: IN, deaths: 901828 }
+  - { code: US, deaths: 632166 }
+  - { code: JP, deaths: 455037 }
+sources:
+  - title: "Global cancer statistics 2024: GLOBOCAN estimates of incidence and mortality worldwide for 34 cancers in 186 countries"
+    publisher: International Agency for Research on Cancer
+    url: https://www.iarc.who.int/news-events/global-cancer-statistics-2024-globocan-estimates-of-incidence-and-mortality-worldwide-for-34-cancers-in-186-countries/
+    accessed: "2026-10-22"
+  - title: "Global cancer statistics 2024 (Sung et al., CA: A Cancer Journal for Clinicians)"
+    publisher: CA - A Cancer Journal for Clinicians (PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13343830/
+    accessed: "2026-10-22"
+  - title: Cancer fact sheet
+    publisher: World Health Organization
+    url: https://www.who.int/news-room/fact-sheets/detail/cancer
+    accessed: "2026-10-22"
+  - title: "GLOBOCAN 2024 fact sheet: China"
+    publisher: International Agency for Research on Cancer (Global Cancer Observatory)
+    url: https://gco.iarc.who.int/media/globocan/factsheets/populations/156-china-fact-sheet.pdf
+    accessed: "2026-10-22"
+  - title: "GLOBOCAN 2024 fact sheet: India"
+    publisher: International Agency for Research on Cancer (Global Cancer Observatory)
+    url: https://gco.iarc.who.int/media/globocan/factsheets/populations/356-india-fact-sheet.pdf
+    accessed: "2026-10-22"
+  - title: "GLOBOCAN 2024 fact sheet: United States of America"
+    publisher: International Agency for Research on Cancer (Global Cancer Observatory)
+    url: https://gco.iarc.who.int/media/globocan/factsheets/populations/840-united-states-of-america-fact-sheet.pdf
+    accessed: "2026-10-22"
+  - title: "GLOBOCAN 2024 fact sheet: Japan"
+    publisher: International Agency for Research on Cancer (Global Cancer Observatory)
+    url: https://gco.iarc.who.int/media/globocan/factsheets/populations/392-japan-fact-sheet.pdf
+    accessed: "2026-10-22"
+reviewed: false

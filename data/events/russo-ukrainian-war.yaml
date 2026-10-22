@@ -1,0 +1,59 @@
+id: russo-ukrainian-war
+title:
+  en: Russo-Ukrainian war (since 2022)
+  fr: Guerre russo-ukrainienne (depuis 2022)
+description:
+  en: >-
+    Full-scale war that began on 24 February 2022 when Russia invaded Ukraine, escalating the conflict that started in 2014 with the annexation of Crimea and the war in Donbas. After Russian forces withdrew from around Kyiv and parts of the north-east and south, fighting settled into a long front line in the east and south, with heavy use of artillery, drones and missile strikes on cities and energy infrastructure, and cross-border attacks inside Russia.
+  fr: >-
+    Guerre de grande ampleur commencée le 24 février 2022 par l’invasion de l’Ukraine par la Russie, qui fait suite au conflit ouvert en 2014 par l’annexion de la Crimée et la guerre du Donbass. Après le retrait des forces russes des environs de Kiev et d’une partie du nord-est et du sud, les combats se fixent sur une longue ligne de front à l’est et au sud, avec un usage massif de l’artillerie, des drones et des frappes de missiles sur les villes et les infrastructures énergétiques, ainsi que des attaques en territoire russe.
+categories: [war]
+kind: event
+start: "2022-02-24"
+ongoing: true
+asOf: "2026-04-18"
+deaths:
+  best: 369028
+  high: 651922
+  note:
+    en: >-
+      Very uncertain: neither government publishes full figures, each side's claims about the other's losses cannot be verified, and no source that could be checked gives a combined total for all sides. Best is the Uppsala Conflict Data Program (UCDP) count of deaths in Ukraine, as cited by Wikipedia on 18 April 2026: a conservative count of reported deaths, which also includes the 2014-2021 phase (14,200 to 14,400 deaths according to the UN). High is the upper end of the BBC News Russian estimate of deaths on the Russian side alone (535,582 to 651,922 by 16 October 2026, including Donetsk and Luhansk forces in 2022 and North Korean troops), extrapolated from the 281,753 Russian soldiers it had identified by name with Mediazona; the full toll, with Ukrainian and civilian deaths, would be higher. Other estimates by side: Russian military deaths of 400,000 to 450,000 by June 2026 (CSIS); Ukrainian military deaths of 125,000 to 150,000 by June 2026 (CSIS), 55,000 according to President Zelensky in February 2026 (Al Jazeera), and 96,821 identified by name by the UALosses project by June 2026, with 97,938 missing (Wikipedia); at least 16,874 civilians killed in Ukraine as verified by the UN, a known undercount (Human Rights Watch, September 2026). Le Monde estimated about 500,000 deaths for the whole war by February 2026 (Wikipedia). The per-country figure for Ukraine is the UCDP count; deaths inside Russia (civilians killed by Ukrainian strikes and soldiers killed in the Kursk region) have no consolidated source figure.
+    fr: >-
+      Très incertain : aucun des deux gouvernements ne publie de chiffres complets, les affirmations de chaque camp sur les pertes adverses sont invérifiables, et aucune source consultable ne donne de total pour l’ensemble des camps. L’estimation centrale est le décompte des morts en Ukraine de l’Uppsala Conflict Data Program (UCDP), cité par Wikipédia au 18 avril 2026 : un décompte prudent des morts signalées, qui inclut aussi la phase 2014-2021 (14 200 à 14 400 morts selon l’ONU). Le haut est le sommet de l’estimation de BBC News en russe pour les seules pertes du camp russe (535 582 à 651 922 morts au 16 octobre 2026, y compris les forces de Donetsk et de Louhansk en 2022 et les troupes nord-coréennes), extrapolée à partir des 281 753 soldats russes identifiés nominativement avec Mediazona ; le bilan complet, avec les morts ukrainiennes et civiles, serait plus élevé. Autres estimations par camp : 400 000 à 450 000 militaires russes morts jusqu’en juin 2026 (CSIS) ; 125 000 à 150 000 militaires ukrainiens morts jusqu’en juin 2026 (CSIS), 55 000 selon le président Zelensky en février 2026 (Al Jazeera), et 96 821 identifiés nominativement par le projet UALosses en juin 2026, avec 97 938 disparus (Wikipédia) ; au moins 16 874 civils tués en Ukraine selon les vérifications de l’ONU, un chiffre reconnu comme sous-estimé (Human Rights Watch, septembre 2026). Le Monde estimait à environ 500 000 le nombre de morts de toute la guerre en février 2026 (Wikipédia). Le chiffre par pays pour l’Ukraine est le décompte de l’UCDP ; les morts en Russie (civils tués par des frappes ukrainiennes, soldats tués dans la région de Koursk) n’ont pas de chiffre consolidé dans les sources.
+countries:
+  - { code: UA, deaths: 369028 }
+  - { code: RU }
+sources:
+  - title: Russo-Ukrainian war (2022-present)
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Russo-Ukrainian_war_(2022%E2%80%93present)
+    accessed: "2026-10-22"
+  - title: List of ongoing armed conflicts
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_ongoing_armed_conflicts
+    accessed: "2026-10-22"
+  - title: Casualties of the Russo-Ukrainian war
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Casualties_of_the_Russo-Ukrainian_war
+    accessed: "2026-10-22"
+  - title: "Russian Blood and Treasure: The Ballooning Costs of Putin's War"
+    publisher: Center for Strategic and International Studies (CSIS)
+    url: https://www.csis.org/analysis/russian-blood-and-treasure-ballooning-costs-putins-war
+    accessed: "2026-10-22"
+  - title: Элитные части в непрерывных боях. Что известно о потерях России в Украине
+    publisher: BBC News Russian
+    url: https://www.bbc.com/russian/articles/c977p1m2xxr1o
+    accessed: "2026-10-22"
+  - title: Russian losses in the war with Ukraine. Mediazona count, updated
+    publisher: Mediazona
+    url: https://en.zona.media/article/2026/10/09/casualties_eng-trl
+    accessed: "2026-10-22"
+  - title: "The Ukraine war in numbers: People, territory, money"
+    publisher: Al Jazeera
+    url: https://www.aljazeera.com/news/2026/2/23/the-ukraine-war-in-numbers-people-territory-money
+    accessed: "2026-10-22"
+  - title: "Russia's War Against Ukraine Continues to Devastate Civilian Lives"
+    publisher: Human Rights Watch
+    url: https://www.hrw.org/news/2026/09/22/russias-war-against-ukraine-continues-to-devastate-civilian-lives
+    accessed: "2026-10-22"
+reviewed: false

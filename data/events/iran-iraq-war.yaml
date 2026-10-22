@@ -1,0 +1,34 @@
+id: iran-iraq-war
+title:
+  en: Iran-Iraq War
+  fr: Guerre Iran-Irak
+description:
+  en: >-
+    War that began with the Iraqi invasion of Iran in September 1980, in the aftermath of the Iranian Revolution. Iraq's advance stalled within months; Iran recaptured its territory by June 1982 and then carried the war into Iraq, leading to years of trench warfare and costly offensives. The war also involved deliberate attacks on civilians, including Iraqi chemical attacks. Both countries accepted a UN-brokered ceasefire under Security Council Resolution 598 in August 1988, with no change to the border.
+  fr: >-
+    Guerre déclenchée par l’invasion de l’Iran par l’Irak en septembre 1980, dans le sillage de la révolution iranienne. L’avance irakienne s’enlise en quelques mois ; l’Iran reprend son territoire en juin 1982 puis porte la guerre en Irak, d’où des années de guerre de tranchées et d’offensives coûteuses. Le conflit comprend aussi des attaques délibérées contre des civils, dont des attaques chimiques irakiennes. Les deux pays acceptent en août 1988 un cessez-le-feu négocié par l’ONU (résolution 598 du Conseil de sécurité), sans modification de la frontière.
+categories: [war]
+kind: event
+start: "1980-09-22"
+end: "1988-08-20"
+deaths:
+  best: 500000
+  low: 450000
+  high: 1000000
+  note:
+    en: Military and civilian deaths, excluding the Anfal campaign against Iraqi Kurds (50,000 to 200,000 civilians). Best is the "around 500,000 deaths" in Wikipedia's lead; low is the 450,000 of Pfetsch and Rohloff (Wikipedia). Many sources give 1 million killed, the high value, but Matthew White (Necrometrics) notes that the same 1 million figure is also reported as killed and wounded combined; his own estimate is 700,000. Scholarly counts compiled by Hiro and Potter give lower totals of about 350,000 to 400,000. Per-country figures are military deaths at the low end of the ranges on Wikipedia (Iran 200,000 to 600,000; Iraq 105,000 to 500,000); civilian deaths are estimated at over 100,000.
+    fr: Morts militaires et civiles, hors campagne d’Anfal contre les Kurdes d’Irak (50 000 à 200 000 civils). L’estimation centrale correspond aux « environ 500 000 morts » du résumé de Wikipédia ; le bas aux 450 000 de Pfetsch et Rohloff (Wikipédia). De nombreuses sources donnent 1 million de tués, valeur retenue pour le haut, mais Matthew White (Necrometrics) signale que ce même chiffre d’un million est aussi donné pour les tués et blessés réunis ; sa propre estimation est de 700 000. Les décomptes d’historiens réunis par Hiro et Potter donnent des totaux plus bas, d’environ 350 000 à 400 000. Les chiffres par pays sont des morts militaires, au bas des fourchettes de Wikipédia (Iran 200 000 à 600 000 ; Irak 105 000 à 500 000) ; les morts civiles sont estimées à plus de 100 000.
+countries:
+  - { code: IR, deaths: 200000 }
+  - { code: IQ, deaths: 105000 }
+related: [anfal-campaign]
+sources:
+  - title: Iran-Iraq War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Iran%E2%80%93Iraq_War
+    accessed: "2026-10-22"
+  - title: "Secondary Wars and Atrocities of the Twentieth Century: Iran-Iraq War (1980-88)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c300k.htm
+    accessed: "2026-10-22"
+reviewed: false

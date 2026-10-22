@@ -1,0 +1,37 @@
+id: ming-dynasty-plague-1633
+title:
+  en: Great Plague in the late Ming dynasty
+  fr: Grande peste de la fin des Ming
+description:
+  en: >-
+    Plague epidemic in northern China during the last years of the Ming dynasty, under the Chongzhen Emperor. It broke out in Shanxi in 1633, amid drought, famine and peasant rebellions, reached the capital Beijing in 1641 and peaked there in 1643. Contemporary accounts suggest both bubonic and pneumonic plague. The epidemic halved the Beijing garrison, which fell to Li Zicheng's rebels in 1644, ending the dynasty.
+  fr: >-
+    Épidémie de peste dans le nord de la Chine pendant les dernières années de la dynastie Ming, sous l’empereur Chongzhen. Apparue au Shanxi en 1633, sur fond de sécheresse, de famine et de révoltes paysannes, elle atteignit la capitale Pékin en 1641 et y culmina en 1643. Les récits de l’époque évoquent des formes bubonique et pulmonaire. Elle réduisit de moitié la garnison de Pékin, prise en 1644 par les rebelles de Li Zicheng, ce qui mit fin à la dynastie.
+categories: [epidemic]
+kind: event
+start: "1633"
+end: "1644"
+deaths:
+  best: 200000
+  low: 200000
+  high: 5000000
+  note:
+    en: Best is the most commonly cited figure, which covers Beijing alone, about 200,000 deaths from the plague's arrival to the city's fall in 1644, a fifth to a quarter of its population (estimate by historian Ch'iu Chung-lin, reported by China News Service and Wikipedia). No count exists for the whole epidemic; historian Cao Shuji (1997) infers that at least 5 million people died of plague in Shanxi, Hebei and Henan during the Chongzhen era, used as the high bound.
+    fr: L’estimation retenue, la plus citée, ne porte que sur Pékin, soit environ 200 000 morts entre l’arrivée de la peste et la chute de la ville en 1644, un cinquième à un quart de sa population (estimation de l’historien Ch’iu Chung-lin, rapportée par l’agence China News Service et par Wikipédia). Aucun décompte n’existe pour l’ensemble de l’épidémie ; l’historien Cao Shuji (1997) en déduit qu’au moins 5 millions de personnes sont mortes de la peste au Shanxi, au Hebei et au Henan sous le règne de Chongzhen, chiffre retenu comme borne haute.
+countries:
+  - { code: CN, deaths: 200000 }
+related: [black-death]
+sources:
+  - title: Great Plague in the late Ming dynasty
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Great_Plague_in_the_late_Ming_dynasty
+    accessed: "2026-10-22"
+  - title: "Experts on the fall of the Ming: plague may have been a major cause (专家谈明朝灭亡：鼠疫或为重要原因)"
+    publisher: China News Service
+    url: https://www.chinanews.com/cul/2013/12-03/5572670.shtml
+    accessed: "2026-10-22"
+  - title: "Plague epidemics and social change in North China, 1580-1644 (鼠疫流行与华北社会的变迁), Cao Shuji, Historical Research, 1997"
+    publisher: Shanghai Jiao Tong University (Department of History)
+    url: https://history.sjtu.edu.cn/SJTU/JDHistory/kindeditor/Upload/file/20200709/202007091001022470000.pdf
+    accessed: "2026-10-22"
+reviewed: false

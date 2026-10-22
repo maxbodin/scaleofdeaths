@@ -1,0 +1,33 @@
+id: kazakh-famine-1930
+title:
+  en: Kazakh famine of 1930-1933
+  fr: Famine kazakhe de 1930-1933
+description:
+  en: >-
+    Man-made famine in the Kazakh Autonomous Soviet Socialist Republic, known as the Asharshylyq, caused by Soviet collectivisation under First Secretary Filipp Goloshchyokin. The seizure of herds, the forced settlement of nomadic Kazakh pastoralists, excessive grain and livestock quotas and the blacklisting of districts destroyed the herding economy. Between 38 and 42 percent of all Kazakhs died, the highest share of any group in the Soviet famines, and 665,000 to 1.1 million fled abroad or to other republics. Whether it was a genocide is debated.
+  fr: >-
+    Famine provoquée par l’homme en République socialiste soviétique autonome kazakhe, appelée Achtcharchylyk, causée par la collectivisation soviétique sous le premier secrétaire Filipp Golochtchekine. La saisie des troupeaux, la sédentarisation forcée des éleveurs nomades kazakhs, des quotas excessifs de grain et de bétail et la mise à l’index de districts ont détruit l’économie pastorale. Entre 38 et 42 % des Kazakhs sont morts, la plus forte proportion de toutes les famines soviétiques, et 665 000 à 1,1 million ont fui. Sa qualification de génocide est débattue.
+categories: [famine]
+kind: event
+start: "1930"
+end: "1933"
+deaths:
+  best: 1500000
+  low: 1300000
+  high: 2300000
+  note:
+    en: "Excess deaths in the Kazakh ASSR (today's Kazakhstan), mostly ethnic Kazakhs. Best: 1.5 million, the estimate of several scholars cited by Wikipedia and the World Peace Foundation figure. Low: 1.3 million, the bottom of the 1.3 to 2.3 million range given by Wikipedia. High: 2.3 million, the highest estimate cited by Wikipedia; other estimates put the toll at about 1.75 million."
+    fr: "Surmortalité en RSSA kazakhe (l’actuel Kazakhstan), surtout parmi les Kazakhs. Valeur centrale : 1,5 million, estimation de plusieurs chercheurs citée par Wikipédia et chiffre de la World Peace Foundation. Bas : 1,3 million, bas de la fourchette de 1,3 à 2,3 millions donnée par Wikipédia. Haut : 2,3 millions, l’estimation la plus élevée citée par Wikipédia ; d’autres estimations avancent environ 1,75 million."
+countries:
+  - { code: KZ, deaths: 1500000 }
+partOf: soviet-famine-1932
+sources:
+  - title: Kazakh famine of 1930-1933
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Kazakh_famine_of_1930%E2%80%931933
+    accessed: "2026-10-22"
+  - title: Famines and the deaths in them
+    publisher: Our World in Data (World Peace Foundation data)
+    url: https://ourworldindata.org/grapher/famines-and-the-deaths-in-them
+    accessed: "2026-10-22"
+reviewed: false

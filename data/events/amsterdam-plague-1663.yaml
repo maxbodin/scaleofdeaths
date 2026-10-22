@@ -1,0 +1,31 @@
+id: amsterdam-plague-1663
+title:
+  en: 1663-1664 Amsterdam plague epidemic
+  fr: Épidémie de peste d’Amsterdam de 1663-1664
+description:
+  en: >-
+    The last severe plague epidemic in Amsterdam, during the city's prosperous 17th century. Plague had returned to the city 37 times since 1450, and every year from 1663 to 1666. This outbreak killed more than a tenth of the population, above all the poor of the crowded slums, where bubonic plague spread through rat fleas and pneumonic plague from person to person. Fearing contagion, the Italian city of Piacenza barred anyone who had been to Amsterdam in November 1663. Rembrandt's companion Hendrickje Stoffels died of it.
+  fr: >-
+    Dernière grande épidémie de peste à Amsterdam, au cours du XVIIe siècle prospère de la ville. La peste y était revenue 37 fois depuis 1450, et chaque année de 1663 à 1666. Cette vague tua plus d’un dixième des habitants, surtout les pauvres des quartiers surpeuplés, où la peste bubonique se propageait par les puces des rats et la peste pulmonaire d’une personne à l’autre. Par crainte de la contagion, la ville italienne de Plaisance interdit son accès en novembre 1663 à quiconque était passé par Amsterdam. Hendrickje Stoffels, compagne de Rembrandt, en mourut.
+categories: [epidemic]
+kind: event
+start: "1663"
+end: "1664"
+deaths:
+  best: 24148
+  note:
+    en: Deaths in Amsterdam. Best is the 24,148 deaths given by Dutch Wikipedia, citing the Amsterdam City Archives; the City Archives' own page says "almost 25,000" deaths, more than ten percent of the population. No other estimate was found.
+    fr: Morts à Amsterdam. L’estimation retenue est celle de 24 148 morts donnée par Wikipédia en néerlandais, d’après les Archives municipales d’Amsterdam ; la page de ces archives indique elle-même « près de 25 000 » morts, plus de dix pour cent de la population. Aucune autre estimation n’a été trouvée.
+countries:
+  - { code: NL, deaths: 24148 }
+related: [black-death, great-plague-of-london]
+sources:
+  - title: Pestepidemie in Amsterdam
+    publisher: Wikipedia (Dutch)
+    url: https://nl.wikipedia.org/wiki/Pestepidemie_in_Amsterdam
+    accessed: "2026-10-22"
+  - title: De pest
+    publisher: Stadsarchief Amsterdam (Amsterdam City Archives)
+    url: https://www.amsterdam.nl/stadsarchief/stukken/rampen/pest/
+    accessed: "2026-10-22"
+reviewed: false

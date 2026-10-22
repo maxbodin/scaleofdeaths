@@ -1,0 +1,44 @@
+id: great-turkish-war
+title:
+  en: Great Turkish War
+  fr: Grande Guerre turque
+description:
+  en: >-
+    War between the Ottoman Empire and the Holy League of the Holy Roman Empire, Poland-Lithuania, Venice and later Russia, which began after the failed Ottoman siege of Vienna in 1683. The allies reconquered most of Hungary, taking Buda in 1686 and winning at Zenta in 1697, while Venice occupied the Morea and Russia took Azov. Armies suffered heavily from disease in the marshy plains of Hungary. The Treaty of Karlowitz in 1699 marked the first major Ottoman territorial retreat in Europe.
+  fr: >-
+    Guerre entre l’Empire ottoman et la Sainte Ligue réunissant le Saint-Empire, la Pologne-Lituanie, Venise puis la Russie, déclenchée après l’échec du siège ottoman de Vienne en 1683. Les alliés reconquièrent l’essentiel de la Hongrie, prenant Buda en 1686 et l’emportant à Zenta en 1697, tandis que Venise occupe la Morée et que la Russie prend Azov. Les armées souffrent lourdement des maladies dans les plaines marécageuses de Hongrie. Le traité de Karlowitz, en 1699, marque le premier grand recul territorial ottoman en Europe.
+categories: [war]
+kind: event
+start: "1683-07-14"
+end: "1699-01-26"
+deaths:
+  best: 384000
+  note:
+    en: "Military deaths only. Best: 384,000 (Jack S. Levy, also used by Clodfelter, via Wikipedia and Necrometrics). Gaston Bodart (1916) estimated that the war cost the imperial armies of the Holy Roman Empire at least 300,000 men killed or wounded, of whom probably 120,000 were killed; Clodfelter also gives 120,000 killed. Ottoman, Polish, Venetian and Russian deaths are not known separately. Civilian deaths from sieges, massacres, famine and disease are not counted. No other overall estimate was found, hence no range."
+    fr: "Morts militaires uniquement. Estimation centrale : 384 000 (Jack S. Levy, repris par Clodfelter, via Wikipédia et Necrometrics). Gaston Bodart (1916) estime que la guerre a coûté aux armées impériales du Saint-Empire au moins 300 000 hommes tués ou blessés, dont probablement 120 000 tués ; Clodfelter donne aussi 120 000 tués. Les morts ottomanes, polonaises, vénitiennes et russes ne sont pas connues séparément. Les morts civiles dues aux sièges, aux massacres, à la famine et aux maladies ne sont pas comptées. Aucune autre estimation globale n’a été trouvée, d’où l’absence de fourchette."
+countries:
+  - {
+      name: { en: Holy Roman Empire (imperial armies), fr: Saint-Empire (armées impériales) },
+      deaths: 120000,
+    }
+  - { code: HU }
+  - { code: AT }
+  - { code: RS }
+  - { code: HR }
+  - { code: RO }
+  - { code: UA }
+  - { code: GR }
+sources:
+  - title: Great Turkish War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Great_Turkish_War
+    accessed: "2026-10-22"
+  - title: "Losses of Life in Modern Wars: Austria-Hungary, France (Gaston Bodart, 1916), pp. 25-26"
+    publisher: Carnegie Endowment for International Peace (via Internet Archive)
+    url: https://archive.org/details/lossesoflifeinmo00bodauoft
+    accessed: "2026-10-22"
+  - title: Selected Death Tolls for Wars, Massacres and Atrocities Before the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/pre1700a.htm
+    accessed: "2026-10-22"
+reviewed: false

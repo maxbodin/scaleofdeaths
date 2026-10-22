@@ -1,0 +1,41 @@
+id: darfur-genocide
+title:
+  en: Darfur genocide
+  fr: Génocide au Darfour
+description:
+  en: >-
+    Systematic killing of Fur, Masalit and Zaghawa civilians in the Darfur region of western Sudan during the War in Darfur, after rebel groups took up arms against the government in 2003. Sudanese government forces and allied Janjaweed militias burned villages, killed and raped civilians and drove more than two million people from their homes. Most deaths came from disease and malnutrition among the displaced. The International Criminal Court charged President Omar al-Bashir with genocide in 2010.
+  fr: >-
+    Massacres systématiques de civils four, masalit et zaghawa au Darfour, dans l’ouest du Soudan, pendant la guerre du Darfour, après que des groupes rebelles eurent pris les armes contre le gouvernement en 2003. Les forces gouvernementales soudanaises et les milices janjawid alliées incendièrent des villages, tuèrent et violèrent des civils et chassèrent plus de deux millions de personnes de chez elles. La plupart des morts furent dues aux maladies et à la malnutrition chez les déplacés. La Cour pénale internationale inculpa le président Omar el-Béchir de génocide en 2010.
+categories: [genocide]
+kind: event
+start: "2003-02"
+end: "2008"
+deaths:
+  best: 300000
+  low: 178258
+  high: 461520
+  note:
+    en: Excess deaths from violence, disease and malnutrition from 2003 to 2008, not only people killed. Best is the UN estimate of about 300,000 announced in April 2008 (BBC), consistent with the Lancet study by Degomme and Guha-Sapir (2010), which estimated 298,271 excess deaths; low and high are its 95% confidence interval. That study found violence was the main cause of death in 2004 but disease caused most deaths from 2005 (about 80% overall, per Wikipedia). About 200,000 deaths are often cited for 2003-2005. Sudan's government put the toll at 10,000 combat deaths.
+    fr: Surmortalité due aux violences, aux maladies et à la malnutrition de 2003 à 2008, pas seulement les personnes tuées. L’estimation centrale est celle de l’ONU, environ 300 000 morts, annoncée en avril 2008 (BBC), cohérente avec l’étude de Degomme et Guha-Sapir parue dans The Lancet (2010), qui estime 298 271 morts en excès ; les valeurs basse et haute sont son intervalle de confiance à 95 %. Selon cette étude, la violence fut la principale cause de décès en 2004, mais les maladies causèrent la plupart des morts à partir de 2005 (environ 80 % au total selon Wikipédia). On cite souvent environ 200 000 morts pour 2003-2005. Le gouvernement soudanais parlait de 10 000 morts au combat.
+countries:
+  - { code: SD, deaths: 300000 }
+related: [sudanese-civil-war-2023, el-fasher-siege]
+sources:
+  - title: Darfur genocide (2003-2005)
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Darfur_genocide_(2003%E2%80%932005)
+    accessed: "2026-10-22"
+  - title: War in Darfur
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/War_in_Darfur
+    accessed: "2026-10-22"
+  - title: Darfur deaths 'could be 300,000'
+    publisher: BBC News
+    url: https://news.bbc.co.uk/2/hi/7361979.stm
+    accessed: "2026-10-22"
+  - title: "Patterns of mortality rates in Darfur conflict (Degomme and Guha-Sapir, The Lancet, 2010), abstract"
+    publisher: Europe PMC
+    url: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:20109956&resultType=core&format=json
+    accessed: "2026-10-22"
+reviewed: false

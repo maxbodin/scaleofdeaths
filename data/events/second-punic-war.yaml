@@ -1,0 +1,36 @@
+id: second-punic-war
+title:
+  en: Second Punic War
+  fr: Deuxième guerre punique
+description:
+  en: >-
+    Second of the three wars between Rome and Carthage, fought in Italy, Iberia, Sicily, Sardinia and North Africa. Hannibal crossed the Alps and inflicted crushing defeats on Roman armies at the Trebia, Lake Trasimene and Cannae, but Rome recovered, conquered Carthaginian Iberia and carried the war to Africa, where Scipio defeated Hannibal at Zama in 202 BC. Most of the dead were soldiers, killed in battle or by disease, while sieges and the devastation of the countryside also struck civilians.
+  fr: >-
+    Deuxième des trois guerres entre Rome et Carthage, livrée en Italie, dans la péninsule Ibérique, en Sicile, en Sardaigne et en Afrique du Nord. Hannibal franchit les Alpes et inflige de lourdes défaites aux armées romaines à la Trébie, au lac Trasimène et à Cannes, mais Rome se redresse, conquiert l’Ibérie carthaginoise et porte la guerre en Afrique, où Scipion bat Hannibal à Zama en 202 av. J.-C. La plupart des morts sont des soldats, tués au combat ou emportés par la maladie ; les sièges et la dévastation des campagnes frappent aussi les civils.
+categories: [war]
+kind: event
+start: "-0218"
+end: "-0201"
+deaths:
+  best: 770000
+  note:
+    en: "Military deaths only, from battle and disease, as estimated by Theodore Ayrault Dodge (1891): about 500,000 Roman and 270,000 Carthaginian soldiers. Dodge started from the 300,000 Roman battle deaths reported by the ancient historian Appian and added losses from disease in Italy and Spain (via Necrometrics and Wikipedia's list of wars by death toll). Civilian deaths are not counted. No other overall estimate was found, hence no range; ancient figures are very uncertain."
+    fr: "Morts militaires uniquement, au combat et de maladie, selon l’estimation de Theodore Ayrault Dodge (1891) : environ 500 000 soldats romains et 270 000 soldats carthaginois. Dodge part des 300 000 Romains tués au combat rapportés par l’historien antique Appien et y ajoute les pertes dues aux maladies en Italie et en Espagne (via Necrometrics et la liste des guerres par nombre de morts de Wikipédia). Les morts civiles ne sont pas comptées. Aucune autre estimation globale n’a été trouvée, d’où l’absence de fourchette ; les chiffres antiques sont très incertains."
+countries:
+  - { code: IT }
+  - { code: ES }
+  - { code: TN }
+sources:
+  - title: Second Punic War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Second_Punic_War
+    accessed: "2026-10-22"
+  - title: List of wars by death toll
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_wars_by_death_toll
+    accessed: "2026-10-22"
+  - title: Body Count of the Roman Empire
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/romestat.htm
+    accessed: "2026-10-22"
+reviewed: false

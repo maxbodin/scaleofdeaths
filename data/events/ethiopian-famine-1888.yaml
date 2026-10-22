@@ -1,0 +1,30 @@
+id: ethiopian-famine-1888
+title:
+  en: Great Ethiopian Famine
+  fr: Grande famine éthiopienne
+description:
+  en: >-
+    Famine in the Ethiopian Empire set off by rinderpest, a cattle plague believed to have been introduced with infected cattle imported to feed Italian forces during the Italo-Ethiopian war of 1887-1889. Spreading from the coast of Eritrea in 1887 across Tigray and Shewa, the disease killed an estimated 90 percent of the country's cattle, as well as buffalo and antelope, destroying the livestock on which farming and herding communities depended. Starvation and disease then spread across the region.
+  fr: >-
+    Famine dans l’Empire éthiopien déclenchée par la peste bovine, une épizootie sans doute introduite avec du bétail infecté importé pour nourrir les troupes italiennes pendant la guerre italo-éthiopienne de 1887-1889. Partie de la côte érythréenne en 1887 et étendue au Tigré et au Choa, la maladie a tué environ 90 % du bétail du pays, ainsi que des buffles et des antilopes, détruisant les troupeaux dont dépendaient agriculteurs et éleveurs. La faim et les maladies se sont ensuite répandues dans toute la région.
+categories: [famine]
+kind: event
+start: "1888"
+end: "1892"
+deaths:
+  best: 1500000
+  note:
+    en: "Deaths from starvation and disease. Best: 1.5 million, the World Peace Foundation estimate, the only absolute figure found. Wikipedia reports that an estimated third of Ethiopia's population died, without giving a number."
+    fr: "Morts de faim et de maladie. Valeur centrale : 1,5 million, estimation de la World Peace Foundation, seul chiffre absolu trouvé. Wikipédia indique qu’environ un tiers de la population éthiopienne serait morte, sans donner de nombre."
+countries:
+  - { code: ET, deaths: 1500000 }
+sources:
+  - title: 1890s African rinderpest epizootic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1890s_African_rinderpest_epizootic
+    accessed: "2026-10-22"
+  - title: Famines and the deaths in them
+    publisher: Our World in Data (World Peace Foundation data)
+    url: https://ourworldindata.org/grapher/famines-and-the-deaths-in-them
+    accessed: "2026-10-22"
+reviewed: false

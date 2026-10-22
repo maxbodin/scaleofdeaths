@@ -1,0 +1,35 @@
+id: great-smog-of-london
+title:
+  en: Great Smog of London
+  fr: Grand smog de Londres
+description:
+  en: >-
+    From 5 to 9 December 1952, very cold and windless weather under an anticyclone trapped the smoke of London's domestic coal fires and factories in a thick layer of smog over the city. Visibility fell to a few metres, transport was paralysed and the smog even entered buildings. Deaths rose sharply, especially among the very young, the elderly and people with heart or lung disease, mostly from respiratory infections, and mortality stayed high for months. The disaster led to the Clean Air Acts of 1956 and 1968.
+  fr: >-
+    Du 5 au 9 décembre 1952, un temps très froid et sans vent, sous un anticyclone, emprisonne au-dessus de Londres la fumée des feux de charbon domestiques et des usines en une épaisse couche de smog. La visibilité tombe à quelques mètres, les transports sont paralysés et le smog pénètre jusque dans les bâtiments. La mortalité bondit, en particulier chez les très jeunes, les personnes âgées et les malades du cœur ou des poumons, le plus souvent par infections respiratoires, et reste élevée pendant des mois. La catastrophe aboutit aux lois sur la qualité de l’air de 1956 et 1968.
+categories: [accident]
+kind: event
+start: "1952-12-05"
+end: "1952-12-09"
+deaths:
+  best: 12000
+  low: 4000
+  note:
+    en: Low is the contemporary government estimate of about 4,000 deaths caused directly by the smog in the weeks that followed (Met Office). Mortality then stayed high until early 1953, which an official report blamed on influenza; a 2001 reassessment in Environmental Health Perspectives rejected that explanation and estimated about 12,000 excess deaths from December 1952 to February 1953, used as best. Wikipedia gives recent estimates of 10,000 to 12,000.
+    fr: La borne basse est l’estimation officielle de l’époque, environ 4 000 morts directement dues au smog dans les semaines suivantes (Met Office). La mortalité est ensuite restée élevée jusqu’au début de 1953, ce qu’un rapport officiel attribuait à la grippe ; une réévaluation publiée en 2001 dans Environmental Health Perspectives a écarté cette explication et estimé à environ 12 000 la surmortalité de décembre 1952 à février 1953, retenue comme estimation centrale. Wikipédia cite des estimations récentes de 10 000 à 12 000 morts.
+countries:
+  - { code: GB, deaths: 12000 }
+sources:
+  - title: Great Smog of London
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Great_Smog_of_London
+    accessed: "2026-10-22"
+  - title: The Great Smog of 1952
+    publisher: Met Office
+    url: https://weather.metoffice.gov.uk/learn-about/weather/case-studies/great-smog
+    accessed: "2026-10-22"
+  - title: "Reassessment of the lethal London fog of 1952: novel indicators of acute and chronic consequences of acute exposure to air pollution"
+    publisher: Environmental Health Perspectives (Bell and Davis, 2001), via PubMed Central
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC1240556/
+    accessed: "2026-10-22"
+reviewed: false

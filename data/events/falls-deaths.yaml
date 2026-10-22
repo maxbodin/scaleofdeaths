@@ -1,0 +1,29 @@
+id: falls-deaths
+title:
+  en: Deaths from falls per year
+  fr: Décès dus aux chutes par an
+description:
+  en: >-
+    People who died from falls worldwide in one year, as estimated by the World Health Organization's Global Health Estimates. A fall is any event in which a person inadvertently comes to rest on the ground, floor or a lower level; falls are the second leading cause of unintentional injury death, after road injuries. About 71% of those who die are aged 60 or over, as weaker balance, illness, medicines and unsafe homes raise the risk; children and people working at height are also exposed. About 62% of the deaths occur in WHO's South-East Asia and Western Pacific regions.
+  fr: >-
+    Personnes mortes à la suite d’une chute dans le monde en un an, selon les estimations sanitaires mondiales de l’Organisation mondiale de la santé. Une chute est tout événement par lequel une personne se retrouve involontairement au sol ou à un niveau inférieur ; c’est la deuxième cause de mortalité par traumatisme involontaire, après les accidents de la route. Environ 71 % des morts ont 60 ans ou plus, l’équilibre, la maladie, les médicaments et les logements dangereux accroissant le risque. Environ 62 % des décès surviennent dans les régions Asie du Sud-Est et Pacifique occidental de l’OMS.
+categories: [annual, accident]
+kind: endemic-total
+start: "2023"
+end: "2023"
+deaths:
+  best: 842000
+  note:
+    en: >-
+      WHO falls fact sheet: the 2023 Global Health Estimates give approximately 842,000 deaths from falls worldwide in 2023 (about 481,000 males and 361,000 females), including about 284,200 in the WHO South-East Asia Region and 239,800 in the Western Pacific Region. No range is given. No per-country figures were found for 2023; China and India, the most populous countries of the two regions with the most deaths, are listed without numbers.
+    fr: >-
+      Fiche de l’OMS sur les chutes : les estimations sanitaires mondiales 2023 donnent environ 842 000 décès dus aux chutes dans le monde en 2023 (environ 481 000 hommes et 361 000 femmes), dont environ 284 200 dans la région OMS de l’Asie du Sud-Est et 239 800 dans celle du Pacifique occidental. Aucune fourchette n’est donnée. Aucun chiffre par pays n’a été trouvé pour 2023 ; la Chine et l’Inde, pays les plus peuplés des deux régions les plus touchées, sont listées sans nombre.
+countries:
+  - { code: CN }
+  - { code: IN }
+sources:
+  - title: Falls fact sheet
+    publisher: World Health Organization
+    url: https://www.who.int/news-room/fact-sheets/detail/falls
+    accessed: "2026-10-22"
+reviewed: false

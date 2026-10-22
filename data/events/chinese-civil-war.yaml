@@ -1,0 +1,33 @@
+id: chinese-civil-war
+title:
+  en: Chinese Civil War
+  fr: Guerre civile chinoise
+description:
+  en: >-
+    War for control of China between the Nationalist Kuomintang government and the Chinese Communist Party. Fighting began in 1927, was largely suspended during the war against Japan, and resumed in full after 1945. The final phase saw large conventional campaigns, political killings and famine; it ended with the proclamation of the People's Republic of China in October 1949 and the retreat of the Nationalist government to Taiwan. The figures shown here cover only this final 1945-1949 phase.
+  fr: >-
+    Guerre pour le contrôle de la Chine entre le gouvernement nationaliste du Kuomintang et le Parti communiste chinois. Commencés en 1927, les combats sont en grande partie suspendus pendant la guerre contre le Japon, puis reprennent pleinement après 1945. La dernière phase est marquée par de grandes campagnes militaires, des assassinats politiques et des famines ; elle s’achève avec la proclamation de la République populaire de Chine en octobre 1949 et le repli du gouvernement nationaliste à Taïwan. Les chiffres ne couvrent que cette phase 1945-1949.
+categories: [war]
+kind: event
+start: "1945"
+end: "1949"
+deaths:
+  best: 2500000
+  low: 1000000
+  high: 6194000
+  note:
+    en: Military and civilian deaths in the second phase of the war (1945-1949) only. The first phase (1927-1937) is not included because its estimates mix battle deaths, political killings and famine in ways the sources do not separate consistently, and the 1937-1945 period is counted in the Second World War. Best is Matthew White's estimate for 1945-1949 (Necrometrics, also given in the Wikipedia infobox). Low is the 1 million deaths from all causes given by Eckhardt and Dan Smith; high is R. J. Rummel's total of 6,194,000, which adds political killings by both sides and famine to war deaths (Necrometrics); Wikipedia also cites "up to 6 million" (Lynch).
+    fr: Morts militaires et civiles de la seconde phase de la guerre (1945-1949) uniquement. La première phase (1927-1937) n’est pas comptée, car ses estimations mêlent morts au combat, assassinats politiques et famines d’une manière que les sources ne distinguent pas de façon cohérente ; la période 1937-1945 relève de la Seconde Guerre mondiale. L’estimation centrale est celle de Matthew White pour 1945-1949 (Necrometrics, reprise par l’infobox de Wikipédia). Le bas correspond au million de morts toutes causes confondues retenu par Eckhardt et Dan Smith ; le haut au total de 6 194 000 de R. J. Rummel, qui ajoute aux morts de guerre les assassinats politiques commis par les deux camps et la famine (Necrometrics) ; Wikipédia cite aussi « jusqu’à 6 millions » (Lynch).
+countries:
+  - { code: CN, deaths: 2500000 }
+related: [second-world-war, korean-war]
+sources:
+  - title: Chinese Civil War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Chinese_Civil_War
+    accessed: "2026-10-22"
+  - title: "Death Tolls for the Major Wars and Atrocities of the Twentieth Century: 2nd Chinese Civil War (1945-49)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c1m.htm
+    accessed: "2026-10-22"
+reviewed: false

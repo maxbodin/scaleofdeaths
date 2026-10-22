@@ -1,0 +1,41 @@
+id: lisbon-earthquake-1755
+title:
+  en: 1755 Lisbon earthquake
+  fr: Tremblement de terre de Lisbonne de 1755
+description:
+  en: >-
+    On the morning of 1 November 1755, All Saints' Day, an earthquake of estimated magnitude 7.7 or more, centred in the Atlantic south-west of Portugal, almost completely destroyed Lisbon. Churches full of worshippers collapsed; about 40 minutes later a tsunami swept the harbour and downtown, and fires started by holiday candles ravaged the city. The tsunami also devastated the Algarve, the Andalusian coast and Morocco. The disaster deeply marked Enlightenment thought and led to the birth of modern seismology.
+  fr: >-
+    Le matin du 1er novembre 1755, jour de la Toussaint, un séisme de magnitude estimée à 7,7 ou plus, centré dans l’Atlantique au sud-ouest du Portugal, a presque entièrement détruit Lisbonne. Des églises pleines de fidèles se sont effondrées ; une quarantaine de minutes plus tard, un tsunami a submergé le port et le centre, et des incendies allumés par les bougies de la fête ont ravagé la ville. Le tsunami a aussi dévasté l’Algarve, la côte andalouse et le Maroc. La catastrophe a profondément marqué la pensée des Lumières et donné naissance à la sismologie moderne.
+categories: [natural-disaster]
+kind: event
+start: "1755-11-01"
+deaths:
+  best: 50000
+  low: 40000
+  high: 100000
+  note:
+    en: Deaths from the earthquake, tsunami and fires in Portugal, Spain and Morocco. No count was made at the time, as bodies were removed from Lisbon uncounted. Low is the bottom of economic historian Álvaro Pereira's 40,000 to 50,000 estimate; best is the NOAA NCEI figure; USGS gives 70,000 and older estimates reach 100,000. Portugal is the low end of the 30,000 to 40,000 estimate for Lisbon alone; the 10,000 for Morocco is uncertain because reports are hard to separate from the Meknes earthquakes of 18 and 19 November. No figure was found for Spain.
+    fr: Morts du séisme, du tsunami et des incendies au Portugal, en Espagne et au Maroc. Aucun décompte n’a été fait à l’époque, les corps ayant été évacués de Lisbonne sans être comptés. Le bas de la fourchette est celui de l’estimation de 40 000 à 50 000 de l’historien de l’économie Álvaro Pereira ; l’estimation centrale est celle de la base NCEI de la NOAA ; l’USGS donne 70 000 et des estimations anciennes vont jusqu’à 100 000. Pour le Portugal, bas de l’estimation de 30 000 à 40 000 pour Lisbonne seule ; les 10 000 morts du Maroc sont incertains, car difficiles à distinguer de ceux des séismes de Meknès des 18 et 19 novembre. Aucun chiffre n’a été trouvé pour l’Espagne.
+countries:
+  - { code: PT, deaths: 30000 }
+  - { code: MA, deaths: 10000 }
+  - { code: ES }
+sources:
+  - title: 1755 Lisbon earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1755_Lisbon_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Lisbon, event 1339"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/1339
+    accessed: "2026-10-22"
+  - title: "Global Historical Tsunami Database: Lisbon, event 456"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events/456
+    accessed: "2026-10-22"
+  - title: Earthquakes with 50,000 or More Deaths (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20130507101448/http://earthquake.usgs.gov/earthquakes/world/most_destructive.php
+    accessed: "2026-10-22"
+reviewed: false

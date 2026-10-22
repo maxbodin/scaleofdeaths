@@ -1,0 +1,46 @@
+id: israel-hezbollah-war
+title:
+  en: Israel-Hezbollah war (2023-2024)
+  fr: Guerre Israël-Hezbollah (2023-2024)
+description:
+  en: >-
+    Conflict between Israel and the Lebanese group Hezbollah that began on 8 October 2023, when Hezbollah fired on Israeli positions in support of Hamas after the October 7 attacks. Near-daily cross-border fire displaced tens of thousands of people on both sides. In September 2024 Israel escalated with exploding pagers and radios, an air campaign across Lebanon and the killing of Hezbollah leader Hassan Nasrallah, then invaded southern Lebanon on 1 October. A ceasefire took effect on 27 November 2024.
+  fr: >-
+    Conflit entre Israël et le Hezbollah libanais commencé le 8 octobre 2023, lorsque le Hezbollah tire sur des positions israéliennes en soutien au Hamas après les attaques du 7 octobre. Des tirs transfrontaliers presque quotidiens déplacent des dizaines de milliers de personnes des deux côtés. En septembre 2024, Israël passe à l’escalade avec l’explosion de bipeurs et de talkies-walkies, une campagne aérienne sur tout le Liban et l’élimination du chef du Hezbollah Hassan Nasrallah, puis envahit le Sud-Liban le 1er octobre. Un cessez-le-feu entre en vigueur le 27 novembre 2024.
+categories: [war]
+kind: event
+start: "2023-10-08"
+end: "2024-11-27"
+deaths:
+  best: 4047
+  note:
+    en: >-
+      Best is the toll announced by Lebanon's health ministry in early December 2024: at least 4,047 people killed in Lebanon by Israeli attacks since 8 October 2023, 3,402 of them after 15 September 2024, without distinguishing civilians from combatants (L'Orient-Le Jour); the minister said the real toll may be higher. Hezbollah sources told Reuters the group's own dead could reach 4,000, while the Israeli military estimated about 3,000 Hezbollah members killed (Times of Israel). Deaths in Israel and the Golan Heights are not included in best because no source gives a combined total: Hezbollah's attacks killed 45 civilians and 76 Israeli soldiers by late November 2024 according to the Times of Israel, and more than 80 soldiers and 47 civilians according to AP. Deaths in Syria from related Israeli strikes are not included.
+    fr: >-
+      L’estimation centrale est le bilan annoncé par le ministère libanais de la Santé début décembre 2024 : au moins 4 047 personnes tuées au Liban par des attaques israéliennes depuis le 8 octobre 2023, dont 3 402 après le 15 septembre 2024, sans distinction entre civils et combattants (L’Orient-Le Jour) ; le ministre précisait que le bilan réel pourrait être plus élevé. Des sources au sein du Hezbollah ont indiqué à Reuters que le mouvement pourrait avoir perdu jusqu’à 4 000 combattants, tandis que l’armée israélienne estimait à environ 3 000 le nombre de membres du Hezbollah tués (Times of Israel). Les morts en Israël et sur le plateau du Golan ne sont pas comptées faute de source donnant un total commun : les attaques du Hezbollah ont tué 45 civils et 76 soldats israéliens jusqu’à fin novembre 2024 selon le Times of Israel, plus de 80 soldats et 47 civils selon AP. Les morts en Syrie dues aux frappes israéliennes liées au conflit ne sont pas comptées.
+countries:
+  - { code: LB, deaths: 4047 }
+  - { code: IL }
+related: [gaza-war, lebanon-war-2026]
+sources:
+  - title: Hezbollah-Israel conflict (2023-present)
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Hezbollah%E2%80%93Israel_conflict_(2023%E2%80%93present)
+    accessed: "2026-10-22"
+  - title: 2024 Lebanon war
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2024_Lebanon_war
+    accessed: "2026-10-22"
+  - title: "Abiad: At least 4,047 killed and 16,593 wounded in Lebanon from Israeli attacks since Oct. 8, 2023"
+    publisher: L'Orient-Le Jour
+    url: https://today.lorientlejour.com/article/1438161/abiad-at-least-4047-killed-and-16593-wounded-in-lebanon-from-israeli-attacks-since-oct-8-2023.html
+    accessed: "2026-10-22"
+  - title: Hezbollah said to estimate up to 4,000 fighters may have been killed in war
+    publisher: The Times of Israel
+    url: https://www.timesofisrael.com/hezbollah-said-to-estimate-up-to-4000-fighters-may-have-been-killed-in-war/
+    accessed: "2026-10-22"
+  - title: The Israel-Hezbollah war by the numbers
+    publisher: The Independent (AP)
+    url: https://www.independent.co.uk/news/lebanon-ap-hezbollah-israel-jerusalem-b2654386.html
+    accessed: "2026-10-22"
+reviewed: false

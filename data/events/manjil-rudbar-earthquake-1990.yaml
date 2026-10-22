@@ -1,0 +1,35 @@
+id: manjil-rudbar-earthquake-1990
+title:
+  en: 1990 Manjil-Rudbar earthquake
+  fr: Séisme de 1990 à Manjil et Roudbar
+description:
+  en: >-
+    Thirty minutes after midnight on 21 June 1990 a magnitude 7.4 earthquake struck the Caspian Sea region of northern Iran, devastating some 20,000 km² around Rasht, Qazvin and Zanjan. Nearly all buildings in the towns of Rudbar and Manjil were destroyed and landslides added to the damage; most victims were asleep in simple mud-brick houses. Strong aftershocks followed within hours, and up to 400,000 people were left homeless.
+  fr: >-
+    Trente minutes après minuit, le 21 juin 1990, un séisme de magnitude 7,4 a frappé la région de la mer Caspienne, dans le nord de l’Iran, dévastant quelque 20 000 km² autour de Racht, Qazvin et Zanjan. Presque tous les bâtiments des villes de Roudbar et de Manjil ont été détruits et des glissements de terrain ont aggravé les dégâts ; la plupart des victimes dormaient dans de simples maisons en terre crue. De fortes répliques ont suivi en quelques heures, et jusqu’à 400 000 personnes se sont retrouvées sans abri.
+categories: [natural-disaster]
+kind: event
+start: "1990-06-21"
+deaths:
+  best: 40000
+  low: 35000
+  high: 50000
+  note:
+    en: Earthquake catalogues give 35,000 to 50,000 deaths. Best is the figure retained by NOAA NCEI; USGS gives an estimated 40,000 to 50,000 (high), and the Wikipedia article 35,000 to 50,000 (low). One study cited by NCEI gives a wider range of 13,000 to 40,000.
+    fr: Les catalogues de séismes donnent de 35 000 à 50 000 morts. L’estimation centrale est le chiffre retenu par la NCEI de la NOAA ; l’USGS donne une estimation de 40 000 à 50 000 (haut de la fourchette), et l’article de Wikipédia de 35 000 à 50 000 (bas de la fourchette). Une étude citée par la NCEI donne une fourchette plus large, de 13 000 à 40 000.
+countries:
+  - { code: IR, deaths: 40000 }
+sources:
+  - title: 1990 Manjil-Rudbar earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1990_Manjil%E2%80%93Rudbar_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Rasht, Qazvin, Zanjan, Rudbar, Manjil, event 5248"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/5248
+    accessed: "2026-10-22"
+  - title: Earthquakes with 1,000 or More Deaths 1900-2014 (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20170118110610/http://earthquake.usgs.gov/earthquakes/world/world_deaths.php
+    accessed: "2026-10-22"
+reviewed: false

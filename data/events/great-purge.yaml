@@ -1,0 +1,33 @@
+id: great-purge
+title:
+  en: Great Purge
+  fr: Grandes Purges
+description:
+  en: >-
+    Campaign of political repression in the Soviet Union under Joseph Stalin, also called the Great Terror, which peaked in 1937 and 1938 under NKVD chief Nikolai Yezhov. Beyond the show trials of Old Bolsheviks and the purge of the Red Army command, secret NKVD mass operations targeted former kulaks, clergy, so-called anti-Soviet elements and national minorities such as Poles and Germans. Extrajudicial troikas sentenced victims to be shot or sent to Gulag camps.
+  fr: >-
+    Campagne de répression politique en Union soviétique sous Joseph Staline, aussi appelée Grande Terreur, qui culmina en 1937 et 1938 sous la direction du chef du NKVD Nikolaï Iejov. Au-delà des procès de Moscou contre les vieux bolcheviks et de la purge du commandement de l’Armée rouge, des opérations secrètes de masse du NKVD visèrent les anciens koulaks, le clergé, les « éléments antisoviétiques » et des minorités nationales comme les Polonais et les Allemands. Des troïkas extrajudiciaires condamnaient les victimes à être fusillées ou envoyées au Goulag.
+categories: [genocide]
+kind: event
+start: "1936"
+end: "1938"
+deaths:
+  best: 800000
+  low: 681692
+  high: 1200000
+  note:
+    en: Mainly executions. Best is historian Nicolas Werth's figure of about 800,000 people executed out of 1,550,000 political convictions in 1937-1938 (Sciences Po Mass Violence and Resistance). Low is the official NKVD count of 681,692 executions; Wikipedia adds 116,000 deaths in the Gulag in the same period and reports scholarly estimates of 700,000 to 1.2 million deaths for the whole purge.
+    fr: Principalement des exécutions. L’estimation centrale est celle de l’historien Nicolas Werth, environ 800 000 personnes exécutées sur 1 550 000 condamnations politiques en 1937-1938 (Sciences Po, Mass Violence and Resistance). La valeur basse est le décompte officiel du NKVD, 681 692 exécutions ; Wikipédia y ajoute 116 000 morts au Goulag sur la même période et rapporte des estimations universitaires de 700 000 à 1,2 million de morts pour l’ensemble de la purge.
+countries:
+  - { code: SU, name: { en: Soviet Union, fr: Union soviétique }, deaths: 800000 }
+related: [gulag]
+sources:
+  - title: Great Purge
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Great_Purge
+    accessed: "2026-10-22"
+  - title: "The NKVD Mass Secret Operation n°00447 (August 1937 - November 1938)"
+    publisher: Sciences Po Mass Violence and Resistance (Nicolas Werth)
+    url: https://www.sciencespo.fr/mass-violence-war-massacre-resistance/en/document/nkvd-mass-secret-operation-n-00447-august-1937-november-1938.html
+    accessed: "2026-10-22"
+reviewed: false

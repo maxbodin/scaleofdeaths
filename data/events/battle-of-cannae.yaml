@@ -1,0 +1,38 @@
+id: battle-of-cannae
+title:
+  en: Battle of Cannae
+  fr: Bataille de Cannes
+description:
+  en: >-
+    Battle in Apulia, southern Italy, in which Hannibal's smaller Carthaginian army encircled and destroyed a much larger Roman army under the consuls Lucius Aemilius Paullus and Gaius Terentius Varro. Hannibal let his centre fall back while his African infantry and his cavalry closed on the Roman flanks and rear, trapping the legions. It was one of the bloodiest single days of fighting in history: Paullus and some 80 senators were among the dead, and many thousands of Romans were captured.
+  fr: >-
+    Bataille livrée en Apulie, dans le sud de l’Italie, au cours de laquelle l’armée carthaginoise d’Hannibal, moins nombreuse, encercle et anéantit une armée romaine bien plus importante commandée par les consuls Lucius Aemilius Paullus et Caius Terentius Varro. Hannibal laisse reculer son centre tandis que son infanterie africaine et sa cavalerie se referment sur les flancs et l’arrière romains, piégeant les légions. C’est l’une des journées de combat les plus meurtrières de l’histoire : Paullus et quelque 80 sénateurs figurent parmi les morts, et des milliers de Romains sont capturés.
+categories: [war]
+kind: event
+start: "-0216-08-02"
+deaths:
+  best: 48200
+  low: 30000
+  high: 70000
+  note:
+    en: "Roman deaths only, as no source found gives a combined total for both sides. Best: 48,200 Romans killed according to Livy. Low: about 30,000, the figure of modern historians who consider the Roman army smaller (Dickinson College Commentaries). High: 70,000 according to Polybius. The World History Encyclopedia gives 44,000. Carthaginian deaths, 5,700 (Polybius) to 8,000 (Livy), are listed separately and not included in these figures, so the full toll is somewhat higher. Prisoners are not counted. Per-side figures use the low ends."
+    fr: "Morts romaines uniquement, aucune source trouvée ne donnant de total pour les deux camps. Estimation centrale : 48 200 Romains tués selon Tite-Live. Bas : environ 30 000, chiffre des historiens modernes qui jugent l’armée romaine moins nombreuse (Dickinson College Commentaries). Haut : 70 000 selon Polybe. La World History Encyclopedia donne 44 000. Les morts carthaginoises, de 5 700 (Polybe) à 8 000 (Tite-Live), sont indiquées à part et ne sont pas incluses dans ces chiffres, si bien que le bilan complet est un peu plus élevé. Les prisonniers ne sont pas comptés. Les chiffres par camp reprennent le bas des fourchettes."
+countries:
+  - { name: { en: Roman Republic, fr: République romaine }, deaths: 30000 }
+  - { name: { en: Carthage, fr: Carthage }, deaths: 5700 }
+  - { code: IT }
+partOf: second-punic-war
+sources:
+  - title: Battle of Cannae
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Battle_of_Cannae
+    accessed: "2026-10-22"
+  - title: "Nepos, Life of Hannibal: Chapter 4, The Battle of Cannae and Its Legacy"
+    publisher: Dickinson College Commentaries
+    url: https://dcc.dickinson.edu/nepos-hannibal-essays/4
+    accessed: "2026-10-22"
+  - title: Battle of Cannae
+    publisher: World History Encyclopedia
+    url: https://www.worldhistory.org/Battle_of_Cannae/
+    accessed: "2026-10-22"
+reviewed: false

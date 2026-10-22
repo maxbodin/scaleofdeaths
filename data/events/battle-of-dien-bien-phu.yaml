@@ -1,0 +1,35 @@
+id: battle-of-dien-bien-phu
+title:
+  en: Battle of Dien Bien Phu
+  fr: Bataille de Diên Biên Phu
+description:
+  en: >-
+    Siege of the entrenched camp built by the French army at Dien Bien Phu, a valley in northwestern Vietnam near the Laotian border, by the Viet Minh army of General Vo Nguyen Giap. The French, supplied by air, hoped to draw the Viet Minh into a set-piece battle, but Viet Minh artillery hauled onto the surrounding hills overran the outlying strongpoints and closed the airstrip. The garrison fell on 7 May 1954; the defeat led to the Geneva Accords, the end of French Indochina and the partition of Vietnam.
+  fr: >-
+    Siège du camp retranché établi par l’armée française à Diên Biên Phu, une cuvette du nord-ouest du Vietnam proche de la frontière laotienne, par l’armée du Viet Minh du général Vo Nguyen Giap. Les Français, ravitaillés par air, espéraient attirer le Viet Minh dans une bataille rangée, mais l’artillerie hissée sur les collines environnantes submerge les points d’appui extérieurs et ferme la piste d’aviation. La garnison tombe le 7 mai 1954 ; la défaite mène aux accords de Genève, à la fin de l’Indochine française et à la partition du Vietnam.
+categories: [war]
+kind: event
+start: "1954-03-13"
+end: "1954-05-07"
+deaths:
+  best: 10000
+  note:
+    en: "Soldiers killed during the siege. Best: 10,000, the figure retained by Necrometrics from CNN (at least 2,200 members of the French forces died and about 8,000 Viet Minh were killed, out of some 23,000 Viet Minh casualties) and from Stanley Karnow (2,000 French and 8,000 Viet Minh). Wikipedia gives 1,142 to 2,293 French Union soldiers killed in action, 429 dead of wounds and 1,606 missing, and 8,000 Viet Minh dead according to Western historians; Vietnamese figures give only 13,930 casualties, killed and wounded together. Not included: deaths in captivity after the surrender, when only 3,290 of 10,863 prisoners were repatriated four months later (via Wikipedia)."
+    fr: "Soldats tués pendant le siège. Estimation centrale : 10 000, chiffre retenu par Necrometrics d’après CNN (au moins 2 200 membres des forces françaises sont morts et environ 8 000 combattants du Viet Minh ont été tués, sur quelque 23 000 pertes du Viet Minh) et Stanley Karnow (2 000 Français et 8 000 combattants du Viet Minh). Wikipédia donne 1 142 à 2 293 soldats de l’Union française tués au combat, 429 morts de leurs blessures et 1 606 disparus, et 8 000 morts du Viet Minh selon les historiens occidentaux ; les chiffres vietnamiens ne donnent que 13 930 pertes, tués et blessés confondus. Non compris : les morts en captivité après la reddition, puisque seuls 3 290 des 10 863 prisonniers ont été rapatriés quatre mois plus tard (via Wikipédia)."
+countries:
+  - { code: VN, deaths: 10000 }
+partOf: first-indochina-war
+sources:
+  - title: Battle of Dien Bien Phu
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Battle_of_Dien_Bien_Phu
+    accessed: "2026-10-22"
+  - title: "Dien Bien Phu: 1954 battle changed Vietnam's history"
+    publisher: CNN (Internet Archive copy)
+    url: https://web.archive.org/web/20081219033545/http://www.cnn.com/SPECIALS/cold.war/episodes/11/spotlight/
+    accessed: "2026-10-22"
+  - title: Death Tolls for the Man-made Megadeaths of the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/battles.htm
+    accessed: "2026-10-22"
+reviewed: false

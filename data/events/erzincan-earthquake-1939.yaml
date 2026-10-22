@@ -1,0 +1,34 @@
+id: erzincan-earthquake-1939
+title:
+  en: 1939 Erzincan earthquake
+  fr: Séisme de 1939 à Erzincan
+description:
+  en: >-
+    At 01:57 on 27 December 1939 a magnitude 7.8 earthquake struck Erzincan Province in eastern Turkey, rupturing about 360 km of the North Anatolian Fault with up to 3.7 metres of horizontal displacement. It devastated the city of Erzincan and seriously damaged some 116,720 buildings. It struck in winter: the temperature fell to minus 30 °C the next day, and blizzards and floods hampered relief and killed many survivors. The disaster led Turkey to adopt its first seismic building regulations.
+  fr: >-
+    Le 27 décembre 1939 à 1 h 57, un séisme de magnitude 7,8 a frappé la province d’Erzincan, dans l’est de la Turquie, rompant environ 360 km de la faille nord-anatolienne avec un déplacement horizontal allant jusqu’à 3,7 mètres. Il a dévasté la ville d’Erzincan et gravement endommagé quelque 116 720 bâtiments. Il a frappé en plein hiver : la température est tombée à moins 30 °C le lendemain, et blizzards et inondations ont entravé les secours et tué de nombreux survivants. La catastrophe a conduit la Turquie à adopter ses premières normes parasismiques.
+categories: [natural-disaster]
+kind: event
+start: "1939-12-27"
+deaths:
+  best: 32700
+  high: 32968
+  note:
+    en: Includes people who died afterwards of cold, blizzards and floods; early counts of 8,000 and then 20,000 rose to almost 33,000 by 5 January 1940. Best is the figure used by USGS and NOAA NCEI; Wikipedia gives 32,700 to 32,968 (high). Older catalogues cited by NCEI give 23,000 or 30,000.
+    fr: Inclut les personnes mortes ensuite du froid, des blizzards et des inondations ; les premiers bilans de 8 000 puis 20 000 morts sont passés à près de 33 000 au 5 janvier 1940. L’estimation centrale est le chiffre retenu par l’USGS et la NCEI de la NOAA ; Wikipédia donne de 32 700 à 32 968 (haut de la fourchette). D’anciens catalogues cités par la NCEI donnent 23 000 ou 30 000.
+countries:
+  - { code: TR, deaths: 32700 }
+sources:
+  - title: 1939 Erzincan earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1939_Erzincan_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Erzincan, event 6510"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/6510
+    accessed: "2026-10-22"
+  - title: Earthquakes with 1,000 or More Deaths 1900-2014 (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20170118110610/http://earthquake.usgs.gov/earthquakes/world/world_deaths.php
+    accessed: "2026-10-22"
+reviewed: false

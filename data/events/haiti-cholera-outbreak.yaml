@@ -1,0 +1,36 @@
+id: haiti-cholera-outbreak
+title:
+  en: 2010s Haiti cholera outbreak
+  fr: Épidémie de choléra en Haïti (2010-2019)
+description:
+  en: >-
+    Cholera outbreak that began in October 2010 along the Artibonite River, nine months after the earthquake that devastated Haiti, in a country where no cholera case had been identified for more than a century. Investigations by a journalist and an epidemiologist traced it to a base of United Nations peacekeepers from Nepal, whose latrine waste flowed into the river. The disease spread across the whole country and to the Dominican Republic, becoming endemic in a population with poor access to clean water and sanitation. The last confirmed case of this outbreak was recorded in January 2019.
+  fr: >-
+    Épidémie de choléra apparue en octobre 2010 le long du fleuve Artibonite, neuf mois après le séisme qui avait dévasté Haïti, dans un pays où aucun cas de choléra n’avait été identifié depuis plus d’un siècle. Les enquêtes d’un journaliste et d’un épidémiologiste l’ont attribuée à une base de Casques bleus népalais de l’ONU, dont les eaux des latrines se déversaient dans le fleuve. La maladie s’est étendue à tout le pays et à la République dominicaine, devenant endémique faute d’accès à l’eau potable et à l’assainissement. Le dernier cas confirmé de cette épidémie date de janvier 2019.
+categories: [epidemic]
+kind: event
+start: "2010-10"
+end: "2019-02"
+deaths:
+  best: 10300
+  note:
+    en: >-
+      Reported deaths. Best is the total for all countries given by Wikipedia from health ministry and PAHO reports. Haiti: 9,792 deaths among 820,000 cases reported between October 2010 and February 2019 (WHO); Dominican Republic: 503 deaths as of 28 December 2017; Cuba: 3 and Mexico: 1 as of 18 October 2013. Counts are based on reported deaths and are likely incomplete, especially in the first months of the outbreak.
+    fr: >-
+      Décès déclarés. L’estimation retenue est le total pour l’ensemble des pays donné par Wikipédia d’après les rapports des ministères de la Santé et de l’OPS. Haïti : 9 792 morts sur 820 000 cas déclarés entre octobre 2010 et février 2019 (OMS) ; République dominicaine : 503 morts au 28 décembre 2017 ; Cuba : 3 et Mexique : 1 au 18 octobre 2013. Ces chiffres reposent sur les décès déclarés et sont sans doute incomplets, surtout pour les premiers mois de l’épidémie.
+countries:
+  - { code: HT, deaths: 9792 }
+  - { code: DO, deaths: 503 }
+  - { code: CU, deaths: 3 }
+  - { code: MX, deaths: 1 }
+related: [sixth-cholera-pandemic, haiti-earthquake-2010]
+sources:
+  - title: 2010s Haiti cholera outbreak
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2010s_Haiti_cholera_outbreak
+    accessed: "2026-10-22"
+  - title: Cholera - Haiti (Disease Outbreak News)
+    publisher: World Health Organization
+    url: https://www.who.int/emergencies/disease-outbreak-news/item/2022-DON415
+    accessed: "2026-10-22"
+reviewed: false

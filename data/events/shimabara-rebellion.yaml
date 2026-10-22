@@ -1,0 +1,39 @@
+id: shimabara-rebellion
+title:
+  en: Shimabara Rebellion
+  fr: Rébellion de Shimabara
+description:
+  en: >-
+    Uprising of peasants, many of them Christians, in the Shimabara peninsula and the Amakusa islands of Kyushu, provoked by crushing taxation, famine and the persecution of Christianity. Led by the teenage Amakusa Shirō, the rebels held out for about three months in the abandoned Hara Castle against a shogunate army of over 100,000 men, supported by Dutch ships. When the castle fell in April 1638, almost all of the defenders, including women and children, were killed. Japan then tightened its ban on Christianity.
+  fr: >-
+    Soulèvement de paysans, en grande partie chrétiens, dans la péninsule de Shimabara et les îles d’Amakusa, à Kyushu, provoqué par une fiscalité écrasante, la famine et la persécution du christianisme. Menés par le jeune Amakusa Shirō, les insurgés tiennent environ trois mois dans le château abandonné de Hara face à une armée du shogunat de plus de 100 000 hommes, appuyée par des navires hollandais. À la chute du château, en avril 1638, presque tous les défenseurs, femmes et enfants compris, sont tués. Le Japon renforce ensuite l’interdiction du christianisme.
+categories: [war]
+kind: event
+start: "1637-12-17"
+end: "1638-04-15"
+deaths:
+  best: 37000
+  low: 30000
+  note:
+    en: "Rebels and their families killed when Hara Castle fell or executed afterwards. Best: about 37,000, the number of people who held out in the castle according to the city of Minamishimabara, which says most of them died, and Wikipedia's estimate of the rebels and sympathisers beheaded; older sources say all but about 105 were killed (via Necrometrics). Low: 30,000, the low end of Wikipedia's 30,000 to 37,000 range for rebel losses. Shogunate losses are not included: they are poorly known, and the figures found (10,000 lost in battle according to Flexner, via Necrometrics) may include the wounded."
+    fr: "Insurgés et leurs familles tués à la chute du château de Hara ou exécutés ensuite. Estimation centrale : environ 37 000, le nombre de personnes retranchées dans le château selon la ville de Minamishimabara, qui indique que la plupart sont mortes, et l’estimation par Wikipédia des insurgés et sympathisants décapités ; des sources anciennes indiquent que tous sauf environ 105 ont été tués (via Necrometrics). Bas : 30 000, bas de la fourchette de 30 000 à 37 000 de Wikipédia pour les pertes rebelles. Les pertes du shogunat ne sont pas comptées : elles sont mal connues, et les chiffres trouvés (10 000 hommes perdus au combat selon Flexner, via Necrometrics) incluent peut-être les blessés."
+countries:
+  - { code: JP, deaths: 37000 }
+sources:
+  - title: Shimabara Rebellion
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Shimabara_Rebellion
+    accessed: "2026-10-22"
+  - title: 島原・天草一揆（島原天草の乱） (Shimabara-Amakusa uprising)
+    publisher: Minamishimabara City (official website)
+    url: https://www.city.minamishimabara.lg.jp/sekaiisan/kiji0034735/index.html
+    accessed: "2026-10-22"
+  - title: Shimabara Rebellion
+    publisher: World History Encyclopedia
+    url: https://www.worldhistory.org/Shimabara_Rebellion/
+    accessed: "2026-10-22"
+  - title: Selected Death Tolls for Wars, Massacres and Atrocities Before the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/pre1700a.htm
+    accessed: "2026-10-22"
+reviewed: false

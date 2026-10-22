@@ -1,0 +1,46 @@
+id: ottoman-plague-1812
+title:
+  en: 1812-1819 Ottoman plague epidemic
+  fr: Épidémie de peste ottomane de 1812-1819
+description:
+  en: >-
+    One of the last major plague epidemics of the Ottoman Empire. It broke out in Constantinople in July 1812 and, at its peak in September, killed about 2,000 people a day; a third of the population of both Istanbul and Izmir died. It then spread across much of the empire, including Egypt, Wallachia (where it is known as Caragea's plague), Bosnia, Albania and Dalmatia, and beyond its borders to Georgia, Odessa, the Crimea, Malta and Corfu, lasting until 1819.
+  fr: >-
+    L’une des dernières grandes épidémies de peste de l’Empire ottoman. Apparue à Constantinople en juillet 1812, elle y tuait environ 2 000 personnes par jour à son pic de septembre ; un tiers des habitants d’Istanbul et d’Izmir en moururent. Elle gagna ensuite une grande partie de l’empire, dont l’Égypte, la Valachie (où on l’appelle la peste de Caragea), la Bosnie, l’Albanie et la Dalmatie, et au-delà la Géorgie, Odessa, la Crimée, Malte et Corfou, jusqu’en 1819.
+categories: [epidemic]
+kind: event
+start: "1812-07"
+end: "1819"
+deaths:
+  best: 300000
+  high: 500000
+  note:
+    en: Best is the "at least 300,000" given by Wikipedia (citing Chase-Levenson, 2020), in line with the Ottoman government's contemporary estimate of 320,955 deaths. Wigen, Topal and Trombino (Journal of the History of Medicine and Allied Sciences, 2026) estimate some 500,000 deaths across the Balkans and the eastern and southern Mediterranean, including Malta, Algiers and Bucharest, used as the high bound. Per-country figures are partial. About 60,000 died in Wallachia, now in Romania (Wikipedia, Caragea's plague), about 4,500 on the island of Malta in 1813 (Gozo, about 100 more, is not included) and 2,656 in Odessa in 1812 (Wikipedia); the Crimea is not counted.
+    fr: L’estimation retenue est celle d’« au moins 300 000 » morts donnée par Wikipédia (d’après Chase-Levenson, 2020), conforme à l’estimation contemporaine du gouvernement ottoman, 320 955 morts. Wigen, Topal et Trombino (Journal of the History of Medicine and Allied Sciences, 2026) estiment à quelque 500 000 les morts dans les Balkans et sur les rives est et sud de la Méditerranée, Malte, Alger et Bucarest compris, chiffre retenu comme borne haute. Les chiffres par pays sont partiels. Environ 60 000 morts en Valachie, aujourd’hui en Roumanie (Wikipédia, peste de Caragea), environ 4 500 sur l’île de Malte en 1813 (Gozo, environ 100 de plus, n’est pas compté) et 2 656 à Odessa en 1812 (Wikipédia) ; la Crimée n’est pas comptée.
+countries:
+  - { code: TR }
+  - { code: EG }
+  - { code: RO, deaths: 60000 }
+  - { code: MT, deaths: 4500 }
+  - { code: UA, deaths: 2656 }
+  - { code: BA }
+  - { code: HR }
+  - { code: AL }
+  - { code: GR }
+  - { code: GE }
+  - { code: DZ }
+related: [black-death]
+sources:
+  - title: 1812-1819 Ottoman plague epidemic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1812%E2%80%931819_Ottoman_plague_epidemic
+    accessed: "2026-10-22"
+  - title: Caragea's plague
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Caragea%27s_plague
+    accessed: "2026-10-22"
+  - title: "The Last Great Plague of Istanbul, 1812: An Overture to Biopolitics in the Ottoman Empire (Wigen, Topal and Trombino, 2026), abstract"
+    publisher: Europe PMC
+    url: https://www.ebi.ac.uk/europepmc/webservices/rest/search?query=EXT_ID:42770908%20AND%20SRC:MED&resultType=core&format=json
+    accessed: "2026-10-22"
+reviewed: false

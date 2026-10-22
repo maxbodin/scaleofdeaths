@@ -1,0 +1,37 @@
+id: algerian-civil-war
+title:
+  en: Algerian Civil War
+  fr: Guerre civile algérienne
+description:
+  en: >-
+    Armed conflict between the Algerian government and Islamist armed groups, known in Algeria as the "Black Decade". It began after the army cancelled the 1991-1992 legislative elections, which the Islamic Salvation Front (FIS) was set to win. Groups such as the Islamic Salvation Army and the Armed Islamic Group (GIA) fought the security forces, and civilians were killed in bombings, assassinations of journalists, intellectuals and foreigners, and village massacres, while thousands of people disappeared in detention. Amnesty laws from 1999 and the defeat of the GIA ended the war around 2002.
+  fr: >-
+    Conflit armé entre le gouvernement algérien et des groupes armés islamistes, appelé en Algérie la « décennie noire ». Il commence après l’annulation par l’armée des élections législatives de 1991-1992, que le Front islamique du salut (FIS) s’apprêtait à remporter. L’Armée islamique du salut et le Groupe islamique armé (GIA) affrontent l’armée ; des civils périssent dans des attentats, des assassinats ciblés et des massacres de villages, tandis que des milliers de personnes disparaissent en détention. Les lois d’amnistie à partir de 1999 et la défaite du GIA y mettent fin vers 2002.
+categories: [war]
+kind: event
+start: "1992-01-11"
+end: "2002-02-08"
+deaths:
+  best: 150000
+  low: 44000
+  high: 200000
+  note:
+    en: Military and civilian deaths, including people who disappeared and are presumed dead. Best is the round figure of 150,000 killed given by President Abdelaziz Bouteflika in 2005, used in Wikipedia's infobox. High is the 200,000 often reported by news agencies (France 24 with AFP) and suggested by Fouad Ajami, who argued that the government had an interest in minimising the toll. Low is the 44,000 of a 2008 study cited by Wikipedia (about 26,000 killed and 18,000 disappeared). The PRIO Battle Deaths documentation reports that Uppsala coders used the "commonly held" figure of over 100,000 battle-related deaths and that Project Ploughshares estimated 130,000 deaths by 2002.
+    fr: Morts militaires et civiles, y compris les personnes disparues présumées mortes. L’estimation centrale correspond au chiffre rond de 150 000 tués avancé par le président Abdelaziz Bouteflika en 2005 et repris par l’infobox de Wikipédia. Le haut correspond aux 200 000 morts souvent cités par les agences de presse (France 24 avec l’AFP) et évoqués par Fouad Ajami, selon qui le gouvernement avait intérêt à minimiser le bilan. Le bas correspond aux 44 000 morts d’une étude de 2008 citée par Wikipédia (environ 26 000 tués et 18 000 disparus). La documentation du PRIO sur les morts au combat indique que les codeurs d’Uppsala retenaient le chiffre « communément admis » de plus de 100 000 morts au combat et que Project Ploughshares estimait 130 000 morts en 2002.
+countries:
+  - { code: DZ, deaths: 150000 }
+related: [algerian-war]
+sources:
+  - title: Algerian Civil War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Algerian_Civil_War
+    accessed: "2026-10-22"
+  - title: Murdered French monks beatified in Algeria
+    publisher: France 24
+    url: https://www.france24.com/en/20181208-algeria-murdered-french-monks-tibhirine-beatified
+    accessed: "2026-10-22"
+  - title: "The PRIO Battle Deaths Dataset, 1946-2008, Version 3.0: Documentation of Coding Decisions (Lacina), Algeria"
+    publisher: Peace Research Institute Oslo (PRIO)
+    url: https://cdn.cloud.prio.org/files/91648bba-8885-40ce-8a78-fae75c850c55/PRIO%20Battle%20Deaths%20Dataset%2030%20Documentation.pdf
+    accessed: "2026-10-22"
+reviewed: false

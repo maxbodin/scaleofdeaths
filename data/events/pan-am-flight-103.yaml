@@ -1,0 +1,29 @@
+id: pan-am-flight-103
+title:
+  en: Lockerbie bombing (Pan Am Flight 103)
+  fr: Attentat de Lockerbie (vol Pan Am 103)
+description:
+  en: >-
+    Bombing of Pan Am Flight 103, a Boeing 747 flying from London Heathrow to New York, which exploded over Lockerbie, Scotland, less than 40 minutes after take-off. A bomb hidden in a radio inside a suitcase destroyed the aircraft, and wreckage falling on the town killed residents on the ground. Libyan intelligence officer Abdelbaset al-Megrahi was convicted in 2001, and in 2003 Libya paid compensation to the victims' families, though Muammar Gaddafi denied ordering the attack. It is the deadliest terrorist attack in the United Kingdom's history.
+  fr: >-
+    Attentat contre le vol Pan Am 103, un Boeing 747 reliant Londres-Heathrow à New York, qui explosa au-dessus de Lockerbie, en Écosse, moins de 40 minutes après le décollage. Une bombe cachée dans une radio, à l’intérieur d’une valise, détruisit l’avion, et les débris tombés sur la ville tuèrent des habitants au sol. L’agent libyen Abdelbaset al-Megrahi fut condamné en 2001 et, en 2003, la Libye indemnisa les familles des victimes, Mouammar Kadhafi niant avoir ordonné l’attentat. C’est l’attentat le plus meurtrier de l’histoire du Royaume-Uni.
+categories: [genocide]
+kind: event
+start: "1988-12-21"
+deaths:
+  best: 270
+  note:
+    en: All 259 people on board (243 passengers and 16 crew) and 11 residents of Lockerbie killed on the ground (Wikipedia, FBI). Of the 270 dead, 190 were American and 43 British citizens. No perpetrator died in the attack.
+    fr: Les 259 personnes à bord (243 passagers et 16 membres d’équipage) et 11 habitants de Lockerbie tués au sol (Wikipédia, FBI). Parmi les 270 morts, 190 étaient américains et 43 britanniques. Aucun auteur n’est mort dans l’attentat.
+countries:
+  - { code: GB, deaths: 270 }
+sources:
+  - title: Pan Am Flight 103
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Pan_Am_Flight_103
+    accessed: "2026-10-22"
+  - title: Pan Am 103 Bombing
+    publisher: Federal Bureau of Investigation
+    url: https://www.fbi.gov/history/cases-and-criminals/pan-am-103-bombing
+    accessed: "2026-10-22"
+reviewed: false

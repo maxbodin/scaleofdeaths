@@ -1,0 +1,37 @@
+id: laki-eruption-1783
+title:
+  en: 1783 Laki eruption
+  fr: Éruption du Laki de 1783
+description:
+  en: >-
+    From June 1783 to February 1784 the Laki fissure in southern Iceland poured out about 14 cubic kilometres of basalt lava and released vast amounts of sulphur dioxide and fluorine. Fluorine poisoning killed much of the island's livestock and acid rain ruined crops, causing the Haze Famine (Móðuharðindin) of 1784 and 1785, in which hunger and disease killed about a fifth of Iceland's population. The sulphurous haze also drifted over Europe in the summer of 1783.
+  fr: >-
+    De juin 1783 à février 1784, la fissure du Laki, dans le sud de l’Islande, a émis environ 14 km³ de lave basaltique et d’énormes quantités de dioxyde de soufre et de fluor. L’intoxication au fluor a décimé le bétail de l’île et les pluies acides ont ruiné les récoltes, provoquant la « famine de la brume » (Móðuharðindin) de 1784 et 1785, au cours de laquelle la faim et les maladies ont tué environ un cinquième de la population islandaise. La brume sulfureuse s’est aussi répandue sur l’Europe à l’été 1783.
+categories: [natural-disaster]
+kind: event
+start: "1783-06-08"
+end: "1785"
+deaths:
+  best: 8000
+  high: 10000
+  note:
+    en: >-
+      Excess deaths in Iceland in 1784 and 1785, mostly from famine and disease after the loss of livestock: about 11,000 people died in those two years against a normal 1,500 a year, an excess of around 8,000 (2024 study in Natural Hazards and Earth System Sciences; Wikipedia). High is the "over 10,000" (about 22% of the population) given by Wired. Deaths blamed on the Laki haze elsewhere in Europe are excluded because they are contested: Witham and Oppenheimer estimated 11,500 excess deaths in England in August and September 1783 and 8,200 in early 1784, and Wikipedia cites 23,000 British deaths, but a later study of a larger set of parish records found no unusually high mortality in England in 1783 and 1784.
+    fr: >-
+      Surmortalité en Islande en 1784 et 1785, due surtout à la famine et aux maladies après la perte du bétail : environ 11 000 personnes sont mortes en deux ans contre 1 500 par an en temps normal, soit un excédent d’environ 8 000 (étude de 2024 parue dans Natural Hazards and Earth System Sciences ; Wikipédia). L’estimation haute est le chiffre de « plus de 10 000 » (environ 22 % de la population) avancé par Wired. Les décès attribués à la brume du Laki ailleurs en Europe sont exclus car contestés : Witham et Oppenheimer estiment la surmortalité en Angleterre à 11 500 en août et septembre 1783 et à 8 200 début 1784, et Wikipédia cite 23 000 morts britanniques, mais une étude ultérieure portant sur davantage de registres paroissiaux ne trouve pas de mortalité anormale en Angleterre en 1783 et 1784.
+countries:
+  - { code: IS, deaths: 8000 }
+sources:
+  - title: Laki
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Laki
+    accessed: "2026-10-22"
+  - title: '"More poison than words can describe": what did people die of after the 1783 Laki eruption in Iceland?'
+    publisher: Natural Hazards and Earth System Sciences
+    url: https://nhess.copernicus.org/articles/24/2971/2024/
+    accessed: "2026-10-22"
+  - title: Local and Global Impacts of the 1783-84 Laki Eruption in Iceland
+    publisher: Wired
+    url: https://www.wired.com/2013/06/local-and-global-impacts-1793-laki-eruption-iceland/
+    accessed: "2026-10-22"
+reviewed: false

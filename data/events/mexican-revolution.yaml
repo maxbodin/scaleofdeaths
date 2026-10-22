@@ -1,0 +1,36 @@
+id: mexican-revolution
+title:
+  en: Mexican Revolution
+  fr: Révolution mexicaine
+description:
+  en: >-
+    Decade of armed regional conflicts in Mexico that began with the uprising against the long rule of Porfirio Díaz in 1910 and continued as revolutionary factions led by Madero, Huerta, Carranza, Villa, Zapata and Obregón fought each other. It destroyed the old Federal Army and transformed Mexican society and government. Most of the dead were civilians who died of hunger, disease and epidemics, including the 1918 influenza, in a country ravaged by war; nearly 200,000 refugees fled abroad.
+  fr: >-
+    Décennie de conflits armés régionaux au Mexique, commencée par le soulèvement contre le long règne de Porfirio Díaz en 1910 et poursuivie par les affrontements entre factions révolutionnaires menées par Madero, Huerta, Carranza, Villa, Zapata et Obregón. Elle a détruit l’ancienne armée fédérale et transformé la société et l’État mexicains. La plupart des morts sont des civils, victimes de la faim, des maladies et des épidémies, dont la grippe de 1918, dans un pays ravagé par la guerre ; près de 200 000 réfugiés ont fui à l’étranger.
+categories: [war]
+kind: event
+start: "1910-11-20"
+end: "1920-12-01"
+deaths:
+  best: 1400000
+  low: 1000000
+  high: 2700000
+  note:
+    en: Excess deaths from fighting, hunger and disease. Best is demographer Robert McCaa's estimate of 1.4 million lives lost in 1910-1921 (1.1 million if all 1918 influenza deaths are treated as unrelated to the war); Wikipedia's article says perhaps 1.5 million died. The range is the 1 to 2.7 million on Wikipedia's list of wars by death toll; the top figure is R. J. Rummel's. Emigration and lost births, which McCaa also estimates, are not included.
+    fr: Morts en excès dus aux combats, à la faim et aux maladies. L’estimation centrale est celle du démographe Robert McCaa, 1,4 million de vies perdues en 1910-1921 (1,1 million si l’on exclut toute la mortalité de la grippe de 1918) ; l’article de Wikipédia parle de peut-être 1,5 million de morts. La fourchette est celle de 1 à 2,7 millions de la liste des guerres de Wikipédia ; le chiffre haut est celui de R. J. Rummel. L’émigration et le déficit des naissances, que McCaa estime aussi, ne sont pas comptés.
+countries:
+  - { code: MX, deaths: 1400000 }
+sources:
+  - title: Mexican Revolution
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Mexican_Revolution
+    accessed: "2026-10-22"
+  - title: List of wars by death toll
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_wars_by_death_toll
+    accessed: "2026-10-22"
+  - title: "Missing millions: the human cost of the Mexican Revolution (Robert McCaa, University of Minnesota Population Center, archived)"
+    publisher: Internet Archive
+    url: https://web.archive.org/web/20160303190547/http://www.hist.umn.edu/~rmccaa/missmill/mxrev.htm
+    accessed: "2026-10-22"
+reviewed: false

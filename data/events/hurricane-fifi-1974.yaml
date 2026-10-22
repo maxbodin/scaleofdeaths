@@ -1,0 +1,37 @@
+id: hurricane-fifi-1974
+title:
+  en: Hurricane Fifi
+  fr: Ouragan Fifi
+description:
+  en: >-
+    Hurricane Fifi, a strong Category 2 storm, brushed the northern coast of Honduras around 18 September 1974 before making landfall in Belize. Up to about 600 mm of rain over three days set off flash floods and mudslides across northern Honduras. A mudslide that had dammed the Choloma River gave way during the night of 20 September and the flood destroyed the town of Choloma, while coastal villages such as Omoa were wiped out. Floods also killed people in Guatemala and El Salvador.
+  fr: >-
+    L’ouragan Fifi, de forte catégorie 2, a longé la côte nord du Honduras vers le 18 septembre 1974 avant de toucher terre au Belize. Jusqu’à environ 600 mm de pluie en trois jours ont provoqué crues soudaines et coulées de boue dans tout le nord du Honduras. Une coulée qui avait barré la rivière Choloma a cédé dans la nuit du 20 septembre et la crue a détruit la ville de Choloma, tandis que des villages côtiers comme Omoa étaient rayés de la carte. Des inondations ont aussi fait des morts au Guatemala et au Salvador.
+categories: [natural-disaster]
+kind: event
+start: "1974-09-14"
+end: "1974-09-20"
+deaths:
+  best: 8210
+  high: 10000
+  note:
+    en: The toll in Honduras is uncertain; most estimates range from 8,000 to 10,000, and the NOAA National Hurricane Center's list of deadliest Atlantic cyclones gives 8,000 to 10,000 (other sources it cites give 3,000 to 10,000). Best is the Wikipedia total, combining the low end for Honduras with 200 deaths in Guatemala and 10 in El Salvador; at one point the official Honduran toll was put as high as 10,000 (high). It is the third-deadliest Atlantic hurricane on record.
+    fr: Le bilan au Honduras est incertain ; la plupart des estimations vont de 8 000 à 10 000, et la liste des cyclones atlantiques les plus meurtriers du National Hurricane Center de la NOAA donne 8 000 à 10 000 (d’autres sources qu’elle cite donnent 3 000 à 10 000). L’estimation centrale est le total de Wikipédia, qui combine le bas de la fourchette pour le Honduras avec 200 morts au Guatemala et 10 au Salvador ; le bilan officiel hondurien a un temps atteint 10 000 (haut de la fourchette). C’est le troisième ouragan atlantique le plus meurtrier connu.
+countries:
+  - { code: HN, deaths: 8000 }
+  - { code: GT, deaths: 200 }
+  - { code: SV, deaths: 10 }
+sources:
+  - title: Hurricane Fifi
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Hurricane_Fifi
+    accessed: "2026-10-22"
+  - title: "The Deadliest Atlantic Tropical Cyclones, 1492-1996: Storm Lists and Statistics"
+    publisher: NOAA National Hurricane Center
+    url: https://www.nhc.noaa.gov/pastdeadly4.shtml
+    accessed: "2026-10-22"
+  - title: "The Deadliest Atlantic Tropical Cyclones, 1492-1996: Appendix 1, Cyclones with 25+ Deaths"
+    publisher: NOAA National Hurricane Center
+    url: https://www.nhc.noaa.gov/pastdeadlyapp1.shtml
+    accessed: "2026-10-22"
+reviewed: false

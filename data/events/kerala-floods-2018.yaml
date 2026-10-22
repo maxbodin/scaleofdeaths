@@ -1,0 +1,32 @@
+id: kerala-floods-2018
+title:
+  en: 2018 Kerala floods
+  fr: Inondations de 2018 au Kerala
+description:
+  en: >-
+    In August 2018 unusually heavy monsoon rain caused the worst floods in the Indian state of Kerala since the great flood of 1924. Rivers burst their banks and landslides struck the hill districts; 35 of the state's 54 dams had to open their gates, all 14 districts were put on red alert and about one sixth of Kerala's population was directly affected. More than a million people took shelter in relief camps, and thousands of homes and some 10,000 km of roads were damaged or destroyed.
+  fr: >-
+    En août 2018, des pluies de mousson exceptionnelles ont provoqué au Kerala les pires inondations depuis la grande crue de 1924. Les rivières ont débordé et des glissements de terrain ont frappé les districts de collines ; 35 des 54 barrages de l’État ont dû ouvrir leurs vannes, les 14 districts ont été placés en alerte rouge et environ un sixième de la population a été directement touché. Plus d’un million de personnes ont trouvé refuge dans des camps, et des milliers de maisons et quelque 10 000 km de routes ont été endommagés ou détruits.
+categories: [natural-disaster]
+kind: event
+start: "2018-08"
+deaths:
+  best: 483
+  high: 500
+  note:
+    en: >-
+      Best is the 483 deaths in rain-related incidents during the 2018 monsoon announced by Kerala's Chief Minister to the state assembly at the end of August 2018 (Indian Express), with 14 people still missing. High is the 500 deaths in Wikipedia's infobox. The count covers the whole monsoon season, most of it the August floods and landslides.
+    fr: >-
+      L’estimation centrale correspond aux 483 morts liées aux pluies pendant la mousson de 2018, annoncées par le ministre en chef du Kerala devant l’assemblée de l’État fin août 2018 (Indian Express), 14 personnes restant disparues. L’estimation haute est le chiffre de 500 morts de l’infobox de Wikipédia. Le décompte couvre toute la saison de mousson, pour l’essentiel les inondations et glissements de terrain d’août.
+countries:
+  - { code: IN, deaths: 483 }
+sources:
+  - title: 2018 Kerala floods
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2018_Kerala_floods
+    accessed: "2026-10-22"
+  - title: "483 dead in Kerala floods and landslides, losses more than annual plan outlay: Pinarayi Vijayan"
+    publisher: The Indian Express
+    url: https://indianexpress.com/article/india/483-dead-in-kerala-floods-and-landslides-losses-more-than-annual-plan-outlay-pinarayi-vijayan-5332306/
+    accessed: "2026-10-22"
+reviewed: false

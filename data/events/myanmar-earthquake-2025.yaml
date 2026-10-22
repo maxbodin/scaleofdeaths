@@ -1,0 +1,34 @@
+id: myanmar-earthquake-2025
+title:
+  en: 2025 Myanmar earthquake
+  fr: Séisme de 2025 en Birmanie
+description:
+  en: >-
+    On 28 March 2025 a magnitude 7.7 strike-slip earthquake struck the Sagaing Region of Myanmar, with its epicentre close to Mandalay, the country's second-largest city. It was the most powerful earthquake in Myanmar since 1912. Homes, monasteries, pagodas, bridges and a dam collapsed in Mandalay, Sagaing and other towns, and the shaking reached Thailand, where a skyscraper under construction collapsed in Bangkok. The civil war and censorship made casualty counts in Myanmar uncertain.
+  fr: >-
+    Le 28 mars 2025, un séisme de magnitude 7,7 a frappé la région de Sagaing, en Birmanie, avec un épicentre proche de Mandalay, deuxième ville du pays. C’est le plus puissant séisme en Birmanie depuis 1912. Maisons, monastères, pagodes, ponts et un barrage se sont effondrés à Mandalay, à Sagaing et dans d’autres villes, et les secousses ont atteint la Thaïlande, où une tour en construction s’est effondrée à Bangkok. La guerre civile et la censure rendent incertain le bilan en Birmanie.
+categories: [natural-disaster]
+kind: event
+start: "2025-03-28"
+deaths:
+  best: 5456
+  low: 3768
+  note:
+    en: >-
+      Best is Wikipedia's total of 5,456 deaths: 5,352 in Myanmar (count compiled by Mizzima News, including areas outside military control), 103 in Thailand (most at the Bangkok construction site) and 1 in Vietnam. Low is the official confirmed toll in Myanmar of 3,768 as of 25 June 2025, reported by the United Nations; the military government counted only areas under its control, and the Democratic Voice of Burma counted 4,549 deaths.
+    fr: >-
+      L’estimation centrale est le total de 5 456 morts de Wikipédia : 5 352 en Birmanie (décompte de Mizzima News, qui couvre aussi les zones hors du contrôle militaire), 103 en Thaïlande (surtout sur le chantier de Bangkok) et 1 au Viêt Nam. L’estimation basse est le bilan officiel confirmé en Birmanie, 3 768 morts au 25 juin 2025, rapporté par les Nations unies ; la junte ne comptait que les zones sous son contrôle, et la Democratic Voice of Burma recensait 4 549 morts.
+countries:
+  - { code: MM, deaths: 5352 }
+  - { code: TH, deaths: 103 }
+  - { code: VN, deaths: 1 }
+sources:
+  - title: 2025 Myanmar earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2025_Myanmar_earthquake
+    accessed: "2026-10-22"
+  - title: "100 Days After the Myanmar Earthquake: Stories from the Margins"
+    publisher: United Nations in Myanmar (UN-Habitat)
+    url: https://myanmar.un.org/en/297592-100-days-after-myanmar-earthquake-stories-margins
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,37 @@
+id: nine-years-war
+title:
+  en: Nine Years' War
+  fr: Guerre de la Ligue d’Augsbourg
+description:
+  en: >-
+    War between France under Louis XIV and the Grand Alliance of the Holy Roman Empire, the Dutch Republic, England, Spain and Savoy, fought to contain French expansion. Campaigns took place mainly in the Spanish Netherlands, the Rhineland, where French troops systematically devastated the Palatinate, northern Italy and Catalonia, with related wars in Ireland and North America. Dominated by sieges and attrition, the war ended with the Peace of Ryswick in 1697.
+  fr: >-
+    Guerre entre la France de Louis XIV et la Grande Alliance réunissant le Saint-Empire, les Provinces-Unies, l’Angleterre, l’Espagne et la Savoie, menée pour contenir l’expansion française. Les campagnes se déroulent surtout aux Pays-Bas espagnols, en Rhénanie, où les troupes françaises dévastent systématiquement le Palatinat, en Italie du Nord et en Catalogne, avec des guerres liées en Irlande et en Amérique du Nord. Faite de sièges et d’usure, la guerre s’achève par la paix de Ryswick en 1697.
+categories: [war]
+kind: event
+start: "1688-09-27"
+end: "1697-09-20"
+deaths:
+  best: 680000
+  note:
+    en: "Military deaths only, the estimate of Jack S. Levy (1983) cited by Wikipedia and Necrometrics. Not included: the French famine of 1693-1694, which occurred during the war and killed an estimated 700,000 to 1.3 million people (Ó Gráda and Chevet), or about 2 million in France and northern Italy (Doyle), mainly because of harvest failures. No other overall estimate was found, hence no range."
+    fr: "Morts militaires uniquement, estimation de Jack S. Levy (1983) citée par Wikipédia et Necrometrics. Non comprise : la famine française de 1693-1694, survenue pendant la guerre, qui a tué environ 700 000 à 1,3 million de personnes (Ó Gráda et Chevet), voire environ 2 millions en France et en Italie du Nord (Doyle), surtout à cause de mauvaises récoltes. Aucune autre estimation globale n’a été trouvée, d’où l’absence de fourchette."
+countries:
+  - { code: BE }
+  - { code: NL }
+  - { code: DE }
+  - { code: FR }
+  - { code: IT }
+  - { code: ES }
+  - { code: IE }
+related: [war-of-the-spanish-succession]
+sources:
+  - title: Nine Years' War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Nine_Years%27_War
+    accessed: "2026-10-22"
+  - title: Selected Death Tolls for Wars, Massacres and Atrocities Before the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/pre1700a.htm
+    accessed: "2026-10-22"
+reviewed: false

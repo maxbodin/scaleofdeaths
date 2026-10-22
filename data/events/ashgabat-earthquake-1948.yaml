@@ -1,0 +1,36 @@
+id: ashgabat-earthquake-1948
+title:
+  en: 1948 Ashgabat earthquake
+  fr: Séisme de 1948 à Achgabat
+description:
+  en: >-
+    At 01:12 on 6 October 1948 a magnitude 7.3 earthquake struck near Ashgabat, capital of the Turkmen SSR in the Soviet Union, reducing the city to rubble in about 10 seconds. Almost all brick buildings collapsed and freight trains were derailed; more than 30 villages were also destroyed across the border in north-eastern Iran. Soviet censorship kept the extent of the disaster from being reported. The future Turkmen president Saparmurat Niyazov lost his mother and the rest of his family.
+  fr: >-
+    Le 6 octobre 1948 à 1 h 12, un séisme de magnitude 7,3 a frappé les environs d’Achgabat, capitale de la RSS de Turkménie (Union soviétique), réduisant la ville en ruines en une dizaine de secondes. Presque tous les bâtiments en brique se sont effondrés et des trains de marchandises ont déraillé ; plus de 30 villages ont aussi été détruits de l’autre côté de la frontière, dans le nord-est de l’Iran. La censure soviétique a empêché que l’ampleur de la catastrophe soit rapportée. Le futur président turkmène Saparmourat Niazov y a perdu sa mère et le reste de sa famille.
+categories: [natural-disaster]
+kind: event
+start: "1948-10-06"
+deaths:
+  best: 110000
+  low: 10000
+  high: 176000
+  note:
+    en: Soviet censorship means there is no reliable official count. Best is the toll given by a Soviet news release of 9 December 1988, used by USGS and NOAA NCEI. Many older sources give 10,000 (low) and some catalogues 19,800. One reference cited by NCEI gives 176,000 deaths in the USSR (high) and 352 in Iran, the only per-country figure found.
+    fr: En raison de la censure soviétique, il n’existe pas de bilan officiel fiable. L’estimation centrale est le bilan donné par un communiqué soviétique du 9 décembre 1988, repris par l’USGS et la NCEI de la NOAA. De nombreuses sources anciennes donnent 10 000 (bas de la fourchette) et certains catalogues 19 800. Une référence citée par la NCEI donne 176 000 morts en URSS (haut de la fourchette) et 352 en Iran, seul chiffre par pays trouvé.
+countries:
+  - { code: TM }
+  - { code: IR, deaths: 352 }
+sources:
+  - title: 1948 Ashgabat earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1948_Ashgabat_earthquake
+    accessed: "2026-10-22"
+  - title: Earthquakes with 1,000 or More Deaths 1900-2014 (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20170118110610/http://earthquake.usgs.gov/earthquakes/world/world_deaths.php
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Ashkhabad, event 3891"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/3891
+    accessed: "2026-10-22"
+reviewed: false

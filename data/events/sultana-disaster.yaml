@@ -1,0 +1,31 @@
+id: sultana-disaster
+title:
+  en: Sultana disaster
+  fr: Naufrage du Sultana
+description:
+  en: >-
+    In the early hours of 27 April 1865, days after the end of the American Civil War, three of the four boilers of the steamboat Sultana exploded on the Mississippi River just after leaving Memphis, Tennessee, and the boat burned and sank. Designed for 376 passengers, it was carrying more than 2,000 people, mostly Union soldiers freed from Confederate prison camps such as Andersonville and Cahaba, after a hasty patch of a leaking boiler at Vicksburg. Many who survived the blast drowned. It remains the deadliest maritime disaster in US history.
+  fr: >-
+    Aux premières heures du 27 avril 1865, quelques jours après la fin de la guerre de Sécession, trois des quatre chaudières du bateau à vapeur Sultana explosent sur le Mississippi peu après son départ de Memphis (Tennessee), et le navire brûle puis coule. Conçu pour 376 passagers, il en transporte plus de 2 000, surtout des soldats de l’Union libérés de camps de prisonniers confédérés comme Andersonville et Cahaba, après une réparation hâtive d’une chaudière qui fuyait à Vicksburg. Beaucoup de rescapés de l’explosion se noient. C’est la pire catastrophe maritime de l’histoire des États-Unis.
+categories: [accident]
+kind: event
+start: "1865-04-27"
+deaths:
+  best: 1164
+  low: 1100
+  high: 1547
+  note:
+    en: Best is the 1,164 deaths indicated by the most recent research, given by Wikipedia; the American Battlefield Trust gives 1,195. Contemporary official counts ranged from 1,100 (Bureau of Military Justice, 1867, low) to 1,547 (United States Customs Service, high), with 1,238 in the first army report (1865) and 1,259 in an 1880 report to Congress. The exact number of people on board is unknown.
+    fr: L’estimation centrale correspond aux 1 164 morts établis par les recherches les plus récentes, selon Wikipédia ; l’American Battlefield Trust en compte 1 195. Les décomptes officiels de l’époque allaient de 1 100 (Bureau of Military Justice, 1867, borne basse) à 1 547 (service des douanes américain, borne haute), avec 1 238 dans le premier rapport de l’armée (1865) et 1 259 dans un rapport au Congrès de 1880. Le nombre exact de personnes à bord est inconnu.
+countries:
+  - { code: US, deaths: 1164 }
+sources:
+  - title: Sultana (steamboat)
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Sultana_(steamboat)
+    accessed: "2026-10-22"
+  - title: The Sultana Disaster
+    publisher: American Battlefield Trust
+    url: https://www.battlefields.org/learn/articles/sultana-disaster
+    accessed: "2026-10-22"
+reviewed: false

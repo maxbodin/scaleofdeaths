@@ -1,0 +1,37 @@
+id: shark-attack-deaths
+title:
+  en: Deaths from shark attacks per year
+  fr: Décès dus aux attaques de requins par an
+description:
+  en: >-
+    People killed by shark bites worldwide in one year, as recorded by the International Shark Attack File (ISAF) at the Florida Museum of Natural History, which investigates every reported shark-human interaction and classifies it. In 2025 ISAF investigated 105 alleged interactions and confirmed 65 unprovoked bites, in line with recent averages; the United States and Australia had the most. Most fatal bites were by white sharks, including three on surfers in Australia. Post-mortem bites on people already dead are not counted.
+  fr: >-
+    Personnes tuées par des morsures de requin dans le monde en un an, selon l’International Shark Attack File (ISAF) du Florida Museum of Natural History, qui enquête sur chaque interaction signalée entre un requin et un humain et la classe. En 2025, l’ISAF a examiné 105 cas présumés et confirmé 65 morsures non provoquées, un niveau conforme aux moyennes récentes ; les États-Unis et l’Australie en comptent le plus. La plupart des morsures mortelles sont dues à des grands requins blancs, dont trois sur des surfeurs en Australie. Les morsures sur des personnes déjà mortes ne sont pas comptées.
+categories: [annual, natural-disaster]
+kind: endemic-total
+start: "2025"
+end: "2025"
+deaths:
+  best: 12
+  low: 9
+  note:
+    en: >-
+      ISAF reports 12 confirmed shark-related fatalities in 2025, nine of them from unprovoked bites (a bite on a live person in the shark's natural habitat with no human provocation). Best counts all 12 confirmed deaths, provoked ones included (for example bites on spearfishers or on people handling a shark); low is the nine unprovoked deaths, the figure ISAF headlines. Per-country deaths are ISAF's unprovoked fatalities (Australia 5, United States 1, Mozambique 1, South Africa 1, Vanuatu 1); ISAF does not give the countries of the three other deaths.
+    fr: >-
+      L’ISAF recense 12 décès confirmés liés à des requins en 2025, dont neuf dus à des morsures non provoquées (morsure d’une personne vivante dans le milieu naturel du requin, sans provocation humaine). L’estimation retenue compte les 12 décès confirmés, y compris provoqués (par exemple chasseurs sous-marins ou personnes manipulant un requin) ; la borne basse correspond aux neuf décès non provoqués, le chiffre mis en avant par l’ISAF. Les décès par pays sont ceux des morsures non provoquées (Australie 5, États-Unis 1, Mozambique 1, Afrique du Sud 1, Vanuatu 1) ; l’ISAF ne précise pas les pays des trois autres décès.
+countries:
+  - { code: AU, deaths: 5 }
+  - { code: US, deaths: 1 }
+  - { code: MZ, deaths: 1 }
+  - { code: ZA, deaths: 1 }
+  - { code: VU, deaths: 1 }
+sources:
+  - title: The ISAF 2025 shark attack report
+    publisher: Florida Museum of Natural History (International Shark Attack File)
+    url: https://www.floridamuseum.ufl.edu/shark-attacks/yearly-worldwide-summary/
+    accessed: "2026-10-22"
+  - title: Global shark bites return to average in 2025, with smaller proportion in the United States
+    publisher: Florida Museum of Natural History
+    url: https://www.floridamuseum.ufl.edu/science/global-shark-bites-return-to-average-in-2025-with-smaller-proportion-in-the-united-states/
+    accessed: "2026-10-22"
+reviewed: false

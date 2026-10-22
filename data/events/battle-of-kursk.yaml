@@ -1,0 +1,31 @@
+id: battle-of-kursk
+title:
+  en: Battle of Kursk
+  fr: Bataille de Koursk
+description:
+  en: >-
+    Battle on the Eastern Front in the summer of 1943 around the Kursk salient in southwestern Russia, often described as the largest battle in history. The German offensive, Operation Citadel, attacked the salient from the north and south on 5 July against deep Soviet defensive belts and was called off after about a week. Soviet counter-offensives towards Orel and Belgorod-Kharkov, including the tank clash at Prokhorovka, followed until late August. It was the last German strategic offensive in the east, and thousands of tanks and aircraft were destroyed.
+  fr: >-
+    Bataille du front de l’Est à l’été 1943 autour du saillant de Koursk, dans le sud-ouest de la Russie, souvent dite la plus grande de l’histoire. L’offensive allemande, l’opération Citadelle, a attaqué le saillant par le nord et le sud le 5 juillet contre des lignes de défense soviétiques en profondeur et a été abandonnée au bout d’une semaine environ. Les contre-offensives soviétiques vers Orel et Belgorod-Kharkov, dont le choc de chars de Prokhorovka, ont suivi jusqu’à fin août. Ce fut la dernière offensive stratégique allemande à l’Est ; des milliers de chars et d’avions ont été détruits.
+categories: [war]
+kind: event
+start: "1943-07-05"
+end: "1943-08-23"
+deaths:
+  best: 325000
+  note:
+    en: "Military deaths in the German offensive and the Soviet counter-offensives. Best: about 325,000, Necrometrics' estimate of military deaths, which builds on 254,470 Soviet soldiers killed, captured or missing (Wikipedia, citing Glantz and House; Richard Overy counts about 253,000 Soviet dead) plus German dead. German losses including wounded and missing were 165,314 to 203,000 according to German medical data. Casualty totals including wounded (863,303 Soviet, 500,000 or more German in modern Western estimates) are not used. No source other than Necrometrics gives a total death toll."
+    fr: "Morts militaires de l’offensive allemande et des contre-offensives soviétiques. Valeur centrale : environ 325 000, estimation des morts militaires de Necrometrics, qui part de 254 470 soldats soviétiques tués, capturés ou disparus (Wikipédia, d’après Glantz et House ; Richard Overy compte environ 253 000 morts soviétiques) et y ajoute les morts allemands. Les pertes allemandes, blessés et disparus compris, étaient de 165 314 à 203 000 selon les données médicales allemandes. Les bilans incluant les blessés (863 303 côté soviétique, 500 000 ou plus côté allemand selon les estimations occidentales récentes) ne sont pas utilisés. Seul Necrometrics donne un total de morts."
+countries:
+  - { code: SU, name: { en: Soviet Union, fr: Union soviétique }, deaths: 325000 }
+partOf: second-world-war
+sources:
+  - title: Battle of Kursk
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Battle_of_Kursk
+    accessed: "2026-10-22"
+  - title: Bloodiest Battles of the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/battles.htm
+    accessed: "2026-10-22"
+reviewed: false

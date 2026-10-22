@@ -1,0 +1,38 @@
+id: spanish-plague-1596
+title:
+  en: Castilian plague of 1596-1602
+  fr: Peste castillane de 1596-1602
+description:
+  en: >-
+    Bubonic plague epidemic, also called the Atlantic plague, that entered Spain through the port of Santander in late November 1596 aboard a ship from Flanders carrying wool. It spread south in irregular jumps, reaching Oviedo in 1598 and the Douro valley in 1599, then New Castile, Portugal, southern Extremadura and Andalusia; only the Crown of Aragon was spared. It peaked in 1599 and faded by 1602. Together with food shortages, it killed about a tenth of the Castilian population, nearly wiping out the population growth of the previous century.
+  fr: >-
+    Épidémie de peste bubonique, dite aussi peste atlantique, entrée en Espagne par le port de Santander fin novembre 1596 à bord d’un navire venu de Flandre chargé de laine. Elle progressa vers le sud par bonds irréguliers, atteignant Oviedo en 1598 et la vallée du Douro en 1599, puis la Nouvelle-Castille, le Portugal, le sud de l’Estrémadure et l’Andalousie ; seule la couronne d’Aragon fut épargnée. Elle culmina en 1599 et s’éteignit vers 1602. Conjuguée à la disette, elle tua environ un dixième des Castillans, effaçant presque la croissance démographique du siècle précédent.
+categories: [epidemic]
+kind: event
+start: "1596-11"
+end: "1602"
+deaths:
+  best: 600000
+  low: 500000
+  high: 700000
+  note:
+    en: Deaths in the Crown of Castile. Historian Stanley G. Payne gives 600,000 to 700,000, about 10% of the population, a range repeated by Wikipedia; best is the bottom of that range. Spanish Wikipedia also cites a total of half a million (Téllez Alarcia, 2021), used as the low bound. No figure was found for Portugal.
+    fr: Morts dans la couronne de Castille. L’historien Stanley G. Payne donne 600 000 à 700 000 morts, environ 10 % de la population, fourchette reprise par Wikipédia ; l’estimation retenue en est le bas. Wikipédia en espagnol cite aussi un total d’un demi-million (Téllez Alarcia, 2021), retenu comme borne basse. Aucun chiffre n’a été trouvé pour le Portugal.
+countries:
+  - { code: ES, deaths: 600000 }
+  - { code: PT }
+related: [black-death]
+sources:
+  - title: List of epidemics and pandemics
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_epidemics_and_pandemics
+    accessed: "2026-10-22"
+  - title: Peste Atlántica
+    publisher: Wikipedia (Spanish)
+    url: https://es.wikipedia.org/wiki/Peste_Atl%C3%A1ntica
+    accessed: "2026-10-22"
+  - title: "A History of Spain and Portugal, Volume 1, Chapter 15: The Seventeenth-Century Decline (archived)"
+    publisher: Stanley G. Payne, Library of Iberian Resources Online
+    url: https://web.archive.org/web/20170327015606/http://libro.uca.edu/payne1/payne15.htm
+    accessed: "2026-10-22"
+reviewed: false

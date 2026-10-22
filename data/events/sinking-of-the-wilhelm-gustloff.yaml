@@ -1,0 +1,31 @@
+id: sinking-of-the-wilhelm-gustloff
+title:
+  en: Sinking of the Wilhelm Gustloff
+  fr: Naufrage du Wilhelm Gustloff
+description:
+  en: >-
+    Sinking of the German transport ship Wilhelm Gustloff by the Soviet submarine S-13 in the Baltic Sea on the evening of 30 January 1945, about 30 km off the Pomeranian coast. A former Strength Through Joy cruise liner, the ship was evacuating German civilians and military personnel from East Prussia and Gotenhafen (Gdynia) during Operation Hannibal, with more than 10,000 people on board. Struck by three torpedoes, it listed sharply as lifeboats froze in their davits; most victims died of hypothermia in the freezing water. It is the deadliest maritime disaster in modern history.
+  fr: >-
+    Naufrage du navire de transport allemand Wilhelm Gustloff, torpillé par le sous-marin soviétique S-13 en mer Baltique le soir du 30 janvier 1945, à environ 30 km de la côte poméranienne. Cet ancien paquebot de « La Force par la joie » évacuait civils et militaires allemands de Prusse-Orientale et de Gotenhafen (Gdynia) lors de l’opération Hannibal, avec plus de 10 000 personnes à bord. Touché par trois torpilles, il a gîté brutalement, ses canots pris par le gel ; la plupart des victimes sont mortes d’hypothermie. C’est la catastrophe maritime la plus meurtrière de l’histoire moderne.
+categories: [war]
+kind: event
+start: "1945-01-30"
+deaths:
+  best: 9343
+  high: 9600
+  note:
+    en: "Passengers and crew, mostly civilian refugees, plus about 1,000 naval personnel. Best: 9,343, the figure from Heinz Schön's research given by Wikipedia; 1,252 people were rescued. High: 9,600, an estimate from a 2003 computer simulation of the sinking. The Smithsonian notes that the toll numbered in the thousands, with some putting it as high as 9,000. The ship sank off the coast of Pomerania (then German, now Poland); deaths are listed under Germany, the ship's flag state and the country of most victims, although Baltic, Polish and Croatian passengers were also aboard."
+    fr: "Passagers et équipage, surtout des réfugiés civils, ainsi qu’environ 1 000 militaires de la marine. Valeur centrale : 9 343, chiffre issu des recherches de Heinz Schön donné par Wikipédia ; 1 252 personnes ont été secourues. Haut : 9 600, estimation tirée d’une simulation informatique du naufrage réalisée en 2003. Le Smithsonian indique un bilan de plusieurs milliers de morts, certains l’estimant jusqu’à 9 000. Le navire a coulé au large de la Poméranie (alors allemande, aujourd’hui polonaise) ; les morts sont rattachées à l’Allemagne, pavillon du navire et pays de la plupart des victimes, même si des passagers baltes, polonais et croates étaient aussi à bord."
+countries:
+  - { code: DE, deaths: 9343 }
+partOf: second-world-war
+sources:
+  - title: MV Wilhelm Gustloff
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/MV_Wilhelm_Gustloff
+    accessed: "2026-10-22"
+  - title: The Deadliest Disaster at Sea Killed Thousands, Yet Its Story Is Little-Known. Why?
+    publisher: Smithsonian Magazine
+    url: https://www.smithsonianmag.com/history/deadliest-disaster-sea-happened-75-years-ago-yet-its-barely-known-why-180974077/
+    accessed: "2026-10-22"
+reviewed: false

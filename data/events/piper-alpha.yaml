@@ -1,0 +1,34 @@
+id: piper-alpha
+title:
+  en: Piper Alpha disaster
+  fr: Catastrophe de Piper Alpha
+description:
+  en: >-
+    On the night of 6 to 7 July 1988, the Piper Alpha oil and gas platform, operated by Occidental Petroleum in the UK sector of the North Sea about 190 km north-east of Aberdeen, Scotland, was destroyed by explosions and fire. A condensate pump whose pressure safety valve had been removed for maintenance was restarted and leaking gas ignited; ruptured gas risers then fed huge jet fires. Most of the dead were killed by smoke and gas, and all survivors had jumped into the sea. The Cullen inquiry made 106 recommendations that reshaped UK offshore safety rules.
+  fr: >-
+    Dans la nuit du 6 au 7 juillet 1988, la plateforme Piper Alpha, exploitée par Occidental Petroleum dans le secteur britannique de la mer du Nord, à environ 190 km au nord-est d’Aberdeen (Écosse), est détruite par des explosions et un incendie. Une pompe à condensat dont la soupape de sûreté avait été retirée pour maintenance est remise en marche et le gaz qui fuit s’enflamme ; des conduites de gaz rompues alimentent ensuite d’immenses feux. La plupart des victimes meurent asphyxiées, et tous les survivants avaient sauté à la mer. L’enquête Cullen a refondu la sécurité offshore britannique.
+categories: [accident]
+kind: event
+start: "1988-07-06"
+end: "1988-07-07"
+deaths:
+  best: 167
+  note:
+    en: Of the 226 people on the platform, 165 died and 61 survived; two crew members of the standby vessel Sandhaven were also killed while trying to rescue survivors (Wikipedia, citing the Cullen report). Thirty bodies were never recovered. 167 is the total given by the BBC.
+    fr: Sur les 226 personnes présentes sur la plateforme, 165 sont mortes et 61 ont survécu ; deux membres d’équipage du navire de secours Sandhaven ont aussi été tués en tentant de secourir des survivants (Wikipédia, d’après le rapport Cullen). Trente corps n’ont jamais été retrouvés. 167 est le total donné par la BBC.
+countries:
+  - { code: GB, deaths: 167 }
+sources:
+  - title: Piper Alpha
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Piper_Alpha
+    accessed: "2026-10-22"
+  - title: "Piper Alpha: Aberdeen offshore conference teaching disaster lessons (archived)"
+    publisher: BBC News
+    url: https://web.archive.org/web/20170228195450/http://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-22942306
+    accessed: "2026-10-22"
+  - title: Piper Alpha play honours victims (archived)
+    publisher: BBC News
+    url: https://web.archive.org/web/20080630122906/http://news.bbc.co.uk/2/hi/uk_news/scotland/north_east/7481019.stm
+    accessed: "2026-10-22"
+reviewed: false

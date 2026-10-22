@@ -1,0 +1,40 @@
+id: algerian-war
+title:
+  en: Algerian War
+  fr: Guerre d’Algérie
+description:
+  en: >-
+    War of independence fought by the Algerian National Liberation Front (FLN) against France, which had ruled Algeria since 1830. It combined guerrilla warfare in the countryside, urban bombings and large French counter-insurgency operations, with widespread torture, the resettlement or displacement of more than 2 million Algerians and violence against civilians by both sides. The Evian Accords led to a ceasefire in March 1962 and independence in July; reprisal killings of Algerians who had served with French forces followed.
+  fr: >-
+    Guerre d’indépendance menée par le Front de libération nationale (FLN) contre la France, qui gouvernait l’Algérie depuis 1830. Elle mêle guérilla dans les campagnes, attentats dans les villes et vastes opérations françaises de contre-insurrection, avec un recours répandu à la torture, le regroupement ou le déplacement de plus de 2 millions d’Algériens et des violences contre les civils de part et d’autre. Les accords d’Évian mènent au cessez-le-feu en mars 1962 et à l’indépendance en juillet ; des représailles contre les Algériens ayant servi la France suivent.
+categories: [war]
+kind: event
+start: "1954-11-01"
+end: "1962-03-19"
+deaths:
+  best: 400000
+  high: 1500000
+  note:
+    en: Military and civilian deaths on all sides; the toll is politically contested. Best is the figure of around 400,000 deaths on both sides attributed to French historians by France 24, also the low end of the 400,000 to 700,000 range Wikipedia attributes to them. High is the 1.5 million Algerian deaths given by Algerian historians and the Algerian state; according to Le Monde diplomatique, this figure appeared in 1959 during the diplomatic campaign of the Algerian provisional government and rests on no official statistics or scientific basis. Matthew White (Necrometrics) compares the detailed counts of Horne, Clayton and Clodfelter and arrives at about 537,000. The per-country figure is French military deaths (23,196 on Wikipedia; Horne's official French statistics give 17,456 soldiers killed); Algerian deaths are not given separately because the estimates are contested.
+    fr: Morts militaires et civiles de tous les camps ; le bilan est politiquement contesté. L’estimation centrale correspond aux quelque 400 000 morts des deux camps attribuées aux historiens français par France 24, également bas de la fourchette de 400 000 à 700 000 que leur attribue Wikipédia. Le haut correspond aux 1,5 million de morts algériennes avancées par les historiens algériens et l’État algérien ; selon Le Monde diplomatique, ce chiffre apparaît en 1959, pendant la campagne diplomatique du gouvernement provisoire de la République algérienne, et ne repose sur aucune statistique officielle ni base scientifique. Matthew White (Necrometrics) compare les décomptes détaillés de Horne, Clayton et Clodfelter et aboutit à environ 537 000 morts. Le chiffre par pays est celui des militaires français morts (23 196 selon Wikipédia ; les statistiques officielles françaises citées par Horne donnent 17 456 soldats tués) ; les morts algériennes ne sont pas ventilées, faute d’estimation consensuelle.
+countries:
+  - { code: DZ }
+  - { code: FR, deaths: 23196 }
+sources:
+  - title: Algerian War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Algerian_War
+    accessed: "2026-10-22"
+  - title: France remembers the Algerian War, 50 years on
+    publisher: France 24
+    url: https://www.france24.com/en/20120316-commemorations-mark-end-algerian-war-independence-france-evian-accords
+    accessed: "2026-10-22"
+  - title: Combien de morts pendant la guerre
+    publisher: Le Monde diplomatique
+    url: https://www.monde-diplomatique.fr/publications/manuel_d_autodefense_intellectuelle_histoire/a67426
+    accessed: "2026-10-22"
+  - title: "Secondary Wars and Atrocities of the Twentieth Century: Algeria (1954-62)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c300k.htm
+    accessed: "2026-10-22"
+reviewed: false

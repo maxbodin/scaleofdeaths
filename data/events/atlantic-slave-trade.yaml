@@ -1,0 +1,41 @@
+id: atlantic-slave-trade
+title:
+  en: Atlantic slave trade (Middle Passage)
+  fr: Traite atlantique (passage du milieu)
+description:
+  en: >-
+    Forced transport of enslaved Africans across the Atlantic Ocean to the Americas, mainly by Portuguese, British, Spanish, French, Dutch, American and Danish traders, from the early 16th century to the 1860s. About 12.5 million people were forced onto slave ships and about 10.7 million survived the crossing. Packed below decks in chains with too little food and water, captives died mainly of dysentery, scurvy and other diseases, as well as from violence and suicide. Most survivors were taken to the Caribbean and South America.
+  fr: >-
+    Transport forcé d’Africains réduits en esclavage vers les Amériques, surtout par des négriers portugais, britanniques, espagnols, français, néerlandais, américains et danois, du début du XVIe siècle aux années 1860. Environ 12,5 millions de personnes furent embarquées de force et environ 10,7 millions survécurent à la traversée. Entassés et enchaînés dans les cales, manquant d’eau et de nourriture, les captifs mouraient surtout de dysenterie, de scorbut et d’autres maladies, mais aussi de violences et de suicides. La plupart des survivants furent emmenés aux Caraïbes et en Amérique du Sud.
+categories: [genocide]
+kind: endemic-total
+start: "1517"
+end: "1867"
+circa: true
+deaths:
+  best: 1800000
+  low: 1500000
+  high: 2000000
+  note:
+    en: Only deaths of enslaved Africans on board ship during the Atlantic crossing (the Middle Passage). Not counted are deaths during capture, forced marches and captivity in Africa (estimated at millions), deaths of crews, and deaths during "seasoning" and enslavement in the Americas. Best is the "at least 1.8 million" who did not survive the journey according to Wikipedia, matching the Slave Voyages estimates of about 12.5 million embarked and 10.7 million who survived (Encyclopedia Virginia). Low is Patrick Manning's 1.5 million; high is the "up to 2 million" (Wikipedia), "nearly two million" for the Equal Justice Initiative.
+    fr: Uniquement les morts d’Africains réduits en esclavage à bord des navires pendant la traversée de l’Atlantique (le « passage du milieu »). Ne sont pas comptés les morts lors des captures, des marches forcées et de la captivité en Afrique (estimés à plusieurs millions), les morts parmi les équipages, ni les morts lors de l’« acclimatation » et de l’esclavage aux Amériques. L’estimation centrale est le chiffre d’« au moins 1,8 million » de personnes mortes pendant le voyage selon Wikipédia, cohérent avec les estimations de Slave Voyages, environ 12,5 millions d’embarqués et 10,7 millions de survivants (Encyclopedia Virginia). La valeur basse est celle de Patrick Manning, 1,5 million ; la valeur haute est le chiffre de « jusqu’à 2 millions » (Wikipédia), « près de deux millions » selon l’Equal Justice Initiative.
+countries:
+  - { name: { en: Atlantic Ocean (at sea), fr: Océan Atlantique (en mer) }, deaths: 1800000 }
+sources:
+  - title: Atlantic slave trade
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Atlantic_slave_trade
+    accessed: "2026-10-22"
+  - title: Middle Passage
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Middle_Passage
+    accessed: "2026-10-22"
+  - title: The Transatlantic Slave Trade and the Middle Passage
+    publisher: Encyclopedia Virginia (Virginia Humanities)
+    url: https://encyclopediavirginia.org/entries/transatlantic-slave-trade-the/
+    accessed: "2026-10-22"
+  - title: The Transatlantic Slave Trade
+    publisher: Equal Justice Initiative
+    url: https://eji.org/report/transatlantic-slave-trade/
+    accessed: "2026-10-22"
+reviewed: false

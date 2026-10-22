@@ -1,0 +1,35 @@
+id: sabra-and-shatila-massacre
+title:
+  en: Sabra and Shatila massacre
+  fr: Massacre de Sabra et Chatila
+description:
+  en: >-
+    Killing of civilians, mostly Palestinian refugees and Lebanese Shias, in the Sabra neighbourhood and the adjacent Shatila refugee camp in West Beirut from 16 to 18 September 1982, by the Lebanese Forces, a Christian militia, after the assassination of president-elect Bachir Gemayel. The Israeli army, which had moved into West Beirut, let the militia into the camps, blocked their exits and fired flares at night. Israel's Kahan Commission found Israel indirectly responsible and forced Defence Minister Ariel Sharon to resign; the UN General Assembly called the massacre an act of genocide.
+  fr: >-
+    Massacre de civils, surtout des réfugiés palestiniens et des chiites libanais, dans le quartier de Sabra et le camp de réfugiés voisin de Chatila, à Beyrouth-Ouest, du 16 au 18 septembre 1982, par les Forces libanaises, une milice chrétienne, après l’assassinat du président élu Bachir Gemayel. L’armée israélienne, entrée dans Beyrouth-Ouest, laisse la milice pénétrer dans les camps, en bloque les sorties et tire des fusées éclairantes la nuit. La commission israélienne Kahan conclut à une responsabilité indirecte d’Israël et pousse Ariel Sharon à quitter la Défense.
+categories: [genocide]
+kind: event
+partOf: lebanese-civil-war
+start: "1982-09-16"
+end: "1982-09-18"
+deaths:
+  best: 1300
+  low: 460
+  high: 3500
+  note:
+    en: >-
+      Civilians killed by the militia. Estimates vary widely and no central figure is agreed. Best is the minimum of 1,300 named victims established by historian Bayan Nuwayhed al-Hout from 17 victim lists, the lower end of the 1,300 to 3,500 range given by Wikipedia. Low is the 460 dead found by the inquiry of the Lebanese army's chief prosecutor, which did not summon Lebanese witnesses and to which camp survivors were afraid to testify; Israeli intelligence estimated 700 to 800 and journalist Robert Fisk 1,700. High is al-Hout's own estimate of 3,500, also the top of the 2,000 to 3,500 range given by Al Jazeera.
+    fr: >-
+      Civils tués par la milice. Les estimations varient fortement et aucun chiffre central ne fait consensus. L’estimation centrale est le minimum de 1 300 victimes nommément identifiées par l’historienne Bayan Nuwayhed al-Hout à partir de 17 listes de victimes, borne basse de la fourchette de 1 300 à 3 500 donnée par Wikipédia. Le bas correspond aux 460 morts établis par l’enquête du procureur général de l’armée libanaise, qui n’a pas convoqué de témoins libanais et devant laquelle les survivants des camps n’ont pas osé déposer ; le renseignement israélien estimait 700 à 800 morts et le journaliste Robert Fisk 1 700. Le haut est l’estimation d’al-Hout elle-même, 3 500, aussi le haut de la fourchette de 2 000 à 3 500 donnée par Al Jazeera.
+countries:
+  - { code: LB, deaths: 1300 }
+sources:
+  - title: Sabra and Shatila massacre
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Sabra_and_Shatila_massacre
+    accessed: "2026-10-22"
+  - title: "Sabra and Shatila massacre: What happened in Lebanon in 1982?"
+    publisher: Al Jazeera
+    url: https://www.aljazeera.com/news/2022/9/16/sabra-and-shatila-massacre-40-years-on-explainer
+    accessed: "2026-10-22"
+reviewed: false

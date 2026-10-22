@@ -1,0 +1,36 @@
+id: mpox-outbreak-2022
+title:
+  en: 2022-2023 mpox outbreak
+  fr: Épidémie de mpox de 2022-2023
+description:
+  en: >-
+    Global outbreak of mpox (formerly monkeypox), caused by clade II of the monkeypox virus, which in May 2022 began spreading in countries where the disease had not been seen before, first detected in London. It spread mainly through close and sexual contact, chiefly among men who have sex with men, and reached 111 countries. The World Health Organization declared it a public health emergency of international concern from 23 July 2022 to 11 May 2023. By then, reported cases had fallen by 90% over three months. People with untreated HIV were most at risk of dying.
+  fr: >-
+    Épidémie mondiale de mpox (ex-variole du singe), due au clade II du virus, qui s’est propagée à partir de mai 2022 dans des pays où la maladie n’avait jamais été observée, d’abord détectée à Londres. Transmise surtout par contacts étroits et sexuels, principalement entre hommes ayant des rapports avec des hommes, elle a touché 111 pays. L’Organisation mondiale de la santé l’a déclarée urgence de santé publique de portée internationale du 23 juillet 2022 au 11 mai 2023. Les cas avaient alors diminué de 90 % en trois mois. Les personnes vivant avec un VIH non traité étaient les plus exposées.
+categories: [epidemic]
+kind: event
+start: "2022-05-06"
+end: "2023-05-11"
+deaths:
+  best: 140
+  note:
+    en: >-
+      Reported deaths. Best is the 140 deaths among more than 87,000 cases in 111 countries reported to the World Health Organization when it ended the emergency on 11 May 2023 (UN News, CNBC). Counting continued afterwards: Wikipedia, citing the CDC, gives 207 deaths since January 2022 as of August 2024, which includes later cases. The United States had the largest outbreak, with 42 deaths; no other per-country figure was found.
+    fr: >-
+      Décès déclarés. L’estimation retenue est celle de 140 morts sur plus de 87 000 cas dans 111 pays, signalés à l’Organisation mondiale de la santé à la levée de l’urgence le 11 mai 2023 (ONU Info, CNBC). Le décompte s’est poursuivi ensuite : Wikipédia, d’après les CDC, donne 207 morts depuis janvier 2022 en août 2024, cas ultérieurs compris. Les États-Unis ont connu le plus grand foyer, avec 42 morts ; aucun autre chiffre par pays n’a été trouvé.
+countries:
+  - { code: US, deaths: 42 }
+sources:
+  - title: 2022-2023 mpox outbreak
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2022%E2%80%932023_mpox_outbreak
+    accessed: "2026-10-22"
+  - title: Mpox public health emergency declared over
+    publisher: UN News
+    url: https://news.un.org/en/story/2023/05/1136577
+    accessed: "2026-10-22"
+  - title: "Mpox: WHO says outbreak no longer global health emergency"
+    publisher: CNBC
+    url: https://www.cnbc.com/2023/05/11/mpox-who-says-outbreak-no-longer-global-health-emergency.html
+    accessed: "2026-10-22"
+reviewed: false

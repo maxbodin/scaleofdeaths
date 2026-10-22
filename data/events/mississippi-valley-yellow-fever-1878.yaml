@@ -1,0 +1,37 @@
+id: mississippi-valley-yellow-fever-1878
+title:
+  en: 1878 Lower Mississippi Valley yellow fever epidemic
+  fr: Épidémie de fièvre jaune de 1878 dans la vallée du Mississippi
+description:
+  en: >-
+    Yellow fever epidemic that began in New Orleans in the summer of 1878, when a ship cleared by the river quarantine station brought sick sailors, and spread up the Mississippi River and along the railways. Fear drove a fifth of New Orleans's population and more than half of Memphis's to flee; refugees carried the disease as far as Kentucky and Ohio, and some towns set up armed barricades. Memphis, the worst-hit city, was left bankrupt. The mosquito that transmits the virus was not yet known. The disaster led to the creation of a National Board of Health in 1879.
+  fr: >-
+    Épidémie de fièvre jaune partie de La Nouvelle-Orléans à l’été 1878, quand un navire contrôlé par la quarantaine fluviale a amené des marins malades, puis propagée le long du Mississippi et des voies ferrées. La peur a fait fuir un cinquième des habitants de La Nouvelle-Orléans et plus de la moitié de ceux de Memphis ; les réfugiés ont porté la maladie jusqu’au Kentucky et à l’Ohio, et des villes ont dressé des barrages armés. Memphis, la plus touchée, a fait faillite. On ignorait encore le rôle du moustique. La catastrophe a mené à la création d’un National Board of Health en 1879.
+categories: [epidemic]
+kind: event
+start: "1878-05"
+end: "1878-11"
+deaths:
+  best: 20000
+  low: 13000
+  note:
+    en: >-
+      Best is the commonly cited figure of about 20,000 deaths among some 120,000 cases, given by PBS American Experience and by the historian John H. Ellis (cited by Wikipedia). Wikipedia also cites nearly 16,000 deaths across Alabama, Kentucky, Louisiana, Mississippi and Tennessee (McGinty, 1940), and its list of epidemics gives 13,000, used as low. City tolls include more than 5,000 in Memphis (5,150 according to Ellis), not less than 4,600 in New Orleans and 3,227 in Vicksburg.
+    fr: >-
+      L’estimation retenue est le chiffre couramment cité d’environ 20 000 morts sur quelque 120 000 cas, donné par PBS American Experience et par l’historien John H. Ellis (cité par Wikipédia). Wikipédia cite aussi près de 16 000 morts en Alabama, au Kentucky, en Louisiane, au Mississippi et au Tennessee (McGinty, 1940), et sa liste des épidémies donne 13 000 morts, retenu comme bas de la fourchette. Bilans par ville : plus de 5 000 morts à Memphis (5 150 selon Ellis), au moins 4 600 à La Nouvelle-Orléans et 3 227 à Vicksburg.
+countries:
+  - { code: US, deaths: 20000 }
+sources:
+  - title: Lower Mississippi Valley yellow fever epidemic of 1878
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Lower_Mississippi_Valley_yellow_fever_epidemic_of_1878
+    accessed: "2026-10-22"
+  - title: List of epidemics and pandemics
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_epidemics_and_pandemics
+    accessed: "2026-10-22"
+  - title: 1878 Epidemic (The Great Fever)
+    publisher: PBS American Experience
+    url: https://www.pbs.org/wgbh/americanexperience/features/fever-1878-epidemic/
+    accessed: "2026-10-22"
+reviewed: false

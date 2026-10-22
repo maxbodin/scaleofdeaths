@@ -1,0 +1,35 @@
+id: manila-massacre
+title:
+  en: Manila massacre
+  fr: Massacre de Manille
+description:
+  en: >-
+    Atrocities committed against Filipino civilians by Japanese forces during the Battle of Manila in February and March 1945. About 10,000 Japanese naval troops under Rear Admiral Sanji Iwabuchi, ignoring General Yamashita's order to leave the city, defended it to the death and killed civilians in mass shootings, bayonetings, burnings and rapes, notably at Fort Santiago, La Concordia College, De La Salle College and in hospitals and churches. Others died in the fighting and under artillery fire as the city was destroyed. Yamashita was tried and hanged in 1946.
+  fr: >-
+    Atrocités commises contre les civils philippins par les forces japonaises lors de la bataille de Manille, en février-mars 1945. Environ 10 000 marins japonais du contre-amiral Sanji Iwabuchi, désobéissant à l’ordre du général Yamashita d’évacuer la ville, l’ont défendue jusqu’à la mort et ont tué des civils par fusillades, coups de baïonnette, incendies et viols, notamment au fort Santiago, au collège La Concordia, au collège De La Salle, dans des hôpitaux et des églises. D’autres sont morts dans les combats et sous l’artillerie qui ont détruit la ville. Yamashita a été jugé et pendu en 1946.
+categories: [war, genocide]
+kind: event
+start: "1945-02-03"
+end: "1945-03-03"
+deaths:
+  best: 100000
+  note:
+    en: "Filipino civilian deaths during the Battle of Manila. Best: about 100,000, the combined civilian death toll of the battle, most of it attributed to massacres by Japanese forces (Wikipedia); the Modern War Institute at West Point writes of more than 100,000 civilians killed either deliberately by the Japanese or caught in the crossfire. The massacre cannot be separated from deaths caused by the fighting, including US artillery. A claim of 100,000 to 500,000 deaths from the massacre alone is poorly sourced and is not used."
+    fr: "Morts civiles philippines pendant la bataille de Manille. Valeur centrale : environ 100 000, bilan civil total de la bataille, en majorité attribué aux massacres commis par les forces japonaises (Wikipédia) ; le Modern War Institute de West Point évoque plus de 100 000 civils tués délibérément par les Japonais ou pris entre deux feux. Les morts du massacre ne peuvent pas être séparées de celles des combats, y compris de l’artillerie américaine. Une estimation de 100 000 à 500 000 morts pour le seul massacre, mal sourcée, n’est pas retenue."
+countries:
+  - { code: PH, deaths: 100000 }
+partOf: second-world-war
+sources:
+  - title: Manila massacre
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Manila_massacre
+    accessed: "2026-10-22"
+  - title: "Fighting for the Pearl of the Orient: Lessons from the Battle of Manila"
+    publisher: Modern War Institute at West Point
+    url: https://mwi.westpoint.edu/fighting-for-the-pearl-of-the-orient-lessons-from-the-battle-of-manila/
+    accessed: "2026-10-22"
+  - title: "The Manila Massacre: Remembering the Civilian Tragedy of 1945"
+    publisher: Pacific Atrocities Education
+    url: https://www.pacificatrocities.org/blog/the-manila-massacre-remembering-the-civilian-tragedy-of-1945
+    accessed: "2026-10-22"
+reviewed: false

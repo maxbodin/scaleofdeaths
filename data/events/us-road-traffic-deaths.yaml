@@ -1,0 +1,37 @@
+id: us-road-traffic-deaths
+title:
+  en: Deaths from road traffic crashes in the United States per year
+  fr: Décès dus aux accidents de la route aux États-Unis par an
+description:
+  en: >-
+    People killed in motor vehicle traffic crashes on US public roads in one year, as counted by the National Highway Traffic Safety Administration (NHTSA) in its Fatality Analysis Reporting System (FARS), a census of fatal crashes built with data from each state. It counts anyone who died within 30 days of a crash involving a motor vehicle on a public road, whether in a vehicle or not, such as pedestrians and cyclists. Deaths and the death rate fell for the third year in a row since 2021, to 1.19 deaths per 100 million vehicle miles travelled.
+  fr: >-
+    Personnes tuées dans des accidents de la circulation sur les routes publiques des États-Unis en un an, selon le décompte de la National Highway Traffic Safety Administration (NHTSA) dans son Fatality Analysis Reporting System (FARS), un recensement des accidents mortels alimenté par chaque État. Est comptée toute personne morte dans les 30 jours suivant un accident impliquant un véhicule à moteur sur une voie publique, qu’elle soit dans un véhicule ou non, comme les piétons et cyclistes. Les décès et le taux de mortalité baissent pour la troisième année consécutive depuis 2021.
+categories: [annual, accident]
+kind: endemic-total
+start: "2024"
+end: "2024"
+deaths:
+  best: 39254
+  note:
+    en: >-
+      NHTSA, Overview of Motor Vehicle Traffic Crashes in 2024 (Traffic Safety Facts): 39,254 people killed in 2024, down 4.3% from 41,025 in 2023. This is a count from FARS, so no range is given. NHTSA's early estimate for 2025 is 36,640 deaths, a projection to be replaced by a final count; 2024 is used here as the latest final figure.
+    fr: >-
+      NHTSA, Overview of Motor Vehicle Traffic Crashes in 2024 (Traffic Safety Facts) : 39 254 personnes tuées en 2024, soit 4,3 % de moins que les 41 025 de 2023. Il s’agit d’un décompte issu du FARS, sans fourchette. L’estimation préliminaire de la NHTSA pour 2025 est de 36 640 morts, une projection qui sera remplacée par un chiffre définitif ; 2024 est retenu ici comme dernier chiffre définitif.
+countries:
+  - { code: US, deaths: 39254 }
+related: [road-traffic-deaths]
+sources:
+  - title: Overview of Motor Vehicle Traffic Crashes in 2024 (Traffic Safety Facts)
+    publisher: US National Highway Traffic Safety Administration (ROSA P)
+    url: https://rosap.ntl.bts.gov/view/dot/89790
+    accessed: "2026-10-22"
+  - title: "Traffic Safety Facts Crash Stats: Early Estimates of Motor Vehicle Traffic Fatalities and Fatality Rate by Sub-Categories in 2025"
+    publisher: US National Highway Traffic Safety Administration (ROSA P)
+    url: https://rosap.ntl.bts.gov/view/dot/92422
+    accessed: "2026-10-22"
+  - title: Fatality Analysis Reporting System
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Fatality_Analysis_Reporting_System
+    accessed: "2026-10-22"
+reviewed: false

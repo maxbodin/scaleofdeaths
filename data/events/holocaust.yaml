@@ -1,0 +1,57 @@
+id: holocaust
+title:
+  en: The Holocaust
+  fr: Shoah
+description:
+  en: >-
+    The genocide of European Jews by Nazi Germany and its allies and collaborators. After years of persecution, mass shootings by the Einsatzgruppen and other units began with the invasion of the Soviet Union in 1941. From 1942 Jews from across occupied Europe were deported to the killing centres of Chełmno, Belzec, Sobibor, Treblinka and Auschwitz-Birkenau, where most were gassed on arrival; others died of starvation, disease and abuse in ghettos and camps, or on death marches. About two thirds of Europe's Jews were murdered.
+  fr: >-
+    Génocide des Juifs d’Europe perpétré par l’Allemagne nazie, ses alliés et ses collaborateurs. Après des années de persécutions, les fusillades de masse des Einsatzgruppen commencent avec l’invasion de l’URSS en 1941. Dès 1942, les Juifs de l’Europe occupée sont déportés vers les centres de mise à mort de Chełmno, Belzec, Sobibor, Treblinka et Auschwitz-Birkenau, où la plupart sont gazés dès l’arrivée ; d’autres meurent de faim, de maladie et de sévices dans les ghettos et les camps, ou lors des marches de la mort. Environ deux tiers des Juifs d’Europe sont assassinés.
+categories: [genocide]
+kind: event
+partOf: second-world-war
+start: "1941"
+end: "1945"
+deaths:
+  best: 6000000
+  low: 5700000
+  high: 6200000
+  note:
+    en: Jewish victims only; Roma, Soviet prisoners of war, Polish civilians, people with disabilities and other groups persecuted by Nazi Germany are not included (Roma have their own entry). Best is the six million given by the United States Holocaust Memorial Museum (about 2.7 million murdered at killing centres, about 2 million in mass shootings, 800,000 to 1 million in ghettos and camps, at least 250,000 in other violence) and by Wikipedia. Low and high are the range of scholarly estimates given by Wikipedia (5.7 to 6.2 million; Timothy Snyder's conservative estimate is 5.7 million). Per-country figures are the low estimates of the Columbia Guide to the Holocaust (Niewyk and Nicosia, 2000) as tabulated in Wikipedia's World War II casualties article. They are by the victims' pre-war country (Poland and the Soviet Union in 1939 borders, Hungary and Romania in 1940 borders, Czech lands and Slovakia separately), not by place of death; most victims were killed in German-occupied Poland. The table covers 20 countries and its low estimates total 4,869,860, below the overall estimate.
+    fr: Victimes juives uniquement ; les Roms, les prisonniers de guerre soviétiques, les civils polonais, les personnes handicapées et les autres groupes persécutés par l’Allemagne nazie ne sont pas comptés (les Roms ont leur propre fiche). L’estimation centrale est celle de six millions donnée par l’United States Holocaust Memorial Museum (environ 2,7 millions de personnes assassinées dans les centres de mise à mort, environ 2 millions lors de fusillades de masse, 800 000 à 1 million dans les ghettos et les camps, au moins 250 000 lors d’autres violences) et par Wikipédia. La fourchette est celle des estimations des historiens selon Wikipédia (5,7 à 6,2 millions ; l’estimation prudente de Timothy Snyder est de 5,7 millions). Les chiffres par pays sont les estimations basses du Columbia Guide to the Holocaust (Niewyk et Nicosia, 2000) reprises dans l’article de Wikipédia sur les pertes humaines de la Seconde Guerre mondiale. Ils sont donnés par pays d’avant-guerre des victimes (Pologne et Union soviétique dans leurs frontières de 1939, Hongrie et Roumanie dans celles de 1940, pays tchèques et Slovaquie séparément), et non par lieu de la mort ; la plupart des victimes ont été tuées en Pologne occupée. Le tableau couvre 20 pays et ses estimations basses totalisent 4 869 860 morts, moins que l’estimation globale.
+countries:
+  - { code: PL, deaths: 2700000 }
+  - { code: SU, name: { en: Soviet Union, fr: Union soviétique }, deaths: 700000 }
+  - { code: HU, deaths: 502000 }
+  - { code: DE, deaths: 135000 }
+  - { code: LT, deaths: 130000 }
+  - { code: RO, deaths: 121000 }
+  - { code: NL, deaths: 100000 }
+  - { code: CZ, deaths: 77000 }
+  - { code: FR, deaths: 75000 }
+  - { code: LV, deaths: 70000 }
+  - { code: SK, deaths: 60000 }
+  - { code: GR, deaths: 59000 }
+  - { code: YU, name: { en: Yugoslavia, fr: Yougoslavie }, deaths: 56000 }
+  - { code: AT, deaths: 50000 }
+  - { code: BE, deaths: 25000 }
+  - { code: IT, deaths: 6500 }
+  - { code: EE, deaths: 1500 }
+  - { code: LU, deaths: 1000 }
+  - { code: NO, deaths: 800 }
+  - { code: DK, deaths: 60 }
+related: [romani-genocide]
+sources:
+  - title: The Holocaust
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/The_Holocaust
+    accessed: "2026-10-22"
+  - title: Documenting Numbers of Victims of the Holocaust and Nazi Persecution
+    publisher: United States Holocaust Memorial Museum
+    url: https://encyclopedia.ushmm.org/content/en/article/documenting-numbers-of-victims-of-the-holocaust-and-nazi-persecution
+    accessed: "2026-10-22"
+  - title: World War II casualties
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/World_War_II_casualties
+    accessed: "2026-10-22"
+reviewed: false

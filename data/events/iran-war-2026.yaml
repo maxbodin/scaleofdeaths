@@ -1,0 +1,49 @@
+id: iran-war-2026
+title:
+  en: 2026 Iran war
+  fr: Guerre d’Iran de 2026
+description:
+  en: >-
+    War that began on 28 February 2026 when the United States and Israel launched air strikes across Iran, killing Supreme Leader Ali Khamenei and other officials and hitting nuclear and military sites. Iran answered with missile and drone attacks on Israel, US bases and Gulf states, and blocked the Strait of Hormuz. The war reignited fighting between Israel and Hezbollah in Lebanon and spread to Iraq and Yemen. Israel stopped striking Iran in July 2026, but the conflict was still ongoing in October.
+  fr: >-
+    Guerre commencée le 28 février 2026 par des frappes aériennes des États-Unis et d’Israël sur tout l’Iran, qui tuent le Guide suprême Ali Khamenei et d’autres dirigeants et touchent des sites nucléaires et militaires. L’Iran riposte par des attaques de missiles et de drones contre Israël, des bases américaines et les États du Golfe, et bloque le détroit d’Ormuz. La guerre relance les combats entre Israël et le Hezbollah au Liban et s’étend à l’Irak et au Yémen. Israël cesse de frapper l’Iran en juillet 2026, mais le conflit se poursuit en octobre.
+categories: [war]
+kind: event
+start: "2026-02-28"
+ongoing: true
+asOf: "2026-08-28"
+deaths:
+  best: 7900
+  high: 10600
+  note:
+    en: >-
+      Best is Al Jazeera's tally of at least 7,900 people killed in the first six months, from official figures: at least 4,350 in Lebanon, 3,527 in Iran and 28 in the Gulf states, plus 60 Israelis and 18 US service members killed in Iranian attacks. High is the upper end of Wikipedia's compilation of 8,000 to 10,600 killed in all countries by October 2026, which also counts deaths in Yemen (959 to 1,600 depending on the source) and Iraq (146) and uses the higher estimates for Iran (up to 3,684 according to the rights group HRANA). Figures for Iran are uncertain: Israel and the United States claim more than 6,000 Iranian military personnel killed, and the Kurdish rights group Hengaw gives 7,650 deaths (Wikipedia). Protesters killed in Iran before the war are a separate event.
+    fr: >-
+      L’estimation centrale est le décompte d’Al Jazeera d’au moins 7 900 morts au cours des six premiers mois, à partir des chiffres officiels : au moins 4 350 au Liban, 3 527 en Iran et 28 dans les États du Golfe, plus 60 Israéliens et 18 militaires américains tués par des attaques iraniennes. Le haut est le sommet de la compilation de Wikipédia, de 8 000 à 10 600 morts dans tous les pays en octobre 2026, qui compte aussi les morts au Yémen (959 à 1 600 selon les sources) et en Irak (146) et retient les estimations les plus hautes pour l’Iran (jusqu’à 3 684 selon l’ONG HRANA). Les chiffres pour l’Iran sont incertains : Israël et les États-Unis affirment avoir tué plus de 6 000 militaires iraniens, et l’ONG kurde Hengaw avance 7 650 morts (Wikipédia). Les manifestants tués en Iran avant la guerre font l’objet d’un événement distinct.
+countries:
+  - { code: LB, deaths: 4350 }
+  - { code: IR, deaths: 3527 }
+  - { code: IL }
+  - { code: YE }
+  - { code: IQ }
+  - { code: SA }
+  - { code: AE }
+  - { code: KW }
+  - { code: OM }
+  - { code: BH }
+  - { code: QA }
+related: [iran-israel-war-2025, israel-hezbollah-war, gaza-war, iranian-protests-2025-2026]
+sources:
+  - title: 2026 Iran war
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2026_Iran_war
+    accessed: "2026-10-22"
+  - title: Casualties of the 2026 Iran war
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Casualties_of_the_2026_Iran_war
+    accessed: "2026-10-22"
+  - title: "US-Israel war on Iran, six months down the line: In numbers"
+    publisher: Al Jazeera
+    url: https://www.aljazeera.com/news/2026/8/28/us-israel-war-on-iran-six-months-down-the-line-in-numbers
+    accessed: "2026-10-22"
+reviewed: false

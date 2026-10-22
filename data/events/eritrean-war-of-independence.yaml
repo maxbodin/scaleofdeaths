@@ -1,0 +1,34 @@
+id: eritrean-war-of-independence
+title:
+  en: Eritrean War of Independence
+  fr: Guerre d’indépendance de l’Érythrée
+description:
+  en: >-
+    Thirty-year war for the independence of Eritrea, federated with Ethiopia in 1952 and then annexed by it. The Eritrean Liberation Front began the armed struggle in 1961; the Eritrean People's Liberation Front, which split from it and fought it in the 1970s, became the main rebel force. After the 1974 revolution the Derg military regime launched large offensives, and civilians suffered from reprisals, bombing and war-related famine. The EPLF took Asmara in May 1991, and Eritrea became formally independent after a referendum in 1993.
+  fr: >-
+    Guerre de trente ans pour l’indépendance de l’Érythrée, fédérée à l’Éthiopie en 1952 puis annexée par elle. Le Front de libération de l’Érythrée lance la lutte armée en 1961 ; le Front populaire de libération de l’Érythrée, issu d’une scission et qui le combat dans les années 1970, devient la principale force rebelle. Après la révolution de 1974, le régime militaire du Derg lance de grandes offensives, et les civils subissent représailles, bombardements et famines liées à la guerre. Le FPLE prend Asmara en mai 1991, et l’Érythrée devient officiellement indépendante après un référendum en 1993.
+categories: [war]
+kind: event
+start: "1961-09-01"
+end: "1991-05-29"
+deaths:
+  best: 200000
+  low: 150000
+  high: 350000
+  note:
+    en: Military and civilian deaths, excluding famine deaths, which the sources count separately. Best is the estimate of 200,000 people killed by Bercovitch and Jackson, low the Correlates of War total of 150,000 and high Clodfelter's "up to 350,000 lives" by the end of 1988 (all reported in the PRIO Battle Deaths documentation, which gives no best estimate). Wikipedia gives 65,000 to 70,000 Eritrean fighters and about 100,000 Ethiopian soldiers killed in 1974-1991, plus 150,000 to 280,000 civilians in 1977-1991; per-country figures are the soldiers only (low end for Eritrea). These deaths overlap with those of the Ethiopian Civil War of 1974-1991.
+    fr: Morts militaires et civiles, hors morts de famine, que les sources comptent à part. L’estimation centrale correspond aux 200 000 tués estimés par Bercovitch et Jackson, le bas au total de 150 000 de Correlates of War et le haut aux « jusqu’à 350 000 vies » de Clodfelter à la fin de 1988 (tous cités par la documentation du PRIO sur les morts au combat, qui ne retient pas d’estimation centrale). Wikipédia indique 65 000 à 70 000 combattants érythréens et environ 100 000 soldats éthiopiens tués en 1974-1991, ainsi que 150 000 à 280 000 civils en 1977-1991 ; les chiffres par pays ne comptent que les combattants (bas de la fourchette pour l’Érythrée). Ces morts recoupent celles de la guerre civile éthiopienne de 1974-1991.
+countries:
+  - { code: ET, deaths: 100000 }
+  - { code: ER, deaths: 65000 }
+related: [ethiopian-civil-war, ogaden-war]
+sources:
+  - title: Eritrean War of Independence
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Eritrean_War_of_Independence
+    accessed: "2026-10-22"
+  - title: "The PRIO Battle Deaths Dataset, 1946-2008, Version 3.0: Documentation of Coding Decisions (Lacina), Ethiopia"
+    publisher: Peace Research Institute Oslo (PRIO)
+    url: https://cdn.cloud.prio.org/files/91648bba-8885-40ce-8a78-fae75c850c55/PRIO%20Battle%20Deaths%20Dataset%2030%20Documentation.pdf
+    accessed: "2026-10-22"
+reviewed: false

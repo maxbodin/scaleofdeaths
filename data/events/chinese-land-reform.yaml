@@ -1,0 +1,33 @@
+id: chinese-land-reform
+title:
+  en: Chinese Land Reform Movement
+  fr: Réforme agraire chinoise
+description:
+  en: >-
+    Campaign led by the Chinese Communist Party under Mao Zedong, first in the areas it controlled during the civil war and then across the People's Republic of China, to confiscate land from landlords and redistribute it to peasants. Villagers were mobilised to denounce landlords and rich peasants at public struggle sessions, where many were beaten, executed or killed by crowds. Hundreds of millions of peasants received land, which was collectivised soon afterwards.
+  fr: >-
+    Campagne menée par le Parti communiste chinois sous Mao Zedong, d’abord dans les zones qu’il contrôlait pendant la guerre civile puis dans toute la République populaire de Chine, pour confisquer les terres des propriétaires fonciers et les redistribuer aux paysans. Les villageois étaient mobilisés pour dénoncer propriétaires et paysans riches lors de séances publiques de lutte, où beaucoup furent battus, exécutés ou tués par la foule. Des centaines de millions de paysans reçurent des terres, collectivisées peu après.
+categories: [genocide]
+kind: event
+start: "1946"
+end: "1953"
+deaths:
+  best: 1000000
+  low: 200000
+  high: 2000000
+  note:
+    en: People killed during land reform. Estimates vary widely, and many also include the parallel campaign to suppress counter-revolutionaries (1950-1951). Best is the figure of about one million landlords executed given by the Chinese Posters collection (Stefan Landsberger), which is also the lower bound of the 1 to 2 million executions estimated in 1987 by historians Twitchett, Fairbank and MacFarquhar (Wikipedia). Low is the lower bound of the 200,000 to 800,000 killed estimated by Benedict Stavis in 1978; high is the 2,000,000 upper bound of Twitchett, Fairbank and MacFarquhar and of J. A. G. Roberts (Wikipedia). Some estimates, up to 5 million, cover both campaigns.
+    fr: Personnes tuées pendant la réforme agraire. Les estimations varient fortement, et beaucoup incluent aussi la campagne parallèle de répression des contre-révolutionnaires (1950-1951). L’estimation centrale est le chiffre d’environ un million de propriétaires fonciers exécutés donné par la collection Chinese Posters (Stefan Landsberger), qui est aussi la borne basse des 1 à 2 millions d’exécutions estimées en 1987 par les historiens Twitchett, Fairbank et MacFarquhar (Wikipédia). Le bas est la borne basse des 200 000 à 800 000 tués estimés par Benedict Stavis en 1978 ; le haut est la borne haute de 2 000 000 de Twitchett, Fairbank et MacFarquhar et de J. A. G. Roberts (Wikipédia). Certaines estimations, jusqu’à 5 millions, couvrent les deux campagnes.
+countries:
+  - { code: CN, deaths: 1000000 }
+related: [cultural-revolution, great-chinese-famine]
+sources:
+  - title: Land Reform Movement
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Land_Reform_Movement
+    accessed: "2026-10-22"
+  - title: Land Reform and Collectivization (1950-1953)
+    publisher: Chinese Posters (Stefan R. Landsberger collection)
+    url: https://chineseposters.net/themes/land-reform
+    accessed: "2026-10-22"
+reviewed: false

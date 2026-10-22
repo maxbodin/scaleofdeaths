@@ -1,0 +1,32 @@
+id: south-sudanese-civil-war
+title:
+  en: South Sudanese Civil War
+  fr: Guerre civile sud-soudanaise
+description:
+  en: >-
+    Civil war in South Sudan, independent since 2011, which began in December 2013 when fighting broke out in Juba between forces loyal to President Salva Kiir and those of former Vice-President Riek Machar. The conflict spread to the north-east and other regions, with killings of civilians targeted for their ethnicity, mass graves and attacks on aid workers. Some 4.5 million people were displaced and millions faced severe food insecurity. A revitalised peace agreement was signed in September 2018, although violence continued locally.
+  fr: >-
+    Guerre civile au Soudan du Sud, indépendant depuis 2011, qui commence en décembre 2013 lorsque des combats éclatent à Djouba entre les forces fidèles au président Salva Kiir et celles de l’ancien vice-président Riek Machar. Le conflit s’étend au nord-est et à d’autres régions, avec des meurtres de civils visés pour leur ethnie, des charniers et des attaques contre les humanitaires. Quelque 4,5 millions de personnes sont déplacées et des millions souffrent d’une grave insécurité alimentaire. Un accord de paix revitalisé est signé en septembre 2018, mais des violences locales continuent.
+categories: [war]
+kind: event
+start: "2013-12-15"
+end: "2018-09-12"
+deaths:
+  best: 383000
+  low: 50000
+  note:
+    en: Excess deaths, violent and non-violent, among combatants and civilians. Best is the estimate of a study by the London School of Hygiene and Tropical Medicine, commissioned by the US Institute of Peace, of about 383,000 deaths caused by the war up to April 2018, roughly half of them (about 190,000) from violence and the rest from disrupted health services and food insecurity; its authors consider it conservative. Low is the "at least 50,000" deaths often cited since 2014 (Congressional Research Service). South Sudanese officials disputed the study and put the toll at 20,000.
+    fr: Morts en excès, violentes et non violentes, parmi les combattants et les civils. L’estimation centrale est celle d’une étude de la London School of Hygiene and Tropical Medicine commandée par l’US Institute of Peace, soit environ 383 000 morts dues à la guerre jusqu’en avril 2018, dont à peu près la moitié (environ 190 000) par violence et les autres à cause de l’effondrement des services de santé et de l’insécurité alimentaire ; ses auteurs la jugent prudente. Le bas correspond aux « au moins 50 000 » morts souvent cités depuis 2014 (Congressional Research Service). Les autorités sud-soudanaises ont contesté l’étude et avancé le chiffre de 20 000 morts.
+countries:
+  - { code: SS, deaths: 383000 }
+related: [second-sudanese-civil-war]
+sources:
+  - title: South Sudanese Civil War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/South_Sudanese_Civil_War
+    accessed: "2026-10-22"
+  - title: "South Sudan's Civil War: Nearly 400,000 Estimated Dead (CRS Insight IN10975)"
+    publisher: Congressional Research Service (via EveryCRSReport)
+    url: https://www.everycrsreport.com/files/20180928_IN10975_0ed63671d5bfda23305372132b1bf9dc81773fed.html
+    accessed: "2026-10-22"
+reviewed: false

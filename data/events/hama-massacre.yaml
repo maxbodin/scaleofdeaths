@@ -1,0 +1,32 @@
+id: hama-massacre
+title:
+  en: Hama massacre
+  fr: Massacre de Hama
+description:
+  en: >-
+    Siege and storming of the city of Hama, Syria, by the army and security forces of President Hafez al-Assad to crush an uprising by the Muslim Brotherhood. Around 12,000 troops, including the Defence Companies of Rifaat al-Assad, besieged the city for weeks, shelling neighbourhoods with artillery and tanks and then carrying out mass killings of residents. Large parts of the city were destroyed, thousands of people disappeared, and almost all the dead were Sunni Muslims.
+  fr: >-
+    Siège et prise de la ville de Hama, en Syrie, par l’armée et les forces de sécurité du président Hafez el-Assad pour écraser un soulèvement des Frères musulmans. Environ 12 000 soldats, dont les Compagnies de défense de Rifaat el-Assad, assiégèrent la ville pendant des semaines, bombardant les quartiers à l’artillerie et au char avant de massacrer les habitants. Une grande partie de la ville fut détruite, des milliers de personnes disparurent, et la quasi-totalité des morts étaient des musulmans sunnites.
+categories: [genocide]
+kind: event
+start: "1982-02-02"
+end: "1982-02-28"
+deaths:
+  best: 20000
+  low: 5000
+  high: 40000
+  note:
+    en: People killed during the siege and the massacres that followed, mostly civilians; some estimates include about 1,000 soldiers. Best is the figure of 20,000 given by journalist Robert Fisk, who reached Hama during the siege and later wrote of "at least 10,000 ... possibly 20,000" dead (The Independent). Low is the lower bound of the 5,000 to 10,000 deaths reported by Human Rights Watch in 1990; Amnesty International initially estimated 10,000 to 25,000; high is the 30,000 to 40,000 claimed by the Syrian Human Rights Committee, an opposition group (Wikipedia). Initial Western diplomatic reports spoke of 1,000 dead.
+    fr: Personnes tuées pendant le siège et les massacres qui suivirent, surtout des civils ; certaines estimations incluent environ 1 000 soldats. L’estimation centrale est le chiffre de 20 000 morts avancé par le journaliste Robert Fisk, entré dans Hama pendant le siège, qui a écrit « au moins 10 000, peut-être 20 000 » morts (The Independent). Le bas est la borne basse des 5 000 à 10 000 morts rapportés par Human Rights Watch en 1990 ; Amnesty International estimait d’abord 10 000 à 25 000 morts ; le haut correspond aux 30 000 à 40 000 morts avancés par le Comité syrien des droits de l’homme, proche de l’opposition (Wikipédia). Les premiers rapports diplomatiques occidentaux évoquaient 1 000 morts.
+countries:
+  - { code: SY, deaths: 20000 }
+sources:
+  - title: 1982 Hama massacre
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1982_Hama_massacre
+    accessed: "2026-10-22"
+  - title: "Robert Fisk: The new focus of Syria's crackdown has seen similar bloodshed before"
+    publisher: The Independent
+    url: https://www.independent.co.uk/voices/commentators/fisk/robert-fisk-the-new-focus-of-syrias-crackdown-has-seen-similar-bloodshed-before-2307427.html
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,33 @@
+id: cultural-revolution
+title:
+  en: Cultural Revolution
+  fr: Révolution culturelle
+description:
+  en: >-
+    Sociopolitical movement launched in the People's Republic of China by Mao Zedong in 1966, which lasted until his death in 1976. Red Guards attacked officials, teachers and "class enemies", factional fighting between rebel groups turned into armed battles, and the army's restoration of order brought purge campaigns and massacres. Most deaths came from that repression rather than from the Red Guards themselves. Tens of millions were persecuted and schools and universities were closed.
+  fr: >-
+    Mouvement sociopolitique lancé en République populaire de Chine par Mao Zedong en 1966 et qui dura jusqu’à sa mort en 1976. Les gardes rouges s’en prirent aux cadres, aux enseignants et aux « ennemis de classe », les luttes entre factions rebelles tournèrent aux combats armés, et le rétablissement de l’ordre par l’armée s’accompagna de campagnes de purge et de massacres. La plupart des morts sont dues à cette répression plutôt qu’aux gardes rouges eux-mêmes. Des dizaines de millions de personnes furent persécutées et les écoles et universités fermées.
+categories: [genocide]
+kind: event
+start: "1966-05"
+end: "1976-10"
+deaths:
+  best: 1600000
+  low: 1000000
+  high: 2000000
+  note:
+    en: Deaths from killings, executions, armed factional fighting, persecution and forced suicides. Best is sociologist Andrew Walder's estimate of 1.6 million, based on more than 2,200 local annals (Stanford University; his range is 1.1 to 1.6 million for 1966-1971). The range is the 1 to 2 million given by Wikipedia; an internal Party count cited by the CCP History Research Center gives 1.728 million unnatural deaths. Older estimates range from 400,000 (AFP, 1979) to claims of 20 million that scholars have discredited.
+    fr: Morts par massacres, exécutions, combats entre factions, persécutions et suicides forcés. L’estimation centrale est celle du sociologue Andrew Walder, 1,6 million, fondée sur plus de 2 200 annales locales (université Stanford ; sa fourchette est de 1,1 à 1,6 million pour 1966-1971). La fourchette est celle de 1 à 2 millions donnée par Wikipédia ; un décompte interne du Parti cité par le Centre de recherche sur l’histoire du PCC fait état de 1,728 million de morts non naturelles. Les estimations plus anciennes vont de 400 000 (AFP, 1979) à 20 millions, chiffre écarté par les historiens.
+countries:
+  - { code: CN, deaths: 1600000 }
+related: [great-chinese-famine, chinese-land-reform]
+sources:
+  - title: Cultural Revolution
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Cultural_Revolution
+    accessed: "2026-10-22"
+  - title: "China's Cultural Revolution was a power grab from within the government, not from without, Stanford sociologist finds"
+    publisher: Stanford University
+    url: https://news.stanford.edu/stories/2019/10/violence-unfolded-chinas-cultural-revolution
+    accessed: "2026-10-22"
+reviewed: false

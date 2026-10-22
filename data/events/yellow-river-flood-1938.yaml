@@ -1,0 +1,34 @@
+id: yellow-river-flood-1938
+title:
+  en: 1938 Yellow River flood
+  fr: Inondation du fleuve Jaune de 1938
+description:
+  en: >-
+    Flood caused when Chinese Nationalist troops, on Chiang Kai-shek's orders, breached the Yellow River dikes at Huayuankou, Henan, in June 1938 to halt the Japanese advance during the Second Sino-Japanese War. The river left its course and flooded large parts of Henan, Anhui and Jiangsu, with little or no warning to residents. Tens of thousands drowned and many more died in the following years from famine and disease. About five million people lived on flooded land until the breach was closed and the river returned to its old course in 1947.
+  fr: >-
+    Inondation provoquée en juin 1938 par les troupes nationalistes qui, sur ordre de Tchang Kaï-chek, rompent les digues du fleuve Jaune à Huayuankou, dans le Henan, pour arrêter l’avancée japonaise pendant la guerre sino-japonaise. Le fleuve quitte son lit et inonde une grande partie du Henan, de l’Anhui et du Jiangsu, presque sans avertissement pour les habitants. Des dizaines de milliers de personnes se noient et bien davantage meurent les années suivantes de famine et de maladie. Environ cinq millions de personnes vivent sur des terres inondées jusqu’à la fermeture de la brèche en 1947.
+categories: [war, natural-disaster]
+kind: event
+partOf: second-world-war
+start: "1938-06"
+end: "1947-01"
+deaths:
+  best: 500000
+  low: 400000
+  high: 893303
+  note:
+    en: Deaths from drowning, famine and disease in the flooded areas of Henan, Anhui and Jiangsu over the years the river stayed out of its course, until 1947; immediate drowning deaths are estimated at 30,000 to 89,000. Low and best are the 400,000 to 500,000 given by two professional Chinese studies (Wang Zhibin, 1986; Bi Chunfu, 1995); best is the upper figure, which is also one of two 1950s estimates (470,000 and 500,000). High is the 893,303 deaths of the Nationalist government's 1948 relief statistics, used by historian Micah Muscolino ("more than 800,000" between 1938 and 1947) but discredited according to the studies cited by Wikipedia for its unexplained counting method. Deaths after September 1945 fall outside the war, and some famine deaths of 1942-1943 in flooded eastern Henan may also be counted in the Henan famine.
+    fr: Morts par noyade, famine et maladie dans les zones inondées du Henan, de l’Anhui et du Jiangsu pendant les années où le fleuve est resté hors de son lit, jusqu’en 1947 ; les noyades immédiates sont estimées entre 30 000 et 89 000. Le bas de la fourchette et l’estimation centrale correspondent aux 400 000 à 500 000 morts de deux études chinoises spécialisées (Wang Zhibin, 1986 ; Bi Chunfu, 1995) ; l’estimation centrale en est le haut, qui est aussi l’une des deux estimations des années 1950 (470 000 et 500 000). Le haut de la fourchette est le chiffre de 893 303 morts des statistiques de secours du gouvernement nationaliste de 1948, repris par l’historien Micah Muscolino (« plus de 800 000 » entre 1938 et 1947) mais discrédité selon les études citées par Wikipédia en raison de sa méthode de comptage non précisée. Les morts postérieures à septembre 1945 sortent du cadre de la guerre, et une partie des morts de la famine de 1942-1943 dans l’est inondé du Henan peut aussi être comptée dans la famine du Henan.
+countries:
+  - { code: CN, deaths: 500000 }
+related: [henan-famine-1942, yellow-river-flood-1887]
+sources:
+  - title: 1938 Yellow River flood
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1938_Yellow_River_flood
+    accessed: "2026-10-22"
+  - title: Yellow River flood, 1938-47
+    publisher: DisasterHistory.org
+    url: https://disasterhistory.org/yellow-river-flood-1938-47
+    accessed: "2026-10-22"
+reviewed: false

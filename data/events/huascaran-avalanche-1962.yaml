@@ -1,0 +1,40 @@
+id: huascaran-avalanche-1962
+title:
+  en: 1962 Huascarán avalanche
+  fr: Avalanche du Huascarán de 1962
+description:
+  en: >-
+    On the evening of 10 January 1962, a huge mass of glacier ice broke away from Huascarán, Peru's highest mountain, in the Cordillera Blanca. The avalanche of ice, rock and mud raced about 15 km down the valley in minutes, burying the village of Ranrahirca and several other settlements before reaching the Santa River, which carried bodies down to the Pacific coast at Chimbote. The same valley was devastated again in 1970 by a much larger avalanche set off by an earthquake.
+  fr: >-
+    Le soir du 10 janvier 1962, une énorme masse de glace s’est détachée d’un glacier du Huascarán, plus haut sommet du Pérou, dans la cordillère Blanche. L’avalanche de glace, de roches et de boue a dévalé la vallée sur une quinzaine de kilomètres en quelques minutes, ensevelissant le village de Ranrahirca et plusieurs autres localités avant d’atteindre le río Santa, qui a charrié des corps jusqu’à la côte Pacifique, à Chimbote. La même vallée a de nouveau été dévastée en 1970 par une avalanche bien plus importante déclenchée par un séisme.
+categories: [natural-disaster]
+kind: event
+start: "1962-01-10"
+deaths:
+  best: 4000
+  low: 3000
+  note:
+    en: >-
+      Best is the approximately 4,000 deaths given by History.com and by Wikipedia's article on Huascarán. At the time, the Peruvian Red Cross estimated 2,000 to 2,500 deaths and local authorities 3,000 to 4,000 (BBC); low is 3,000. The Wikipedia article on the Ranrahirca landslide gives about 3,500.
+    fr: >-
+      L’estimation centrale est le chiffre d’environ 4 000 morts donné par History.com et par l’article de Wikipédia sur le Huascarán. À l’époque, la Croix-Rouge péruvienne estimait le bilan à 2 000 à 2 500 morts et les autorités locales à 3 000 à 4 000 (BBC) ; l’estimation basse est de 3 000. L’article de Wikipédia sur le glissement de Ranrahirca donne environ 3 500.
+countries:
+  - { code: PE, deaths: 4000 }
+sources:
+  - title: Huascarán
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Huascar%C3%A1n
+    accessed: "2026-10-22"
+  - title: 1962 Ranrahirca Landslide
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1962_Ranrahirca_Landslide
+    accessed: "2026-10-22"
+  - title: "1962: Thousands killed in Peru landslide"
+    publisher: BBC On This Day
+    url: https://news.bbc.co.uk/onthisday/hi/dates/stories/january/11/newsid_3306000/3306665.stm
+    accessed: "2026-10-22"
+  - title: Avalanche kills thousands in Peru
+    publisher: History.com
+    url: https://www.history.com/this-day-in-history/January-10/avalanche-kills-thousands-in-peru
+    accessed: "2026-10-22"
+reviewed: false

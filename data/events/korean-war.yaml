@@ -1,0 +1,63 @@
+id: korean-war
+title:
+  en: Korean War
+  fr: Guerre de Corée
+description:
+  en: >-
+    War on the Korean Peninsula that began when North Korea invaded South Korea in June 1950. A United Nations force led by the United States intervened for the South, and China entered the war on the side of the North in late 1950. Front lines swept the length of the peninsula before stalling near the 38th parallel. Civilians made up most of the dead, killed in fighting, massacres, bombing, and by hunger and disease. An armistice ended the fighting in July 1953, but no peace treaty was signed.
+  fr: >-
+    Guerre dans la péninsule coréenne déclenchée par l’invasion de la Corée du Sud par la Corée du Nord en juin 1950. Une force des Nations unies menée par les États-Unis intervient aux côtés du Sud, puis la Chine entre en guerre aux côtés du Nord à la fin de 1950. Le front balaie toute la péninsule avant de se figer près du 38e parallèle. Les civils représentent la majorité des morts, victimes des combats, de massacres, de bombardements, de la faim et des maladies. Un armistice met fin aux combats en juillet 1953, sans traité de paix.
+categories: [war]
+kind: event
+start: "1950-06-25"
+end: "1953-07-27"
+deaths:
+  best: 3000000
+  low: 2500000
+  high: 3500000
+  note:
+    en: Military and civilian deaths. Best is the "about 3 million" killed given by Wikipedia (citing Bruce Cumings), which matches the PRIO mid-estimate and Matthew White's figure (Necrometrics). The range is the 2.5 to 3.5 million of Wikipedia's list of wars by death toll; Guenter Lewy's 3.5 million includes 2 to 3 million civilians. Around 1 million of the dead were soldiers. Per-country figures are military deaths only, by nationality (civilian deaths, mostly Korean, are not split by country); where sources give a range the low end is used (North Korea 294,151 to 316,579; China 183,108 to 197,653). South Korea later put its military deaths from all causes at about 257,000.
+    fr: Morts militaires et civiles. L’estimation centrale correspond aux « environ 3 millions » de tués indiqués par Wikipédia (d’après Bruce Cumings), en accord avec l’estimation médiane du PRIO et le chiffre de Matthew White (Necrometrics). La fourchette est celle de 2,5 à 3,5 millions de la liste des guerres de Wikipédia ; les 3,5 millions de Guenter Lewy incluent 2 à 3 millions de civils. Environ 1 million des morts étaient des soldats. Les chiffres par pays sont des morts militaires uniquement, par nationalité (les morts civiles, surtout coréennes, ne sont pas ventilées) ; quand les sources donnent une fourchette, le bas est retenu (Corée du Nord 294 151 à 316 579 ; Chine 183 108 à 197 653). La Corée du Sud a ensuite estimé ses morts militaires toutes causes à environ 257 000.
+countries:
+  - { code: KP, deaths: 294151 }
+  - { code: CN, deaths: 183108 }
+  - { code: KR, deaths: 137899 }
+  - { code: US, deaths: 36574 }
+  - { code: GB, deaths: 1109 }
+  - { code: TR, deaths: 741 }
+  - { code: CA, deaths: 516 }
+  - { code: AU, deaths: 339 }
+  - { code: SU, name: { en: Soviet Union, fr: Union soviétique }, deaths: 299 }
+  - { code: FR, deaths: 262 }
+  - { code: GR, deaths: 192 }
+  - { code: CO, deaths: 163 }
+  - { code: TH, deaths: 129 }
+  - { code: NL, deaths: 122 }
+  - { code: ET, deaths: 121 }
+  - { code: BE, deaths: 101 }
+  - { code: PH, deaths: 92 }
+  - { code: JP, deaths: 79 }
+  - { code: NZ, deaths: 34 }
+  - { code: ZA, deaths: 34 }
+  - { code: NO, deaths: 3 }
+  - { code: LU, deaths: 2 }
+  - { code: IN, deaths: 1 }
+related: [chinese-civil-war]
+sources:
+  - title: Korean War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Korean_War
+    accessed: "2026-10-22"
+  - title: List of wars by death toll
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_wars_by_death_toll
+    accessed: "2026-10-22"
+  - title: "Death Tolls for the Major Wars and Atrocities of the Twentieth Century: Korean War (1950-53)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c1m.htm
+    accessed: "2026-10-22"
+  - title: Wall and Pool of Remembrance - Korean War Veterans Memorial
+    publisher: US National Park Service
+    url: https://www.nps.gov/kowa/learn/historyculture/wall-and-pool-of-remembrance.htm
+    accessed: "2026-10-22"
+reviewed: false

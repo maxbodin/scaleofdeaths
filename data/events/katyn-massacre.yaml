@@ -1,0 +1,37 @@
+id: katyn-massacre
+title:
+  en: Katyn massacre
+  fr: Massacre de Katyń
+description:
+  en: >-
+    Mass executions of Polish prisoners by the Soviet NKVD in April and May 1940, ordered by the Politburo under Stalin. The victims, captured after the Soviet invasion of Poland, included about 8,000 army officers, 6,000 police officers and 8,000 members of the intelligentsia. They were shot in the Katyn forest near Smolensk, in Kalinin and Kharkiv, and in prisons in the western Byelorussian and Ukrainian SSRs. The Soviet Union blamed Nazi Germany until 1990. A 2009 resolution of the Polish Sejm said the massacre bears the hallmarks of genocide.
+  fr: >-
+    Exécutions de masse de prisonniers polonais par le NKVD soviétique en avril et mai 1940, sur ordre du Politburo dirigé par Staline. Les victimes, capturées après l’invasion soviétique de la Pologne, comptaient environ 8 000 officiers de l’armée, 6 000 policiers et 8 000 membres de l’intelligentsia. Elles ont été fusillées dans la forêt de Katyń près de Smolensk, à Kalinine et à Kharkiv, ainsi que dans des prisons de l’ouest des RSS de Biélorussie et d’Ukraine. L’URSS a accusé l’Allemagne nazie jusqu’en 1990. En 2009, la Diète polonaise y a vu les caractéristiques d’un génocide.
+categories: [genocide]
+kind: event
+start: "1940-04"
+end: "1940-05"
+deaths:
+  best: 21857
+  low: 21768
+  high: 22000
+  note:
+    en: "Polish prisoners executed. Best: 21,857, the number in Soviet documents declassified in 1990 (4,421 from the Kozelsk camp, 3,820 from Starobelsk, 6,311 from Ostashkov and 7,305 from prisons in the Byelorussian and Ukrainian SSRs). Low: 21,768, the confirmed minimum; high: about 22,000, the usual estimate (Wikipedia, BBC). A Russian investigation in 2005 confirmed only 1,803 deaths. All the killings took place in the Soviet Union, today Russia, Ukraine and Belarus."
+    fr: "Prisonniers polonais exécutés. Valeur centrale : 21 857, nombre figurant dans les documents soviétiques déclassifiés en 1990 (4 421 du camp de Kozelsk, 3 820 de Starobelsk, 6 311 d’Ostachkov et 7 305 des prisons des RSS de Biélorussie et d’Ukraine). Bas : 21 768, minimum confirmé ; haut : environ 22 000, estimation habituelle (Wikipédia, BBC). Une enquête russe de 2005 n’a confirmé que 1 803 morts. Toutes les exécutions ont eu lieu en Union soviétique, aujourd’hui la Russie, l’Ukraine et la Biélorussie."
+countries:
+  - { code: SU, name: { en: Soviet Union, fr: Union soviétique }, deaths: 21857 }
+partOf: second-world-war
+sources:
+  - title: Katyn massacre
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Katyn_massacre
+    accessed: "2026-10-22"
+  - title: Russian parliament condemns Stalin for Katyn massacre
+    publisher: BBC News
+    url: https://www.bbc.com/news/world-europe-11845315
+    accessed: "2026-10-22"
+  - title: Records Relating to the Katyn Forest Massacre at the National Archives
+    publisher: U.S. National Archives
+    url: https://www.archives.gov/research/foreign-policy/katyn-massacre
+    accessed: "2026-10-22"
+reviewed: false

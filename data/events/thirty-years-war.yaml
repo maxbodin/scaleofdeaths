@@ -1,0 +1,42 @@
+id: thirty-years-war
+title:
+  en: Thirty Years' War
+  fr: Guerre de Trente Ans
+description:
+  en: >-
+    Series of wars fought mainly in the Holy Roman Empire, which began with a Protestant revolt in Bohemia against Habsburg rule and widened into a European struggle involving Denmark, Sweden, France and Spain. Armies living off the land plundered the countryside and spread plague, typhus and dysentery, and local records show that most civilians died of disease and hunger rather than violence. Parts of Germany lost more than half of their population. The war ended with the Peace of Westphalia in 1648.
+  fr: >-
+    Série de guerres livrées surtout dans le Saint-Empire, ouverte par une révolte protestante en Bohême contre les Habsbourg et élargie en conflit européen impliquant le Danemark, la Suède, la France et l’Espagne. Des armées vivant sur le pays pillent les campagnes et propagent peste, typhus et dysenterie, et les registres locaux montrent que la plupart des civils sont morts de maladie et de faim plutôt que de violences. Certaines régions d’Allemagne perdent plus de la moitié de leur population. La paix de Westphalie y met fin en 1648.
+categories: [war]
+kind: event
+start: "1618-05-23"
+end: "1648-10-24"
+deaths:
+  best: 7500000
+  low: 4500000
+  high: 8000000
+  note:
+    en: "Military and civilian deaths, including plague, typhus, dysentery and famine. Range: 4.5 to 8 million (Outram and Wilson, via Wikipedia); the World History Encyclopedia puts the toll at around 8 million. Best: 7.5 million, the median of the population-loss estimates compiled by Matthew White (Necrometrics). Military deaths are estimated at 1.3 to 1.8 million. Many figures are population declines, which also reflect migration and fewer births. Per-country figures are Colin McEvedy's population losses within modern borders (Czechoslovakia for CZ), at the low end of estimates: C. V. Wedgwood put the loss of the Empire's German lands at about 7.5 million."
+    fr: "Morts militaires et civiles, y compris la peste, le typhus, la dysenterie et la famine. Fourchette : 4,5 à 8 millions (Outram et Wilson, via Wikipédia) ; la World History Encyclopedia avance environ 8 millions. Estimation centrale : 7,5 millions, médiane des estimations de pertes de population réunies par Matthew White (Necrometrics). Les morts militaires sont estimées entre 1,3 et 1,8 million. Beaucoup de chiffres sont des baisses de population, qui traduisent aussi les migrations et la baisse des naissances. Les chiffres par pays sont les pertes de population estimées par Colin McEvedy dans les frontières actuelles (la Tchécoslovaquie pour CZ), au bas des estimations : C. V. Wedgwood évaluait la perte des terres allemandes de l’Empire à environ 7,5 millions."
+countries:
+  - { code: DE, deaths: 2000000 }
+  - { code: CZ, deaths: 750000 }
+  - { code: AT }
+  - { code: PL }
+  - { code: FR }
+  - { code: DK }
+related: [eighty-years-war]
+sources:
+  - title: Thirty Years' War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Thirty_Years%27_War
+    accessed: "2026-10-22"
+  - title: Selected Death Tolls for Wars, Massacres and Atrocities Before the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/pre1700a.htm
+    accessed: "2026-10-22"
+  - title: Eighty Years' War (with the Thirty Years' War toll)
+    publisher: World History Encyclopedia
+    url: https://www.worldhistory.org/Eighty_Years%27_War/
+    accessed: "2026-10-22"
+reviewed: false

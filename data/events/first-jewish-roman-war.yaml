@@ -1,0 +1,37 @@
+id: first-jewish-roman-war
+title:
+  en: First Jewish-Roman War
+  fr: Première Guerre judéo-romaine
+description:
+  en: >-
+    Revolt of the Jews of Judaea against Roman rule, sparked by tensions under the governor Gessius Florus. After the rebels routed a Roman army in 66, Vespasian and then his son Titus reconquered Galilee and Judaea. In 70 Jerusalem fell after a long siege marked by famine and fighting between rebel factions, and the Second Temple was destroyed. The war ended with the fall of the last strongholds, including Masada in 73 or 74, and many survivors were enslaved.
+  fr: >-
+    Révolte des Juifs de Judée contre la domination romaine, déclenchée par les tensions sous le procurateur Gessius Florus. Après la déroute d’une armée romaine face aux rebelles en 66, Vespasien puis son fils Titus reconquièrent la Galilée et la Judée. En 70, Jérusalem tombe après un long siège marqué par la famine et les luttes entre factions rebelles, et le Second Temple est détruit. La guerre s’achève avec la chute des dernières places fortes, dont Massada en 73 ou 74, et de nombreux survivants sont réduits en esclavage.
+categories: [war]
+kind: event
+start: "0066"
+end: "0073"
+deaths:
+  best: 1100000
+  low: 20000
+  high: 1197000
+  note:
+    en: "Jewish deaths from fighting, famine and massacres. The ancient figures, all from Josephus, are disputed. Best: 1.1 million dead in the siege of Jerusalem, Josephus' figure and the one most often cited, but widely considered exaggerated: Seth Schwartz estimates the whole population of Judaea at about 1 million. High: 1,197,000 Jews killed in the whole revolt according to Josephus, as tallied by Will Durant (via Necrometrics). Low: Guy Rogers' estimate of 20,000 to 30,000 deaths in Jerusalem (low end), which leaves out the rest of the war. Moshe David Herr estimates that a quarter of Judaea's Jews were killed."
+    fr: "Morts juives dues aux combats, à la famine et aux massacres. Les chiffres antiques, tous issus de Flavius Josèphe, sont contestés. Estimation centrale : 1,1 million de morts lors du siège de Jérusalem, chiffre de Josèphe et le plus souvent cité, mais largement jugé exagéré : Seth Schwartz estime toute la population de la Judée à environ 1 million d’habitants. Haut : 1 197 000 Juifs tués dans toute la révolte selon Josèphe, d’après le décompte de Will Durant (via Necrometrics). Bas : estimation de Guy Rogers de 20 000 à 30 000 morts à Jérusalem (bas de la fourchette), qui exclut le reste de la guerre. Moshe David Herr estime qu’un quart des Juifs de Judée ont été tués."
+countries:
+  - { code: IL }
+  - { code: PS }
+sources:
+  - title: First Jewish-Roman War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/First_Jewish%E2%80%93Roman_War
+    accessed: "2026-10-22"
+  - title: The Jewish Revolts Against Rome
+    publisher: Bible Odyssey
+    url: https://www.bibleodyssey.org/articles/the-jewish-revolts-from-rome/
+    accessed: "2026-10-22"
+  - title: Body Count of the Roman Empire
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/romestat.htm
+    accessed: "2026-10-22"
+reviewed: false

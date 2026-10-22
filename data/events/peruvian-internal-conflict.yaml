@@ -1,0 +1,36 @@
+id: peruvian-internal-conflict
+title:
+  en: Internal conflict in Peru
+  fr: Conflit armé interne au Pérou
+description:
+  en: >-
+    Armed conflict that began in May 1980 when the Maoist Shining Path launched an armed struggle against the Peruvian state, later joined by the Túpac Amaru Revolutionary Movement (MRTA). Shining Path carried out massacres and assassinations, while the armed forces and police committed massacres, forced disappearances and torture. Most victims were poor rural peasants, three quarters of them native Quechua speakers, and more than 40% of reported deaths were in Ayacucho. Shining Path leader Abimael Guzmán was captured in 1992; the main phase of the conflict ended around 2000.
+  fr: >-
+    Conflit armé déclenché en mai 1980 par le Sentier lumineux, maoïste, contre l’État péruvien, rejoint ensuite par le Mouvement révolutionnaire Túpac Amaru (MRTA). Le Sentier lumineux commet massacres et assassinats, tandis que l’armée et la police pratiquent massacres, disparitions forcées et torture. La plupart des victimes sont des paysans pauvres, aux trois quarts de langue maternelle quechua, et plus de 40 % des morts recensées concernent l’Ayacucho. Le chef du Sentier lumineux, Abimael Guzmán, est capturé en 1992 ; la phase principale du conflit prend fin vers 2000.
+categories: [war]
+kind: event
+start: "1980-05-17"
+end: "2000"
+deaths:
+  best: 69280
+  low: 61007
+  high: 77552
+  note:
+    en: People killed or disappeared in 1980-2000, the period covered by Peru's Truth and Reconciliation Commission (CVR). Best is the CVR's estimate of 69,280 deaths, the most probable figure obtained by multiple systems estimation from about 24,000 reported deaths; the range is its 95% confidence interval (61,007 to 77,552), from the statistical report by Ball and colleagues (HRDAG). The estimate attributes 46% of the deaths to Shining Path, 30% to state agents and 24% to other perpetrators, including the MRTA, peasant self-defence groups and paramilitaries. Low-level fighting with Shining Path remnants after 2000 is not included.
+    fr: Personnes tuées ou disparues de 1980 à 2000, période étudiée par la Commission de la vérité et de la réconciliation (CVR) du Pérou. L’estimation centrale est celle de la CVR, 69 280 morts, chiffre le plus probable obtenu par estimation à systèmes multiples à partir d’environ 24 000 décès signalés ; la fourchette est son intervalle de confiance à 95 % (61 007 à 77 552), tiré du rapport statistique de Ball et de ses collègues (HRDAG). L’estimation attribue 46 % des morts au Sentier lumineux, 30 % aux agents de l’État et 24 % à d’autres auteurs, dont le MRTA, les comités d’autodéfense paysans et des paramilitaires. Les combats de faible intensité avec les restes du Sentier lumineux après 2000 ne sont pas comptés.
+countries:
+  - { code: PE, deaths: 69280 }
+sources:
+  - title: Internal conflict in Peru
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Internal_conflict_in_Peru
+    accessed: "2026-10-22"
+  - title: Conclusiones generales del Informe Final de la CVR
+    publisher: Comisión de la Verdad y Reconciliación (Peru)
+    url: https://www.cverdad.org.pe/ifinal/conclusiones.php
+    accessed: "2026-10-22"
+  - title: "How Many Peruvians Have Died? (Ball, Asher, Sulmont and Manrique, 2003)"
+    publisher: Human Rights Data Analysis Group (HRDAG), American Association for the Advancement of Science
+    url: https://hrdag.org/wp-content/uploads/2013/02/aaas_peru_5.pdf
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,37 @@
+id: ethiopian-civil-war
+title:
+  en: Ethiopian Civil War
+  fr: Guerre civile éthiopienne
+description:
+  en: >-
+    Civil war that followed the overthrow of Emperor Haile Selassie in 1974 by the Derg, a military junta that became a Marxist-Leninist regime under Mengistu Haile Mariam. The government fought Eritrean, Tigrayan and other armed movements, killed tens of thousands of suspected opponents in the Red Terror and also fought Somalia in the Ogaden War. War and government policies such as forced resettlement worsened the 1983-1985 famine. The war ended in May 1991 when rebel forces took Addis Ababa; Eritrea became independent in 1993.
+  fr: >-
+    Guerre civile qui suit le renversement de l’empereur Hailé Sélassié en 1974 par le Derg, une junte militaire devenue un régime marxiste-léniniste sous Mengistu Hailé Mariam. Le gouvernement combat des mouvements armés érythréens, tigréens et autres, tue des dizaines de milliers d’opposants présumés lors de la Terreur rouge et affronte aussi la Somalie dans la guerre de l’Ogaden. La guerre et des politiques comme les déplacements forcés aggravent la famine de 1983-1985. La guerre prend fin en mai 1991 avec la prise d’Addis-Abeba par les rebelles ; l’Érythrée devient indépendante en 1993.
+categories: [war]
+kind: event
+start: "1974-09-12"
+end: "1991-05-28"
+deaths:
+  best: 400000
+  high: 579000
+  note:
+    en: Deaths from combat and other violence only. The famine deaths linked to the war (about 1 to 1.2 million, mostly in the 1983-1985 famine) are not included; with them, Wikipedia gives at least 1.4 million deaths and other sources up to 2 million. Best is the 400,000 war deaths reported by the Washington Post when the war ended (cited by Wikipedia and Necrometrics), consistent with Wikipedia's lead. High is the 2008 BMJ survey-based estimate of 579,000 violent war deaths in Ethiopia, which covers the longer period 1955-2002 (Uppsala/PRIO data give 275,000 for the same period). No per-country split is available between Ethiopia and Eritrea.
+    fr: Morts au combat et dues aux autres violences uniquement. Les morts de la famine liée à la guerre (environ 1 à 1,2 million, surtout pendant la famine de 1983-1985) ne sont pas comptées ; en les incluant, Wikipédia indique au moins 1,4 million de morts et d’autres sources jusqu’à 2 millions. L’estimation centrale correspond aux 400 000 morts de guerre rapportés par le Washington Post à la fin du conflit (cités par Wikipédia et Necrometrics), en accord avec le résumé de Wikipédia. Le haut correspond à l’estimation du BMJ (2008), fondée sur des enquêtes, de 579 000 morts violentes de guerre en Éthiopie, qui couvre la période plus longue de 1955 à 2002 (les données d’Uppsala/PRIO donnent 275 000 pour la même période). Aucune ventilation entre l’Éthiopie et l’Érythrée n’est disponible.
+countries:
+  - { code: ET }
+  - { code: ER }
+related: [ethiopian-famine-1983, eritrean-war-of-independence]
+sources:
+  - title: Ethiopian Civil War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Ethiopian_Civil_War
+    accessed: "2026-10-22"
+  - title: "Death Tolls for the Major Wars and Atrocities of the Twentieth Century: Ethiopia (1962-92)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c1m.htm
+    accessed: "2026-10-22"
+  - title: "Fifty years of violent war deaths from Vietnam to Bosnia: analysis of data from the world health survey programme (Obermeyer, Murray and Gakidou, 2008)"
+    publisher: BMJ (via PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC2440905/
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,38 @@
+id: north-sea-flood-1953
+title:
+  en: North Sea flood of 1953
+  fr: Inondation de la mer du Nord de 1953
+description:
+  en: >-
+    On the night of 31 January to 1 February 1953, a severe storm over the North Sea combined with a high spring tide to drive a storm surge that broke through sea defences along the coasts of the Netherlands, eastern England, Scotland and Belgium. The Dutch province of Zeeland was worst hit and about 9% of Dutch farmland was flooded. At sea, many ships were lost, including the ferry MV Princess Victoria. The disaster led to the Delta Works in the Netherlands and the Thames Barrier in London.
+  fr: >-
+    Dans la nuit du 31 janvier au 1er février 1953, une violente tempête sur la mer du Nord, conjuguée à une grande marée, a provoqué une onde de tempête qui a rompu les défenses côtières des Pays-Bas, de l’est de l’Angleterre, de l’Écosse et de la Belgique. La province néerlandaise de Zélande a été la plus touchée et environ 9 % des terres agricoles des Pays-Bas ont été inondées. En mer, de nombreux navires ont sombré, dont le ferry MV Princess Victoria. La catastrophe a conduit au plan Delta aux Pays-Bas et à la barrière de la Tamise à Londres.
+categories: [natural-disaster]
+kind: event
+start: "1953-01-31"
+end: "1953-02-01"
+deaths:
+  best: 2551
+  note:
+    en: >-
+      Deaths on land and at sea: 1,836 in the Netherlands, 307 in England, 19 in Scotland, 28 in Belgium and 361 at sea, 2,551 in total (The History Press; Wikipedia gives the same total, and the Royal Meteorological Society the same figures for England and Scotland). The United Kingdom figure below counts England only; deaths at sea are not assigned to a country.
+    fr: >-
+      Morts à terre et en mer : 1 836 aux Pays-Bas, 307 en Angleterre, 19 en Écosse, 28 en Belgique et 361 en mer, soit 2 551 au total (The History Press ; Wikipédia donne le même total et la Royal Meteorological Society les mêmes chiffres pour l’Angleterre et l’Écosse). Le chiffre du Royaume-Uni ci-dessous ne compte que l’Angleterre ; les morts en mer ne sont attribuées à aucun pays.
+countries:
+  - { code: NL, deaths: 1836 }
+  - { code: GB, deaths: 307 }
+  - { code: BE, deaths: 28 }
+sources:
+  - title: North Sea flood of 1953
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/North_Sea_flood_of_1953
+    accessed: "2026-10-22"
+  - title: The devastating storm of 1953
+    publisher: The History Press
+    url: https://thehistorypress.co.uk/article/the-devastating-storm-of-1953/
+    accessed: "2026-10-22"
+  - title: "On This Day: 1953 East Coast Flood"
+    publisher: Royal Meteorological Society
+    url: https://www.rmets.org/metmatters/day-1953-east-coast-flood
+    accessed: "2026-10-22"
+reviewed: false

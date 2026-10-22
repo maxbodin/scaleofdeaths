@@ -1,0 +1,39 @@
+id: fukushima-nuclear-disaster
+title:
+  en: Fukushima nuclear accident
+  fr: Accident nucléaire de Fukushima
+description:
+  en: >-
+    On 11 March 2011 a magnitude 9.0 earthquake and a tsunami about 15 metres high cut the power supply and cooling of three reactors at the Fukushima Daiichi nuclear power plant in Japan. Their cores largely melted within three days and radioactive material was released, and more than 100,000 people were evacuated. No one died of acute radiation exposure; most deaths attributed to the accident came from the evacuation and long displacement of elderly and sick people, who died of stress, interrupted care and life in shelters.
+  fr: >-
+    Le 11 mars 2011, un séisme de magnitude 9,0 suivi d’un tsunami d’environ 15 mètres coupe l’alimentation électrique et le refroidissement de trois réacteurs de la centrale nucléaire de Fukushima Daiichi, au Japon. Leurs cœurs fondent en grande partie en trois jours, des matières radioactives sont rejetées et plus de 100 000 personnes sont évacuées. Personne ne meurt d’irradiation aiguë ; la plupart des décès attribués à l’accident sont dus à l’évacuation et au long déplacement de personnes âgées ou malades, victimes du stress, de soins interrompus et de la vie en abri.
+categories: [accident]
+kind: event
+start: "2011-03-11"
+deaths:
+  best: 2313
+  low: 1
+  note:
+    en: Excludes the roughly 19,500 people killed by the earthquake and tsunami. Best is the 2,313 disaster-related deaths officially counted by September 2020 among evacuees from Fukushima prefecture (World Nuclear Association), about 90% of them people over 66; these are deaths caused by the stress and disruption of evacuation, not by radiation. The official count does not separate people displaced by the nuclear accident from those displaced by the tsunami, and a 2016 media analysis attributed 1,368 of the deaths counted then to the nuclear plant. Low is the single death from radiation recognised by the Japanese government, a plant worker who died of lung cancer (2018).
+    fr: Les quelque 19 500 morts du séisme et du tsunami ne sont pas comptés. L’estimation centrale correspond aux 2 313 « décès liés à la catastrophe » recensés officiellement jusqu’en septembre 2020 parmi les évacués de la préfecture de Fukushima (World Nuclear Association), dont environ 90 % avaient plus de 66 ans ; ces morts sont dues au stress et aux bouleversements de l’évacuation, non aux radiations. Le décompte officiel ne distingue pas les personnes déplacées par l’accident nucléaire de celles déplacées par le tsunami, et une analyse de presse de 2016 attribuait à la centrale 1 368 des décès alors recensés. La borne basse correspond au seul décès dû aux radiations reconnu par le gouvernement japonais, un employé de la centrale mort d’un cancer du poumon (2018).
+countries:
+  - { code: JP, deaths: 2313 }
+related: [tohoku-earthquake-2011]
+sources:
+  - title: Fukushima nuclear accident
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Fukushima_nuclear_accident
+    accessed: "2026-10-22"
+  - title: Fukushima nuclear accident casualties
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Fukushima_nuclear_accident_casualties
+    accessed: "2026-10-22"
+  - title: Fukushima Daiichi Accident
+    publisher: World Nuclear Association
+    url: https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/fukushima-daiichi-accident
+    accessed: "2026-10-22"
+  - title: Japan confirms first Fukushima worker death from radiation
+    publisher: BBC News
+    url: https://www.bbc.com/news/world-asia-45423575
+    accessed: "2026-10-22"
+reviewed: false

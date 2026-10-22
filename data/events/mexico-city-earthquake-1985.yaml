@@ -1,0 +1,36 @@
+id: mexico-city-earthquake-1985
+title:
+  en: 1985 Mexico City earthquake
+  fr: Séisme de 1985 à Mexico
+description:
+  en: >-
+    At 07:17 on 19 September 1985 a magnitude 8.0 earthquake struck off the Pacific coast of Michoacán, Mexico. Although the epicentre was some 350 km away, the soft sediments of the ancient lake bed beneath Mexico City amplified the shaking, which lasted three minutes there: 412 buildings collapsed and over 3,000 were seriously damaged, including hospitals and the Televisa studios. A magnitude 7.5 aftershock struck the next day. Rescuers dug through the rubble for days before heavy machinery arrived.
+  fr: >-
+    Le 19 septembre 1985 à 7 h 17, un séisme de magnitude 8,0 s’est produit au large de la côte pacifique du Michoacán, au Mexique. Bien que l’épicentre fût à quelque 350 km, les sédiments mous de l’ancien lit lacustre sur lequel repose Mexico ont amplifié les secousses, qui y ont duré trois minutes : 412 bâtiments se sont effondrés et plus de 3 000 ont été gravement endommagés, dont des hôpitaux et les studios de Televisa. Une réplique de magnitude 7,5 a frappé le lendemain. Les secouristes ont fouillé les décombres pendant des jours avant l’arrivée des engins lourds.
+categories: [natural-disaster]
+kind: event
+start: "1985-09-19"
+end: "1985-09-20"
+deaths:
+  best: 10000
+  low: 5000
+  high: 45000
+  note:
+    en: The toll is still disputed. About 5,000 bodies recovered from the debris make up the legally certified deaths (low), which leave out the missing who were never found. Best is the figure of around 10,000 that Wikipedia describes as the most commonly cited; USGS and NOAA NCEI give at least 9,500 and note estimates up to 35,000. Citizens' groups claimed up to 30,000, and Wikipedia reports a claim of 45,000 attributed to the National Seismological Service (high). Includes the aftershock of 20 September.
+    fr: Le bilan reste contesté. Les quelque 5 000 corps retirés des décombres constituent les décès légalement certifiés (bas de la fourchette), qui excluent les disparus jamais retrouvés. L’estimation centrale est le chiffre d’environ 10 000 que Wikipédia présente comme le plus cité ; l’USGS et la NCEI de la NOAA donnent au moins 9 500 et signalent des estimations allant jusqu’à 35 000. Des collectifs de citoyens ont avancé jusqu’à 30 000, et Wikipédia rapporte un chiffre de 45 000 attribué au Service sismologique national (haut de la fourchette). Inclut la réplique du 20 septembre.
+countries:
+  - { code: MX, deaths: 10000 }
+sources:
+  - title: 1985 Mexico City earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1985_Mexico_City_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Michoacan, Mexico City, event 5076"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/5076
+    accessed: "2026-10-22"
+  - title: Earthquakes with 1,000 or More Deaths 1900-2014 (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20170118110610/http://earthquake.usgs.gov/earthquakes/world/world_deaths.php
+    accessed: "2026-10-22"
+reviewed: false

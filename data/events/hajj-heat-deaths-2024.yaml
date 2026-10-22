@@ -1,0 +1,32 @@
+id: hajj-heat-deaths-2024
+title:
+  en: 2024 Hajj heat deaths
+  fr: Morts de la chaleur pendant le hajj de 2024
+description:
+  en: >-
+    The 2024 Hajj, attended by about 1.8 million Muslims, took place in Mecca, Saudi Arabia, from 14 to 19 June, during extreme heat: daily highs reached 47 to 49 °C, and 51.8 °C was reported at the Grand Mosque. Pilgrims collapsed from heat stroke and dehydration on the walks between the holy sites. Most of the dead were unregistered pilgrims, many of them Egyptians, who had no permit, no air-conditioned lodging and no access to official water and medical stations.
+  fr: >-
+    Le hajj de 2024, suivi par environ 1,8 million de musulmans, s’est déroulé à La Mecque, en Arabie saoudite, du 14 au 19 juin, par une chaleur extrême : les maximales quotidiennes ont atteint 47 à 49 °C, et 51,8 °C ont été relevés à la Grande Mosquée. Des pèlerins se sont effondrés, victimes de coups de chaleur et de déshydratation, sur les trajets entre les lieux saints. La plupart des morts étaient des pèlerins non enregistrés, souvent égyptiens, sans permis, sans logement climatisé ni accès aux points d’eau et de soins officiels.
+categories: [natural-disaster]
+kind: event
+start: "2024-06-14"
+end: "2024-06-19"
+deaths:
+  best: 1301
+  note:
+    en: >-
+      Official toll announced by Saudi Health Minister Fahd Al-Jalajel: 1,301 pilgrims died during the Hajj, 83% of them unauthorised pilgrims. He gave no breakdown by cause, so a small share may not be due to heat. All died in Saudi Arabia; by nationality, an Associated Press tally counted more than 660 Egyptians, 165 Indonesians and 98 Indians.
+    fr: >-
+      Bilan officiel annoncé par le ministre saoudien de la Santé, Fahd Al-Jalajel : 1 301 pèlerins sont morts pendant le hajj, dont 83 % de pèlerins sans autorisation. Il n’a pas donné de répartition par cause : une petite partie de ces morts pourrait ne pas être due à la chaleur. Tous sont morts en Arabie saoudite ; par nationalité, un décompte de l’Associated Press recensait plus de 660 Égyptiens, 165 Indonésiens et 98 Indiens.
+countries:
+  - { code: SA, deaths: 1301 }
+sources:
+  - title: 2024 Hajj extreme heat disaster
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2024_Hajj_extreme_heat_disaster
+    accessed: "2026-10-22"
+  - title: Death toll at Hajj pilgrimage rises to at least 1,300 amid scorching heat
+    publisher: Scripps News / 10News (Associated Press)
+    url: https://www.10news.com/science-and-tech/climate-change/death-toll-at-hajj-pilgrimage-rises-to-at-least-1-300-amid-scorching-heat
+    accessed: "2026-10-22"
+reviewed: false

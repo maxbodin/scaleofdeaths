@@ -1,0 +1,39 @@
+id: yemeni-civil-war
+title:
+  en: Yemeni civil war (since 2014)
+  fr: Guerre civile yéménite (depuis 2014)
+description:
+  en: >-
+    Conflict that began when Houthi forces took control of the capital Sanaa in September 2014 and the internationally recognised government fled. A Saudi-led coalition intervened in March 2015 in support of the government. Ground fighting, air strikes, missile attacks and a blockade, together with the collapse of the economy and health system, caused severe hunger and a large cholera epidemic. A UN-brokered truce in 2022 reduced the fighting, which escalated again in 2026.
+  fr: >-
+    Conflit déclenché par la prise de la capitale, Sanaa, par les forces houthies en septembre 2014 et la fuite du gouvernement reconnu par la communauté internationale. Une coalition menée par l’Arabie saoudite intervient en mars 2015 pour soutenir le gouvernement. Combats au sol, frappes aériennes, tirs de missiles et blocus, ajoutés à l’effondrement de l’économie et du système de santé, provoquent une faim sévère et une vaste épidémie de choléra. Une trêve négociée par l’ONU en 2022 réduit les combats, qui reprennent en 2026.
+categories: [war]
+kind: event
+start: "2014-09-16"
+ongoing: true
+asOf: "2021-12-31"
+deaths:
+  best: 377000
+  low: 150000
+  note:
+    en: >-
+      Direct and indirect deaths to the end of 2021, the latest comprehensive estimate; deaths since 2022, including those of the renewed fighting in 2026, are not included. Best is the projection of the UN Development Programme (UNDP, November 2021) of about 377,000 deaths by the end of 2021, about 60% of them from indirect causes such as hunger, lack of health care and preventable disease, and 70% of them children under five (Al Jazeera). Low is the number of people killed by violence, over 150,000 (UN, cited by Wikipedia).
+    fr: >-
+      Morts directes et indirectes jusqu’à fin 2021, dernière estimation d’ensemble ; les morts depuis 2022, y compris celles de la reprise des combats en 2026, ne sont pas comptées. L’estimation centrale est la projection du Programme des Nations unies pour le développement (PNUD, novembre 2021) d’environ 377 000 morts à fin 2021, dont environ 60 % de causes indirectes comme la faim, le manque de soins et des maladies évitables, et 70 % d’enfants de moins de cinq ans (Al Jazeera). Le bas est le nombre de personnes tuées par la violence, plus de 150 000 (ONU, cité par Wikipédia).
+countries:
+  - { code: YE, deaths: 377000 }
+  - { code: SA }
+sources:
+  - title: Yemeni civil war (2014-present)
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Yemeni_civil_war_(2014%E2%80%93present)
+    accessed: "2026-10-22"
+  - title: "Yemen war deaths will reach 377,000 by end of the year: UN"
+    publisher: Al Jazeera
+    url: https://www.aljazeera.com/news/2021/11/23/un-yemen-recovery-possible-in-one-generation-if-war-stops-now
+    accessed: "2026-10-22"
+  - title: Middle East news roundup, 18 October 2026
+    publisher: Associated Press
+    url: https://apnews.com/article/mideast-israel-palestinians-houthis-october-18-2026-793087dde3cb4435c6b771bae28faff3
+    accessed: "2026-10-22"
+reviewed: false

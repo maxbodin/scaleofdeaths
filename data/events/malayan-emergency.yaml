@@ -1,0 +1,40 @@
+id: malayan-emergency
+title:
+  en: Malayan Emergency
+  fr: Insurrection communiste malaise
+description:
+  en: >-
+    Guerrilla war in British Malaya between the Malayan National Liberation Army, the armed wing of the Malayan Communist Party, and British, Malayan and Commonwealth forces. The colonial authorities declared a state of emergency in June 1948. Under the Briggs Plan about a million rural civilians, mostly ethnic Chinese, were forcibly resettled in guarded "new villages" to cut the guerrillas off from food and support; British troops also carried out killings of unarmed civilians, as at Batang Kali in 1948. Malaya became independent in 1957 and the emergency was lifted in 1960.
+  fr: >-
+    Guérilla en Malaisie britannique entre l’Armée de libération nationale malaise, bras armé du Parti communiste malais, et les forces britanniques, malaises et du Commonwealth. Les autorités coloniales décrètent l’état d’urgence en juin 1948. Avec le plan Briggs, environ un million de civils ruraux, surtout d’origine chinoise, sont réinstallés de force dans des « nouveaux villages » gardés pour couper la guérilla de ses ressources ; des troupes britanniques tuent aussi des civils désarmés, comme à Batang Kali en 1948. La Malaisie devient indépendante en 1957 et l’état d’urgence est levé en 1960.
+categories: [war]
+kind: event
+start: "1948-06-16"
+end: "1960-07-31"
+deaths:
+  best: 11107
+  low: 10000
+  high: 13000
+  note:
+    en: Military and civilian deaths. Best is the total of 11,107 killed in Wikipedia's infobox, consistent with its lead ("some 11,000 people died"). Low is the 10,000 deaths estimated by Bercovitch and Jackson and high the 13,000 total of Eckhardt and of the Correlates of War dataset (both in the PRIO Battle Deaths documentation). Wikipedia lists 6,710 guerrillas killed and 226 executed, and 2,478 civilians killed with 810 missing; the National Army Museum gives more than 500 soldiers and 1,300 police killed and over 6,000 communist dead. Per-country figures are security force deaths by nationality as given on Wikipedia (United Kingdom 1,443, Malaya 1,346); deaths of insurgents and civilians, almost all in Malaya, are not included.
+    fr: Morts militaires et civiles. L’estimation centrale est le total de 11 107 tués de l’infobox de Wikipédia, cohérent avec son résumé (« quelque 11 000 personnes sont mortes »). Le bas correspond aux 10 000 morts estimés par Bercovitch et Jackson et le haut au total de 13 000 d’Eckhardt et du jeu de données Correlates of War (tous deux cités par le PRIO). Wikipédia indique 6 710 guérilleros tués et 226 exécutés, ainsi que 2 478 civils tués et 810 disparus ; le National Army Museum compte plus de 500 soldats et 1 300 policiers tués et plus de 6 000 morts communistes. Les chiffres par pays sont les morts des forces de sécurité par nationalité selon Wikipédia (Royaume-Uni 1 443, Malaisie 1 346) ; les morts des insurgés et des civils, presque tous en Malaisie, n’y figurent pas.
+countries:
+  - { code: GB, deaths: 1443 }
+  - { code: MY, deaths: 1346 }
+  - { code: AU, deaths: 39 }
+  - { code: NZ, deaths: 15 }
+  - { code: ZW, name: { en: Southern Rhodesia, fr: Rhodésie du Sud }, deaths: 8 }
+sources:
+  - title: Malayan Emergency
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Malayan_Emergency
+    accessed: "2026-10-22"
+  - title: Malayan Emergency
+    publisher: National Army Museum
+    url: https://www.nam.ac.uk/explore/malayan-emergency
+    accessed: "2026-10-22"
+  - title: "The PRIO Battle Deaths Dataset, 1946-2008, Version 3.0: Documentation of Coding Decisions (Lacina), Malaysia"
+    publisher: Peace Research Institute Oslo (PRIO)
+    url: https://cdn.cloud.prio.org/files/91648bba-8885-40ce-8a78-fae75c850c55/PRIO%20Battle%20Deaths%20Dataset%2030%20Documentation.pdf
+    accessed: "2026-10-22"
+reviewed: false

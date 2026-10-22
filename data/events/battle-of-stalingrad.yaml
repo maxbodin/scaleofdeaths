@@ -1,0 +1,33 @@
+id: battle-of-stalingrad
+title:
+  en: Battle of Stalingrad
+  fr: Bataille de Stalingrad
+description:
+  en: >-
+    Battle for the industrial city of Stalingrad (now Volgograd) on the Volga, fought by Germany and its Romanian, Italian and Hungarian allies against the Soviet Union. A German air raid in August 1942 devastated the city, followed by months of close-quarters street fighting. In November the Soviet Operation Uranus encircled the German 6th Army, which surrendered on 2 February 1943 after a failed relief attempt; few of the 91,000 men taken prisoner survived Soviet captivity. It is considered the deadliest battle of the Second World War and a turning point of the war in Europe.
+  fr: >-
+    Bataille pour Stalingrad (aujourd’hui Volgograd), ville industrielle sur la Volga, opposant l’Allemagne et ses alliés roumains, italiens et hongrois à l’Union soviétique. Un raid aérien allemand dévaste la ville en août 1942, suivi de mois de combats de rue au corps à corps. En novembre, l’opération soviétique Uranus encercle la 6e armée allemande, qui capitule le 2 février 1943 après l’échec d’une tentative de dégagement ; peu des 91 000 hommes faits prisonniers survivent à la captivité. C’est la bataille la plus meurtrière de la Seconde Guerre mondiale et un tournant de la guerre en Europe.
+categories: [war]
+kind: event
+partOf: second-world-war
+start: "1942-07-17"
+end: "1943-02-02"
+deaths:
+  best: 1100000
+  low: 1000000
+  high: 1500000
+  note:
+    en: Soldiers and civilians of both sides who died in the battle. Casualty totals that include wounded and captured (800,000 to 1.5 million for the Axis, 1,129,619 to 1,347,214 for the Soviet side) are not used. Best is Andrew Roberts's "around 1.1 million died in the battle on both sides", quoted by Wikipedia; low reflects the "over one million" dead given by William Craig, Jochen Hellbeck and others; high is Victor Davis Hanson's "at least 1.5 million". Higher figures, such as Edwin Hoyt's "over three million" and the "over two million Soviet dead" reported by Boris Sokolov, whose loss figures many Russian historians reject, are not used. Rutgers University gives about 190,000 German soldiers dead, at least 479,000 Soviet dead (some scholars think closer to 1 million) and tens of thousands of Italian, Romanian and Hungarian dead; civilian deaths are uncertain, up to 235,232 according to Russian historian Tatyana Pavlova. The start date follows Wikipedia (17 July 1942); some historians start the battle on 23 August 1942.
+    fr: Soldats et civils des deux camps morts dans la bataille. Les totaux de pertes incluant blessés et prisonniers (800 000 à 1,5 million pour l’Axe, 1 129 619 à 1 347 214 côté soviétique) ne sont pas utilisés. L’estimation centrale est celle d’Andrew Roberts, « environ 1,1 million de morts des deux côtés », citée par Wikipédia ; le bas de la fourchette reprend le « plus d’un million » de morts de William Craig, Jochen Hellbeck et d’autres ; le haut est le « au moins 1,5 million » de Victor Davis Hanson. Les chiffres plus élevés, comme les « plus de trois millions » d’Edwin Hoyt ou les « plus de deux millions de morts soviétiques » rapportés par Boris Sokolov, dont de nombreux historiens russes rejettent les chiffres de pertes, ne sont pas retenus. L’université Rutgers donne environ 190 000 soldats allemands morts, au moins 479 000 morts soviétiques (près d’un million selon certains chercheurs) et des dizaines de milliers de morts italiens, roumains et hongrois ; les morts civiles sont incertaines, jusqu’à 235 232 selon l’historienne russe Tatiana Pavlova. La date de début suit Wikipédia (17 juillet 1942) ; certains historiens font commencer la bataille le 23 août 1942.
+countries:
+  - { code: SU, name: { en: Soviet Union, fr: Union soviétique }, deaths: 1100000 }
+sources:
+  - title: Battle of Stalingrad
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Battle_of_Stalingrad
+    accessed: "2026-10-22"
+  - title: Rutgers Historian Reveals the Inside Story of World War II's Bloodiest Battle
+    publisher: Rutgers University
+    url: https://www.rutgers.edu/news/rutgers-historian-reveals-inside-story-world-war-iis-bloodiest-battle
+    accessed: "2026-10-22"
+reviewed: false

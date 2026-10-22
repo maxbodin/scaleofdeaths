@@ -1,0 +1,49 @@
+id: west-africa-meningitis-epidemic-1996
+title:
+  en: 1996 West Africa meningitis epidemic
+  fr: Épidémie de méningite de 1996 en Afrique de l’Ouest
+description:
+  en: >-
+    Epidemic of meningococcal meningitis, mostly caused by serogroup A bacteria, that swept the African meningitis belt south of the Sahara, from Senegal to Ethiopia, during the dry season of 1996 and again in 1997. It was the largest epidemic wave ever recorded, hitting northern Nigeria and Burkina Faso hardest, along with Niger, Mali and Chad. Low immunity after years without a major outbreak, dusty air and a shortage of vaccine helped it spread; it coincided with the Hajj, and Saudi Arabia barred pilgrims from several affected countries. It spurred the development of the MenAfriVac vaccine.
+  fr: >-
+    Épidémie de méningite à méningocoque, surtout de sérogroupe A, qui a balayé la ceinture africaine de la méningite au sud du Sahara, du Sénégal à l’Éthiopie, pendant la saison sèche de 1996 puis en 1997. Ce fut la plus grande vague épidémique jamais enregistrée, touchant surtout le nord du Nigeria et le Burkina Faso, ainsi que le Niger, le Mali et le Tchad. Une immunité faible après des années sans grande épidémie, la promiscuité, l’air chargé de poussière et le manque de vaccins l’ont favorisée. Elle a conduit à la mise au point du vaccin MenAfriVac.
+categories: [epidemic]
+kind: event
+start: "1996-02"
+end: "1997"
+deaths:
+  best: 25000
+  low: 10000
+  note:
+    en: >-
+      Reported deaths. Best is the figure of 25,000 deaths among over 250,000 cases in the 1996-1997 epidemic wave across Africa, given by the Meningitis Vaccine Project (a WHO and PATH partnership), which notes that the true burden is likely higher because many people died before reaching a health centre. Low is the more than 10,000 deaths in the first three months of 1996 reported by The New York Times (and used by Wikipedia's list of epidemics). Burkina Faso's figure is the about 4,000 deaths reported there by May 1996.
+    fr: >-
+      Décès déclarés. L’estimation retenue est celle de 25 000 morts sur plus de 250 000 cas pour la vague de 1996-1997 en Afrique, donnée par le Meningitis Vaccine Project (partenariat de l’OMS et de PATH), qui juge le fardeau réel sans doute plus élevé car beaucoup de malades mouraient avant d’atteindre un centre de santé. Le bas correspond aux plus de 10 000 morts des trois premiers mois de 1996 rapportés par le New York Times (et repris par la liste de Wikipédia). Le chiffre du Burkina Faso est celui d’environ 4 000 morts en mai 1996.
+countries:
+  - { code: BF, deaths: 4000 }
+  - { code: NG }
+  - { code: NE }
+  - { code: ML }
+  - { code: TD }
+sources:
+  - title: List of epidemics and pandemics
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_epidemics_and_pandemics
+    accessed: "2026-10-22"
+  - title: African meningitis belt
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/African_meningitis_belt
+    accessed: "2026-10-22"
+  - title: Epidemics in Africa
+    publisher: Meningitis Vaccine Project (WHO and PATH)
+    url: https://www.meningvax.org/epidemicsafrica.html
+    accessed: "2026-10-22"
+  - title: Wide Epidemic of Meningitis Fatal to 10,000 in West Africa (archived page)
+    publisher: The New York Times
+    url: https://web.archive.org/web/20230711163624/https://www.nytimes.com/1996/05/08/world/wide-epidemic-of-meningitis-fatal-to-10000-in-west-africa.html
+    accessed: "2026-10-22"
+  - title: From Epidemic to Elimination - Ending Epidemic Meningitis in Sub-Saharan Africa (archived page)
+    publisher: Centers for Disease Control and Prevention
+    url: https://archive.cdc.gov/www_cdc_gov/globalhealth/stories/village.htm
+    accessed: "2026-10-22"
+reviewed: false

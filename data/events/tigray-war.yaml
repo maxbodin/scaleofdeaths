@@ -1,0 +1,45 @@
+id: tigray-war
+title:
+  en: Tigray War
+  fr: Guerre du Tigré
+description:
+  en: >-
+    War in northern Ethiopia between the federal government, supported by Eritrean troops and Amhara regional forces, and the Tigray People's Liberation Front (TPLF), which governed the Tigray Region. It began in November 2020 and later spread to the Amhara and Afar regions. Massacres, sexual violence and a siege that cut Tigray off from food, medicine, aid and communications caused famine conditions. The Pretoria peace agreement of November 2022 ended the fighting.
+  fr: >-
+    Guerre dans le nord de l’Éthiopie entre le gouvernement fédéral, appuyé par des troupes érythréennes et des forces régionales amhara, et le Front populaire de libération du Tigré (TPLF), qui gouvernait la région du Tigré. Commencée en novembre 2020, elle s’étend ensuite aux régions Amhara et Afar. Massacres, violences sexuelles et un siège privant le Tigré de nourriture, de médicaments, d’aide et de communications provoquent une situation de famine. L’accord de paix de Pretoria, en novembre 2022, met fin aux combats.
+categories: [war]
+kind: event
+start: "2020-11-03"
+end: "2022-11-03"
+deaths:
+  best: 600000
+  low: 100000
+  note:
+    en: >-
+      Military and civilian deaths from violence, famine and lack of health care; estimates vary widely because of the communications blackout, and Wikipedia gives a range of 100,000 to 600,000. Best is the most cited figure, the estimate of around 600,000 deaths given in a public statement by the African Union mediator, Olusegun Obasanjo (reported by the Financial Times, cited by Wikipedia), rather than in a published study. Low reflects partial counts: over 100,000 battle-related deaths in 2022 alone (Uppsala Conflict Data Program) and over 102,000 deaths among people aged 15 or more in Tigray (survey published in Population Health Metrics, 2025). Researchers at Ghent University estimated 162,000 to 378,000 civilian deaths in Tigray alone, excluding combatants.
+    fr: >-
+      Morts militaires et civiles dues à la violence, à la famine et au manque de soins ; les estimations varient fortement en raison du blocage des communications, et Wikipédia donne une fourchette de 100 000 à 600 000 morts. L’estimation centrale est le chiffre le plus cité, environ 600 000 morts, avancé dans une déclaration publique et non dans une étude publiée par le médiateur de l’Union africaine, Olusegun Obasanjo (rapporté par le Financial Times, cité par Wikipédia). Le bas reflète des décomptes partiels : plus de 100 000 morts au combat pour la seule année 2022 (Uppsala Conflict Data Program) et plus de 102 000 morts parmi les personnes de 15 ans ou plus au Tigré (enquête publiée dans Population Health Metrics, 2025). Des chercheurs de l’université de Gand estiment à 162 000 à 378 000 le nombre de civils morts au seul Tigré, combattants exclus.
+countries:
+  - { code: ET, deaths: 600000 }
+sources:
+  - title: Tigray war
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Tigray_war
+    accessed: "2026-10-22"
+  - title: Casualties of the Tigray war
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Casualties_of_the_Tigray_war
+    accessed: "2026-10-22"
+  - title: New figures show conflict-related deaths at 28-year high, largely due to Ethiopia and Ukraine wars
+    publisher: Peace Research Institute Oslo (PRIO)
+    url: https://www.prio.org/news/3058
+    accessed: "2026-10-22"
+  - title: Conflict-attributable mortality in Tigray Region, Ethiopia
+    publisher: Population Health Metrics (via PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12096794/
+    accessed: "2026-10-22"
+  - title: Updated assessment of civilian starvation deaths during the Tigray war (Ghent University researchers)
+    publisher: Martin Plaut
+    url: https://martinplaut.com/2023/05/24/updated-assessment-of-civilian-starvation-deaths-during-the-tigray-war/
+    accessed: "2026-10-22"
+reviewed: false

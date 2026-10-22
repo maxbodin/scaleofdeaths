@@ -1,0 +1,37 @@
+id: manchurian-plague-1910
+title:
+  en: Manchurian plague
+  fr: Peste de Mandchourie
+description:
+  en: >-
+    Outbreak of pneumonic plague, spread from person to person through the air, in Manchuria in north-eastern China, then shared between Chinese, Russian and Japanese railway interests. Thought to come from tarbagan marmots hunted for their fur, it broke out in Manzhouli near the Russian border in October 1910 and spread to Harbin, Changchun and Mukden, killing almost everyone it infected. The physician Wu Lien-teh led the response with quarantines, cremations and cloth face masks, and by April 1911 the epidemic was over.
+  fr: >-
+    Épidémie de peste pulmonaire, transmise d’une personne à l’autre par voie aérienne, en Mandchourie, dans le nord-est de la Chine, dont les chemins de fer étaient alors partagés entre intérêts chinois, russes et japonais. Probablement issue des marmottes de Sibérie chassées pour leur fourrure, elle éclata à Manzhouli, près de la frontière russe, en octobre 1910, puis gagna Harbin, Changchun et Moukden, tuant presque tous les malades. Le médecin Wu Lien-teh dirigea la riposte (quarantaines, crémations, masques en tissu) et l’épidémie prit fin en avril 1911.
+categories: [epidemic]
+kind: event
+start: "1910-10"
+end: "1911-04"
+deaths:
+  best: 60000
+  low: 45000
+  high: 60000
+  note:
+    en: Deaths in Manchuria, with a few cases in Beijing and Tianjin. Best is the "more than 60,000" given by Michaleas et al. (Le Infezioni in Medicina, 2022) and the "some 60,000" of Wikipedia; Wikipedia's article on the third plague pandemic gives 45,000 to 60,000, which sets the range.
+    fr: Morts en Mandchourie, avec quelques cas à Pékin et à Tianjin. L’estimation retenue est celle de « plus de 60 000 » donnée par Michaleas et al. (Le Infezioni in Medicina, 2022) et des « quelque 60 000 » de Wikipédia ; l’article de Wikipédia sur la troisième pandémie de peste donne 45 000 à 60 000, ce qui fixe la fourchette.
+countries:
+  - { code: CN, deaths: 60000 }
+partOf: third-plague-pandemic
+sources:
+  - title: Manchurian plague
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Manchurian_plague
+    accessed: "2026-10-22"
+  - title: Third plague pandemic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Third_plague_pandemic
+    accessed: "2026-10-22"
+  - title: "The Manchurian pandemic of pneumonic plague (1910-1911) (Michaleas et al., Le Infezioni in Medicina 2022)"
+    publisher: PubMed Central
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9448316/
+    accessed: "2026-10-22"
+reviewed: false

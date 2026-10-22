@@ -1,0 +1,34 @@
+id: pacific-northwest-smallpox-epidemic-1862
+title:
+  en: 1862 Pacific Northwest smallpox epidemic
+  fr: Épidémie de variole de 1862 sur la côte nord-ouest du Pacifique
+description:
+  en: >-
+    Smallpox epidemic among Indigenous peoples of the Pacific Northwest, which began in Victoria after the steamship Brother Jonathan arrived from San Francisco on 12 March 1862. Colonists were vaccinated, but few measures protected First Nations camped near the town. In May police cleared and burned the camps and gunboats towed infected northern peoples' canoes up the coast, spreading the disease from Puget Sound to Southeast Alaska and into the interior. Over 70% of the Haida died. Depopulation helped the colony refuse to recognise Indigenous land title.
+  fr: >-
+    Épidémie de variole parmi les Autochtones de la côte nord-ouest du Pacifique, partie de Victoria après l’arrivée du vapeur Brother Jonathan de San Francisco le 12 mars 1862. Les colons ont été vaccinés, mais peu a été fait pour les Premières Nations campées près de la ville. En mai, la police a vidé et brûlé les campements et des canonnières ont remorqué vers le nord les canots de malades, propageant la maladie du Puget Sound au sud-est de l’Alaska et vers l’intérieur. Plus de 70 % des Haïdas sont morts. Le dépeuplement a aidé la colonie à nier les titres fonciers autochtones.
+categories: [epidemic]
+kind: event
+start: "1862-03-12"
+end: "1863"
+deaths:
+  best: 30000
+  low: 20000
+  note:
+    en: >-
+      Estimates. Best is the figure of at least 30,000 Indigenous deaths, about 60% of the population, given by Maclean's (2017). Low is the historian Robert Boyd's estimate, cited by Wikipedia, that two thirds of British Columbia's First Nations died, around 20,000 people; this is also the Canadian figure, as Boyd's count covers British Columbia only. Deaths in Southeast Alaska and Washington are not counted separately.
+    fr: >-
+      Estimations. L’estimation retenue est celle d’au moins 30 000 morts autochtones, environ 60 % de la population, donnée par Maclean’s (2017). Le bas est l’estimation de l’historien Robert Boyd, citée par Wikipédia, selon laquelle deux tiers des Premières Nations de Colombie-Britannique sont morts, soit environ 20 000 personnes ; c’est aussi le chiffre retenu pour le Canada, ce décompte ne couvrant que la Colombie-Britannique. Les morts du sud-est de l’Alaska et de l’État de Washington ne sont pas comptés à part.
+countries:
+  - { code: CA, deaths: 20000 }
+  - { code: US }
+sources:
+  - title: 1862 Pacific Northwest smallpox epidemic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1862_Pacific_Northwest_smallpox_epidemic
+    accessed: "2026-10-22"
+  - title: How a smallpox epidemic forged modern British Columbia
+    publisher: Maclean's
+    url: https://www.macleans.ca/news/canada/how-a-smallpox-epidemic-forged-modern-british-columbia/
+    accessed: "2026-10-22"
+reviewed: false

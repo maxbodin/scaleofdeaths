@@ -1,0 +1,37 @@
+id: atomic-bombing-of-hiroshima
+title:
+  en: Atomic bombing of Hiroshima
+  fr: Bombardement atomique d’Hiroshima
+description:
+  en: >-
+    On 6 August 1945 a United States B-29 bomber dropped "Little Boy", an enriched-uranium bomb, on the Japanese city of Hiroshima, a military supply and logistics base where about 340,000 to 350,000 people were present. The blast, heat and fires destroyed most of the city. Most victims died on the day itself and nearly all the others within two to four months, from burns, injuries and acute radiation sickness. The dead included about 10,000 soldiers, thousands of Koreans, many of them forced labourers and 12 Allied prisoners of war. It was the first use of a nuclear weapon in war.
+  fr: >-
+    Le 6 août 1945, un B-29 américain largue « Little Boy », une bombe à uranium enrichi, sur Hiroshima, base logistique de l’armée japonaise où se trouvaient 340 000 à 350 000 personnes. Le souffle, la chaleur et les incendies détruisent l’essentiel de la ville. La plupart des victimes meurent le jour même, presque toutes les autres dans les deux à quatre mois, de brûlures, de blessures et d’irradiation aiguë. Parmi elles, environ 10 000 soldats, des milliers de Coréens, souvent travailleurs forcés et 12 prisonniers de guerre alliés. C’est le premier emploi d’une arme nucléaire dans une guerre.
+categories: [war]
+kind: event
+partOf: second-world-war
+start: "1945-08-06"
+deaths:
+  best: 140000
+  low: 90000
+  high: 166000
+  note:
+    en: Deaths by the end of 1945 from the blast, burns, injuries and acute radiation effects, including about 10,000 military dead; later cancer deaths among survivors are not included. Best is the 140,000 (plus or minus 10,000) estimated in the 1970s by Japanese-led reassessments and the 1977 international investigation team, as described by historian Alex Wellerstein. Low and high are the modern range of the Radiation Effects Research Foundation (90,000 to 166,000 deaths within two to four months), also used by Wikipedia. US estimates from the 1940s were lower (66,000 dead in the 1946 Manhattan Project report, 64,500 by mid-November 1945 for the Joint Commission), mainly because they assumed a smaller population in the city; Wellerstein considers neither set of estimates easy to dismiss.
+    fr: Morts jusqu’à la fin de 1945 dues au souffle, aux brûlures, aux blessures et aux effets aigus des radiations, dont environ 10 000 militaires ; les décès ultérieurs par cancer chez les survivants ne sont pas comptés. L’estimation centrale est celle de 140 000 morts (à 10 000 près) établie dans les années 1970 par des réévaluations menées par des Japonais et par l’équipe d’enquête internationale de 1977, telle que la présente l’historien Alex Wellerstein. La fourchette est l’estimation moderne de la Radiation Effects Research Foundation (90 000 à 166 000 morts dans les deux à quatre mois), reprise par Wikipédia. Les estimations américaines des années 1940 étaient plus basses (66 000 morts selon le rapport du projet Manhattan de 1946, 64 500 à la mi-novembre 1945 selon la Joint Commission), surtout parce qu’elles supposaient une population présente plus faible ; selon Wellerstein, aucune des deux séries ne peut être facilement écartée.
+countries:
+  - { code: JP, deaths: 140000 }
+related: [atomic-bombing-of-nagasaki]
+sources:
+  - title: Atomic bombings of Hiroshima and Nagasaki
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki
+    accessed: "2026-10-22"
+  - title: Frequently Asked Questions about the Atomic-bomb Survivor Research Program
+    publisher: Radiation Effects Research Foundation
+    url: https://www.rerf.or.jp/en/faq/
+    accessed: "2026-10-22"
+  - title: Counting the dead at Hiroshima and Nagasaki
+    publisher: Bulletin of the Atomic Scientists
+    url: https://thebulletin.org/2020/08/counting-the-dead-at-hiroshima-and-nagasaki/
+    accessed: "2026-10-22"
+reviewed: false

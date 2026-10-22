@@ -1,0 +1,29 @@
+id: japan-airlines-flight-123
+title:
+  en: Japan Air Lines Flight 123
+  fr: Vol Japan Air Lines 123
+description:
+  en: >-
+    On the evening of 12 August 1985 a Boeing 747 flying from Tokyo to Osaka suffered explosive decompression 12 minutes after take-off, when its rear pressure bulkhead, badly repaired by Boeing after a tailstrike seven years earlier, failed. The decompression tore off much of the tail and destroyed all hydraulic systems. The crew kept the plane in the air for 32 minutes before it crashed near Mount Takamagahara in Gunma Prefecture. Many passengers survived the impact but died awaiting rescue; only four people lived.
+  fr: >-
+    Le soir du 12 août 1985, un Boeing 747 reliant Tokyo à Osaka subit une décompression explosive douze minutes après le décollage, à la rupture de sa cloison étanche arrière, mal réparée par Boeing après un choc de la queue au sol sept ans plus tôt. La décompression arrache une grande partie de l’empennage et détruit tous les circuits hydrauliques. L’équipage maintient l’avion en vol 32 minutes avant qu’il ne s’écrase près du mont Takamagahara, dans la préfecture de Gunma. Beaucoup de passagers survivent au choc mais meurent en attendant les secours ; seules quatre personnes réchappent.
+categories: [accident]
+kind: event
+start: "1985-08-12"
+deaths:
+  best: 520
+  note:
+    en: All 15 crew and 505 of the 509 passengers, the toll given by Wikipedia and Nippon.com. It is the deadliest single-aircraft accident in history. An estimated 20 to 50 passengers survived the crash itself but died before rescuers reached the site the next morning. Most victims were Japanese; 22 non-Japanese were on board.
+    fr: Les 15 membres d’équipage et 505 des 509 passagers, bilan donné par Wikipédia et Nippon.com. C’est l’accident d’un avion seul le plus meurtrier de l’histoire. On estime que 20 à 50 passagers ont survécu au choc mais sont morts avant l’arrivée des secours le lendemain matin. La plupart des victimes étaient japonaises ; 22 étrangers étaient à bord.
+countries:
+  - { code: JP, deaths: 520 }
+sources:
+  - title: Japan Air Lines Flight 123
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Japan_Air_Lines_Flight_123
+    accessed: "2026-10-22"
+  - title: "Japan's Deadliest Air Disaster: The Crash of JAL 123 in 1985"
+    publisher: Nippon.com
+    url: https://www.nippon.com/en/guide-to-japan/cs00019/
+    accessed: "2026-10-22"
+reviewed: false

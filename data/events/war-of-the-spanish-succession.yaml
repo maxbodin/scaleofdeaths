@@ -1,0 +1,43 @@
+id: war-of-the-spanish-succession
+title:
+  en: War of the Spanish Succession
+  fr: Guerre de Succession d’Espagne
+description:
+  en: >-
+    European war over the throne of Spain after the death of the childless Charles II, between Philip of Anjou, grandson of Louis XIV, backed by France and Bavaria, and Archduke Charles of Austria, backed by a Grand Alliance of Austria, Britain, the Dutch Republic and others. It was fought in the Low Countries, Germany, Italy, Spain and at sea, with very large battles such as Blenheim and Malplaquet. Philip kept the Spanish throne under the treaties of Utrecht and Rastatt, which divided Spain's European possessions.
+  fr: >-
+    Guerre européenne pour le trône d’Espagne après la mort sans enfant de Charles II, entre Philippe d’Anjou, petit-fils de Louis XIV, soutenu par la France et la Bavière, et l’archiduc Charles d’Autriche, soutenu par une Grande Alliance de l’Autriche, de la Grande-Bretagne, des Provinces-Unies et d’autres. Elle se déroule aux Pays-Bas, en Allemagne, en Italie, en Espagne et sur mer, avec de très grandes batailles comme Höchstädt et Malplaquet. Philippe garde le trône d’Espagne aux traités d’Utrecht et de Rastatt, qui partagent les possessions européennes de l’Espagne.
+categories: [war]
+kind: event
+start: "1701-03"
+end: "1714-09-07"
+deaths:
+  best: 1000000
+  low: 400000
+  high: 1251000
+  note:
+    en: "Military deaths; civilian deaths are not counted. Estimates vary widely: about 400,000 on both sides (Bodart, Clodfelter), 700,000 soldiers killed or died (Urlanis) and 1,251,000 (Jack S. Levy), all via Necrometrics. Best: about 1 million, the median of these estimates according to Matthew White (Necrometrics). Wikipedia's list of wars by death toll gives 0.4 to 1.25 million. Britain: 32,000 soldiers died (Carlton, via Wikipedia); no death figures were found for the other belligerents, as Wikipedia's figures mix killed and wounded."
+    fr: "Morts militaires ; les morts civiles ne sont pas comptées. Les estimations varient fortement : environ 400 000 pour les deux camps (Bodart, Clodfelter), 700 000 soldats tués ou morts (Urlanis) et 1 251 000 (Jack S. Levy), tous via Necrometrics. Estimation centrale : environ 1 million, médiane de ces estimations selon Matthew White (Necrometrics). La liste des guerres par nombre de morts de Wikipédia donne 0,4 à 1,25 million. Grande-Bretagne : 32 000 soldats morts (Carlton, via Wikipédia) ; aucun chiffre de morts n’a été trouvé pour les autres belligérants, les chiffres de Wikipédia mêlant tués et blessés."
+countries:
+  - { code: GB, deaths: 32000 }
+  - { code: ES }
+  - { code: BE }
+  - { code: NL }
+  - { code: DE }
+  - { code: IT }
+  - { code: FR }
+related: [nine-years-war, great-northern-war]
+sources:
+  - title: War of the Spanish Succession
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/War_of_the_Spanish_Succession
+    accessed: "2026-10-22"
+  - title: List of wars by death toll
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_wars_by_death_toll
+    accessed: "2026-10-22"
+  - title: Statistics of Wars, Oppressions and Atrocities of the Eighteenth Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/wars18c.htm
+    accessed: "2026-10-22"
+reviewed: false

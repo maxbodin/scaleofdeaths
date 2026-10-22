@@ -1,0 +1,41 @@
+id: halabja-chemical-attack
+title:
+  en: Halabja chemical attack
+  fr: Attaque chimique de Halabja
+description:
+  en: >-
+    Chemical attack by Iraqi forces on the Kurdish town of Halabja, in north-eastern Iraq, on 16 March 1988, near the end of the Iran-Iraq War, after the town had been captured by Iranian forces and Kurdish fighters. Following conventional bombardment, aircraft dropped mustard gas and nerve agents on the town and the roads leading out of it; most victims were civilians, many of them women and children. It remains the largest chemical attack on a civilian population. In 2010 the Iraqi High Tribunal recognised it as genocide against the Kurds.
+  fr: >-
+    Attaque chimique des forces irakiennes contre la ville kurde de Halabja, dans le nord-est de l’Irak, le 16 mars 1988, vers la fin de la guerre Iran-Irak, après la prise de la ville par les forces iraniennes et des combattants kurdes. Après des bombardements classiques, des avions larguent du gaz moutarde et des agents neurotoxiques sur la ville et les routes qui en sortent ; la plupart des victimes sont des civils, dont beaucoup de femmes et d’enfants. C’est la plus grande attaque chimique contre une population civile. En 2010, la justice irakienne la qualifie de génocide contre les Kurdes.
+categories: [genocide]
+kind: event
+start: "1988-03-16"
+deaths:
+  best: 5000
+  low: 3200
+  note:
+    en: >-
+      People killed in the attack, mostly civilians. Figures for the final toll range from 3,200 to 5,000 (BBC News, Human Rights Watch, Wikipedia); best is the commonly cited figure of some 5,000 dead on the day (Al Jazeera), the top of that range, and low is its lower end. Later deaths from the long-term effects of the gas are not counted. Human Rights Watch notes that Halabja, a town, was not technically part of the Anfal campaign against rural Kurds, so these deaths are not included in that campaign's toll.
+    fr: >-
+      Personnes tuées lors de l’attaque, surtout des civils. Les chiffres du bilan final vont de 3 200 à 5 000 morts (BBC News, Human Rights Watch, Wikipédia) ; l’estimation centrale est le chiffre souvent cité d’environ 5 000 morts le jour même (Al Jazeera), en haut de cette fourchette, et le bas en est la borne inférieure. Les morts ultérieures dues aux effets à long terme des gaz ne sont pas comptées. Human Rights Watch souligne que Halabja, une ville, ne faisait pas techniquement partie de la campagne d’Anfal contre les Kurdes des campagnes ; ces morts ne sont donc pas comprises dans le bilan de celle-ci.
+countries:
+  - { code: IQ, deaths: 5000 }
+related: [anfal-campaign, iran-iraq-war]
+sources:
+  - title: Halabja massacre
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Halabja_massacre
+    accessed: "2026-10-22"
+  - title: "1988: Thousands die in Halabja gas attack"
+    publisher: BBC News (On This Day)
+    url: https://news.bbc.co.uk/onthisday/hi/dates/stories/march/16/newsid_4304000/4304853.stm
+    accessed: "2026-10-22"
+  - title: "Genocide in Iraq: The Anfal Campaign Against the Kurds (introduction)"
+    publisher: Human Rights Watch
+    url: https://www.hrw.org/reports/1993/iraqanfal/ANFALINT.htm
+    accessed: "2026-10-22"
+  - title: Remembering Halabja chemical attack
+    publisher: Al Jazeera
+    url: https://www.aljazeera.com/opinions/2016/3/16/remembering-halabja-chemical-attack/
+    accessed: "2026-10-22"
+reviewed: false

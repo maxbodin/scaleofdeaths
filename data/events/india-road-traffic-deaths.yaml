@@ -1,0 +1,33 @@
+id: india-road-traffic-deaths
+title:
+  en: Deaths from road traffic crashes in India per year
+  fr: Décès dus aux accidents de la route en Inde par an
+description:
+  en: >-
+    People killed in road crashes in India in one year, as reported by the Ministry of Road Transport and Highways (MoRTH) in its yearly Road Accidents in India report, compiled from police records. The 2024 toll, about 485 deaths a day, was well above the 2014-2023 average of around 154,000 a year. Riders of two-wheelers made up 46% of the dead and pedestrians 21%; national highways, only 2% of the road network, accounted for over a third of deaths. Over-speeding was cited in 70% of fatal cases, and most victims were young adults and rural residents.
+  fr: >-
+    Personnes tuées dans des accidents de la route en Inde en un an, selon le rapport annuel Road Accidents in India du ministère des Transports routiers et des Autoroutes (MoRTH), établi à partir des dossiers de police. Le bilan de 2024, environ 485 morts par jour, dépasse nettement la moyenne 2014-2023 d’environ 154 000 par an. Les usagers de deux-roues représentaient 46 % des morts et les piétons 21 % ; les routes nationales, 2 % du réseau, concentraient plus d’un tiers des décès. L’excès de vitesse était en cause dans 70 % des cas mortels.
+categories: [annual, accident]
+kind: endemic-total
+start: "2024"
+end: "2024"
+deaths:
+  best: 177175
+  note:
+    en: >-
+      MoRTH, Road Accidents in India 2024 (released June 2026), as reported by the Hindustan Times: 177,175 road deaths in 2024 from 487,707 crashes, up 2.5% from 172,890 in 2023. These are police-reported deaths, so no range is given; WHO's modelled estimate for India is higher (about 206,000 road deaths in 2021). The MoRTH report itself could not be opened.
+    fr: >-
+      MoRTH, Road Accidents in India 2024 (publié en juin 2026), d’après le Hindustan Times : 177 175 morts sur les routes en 2024 pour 487 707 accidents, soit 2,5 % de plus que les 172 890 de 2023. Ce sont des décès déclarés à la police, sans fourchette ; l’estimation modélisée de l’OMS pour l’Inde est plus élevée (environ 206 000 morts en 2021). Le rapport du MoRTH lui-même n’a pas pu être consulté.
+countries:
+  - { code: IN, deaths: 177175 }
+related: [road-traffic-deaths]
+sources:
+  - title: "Road accident deaths increased 2.5% in 2024 from 2023: MoRTH report"
+    publisher: Hindustan Times
+    url: https://www.hindustantimes.com/india-news/road-accident-deaths-increased-2-5-in-2024-from-2023-morth-report-101781204793385.html
+    accessed: "2026-10-22"
+  - title: "Global Health Observatory: estimated number of road traffic deaths (RS_196), China and India"
+    publisher: World Health Organization
+    url: https://ghoapi.azureedge.net/api/RS_196?$filter=SpatialDim%20eq%20'CHN'%20or%20SpatialDim%20eq%20'IND'
+    accessed: "2026-10-22"
+reviewed: false

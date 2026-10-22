@@ -1,0 +1,36 @@
+id: qing-conquest-of-the-ming
+title:
+  en: Qing conquest of the Ming
+  fr: Conquête de la Chine des Ming par les Qing
+description:
+  en: >-
+    Long period of war in which the Manchu-led Later Jin, renamed Qing, conquered China. Late Ming China was weakened by fiscal crisis, famine and peasant rebellions, and the rebel Li Zicheng took Beijing in 1644. The Qing, allied with the Ming general Wu Sangui, then seized the capital and fought Southern Ming loyalists, rebel regimes, the Revolt of the Three Feudatories and the Zheng regime on Taiwan, which surrendered in 1683. Massacres, famine, epidemics and banditry accompanied the fighting, notably in Sichuan.
+  fr: >-
+    Longue période de guerre au cours de laquelle les Jin postérieurs, dirigés par les Mandchous et rebaptisés Qing, conquièrent la Chine. La Chine des derniers Ming est affaiblie par la crise financière, la famine et les révoltes paysannes, et le rebelle Li Zicheng prend Pékin en 1644. Alliés au général ming Wu Sangui, les Qing s’emparent alors de la capitale et combattent les Ming du Sud, des régimes rebelles, la révolte des Trois Feudataires et le régime des Zheng à Taïwan, qui se rend en 1683. Massacres, famines, épidémies et brigandage accompagnent les combats, notamment au Sichuan.
+categories: [war]
+kind: event
+start: "1618"
+end: "1683"
+deaths:
+  best: 25000000
+  note:
+    en: "Estimated fall in China's population, so it includes deaths from famine, epidemics and banditry as well as displacement and missing births. Best: 25 million, Colin McEvedy's estimate of the cost of the Manchu conquest, about one sixth of the population, for 1600-1650 (via Necrometrics, also used by Wikipedia). The period also saw famines caused by cold weather, drought and floods. No other overall estimate was found, hence no range. Estimates of the deaths in Sichuan under the rebel Zhang Xianzhong alone range from 600,000 to 1 million."
+    fr: "Baisse estimée de la population chinoise, qui inclut donc les morts de famine, d’épidémies et de brigandage ainsi que les déplacements et les naissances manquantes. Estimation centrale : 25 millions, estimation par Colin McEvedy du coût de la conquête mandchoue, environ un sixième de la population, pour 1600-1650 (via Necrometrics, également retenue par Wikipédia). La période connaît aussi des famines dues au froid, à la sécheresse et aux inondations. Aucune autre estimation globale n’a été trouvée, d’où l’absence de fourchette. Les morts au Sichuan sous le seul rebelle Zhang Xianzhong sont estimées entre 600 000 et 1 million."
+countries:
+  - { code: CN, deaths: 25000000 }
+  - { code: TW }
+related: [japanese-invasions-of-korea-1592]
+sources:
+  - title: Transition from Ming to Qing
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Transition_from_Ming_to_Qing
+    accessed: "2026-10-22"
+  - title: List of wars by death toll
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_wars_by_death_toll
+    accessed: "2026-10-22"
+  - title: Selected Death Tolls for Wars, Massacres and Atrocities Before the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/pre1700a.htm
+    accessed: "2026-10-22"
+reviewed: false

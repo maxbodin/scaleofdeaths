@@ -1,0 +1,32 @@
+id: wars-of-the-roses
+title:
+  en: Wars of the Roses
+  fr: Guerre des Deux-Roses
+description:
+  en: >-
+    Series of civil wars for the English throne between two rival branches of the royal House of Plantagenet, Lancaster and York, from the first battle of St Albans in 1455 to the battle of Stoke in 1487. The crown changed hands several times, from Henry VI to Edward IV, Richard III and finally Henry VII, whose victory at Bosworth in 1485 founded the Tudor dynasty. Battles such as Towton in 1461 were very bloody, but violence against civilians was relatively limited.
+  fr: >-
+    Série de guerres civiles pour le trône d’Angleterre entre deux branches rivales de la maison royale des Plantagenêt, Lancastre et York, de la première bataille de St Albans en 1455 à la bataille de Stoke en 1487. La couronne change plusieurs fois de mains, d’Henri VI à Édouard IV, Richard III et enfin Henri VII, dont la victoire à Bosworth en 1485 fonde la dynastie Tudor. Des batailles comme Towton en 1461 sont très meurtrières, mais les violences contre les civils restent relativement limitées.
+categories: [war]
+kind: event
+start: "1455-05-22"
+end: "1487-06-16"
+deaths:
+  best: 105000
+  low: 100000
+  note:
+    en: "Deaths in battle. Best: 105,000 (Clodfelter, via Wikipedia and Necrometrics), about 5.5% of England's population in 1450. Low: 100,000, a 16th-century estimate by Thomas Craig cited by Charles Carlton (via Necrometrics). Terence Wise argues that Tudor historians exaggerated the toll for propaganda, so these figures may be too high, but no modern lower estimate was found."
+    fr: "Morts au combat. Estimation centrale : 105 000 (Clodfelter, via Wikipédia et Necrometrics), environ 5,5 % de la population anglaise de 1450. Bas : 100 000, estimation de Thomas Craig au XVIe siècle citée par Charles Carlton (via Necrometrics). Terence Wise estime que les historiens de l’époque Tudor ont exagéré le bilan à des fins de propagande, si bien que ces chiffres pourraient être trop élevés, mais aucune estimation moderne plus basse n’a été trouvée."
+countries:
+  - { code: GB, deaths: 105000 }
+related: [hundred-years-war]
+sources:
+  - title: Wars of the Roses
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Wars_of_the_Roses
+    accessed: "2026-10-22"
+  - title: Selected Death Tolls for Wars, Massacres and Atrocities Before the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/pre1700a.htm
+    accessed: "2026-10-22"
+reviewed: false

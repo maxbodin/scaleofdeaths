@@ -1,0 +1,34 @@
+id: partition-of-india
+title:
+  en: Partition of India
+  fr: Partition des Indes
+description:
+  en: >-
+    Communal violence that accompanied the division of British India into the independent dominions of India and Pakistan in August 1947. As between 12 and 20 million people fled across the new borders, Hindus and Sikhs on one side and Muslims on the other attacked refugee columns, trains and villages, especially in Punjab and Bengal. The violence included massacres, arson, forced conversions, abductions and widespread sexual violence against women.
+  fr: >-
+    Violences intercommunautaires qui accompagnèrent la division de l’Inde britannique entre les dominions indépendants de l’Inde et du Pakistan en août 1947. Alors que 12 à 20 millions de personnes fuyaient de part et d’autre des nouvelles frontières, hindous et sikhs d’un côté, musulmans de l’autre, attaquèrent convois de réfugiés, trains et villages, surtout au Pendjab et au Bengale. Les violences comprirent massacres, incendies, conversions forcées, enlèvements et violences sexuelles de masse contre les femmes.
+categories: [genocide]
+kind: event
+start: "1947-08"
+end: "1948"
+deaths:
+  best: 1000000
+  low: 200000
+  high: 2000000
+  note:
+    en: People killed in the violence around partition. Best is the figure of approximately 1 million that most scholars accept, according to Wikipedia; the New Yorker (William Dalrymple) puts the dead at between one and two million. The range is the 200,000 to 2 million found in published estimates; historian Lawrence James rejects the low figure of 200,000 associated with Lord Mountbatten.
+    fr: Personnes tuées dans les violences liées à la partition. L’estimation centrale est le chiffre d’environ 1 million admis par la plupart des chercheurs, selon Wikipédia ; le New Yorker (William Dalrymple) parle d’un à deux millions de morts. La fourchette va de 200 000 à 2 millions selon les estimations publiées ; l’historien Lawrence James rejette le chiffre bas de 200 000 associé à Lord Mountbatten.
+countries:
+  - { code: IN }
+  - { code: PK }
+  - { code: BD }
+sources:
+  - title: Partition of India
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Partition_of_India
+    accessed: "2026-10-22"
+  - title: The Bloody Legacy of Indian Partition
+    publisher: The New Yorker
+    url: https://www.newyorker.com/magazine/2015/06/29/the-great-divide-books-dalrymple
+    accessed: "2026-10-22"
+reviewed: false

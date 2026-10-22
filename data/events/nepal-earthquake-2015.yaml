@@ -1,0 +1,33 @@
+id: nepal-earthquake-2015
+title:
+  en: April 2015 Nepal earthquake
+  fr: Séisme d’avril 2015 au Népal
+description:
+  en: >-
+    At 11:56 on 25 April 2015 a shallow magnitude 7.8 to 7.9 earthquake, also called the Gorkha earthquake, struck central Nepal, with its epicentre about 85 km north-west of Kathmandu. Hundreds of thousands of houses and many historic buildings of the Kathmandu Valley collapsed, including the Dharahara tower, and avalanches killed climbers at Everest Base Camp and destroyed the village of Langtang. Nearly 3.5 million people were left homeless. A magnitude 7.3 aftershock on 12 May caused further deaths.
+  fr: >-
+    Le 25 avril 2015 à 11 h 56, un séisme superficiel de magnitude 7,8 à 7,9, dit séisme de Gorkha, a frappé le centre du Népal, avec un épicentre à environ 85 km au nord-ouest de Katmandou. Des centaines de milliers de maisons et de nombreux monuments de la vallée de Katmandou se sont effondrés, dont la tour de Dharahara, et des avalanches ont tué des alpinistes au camp de base de l’Everest et détruit le village de Langtang. Près de 3,5 millions de personnes se sont retrouvées sans abri. Une réplique de magnitude 7,3 le 12 mai a fait d’autres victimes.
+categories: [natural-disaster]
+kind: event
+start: "2015-04-25"
+deaths:
+  best: 8962
+  low: 8942
+  note:
+    en: Best is the total given by Wikipedia, whose country sections list 8,857 deaths in Nepal, 78 in India, 27 in Tibet (China) and 4 in Bangladesh; NOAA NCEI retains 8,957. Per-country figures are those of the EM-DAT database quoted by NCEI (8,942 in total, low). Sources do not always say whether deaths from the magnitude 7.3 aftershock of 12 May (more than 200) are included; the USGS figures for Nepal quoted by NCEI include them.
+    fr: L’estimation centrale est le total donné par Wikipédia, dont les sections par pays indiquent 8 857 morts au Népal, 78 en Inde, 27 au Tibet (Chine) et 4 au Bangladesh ; la NCEI de la NOAA retient 8 957. Les chiffres par pays sont ceux de la base EM-DAT cités par la NCEI (8 942 au total, bas de la fourchette). Les sources ne précisent pas toujours si les morts de la réplique de magnitude 7,3 du 12 mai (plus de 200) sont inclus ; les chiffres de l’USGS pour le Népal cités par la NCEI les incluent.
+countries:
+  - { code: NP, deaths: 8831 }
+  - { code: IN, deaths: 78 }
+  - { code: CN, deaths: 29 }
+  - { code: BD, deaths: 4 }
+sources:
+  - title: April 2015 Nepal earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/April_2015_Nepal_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Kathmandu, India, China, Bangladesh, event 10134"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/10134
+    accessed: "2026-10-22"
+reviewed: false

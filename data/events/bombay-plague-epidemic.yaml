@@ -1,0 +1,31 @@
+id: bombay-plague-epidemic
+title:
+  en: Bombay plague epidemic
+  fr: Épidémie de peste de Bombay
+description:
+  en: >-
+    Bubonic plague epidemic in the fast-growing port city of Bombay (now Mumbai), in British India, during the third plague pandemic. The first case was detected in the Mandvi district in September 1896 by Dr Acacio Gabriel Viegas, and the disease spread quickly through the crowded tenements of the mill workers. By January 1897 about half of the city's population of some 800,000 had fled. Harsh measures, including house searches, forced isolation and detention camps, provoked anger, and the plague went on to spread across India.
+  fr: >-
+    Épidémie de peste bubonique à Bombay (aujourd’hui Mumbai), ville portuaire en plein essor de l’Inde britannique, pendant la troisième pandémie de peste. Le premier cas fut détecté dans le quartier de Mandvi en septembre 1896 par le docteur Acacio Gabriel Viegas, et la maladie se répandit vite dans les logements surpeuplés des ouvriers du textile. En janvier 1897, environ la moitié des quelque 800 000 habitants avait fui. Les mesures brutales, perquisitions, isolement forcé et camps de détention, suscitèrent la colère, et la peste gagna ensuite toute l’Inde.
+categories: [epidemic]
+kind: event
+start: "1896-09"
+end: "1897-03"
+deaths:
+  best: 20000
+  note:
+    en: Deaths in the city of Bombay from September 1896 to March 1897, about 20,000 according to the municipal authorities (Wikipedia; National Army Museum). Wikipedia also reports 10,606 deaths over the winter of 1896. Plague remained in Bombay for years afterwards; those later deaths are only counted in the third plague pandemic.
+    fr: Morts dans la ville de Bombay de septembre 1896 à mars 1897, environ 20 000 selon les autorités municipales (Wikipédia ; National Army Museum). Wikipédia signale aussi 10 606 morts pendant l’hiver 1896. La peste resta présente à Bombay pendant des années ; ces morts ultérieures ne sont comptées que dans la troisième pandémie de peste.
+countries:
+  - { code: IN, deaths: 20000 }
+partOf: third-plague-pandemic
+sources:
+  - title: Bombay plague epidemic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Bombay_plague_epidemic
+    accessed: "2026-10-22"
+  - title: The Bombay plague
+    publisher: National Army Museum
+    url: https://www.nam.ac.uk/explore/bombay-plague
+    accessed: "2026-10-22"
+reviewed: false

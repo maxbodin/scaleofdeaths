@@ -1,0 +1,31 @@
+id: northwest-china-famine-1928
+title:
+  en: Chinese famine of 1928-1930
+  fr: Famine chinoise de 1928-1930
+description:
+  en: >-
+    Famine in northern and northwestern China under the Nationalist government in Nanjing, caused by a severe and widespread drought. Shaanxi, Gansu and Henan were among the worst-hit provinces. Crop failures were compounded by war, including the Central Plains War of 1930, and by inefficient relief. Famine-related diseases spread, the starving ate bark and clay, and many bodies were left unburied.
+  fr: >-
+    Famine dans le nord et le nord-ouest de la Chine, sous le gouvernement nationaliste de Nankin, provoquée par une sécheresse sévère et étendue. Le Shaanxi, le Gansu et le Henan comptent parmi les provinces les plus touchées. Les mauvaises récoltes ont été aggravées par la guerre, dont la guerre des Plaines centrales en 1930, et par l’inefficacité des secours. Les maladies liées à la famine se sont répandues, les affamés ont mangé de l’écorce et de l’argile, et de nombreux corps sont restés sans sépulture.
+categories: [famine]
+kind: event
+start: "1928"
+end: "1930"
+deaths:
+  best: 6000000
+  high: 10000000
+  note:
+    en: "Deaths from starvation and famine-related disease. Best: about 6 million, the total given by Wikipedia from the historian Lillian M. Li (2.5 to 3 million in Gansu and about 3 million in Shaanxi). High: 10 million, an estimate also reported by Wikipedia and the figure used by the World Peace Foundation. This total covers only Gansu and Shaanxi."
+    fr: "Morts de faim et des maladies liées à la famine. Valeur centrale : environ 6 millions, total donné par Wikipédia d’après l’historienne Lillian M. Li (2,5 à 3 millions au Gansu et environ 3 millions au Shaanxi). Haut : 10 millions, estimation également rapportée par Wikipédia et chiffre retenu par la World Peace Foundation. Ce total ne couvre que le Gansu et le Shaanxi."
+countries:
+  - { code: CN, deaths: 6000000 }
+sources:
+  - title: Chinese famine of 1928-1930
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Chinese_famine_of_1928%E2%80%931930
+    accessed: "2026-10-22"
+  - title: Famines and the deaths in them
+    publisher: Our World in Data (World Peace Foundation data)
+    url: https://ourworldindata.org/grapher/famines-and-the-deaths-in-them
+    accessed: "2026-10-22"
+reviewed: false

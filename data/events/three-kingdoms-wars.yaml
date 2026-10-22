@@ -1,0 +1,34 @@
+id: three-kingdoms-wars
+title:
+  en: Wars of the late Han and Three Kingdoms (China)
+  fr: Guerres de la fin des Han et des Trois Royaumes (Chine)
+description:
+  en: >-
+    Nearly a century of civil war in China, which began with the Yellow Turban rebellion of 184 and the collapse of Eastern Han authority. Warlords such as Cao Cao, Liu Bei and Sun Quan fought for control, and from 220 the empire was divided between the rival states of Wei, Shu and Wu. The Jin dynasty, which replaced Wei, reunified China in 280. Fighting, massacres, famine, epidemics and mass displacement devastated northern China in particular.
+  fr: >-
+    Près d’un siècle de guerres civiles en Chine, ouvert par la révolte des Turbans jaunes en 184 et l’effondrement de l’autorité des Han orientaux. Des seigneurs de guerre comme Cao Cao, Liu Bei et Sun Quan se disputent le pouvoir et, à partir de 220, l’empire est partagé entre trois États rivaux, Wei, Shu et Wu. La dynastie Jin, qui succède aux Wei, réunifie la Chine en 280. Combats, massacres, famines, épidémies et déplacements massifs ravagent en particulier le nord du pays.
+categories: [war]
+kind: event
+start: "0184"
+end: "0280"
+deaths:
+  best: 34000000
+  note:
+    en: "Not a count of deaths but a fall in registered population, so it also reflects famine, epidemics, displacement and people missing from the registers. Best: 34 million, the drop between the Han census of the mid-2nd century (almost 50 million people) and the Jin census of 280 (about 16 million), from Rafe de Crespigny as cited by Matthew White and Wikipedia's list. Wikipedia gives 56.5 million for the peak Han census. The census figures are contested: displacement, unregistered households and the collapse of administration explain part of the decline, so the figure probably overstates deaths. No other estimate was found, hence no range."
+    fr: "Il ne s’agit pas d’un décompte des morts mais d’une baisse de la population recensée, qui reflète aussi famines, épidémies, déplacements et personnes absentes des registres. Estimation centrale : 34 millions, écart entre le recensement Han du milieu du IIe siècle (près de 50 millions d’habitants) et celui des Jin en 280 (environ 16 millions), d’après Rafe de Crespigny cité par Matthew White et par la liste de Wikipédia. Wikipédia donne 56,5 millions pour le recensement Han le plus élevé. Ces chiffres sont contestés : les déplacements, les foyers non recensés et l’effondrement de l’administration expliquent une partie du déclin, si bien que le chiffre surestime probablement les morts. Aucune autre estimation n’a été trouvée, d’où l’absence de fourchette."
+countries:
+  - { code: CN, deaths: 34000000 }
+sources:
+  - title: Three Kingdoms
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Three_Kingdoms
+    accessed: "2026-10-22"
+  - title: List of wars by death toll
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_wars_by_death_toll
+    accessed: "2026-10-22"
+  - title: Selected Death Tolls for Wars, Massacres and Atrocities Before the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/pre1700a.htm
+    accessed: "2026-10-22"
+reviewed: false

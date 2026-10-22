@@ -1,0 +1,41 @@
+id: hong-kong-flu-1968
+title:
+  en: 1968 influenza pandemic ("Hong Kong flu")
+  fr: Pandémie de grippe de 1968 (« grippe de Hong Kong »)
+description:
+  en: >-
+    Influenza pandemic caused by an H3N2 virus that combined a new H3 haemagglutinin of avian origin with the N2 neuraminidase of the 1957 H2N2 virus. First detected in Hong Kong in July 1968, where it infected about 15% of the population in six weeks, it reached the United States in September and spread worldwide; in Japan, much of Europe and Australia the second wave was deadlier than the first. Most excess deaths were among people aged 65 and over. H3N2 still circulates as a seasonal flu virus.
+  fr: >-
+    Pandémie de grippe due à un virus H3N2 associant une nouvelle hémagglutinine H3 d’origine aviaire à la neuraminidase N2 du virus H2N2 de 1957. Détectée à Hong Kong en juillet 1968, où elle a touché environ 15 % de la population en six semaines, elle a atteint les États-Unis en septembre puis le monde entier ; au Japon, dans une grande partie de l’Europe et en Australie, la deuxième vague a été plus meurtrière que la première. La plupart des morts en excès avaient 65 ans ou plus. Le H3N2 circule encore comme virus de grippe saisonnière.
+categories: [epidemic]
+kind: event
+start: "1968-07"
+end: "1970"
+deaths:
+  best: 1000000
+  high: 4000000
+  note:
+    en: >-
+      Best is the CDC estimate of 1 million deaths worldwide, also the low end of the 1 to 4 million range that Wikipedia cites from the WHO (used as high). Country figures: United States, CDC estimate of about 100,000; Germany, about 60,000 estimated deaths registered in East and West Germany together; Papua New Guinea (then an Australian-administered territory), 2,013 deaths reported in the 1969 epidemic.
+    fr: >-
+      L’estimation retenue est celle des CDC, 1 million de morts dans le monde, qui est aussi le bas de la fourchette de 1 à 4 millions citée par Wikipédia d’après l’OMS (dont le haut est repris ici). Chiffres par pays : États-Unis, estimation des CDC d’environ 100 000 morts ; Allemagne, environ 60 000 morts estimés en RFA et en RDA réunies ; Papouasie-Nouvelle-Guinée (alors territoire administré par l’Australie), 2 013 morts déclarés lors de l’épidémie de 1969.
+countries:
+  - { code: US, deaths: 100000 }
+  - { code: DE, deaths: 60000 }
+  - { code: PG, deaths: 2013 }
+  - { code: HK }
+  - { code: JP }
+  - { code: FR }
+  - { code: GB }
+  - { code: AU }
+related: [asian-flu-1957, russian-flu-1889, spanish-flu, swine-flu-2009]
+sources:
+  - title: Hong Kong flu
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Hong_Kong_flu
+    accessed: "2026-10-22"
+  - title: 1968 Pandemic (H3N2 virus) (archived page)
+    publisher: Centers for Disease Control and Prevention
+    url: https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/1968-pandemic.html
+    accessed: "2026-10-22"
+reviewed: false

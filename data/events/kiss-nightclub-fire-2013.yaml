@@ -1,0 +1,33 @@
+id: kiss-nightclub-fire-2013
+title:
+  en: Kiss nightclub fire
+  fr: Incendie de la boîte de nuit Kiss
+description:
+  en: >-
+    Between 2:00 and 2:30 on 27 January 2013, during a university party at the Kiss nightclub in Santa Maria, Rio Grande do Sul, Brazil, a flare lit by a band on stage set fire to the acoustic foam on the ceiling. The burning foam gave off toxic smoke, the power failed, and the overcrowded club had few exits and poor signage; a crush formed as people tried to escape. Most victims were students aged 17 to 30 who died of smoke inhalation. The two club owners and two band members were convicted in 2021, a verdict overturned in 2022.
+  fr: >-
+    Entre 2 h et 2 h 30, le 27 janvier 2013, lors d’une fête étudiante à la boîte de nuit Kiss de Santa Maria (Rio Grande do Sul, Brésil), une fusée éclairante allumée par un groupe sur scène enflamme la mousse acoustique du plafond. La mousse dégage une fumée toxique, l’électricité est coupée, et la salle bondée a peu de sorties et une signalisation défaillante ; une bousculade se forme. La plupart des victimes, des étudiants de 17 à 30 ans, meurent intoxiquées par la fumée. Les deux propriétaires et deux musiciens ont été condamnés en 2021, verdict annulé en 2022.
+categories: [accident]
+kind: event
+start: "2013-01-27"
+deaths:
+  best: 242
+  note:
+    en: Toll given by Wikipedia and the BBC; more than 600 people were injured. It is the second-deadliest fire in Brazil's history, after the 1961 Niterói circus fire.
+    fr: Bilan donné par Wikipédia et la BBC ; plus de 600 personnes ont été blessées. C’est le deuxième incendie le plus meurtrier de l’histoire du Brésil, après celui du cirque de Niterói en 1961.
+countries:
+  - { code: BR, deaths: 242 }
+sources:
+  - title: Kiss nightclub fire
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Kiss_nightclub_fire
+    accessed: "2026-10-22"
+  - title: "Brazil nightclub fire: Four convicted over blaze that killed 242"
+    publisher: BBC News
+    url: https://www.bbc.com/news/world-latin-america-59617508
+    accessed: "2026-10-22"
+  - title: Men convicted over Brazil fire that killed 242 go free
+    publisher: BBC News
+    url: https://www.bbc.com/news/world-latin-america-62422806
+    accessed: "2026-10-22"
+reviewed: false

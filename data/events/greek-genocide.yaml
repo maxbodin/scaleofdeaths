@@ -1,0 +1,37 @@
+id: greek-genocide
+title:
+  en: Greek genocide
+  fr: Génocide grec
+description:
+  en: >-
+    Killing and expulsion of the Ottoman Greek population of Anatolia and Eastern Thrace, including the Greeks of Pontus on the Black Sea coast, by the Ottoman government during the First World War and by Turkish nationalist forces during the Turkish War of Independence. Victims died in massacres, deportations, death marches, labour battalions and from hunger, disease and exposure. Most survivors fled or were transferred to Greece in the 1923 population exchange. The International Association of Genocide Scholars recognised it as genocide in 2007; Turkey rejects the term.
+  fr: >-
+    Massacres et expulsions des Grecs ottomans d’Anatolie et de Thrace orientale, dont les Grecs du Pont, par le gouvernement ottoman pendant la Première Guerre mondiale puis par les nationalistes turcs pendant la guerre d’indépendance turque. Les victimes périrent lors de massacres, de déportations, de marches de la mort, dans des bataillons de travail, ou de faim et de maladie. La plupart des survivants gagnèrent la Grèce, notamment lors de l’échange de populations de 1923. L’Association internationale des spécialistes du génocide l’a reconnu comme génocide en 2007 ; la Turquie rejette ce terme.
+categories: [genocide]
+kind: event
+start: "1914"
+end: "1923"
+deaths:
+  best: 347000
+  low: 289000
+  high: 750000
+  note:
+    en: Very uncertain. Historians Benny Morris and Dror Ze'evi speak of "several hundred thousand" Ottoman Greeks dead (Kathimerini). Best is Rudolph Rummel's estimate of 347,000 for 1914-1923 cited by Wikipedia (his Statistics of Democide gives about 84,000 for 1914-1918 and 264,000 for 1919-1922). The range is the 289,000 to 750,000 of academic estimates for Anatolia given by Wikipedia; 750,000 is political scientist Adam Jones's figure. Contemporary Greek and League of Nations figures of up to 1 million or more are not used.
+    fr: Très incertain. Les historiens Benny Morris et Dror Ze’evi parlent de « plusieurs centaines de milliers » de Grecs ottomans morts (Kathimerini). L’estimation centrale est celle de Rudolph Rummel, 347 000 morts pour 1914-1923, citée par Wikipédia (ses Statistics of Democide donnent environ 84 000 morts pour 1914-1918 et 264 000 pour 1919-1922). La fourchette est celle des estimations universitaires pour l’Anatolie, de 289 000 à 750 000, selon Wikipédia ; 750 000 est le chiffre du politologue Adam Jones. Les chiffres d’époque, grecs ou de la Société des Nations, allant jusqu’à 1 million ou plus, ne sont pas retenus.
+countries:
+  - { code: TR, deaths: 347000 }
+related: [armenian-genocide, assyrian-genocide]
+sources:
+  - title: Greek genocide
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Greek_genocide
+    accessed: "2026-10-22"
+  - title: "Statistics of Democide, chapter 5: Statistics of Turkey's Democide (R. J. Rummel)"
+    publisher: University of Hawaii
+    url: https://www.hawaii.edu/powerkills/SOD.CHAP5.HTM
+    accessed: "2026-10-22"
+  - title: The 30-year genocide of Christians in Turkey
+    publisher: Kathimerini
+    url: https://www.ekathimerini.com/culture/241808/the-30-year-genocide-of-christians-in-turkey/
+    accessed: "2026-10-22"
+reviewed: false

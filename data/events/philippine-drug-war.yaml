@@ -1,0 +1,36 @@
+id: philippine-drug-war
+title:
+  en: Philippine drug war
+  fr: Guerre contre la drogue aux Philippines
+description:
+  en: >-
+    Anti-drug campaign launched in mid-2016 by President Rodrigo Duterte, who urged the public to kill drug addicts. Thousands of suspected drug users and dealers were killed in police operations and by unidentified gunmen; human rights groups reported staged crime scenes and planted evidence. In 2021 the International Criminal Court opened an investigation into possible crimes against humanity, and in March 2025 Duterte was arrested on its warrant and taken to The Hague. His successor Bongbong Marcos continued the campaign with a stated focus on prevention and rehabilitation.
+  fr: >-
+    Campagne antidrogue lancée mi-2016 par le président Rodrigo Duterte, qui appelle la population à tuer les toxicomanes. Des milliers de consommateurs et de trafiquants présumés sont tués lors d’opérations de police et par des tueurs non identifiés ; des ONG dénoncent des scènes de crime maquillées et des preuves fabriquées. En 2021, la Cour pénale internationale ouvre une enquête pour crimes contre l’humanité présumés, et en mars 2025 Duterte est arrêté sur son mandat et transféré à La Haye. Son successeur, Bongbong Marcos, la poursuit en mettant l’accent sur la prévention et la réadaptation.
+categories: [genocide]
+kind: event
+start: "2016-07-01"
+end: "2022-06-30"
+deaths:
+  best: 12000
+  low: 6252
+  high: 30000
+  note:
+    en: People killed in the anti-drug campaign under the Duterte administration (July 2016 to June 2022), in police operations and in vigilante-style killings. Best and high are the ends of the range of 12,000 to 30,000 killed estimated by human rights groups (Human Rights Watch, 2022; Wikipedia adds academics); none of them gives a central figure. Low is the government's official count of 6,252 people killed in police operations as of 31 May 2022 (Rappler), which excludes vigilante-style killings, put at 27,000 to 30,000 by rights groups. Police documents obtained by Rappler recorded 7,884 deaths from July 2016 to August 2020. Killings after June 2022 are not included.
+    fr: Personnes tuées dans la campagne antidrogue sous l’administration Duterte (juillet 2016 à juin 2022), lors d’opérations de police et d’exécutions par des justiciers. L’estimation centrale et le haut sont les bornes de la fourchette de 12 000 à 30 000 tués estimée par les organisations de défense des droits humains (Human Rights Watch, 2022 ; Wikipédia ajoute des universitaires) ; aucune ne donne de chiffre central. Le bas est le décompte officiel du gouvernement, 6 252 personnes tuées lors d’opérations de police au 31 mai 2022 (Rappler), qui exclut les exécutions par des justiciers, estimées à 27 000 à 30 000 par ces organisations. Des documents de la police obtenus par Rappler recensent 7 884 morts de juillet 2016 à août 2020. Les tueries postérieures à juin 2022 ne sont pas comptées.
+countries:
+  - { code: PH, deaths: 12000 }
+sources:
+  - title: Philippine drug war
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Philippine_drug_war
+    accessed: "2026-10-22"
+  - title: "World Report 2022: Philippines"
+    publisher: Human Rights Watch
+    url: https://www.hrw.org/world-report/2022/country-chapters/philippines
+    accessed: "2026-10-22"
+  - title: Duterte's violent war on drugs, as recorded by rights groups, int'l bodies
+    publisher: Rappler
+    url: https://www.rappler.com/philippines/list-reports-documentation-rodrigo-duterte-drug-war-killings/
+    accessed: "2026-10-22"
+reviewed: false

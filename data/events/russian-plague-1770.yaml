@@ -1,0 +1,41 @@
+id: russian-plague-1770
+title:
+  en: 1770-1772 Russian plague
+  fr: Peste de 1770-1772 en Russie
+description:
+  en: >-
+    The last large plague epidemic in central Russia. It began in January 1770 among Russian troops in Moldavia during the Russo-Turkish War of 1768-1774 and spread north through Poland and Ukraine. It peaked in Moscow in September 1771, when about a thousand people died each day and much of the population fled. Anger at the anti-plague measures, including the removal of a venerated icon, sparked the Plague Riot, in which Archbishop Ambrosius was killed, and Catherine II sent Grigory Orlov to restore order.
+  fr: >-
+    Dernière grande épidémie de peste en Russie centrale. Apparue en janvier 1770 parmi les troupes russes en Moldavie, pendant la guerre russo-turque de 1768-1774, elle remonta vers le nord par la Pologne et l’Ukraine. Elle culmina à Moscou en septembre 1771, avec environ mille morts par jour, tandis qu’une grande partie des habitants fuyait. La colère contre les mesures sanitaires, dont le retrait d’une icône vénérée, provoqua l’émeute de la peste, où l’archevêque Ambroise fut tué ; Catherine II envoya Grigori Orlov rétablir l’ordre.
+categories: [epidemic]
+kind: event
+start: "1770-01"
+end: "1772"
+deaths:
+  best: 53642
+  low: 52000
+  high: 100000
+  note:
+    en: Deaths in Moscow. Best is the 53,642 plague deaths recorded in the city from July to December 1771 (Dean et al., PNAS 2018), a minimum. Estimates of Moscow's total toll range from 52,000 to 100,000 out of some 300,000 inhabitants (Wikipedia, citing Melikishvili), which sets the range; historian L. E. Gorelova puts it above 100,000. Deaths among the troops in Moldavia and in Ukraine and other provinces are not included.
+    fr: Morts à Moscou. L’estimation retenue correspond aux 53 642 décès de peste enregistrés dans la ville de juillet à décembre 1771 (Dean et al., PNAS 2018), un minimum. Les estimations du bilan total de Moscou vont de 52 000 à 100 000 sur quelque 300 000 habitants (Wikipédia, d’après Melikishvili), ce qui fixe la fourchette ; l’historienne L. E. Gorelova l’évalue à plus de 100 000. Les morts parmi les troupes en Moldavie, en Ukraine et dans les autres provinces ne sont pas inclus.
+countries:
+  - { code: RU, deaths: 53642 }
+  - { code: UA }
+  - { code: MD }
+  - { code: RO }
+  - { code: PL }
+related: [black-death]
+sources:
+  - title: 1770-1772 Russian plague
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1770%E2%80%931772_Russian_plague
+    accessed: "2026-10-22"
+  - title: "Human ectoparasites and the spread of plague in Europe during the Second Pandemic (Dean et al., PNAS 2018)"
+    publisher: PubMed Central
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5819418/
+    accessed: "2026-10-22"
+  - title: "Чума в Москве (1771-73 гг.) (Gorelova, 2004)"
+    publisher: Gumer library
+    url: https://www.gumer.info/bibliotek_Buks/History/Article/Gorel_ChumaMosk.php
+    accessed: "2026-10-22"
+reviewed: false

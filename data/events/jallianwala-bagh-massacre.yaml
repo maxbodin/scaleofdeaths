@@ -1,0 +1,32 @@
+id: jallianwala-bagh-massacre
+title:
+  en: Jallianwala Bagh massacre
+  fr: Massacre de Jallianwala Bagh
+description:
+  en: >-
+    Shooting of an unarmed crowd in the Jallianwala Bagh, a walled garden in Amritsar, Punjab, British India, on 13 April 1919. Thousands had gathered during the Baisakhi festival, some to protest against the Rowlatt Act and the arrest of two independence activists. Brigadier-General Reginald Dyer blocked the exit with his troops and ordered them to fire on the crowd for about ten minutes, until their ammunition ran low. The massacre fuelled widespread anger against British rule and led to the Non-cooperation movement of 1920-1922.
+  fr: >-
+    Fusillade d’une foule désarmée dans le Jallianwala Bagh, un jardin clos d’Amritsar, au Pendjab (Inde britannique), le 13 avril 1919. Des milliers de personnes s’y étaient réunies pendant la fête de Baisakhi, certaines pour protester contre les lois Rowlatt et l’arrestation de deux militants indépendantistes. Le général de brigade Reginald Dyer fait bloquer la sortie et ordonne à ses troupes de tirer sur la foule pendant une dizaine de minutes, jusqu’à épuisement des munitions. Le massacre attise la colère contre la domination britannique et mène au mouvement de non-coopération.
+categories: [genocide]
+kind: event
+start: "1919-04-13"
+deaths:
+  best: 379
+  high: 1500
+  note:
+    en: >-
+      Civilians killed by the shooting or crushed in the panic. Best is the official figure of 379 dead, the toll found by the Sewa Samiti society and used by the Hunter Commission, which confirmed the deaths of 337 men, 41 boys and a six-week-old baby; it is widely seen as an undercount (Wikipedia, Al Jazeera). Higher estimates include 700 (historian Vishwa Nath Datta), about 1,000 (Madan Mohan Malaviya and the inquiry of the Indian National Congress, and local residents according to Al Jazeera) and 1,500, the high, reported by Swami Shraddhanand (Wikipedia).
+    fr: >-
+      Civils tués par les tirs ou écrasés dans la panique. L’estimation centrale est le chiffre officiel de 379 morts, établi par la société Sewa Samiti et retenu par la commission Hunter, qui a confirmé la mort de 337 hommes, 41 garçons et un bébé de six semaines ; il est largement considéré comme sous-estimé (Wikipédia, Al Jazeera). Les estimations plus élevées vont de 700 (historien Vishwa Nath Datta) à environ 1 000 (Madan Mohan Malaviya et l’enquête du Congrès national indien, ainsi que les habitants selon Al Jazeera) et 1 500, le haut, chiffre avancé par Swami Shraddhanand (Wikipédia).
+countries:
+  - { code: IN, deaths: 379 }
+sources:
+  - title: Jallianwala Bagh massacre
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Jallianwala_Bagh_massacre
+    accessed: "2026-10-22"
+  - title: India marks colonial massacre centenary, Britain makes no apology
+    publisher: Al Jazeera
+    url: https://www.aljazeera.com/news/2019/4/13/india-marks-colonial-massacre-centenary-britain-makes-no-apology
+    accessed: "2026-10-22"
+reviewed: false

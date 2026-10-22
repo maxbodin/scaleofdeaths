@@ -1,0 +1,32 @@
+id: persian-famine-1917
+title:
+  en: Persian famine of 1917-1919
+  fr: Famine perse de 1917-1919
+description:
+  en: >-
+    Famine in Qajar Iran during the First World War, when the officially neutral country was occupied by British, Russian and Ottoman forces. Successive droughts, requisitioning and confiscation of food by the occupying armies, hoarding, speculation, war profiteering and poor harvests caused mass starvation, and cholera, typhus, plague and the 1918 influenza pandemic swept through the weakened population. The scale of the famine and the responsibility of the occupying powers, especially Britain, remain contested.
+  fr: >-
+    Famine en Iran sous la dynastie Qajar pendant la Première Guerre mondiale, alors que le pays, officiellement neutre, était occupé par des forces britanniques, russes et ottomanes. Sécheresses successives, réquisitions et confiscations de vivres par les armées d’occupation, accaparement, spéculation, profits de guerre et mauvaises récoltes ont provoqué une famine de masse, et le choléra, le typhus, la peste et la grippe de 1918 ont frappé une population affaiblie. L’ampleur de la famine et la responsabilité des occupants, surtout britanniques, restent contestées.
+categories: [famine]
+kind: event
+start: "1917"
+end: "1919"
+deaths:
+  best: 2000000
+  low: 455200
+  note:
+    en: "Deaths from hunger and disease, including the 1918 influenza pandemic, whose victims in Iran are also counted in the Spanish flu toll. The toll is contested. Best: about 2 million, the estimate of mainstream historians such as Ervand Abrahamian and Homa Katouzian; Abrahamian attributes most of these deaths to cholera, typhus and influenza. Low: 455,200, the World Peace Foundation estimate. Mohammad Gholi Majd's estimate of 8 to 10 million, based on a higher pre-famine population of 19 million, has not gained wide acceptance among historians (Abrahamian calls it exaggerated) and is left out of the range."
+    fr: "Morts de faim et de maladie, y compris la pandémie de grippe de 1918, dont les victimes iraniennes figurent aussi dans le bilan de la grippe espagnole. Le bilan est contesté. Valeur centrale : environ 2 millions, estimation d’historiens de référence comme Ervand Abrahamian et Homa Katouzian ; Abrahamian attribue l’essentiel de ces morts au choléra, au typhus et à la grippe. Bas : 455 200, estimation de la World Peace Foundation. L’estimation de 8 à 10 millions de Mohammad Gholi Majd, fondée sur une population d’avant-famine plus élevée (19 millions), n’est pas reprise par la plupart des historiens (Abrahamian la juge exagérée) et est exclue de la fourchette."
+countries:
+  - { code: IR, deaths: 2000000 }
+related: [spanish-flu]
+sources:
+  - title: Persian famine of 1917-1919
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Persian_famine_of_1917%E2%80%931919
+    accessed: "2026-10-22"
+  - title: Famines and the deaths in them
+    publisher: Our World in Data (World Peace Foundation data)
+    url: https://ourworldindata.org/grapher/famines-and-the-deaths-in-them
+    accessed: "2026-10-22"
+reviewed: false

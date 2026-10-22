@@ -1,0 +1,31 @@
+id: beslan-school-siege
+title:
+  en: Beslan school siege
+  fr: Prise d’otages de l’école de Beslan
+description:
+  en: >-
+    Hostage-taking at School Number One in Beslan, North Ossetia, Russia, by armed Chechen separatist militants on the first day of the school year. They held more than 1,100 people, most of them children, in the school gym rigged with explosives, without food or water, demanding a Russian withdrawal from Chechnya. On the third day explosions in the gym were followed by a chaotic assault by Russian forces. The European Court of Human Rights later ruled that Russia had used disproportionate force.
+  fr: >-
+    Prise d’otages à l’école no 1 de Beslan, en Ossétie du Nord (Russie), par des séparatistes tchétchènes armés le jour de la rentrée scolaire. Ils retinrent plus de 1 100 personnes, en majorité des enfants, dans le gymnase piégé d’explosifs, sans eau ni nourriture, en exigeant le retrait russe de Tchétchénie. Le troisième jour, des explosions dans le gymnase furent suivies d’un assaut chaotique des forces russes. La Cour européenne des droits de l’homme a ensuite jugé que la Russie avait fait un usage disproportionné de la force.
+categories: [genocide]
+kind: event
+start: "2004-09-01"
+end: "2004-09-03"
+deaths:
+  best: 334
+  high: 335
+  note:
+    en: People killed in the siege and the assault, including 186 children, not counting the 31 attackers (Wikipedia, which notes the toll of 334 excluding attackers reported by The Washington Post). High is the toll of 335 stated by the town of Beslan (Wikipedia). BBC News reports about 330 dead, including 186 children.
+    fr: Personnes tuées pendant la prise d’otages et l’assaut, dont 186 enfants, sans compter les 31 assaillants (Wikipédia, qui cite le bilan de 334 morts hors assaillants donné par le Washington Post). Le haut est le bilan de 335 morts avancé par la ville de Beslan (Wikipédia). BBC News fait état d’environ 330 morts, dont 186 enfants.
+countries:
+  - { code: RU, deaths: 334 }
+sources:
+  - title: Beslan school siege
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Beslan_school_siege
+    accessed: "2026-10-22"
+  - title: "Beslan school siege: Russia 'failed' in 2004 massacre"
+    publisher: BBC News
+    url: https://www.bbc.com/news/world-europe-39586814
+    accessed: "2026-10-22"
+reviewed: false

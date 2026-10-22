@@ -1,0 +1,34 @@
+id: september-11-attacks
+title:
+  en: September 11 attacks
+  fr: Attentats du 11 septembre 2001
+description:
+  en: >-
+    Coordinated suicide attacks carried out in the United States by 19 hijackers of the Islamist militant group al-Qaeda. They hijacked four airliners, flying two into the twin towers of the World Trade Center in New York, which then collapsed, and one into the Pentagon near Washington; the fourth crashed in a field near Shanksville, Pennsylvania, after passengers fought back. They remain the deadliest terrorist attacks in history and led to the US-led war in Afghanistan.
+  fr: >-
+    Attentats-suicides coordonnés commis aux États-Unis par 19 pirates de l’air du groupe islamiste al-Qaïda. Ils détournèrent quatre avions de ligne : deux percutèrent les tours jumelles du World Trade Center à New York, qui s’effondrèrent, un autre le Pentagone près de Washington, et le quatrième s’écrasa dans un champ près de Shanksville, en Pennsylvanie, après la révolte des passagers. Ce sont les attentats terroristes les plus meurtriers de l’histoire ; ils menèrent à la guerre d’Afghanistan menée par les États-Unis.
+categories: [genocide]
+kind: event
+start: "2001-09-11"
+deaths:
+  best: 2977
+  note:
+    en: Victims killed on 11 September 2001, according to the 9/11 Memorial and Museum - 2,753 in New York, 184 at the Pentagon and 40 on Flight 93 - not counting the 19 hijackers (2,996 deaths in total) or later deaths from illnesses linked to the attacks. The victims came from 90 nations according to the Memorial; Wikipedia counts at least 372 foreign nationals from 102 countries, including 67 from the United Kingdom, but all died on US soil.
+    fr: Victimes tuées le 11 septembre 2001 selon le Mémorial et musée du 11-Septembre (2 753 à New York, 184 au Pentagone et 40 dans le vol 93), sans compter les 19 pirates de l’air (2 996 morts au total) ni les décès ultérieurs dus aux maladies liées aux attentats. Les victimes venaient de 90 pays selon le Mémorial ; Wikipédia recense au moins 372 étrangers de 102 pays, dont 67 Britanniques, mais tous sont morts sur le sol américain.
+countries:
+  - { code: US, deaths: 2977 }
+related: [war-in-afghanistan-2001]
+sources:
+  - title: September 11 attacks
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/September_11_attacks
+    accessed: "2026-10-22"
+  - title: Casualties of the September 11 attacks
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Casualties_of_the_September_11_attacks
+    accessed: "2026-10-22"
+  - title: 9/11 FAQs
+    publisher: 9/11 Memorial and Museum
+    url: https://www.911memorial.org/911-faqs
+    accessed: "2026-10-22"
+reviewed: false

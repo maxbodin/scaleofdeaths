@@ -1,0 +1,31 @@
+id: panthay-rebellion
+title:
+  en: Panthay Rebellion
+  fr: Révolte des Panthay
+description:
+  en: >-
+    Multi-ethnic rebellion in Yunnan, south-western China, in which the Muslim leader Du Wenxiu set up a rival state, often called a sultanate, with its capital at Dali. It broke out in 1856 after a massacre of Muslims organised by a Qing official in Kunming. Qing forces crushed it in 1873, followed by massacres of Yunnanese Muslims; many fled across the Burmese border. War, massacres, famine and epidemics devastated the province's population.
+  fr: >-
+    Rébellion multiethnique au Yunnan, dans le sud-ouest de la Chine, au cours de laquelle le chef musulman Du Wenxiu fonde un État rival, souvent appelé sultanat, avec Dali pour capitale. Elle éclate en 1856 après un massacre de musulmans organisé par un fonctionnaire Qing à Kunming. Les forces Qing l’écrasent en 1873, puis massacrent les musulmans du Yunnan ; beaucoup fuient en Birmanie. Guerre, massacres, famine et épidémies ravagent la population de la province.
+categories: [war]
+kind: event
+start: "1856"
+end: "1873"
+deaths:
+  best: 1000000
+  note:
+    en: Deaths of Muslim and non-Muslim civilians and soldiers. Best is the one million given by Wikipedia (which says "up to a million") and by the sources compiled by Necrometrics (Israeli 2007, Clodfelter). No source found gives a range.
+    fr: Morts parmi les civils et les soldats, musulmans et non musulmans. L’estimation centrale est le million cité par Wikipédia (qui parle de « jusqu’à un million ») et par les sources compilées par Necrometrics (Israeli 2007, Clodfelter). Aucune source trouvée ne donne de fourchette.
+countries:
+  - { code: CN, deaths: 1000000 }
+related: [dungan-revolt-1862]
+sources:
+  - title: Panthay Rebellion
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Panthay_Rebellion
+    accessed: "2026-10-22"
+  - title: "Statistics of Wars, Oppressions and Atrocities of the Nineteenth Century: Panthay Rebellion (1855-73)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/wars19c.htm
+    accessed: "2026-10-22"
+reviewed: false

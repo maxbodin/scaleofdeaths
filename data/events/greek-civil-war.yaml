@@ -1,0 +1,32 @@
+id: greek-civil-war
+title:
+  en: Greek Civil War
+  fr: Guerre civile grecque
+description:
+  en: >-
+    Civil war between the Greek government, backed first by the United Kingdom and then the United States, and the Democratic Army of Greece, the armed force of the Communist Party, supported from Yugoslavia, Albania and Bulgaria. It followed the occupation of Greece in the Second World War and the clashes of 1944-1945. Both sides committed war crimes, including massacres and the removal of children, and about a million people were temporarily displaced. Government forces defeated the communists in the Grammos and Vitsi mountains in August 1949.
+  fr: >-
+    Guerre civile entre le gouvernement grec, soutenu d’abord par le Royaume-Uni puis par les États-Unis, et l’Armée démocratique de Grèce, bras armé du Parti communiste, soutenue depuis la Yougoslavie, l’Albanie et la Bulgarie. Elle fait suite à l’occupation de la Grèce pendant la Seconde Guerre mondiale et aux affrontements de 1944-1945. Les deux camps commettent des crimes de guerre, dont des massacres et des enlèvements d’enfants, et environ un million de personnes sont déplacées. Les forces gouvernementales battent les communistes dans les monts Grammos et Vitsi en août 1949.
+categories: [war]
+kind: event
+start: "1946-03-31"
+end: "1949-08-30"
+deaths:
+  best: 158000
+  low: 80000
+  high: 160000
+  note:
+    en: Military and civilian deaths. Best is the 158,000 deaths that the PRIO Battle Deaths documentation describes as the widely cited figure (Bercovitch and Jackson, Clodfelter); high is the 160,000 given by Brogan and Eckhardt. Low is the bottom of Wikipedia's 80,000 to 158,000 range, close to R. J. Rummel's middle estimate of 79,000 for 1944-1949. Wikipedia gives about 21,000 government soldiers and gendarmes killed or missing and 38,839 Democratic Army fighters killed by the army's own count; Clodfelter gives 15,969 national army dead and at least 50,000 Democratic Army dead.
+    fr: Morts militaires et civiles. L’estimation centrale correspond aux 158 000 morts que la documentation du jeu de données PRIO sur les morts au combat présente comme le chiffre le plus cité (Bercovitch et Jackson, Clodfelter) ; le haut aux 160 000 avancés par Brogan et Eckhardt. Le bas est le bas de la fourchette de 80 000 à 158 000 de Wikipédia, proche de l’estimation médiane de 79 000 de R. J. Rummel pour 1944-1949. Wikipédia indique environ 21 000 soldats et gendarmes gouvernementaux tués ou disparus et 38 839 combattants de l’Armée démocratique tués selon l’armée ; Clodfelter donne 15 969 morts dans l’armée nationale et au moins 50 000 dans l’Armée démocratique.
+countries:
+  - { code: GR, deaths: 158000 }
+sources:
+  - title: Greek Civil War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Greek_Civil_War
+    accessed: "2026-10-22"
+  - title: "The PRIO Battle Deaths Dataset, 1946-2008, Version 3.0: Documentation of Coding Decisions (Lacina), Greece"
+    publisher: Peace Research Institute Oslo (PRIO)
+    url: https://cdn.cloud.prio.org/files/91648bba-8885-40ce-8a78-fae75c850c55/PRIO%20Battle%20Deaths%20Dataset%2030%20Documentation.pdf
+    accessed: "2026-10-22"
+reviewed: false

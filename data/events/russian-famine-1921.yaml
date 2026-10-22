@@ -1,0 +1,39 @@
+id: russian-famine-1921
+title:
+  en: Russian famine of 1921-1922
+  fr: Famine russe de 1921-1922
+description:
+  en: >-
+    Famine in Soviet Russia, also called the Povolzhye famine, centred on the Volga and Ural River regions, which began in spring 1921 and lasted into 1922. Severe drought struck a country exhausted by the First World War and the Russian Civil War, where grain requisitioning under war communism had stripped peasants of their reserves. Cholera and typhus spread and cannibalism was reported. Foreign aid, mostly from Herbert Hoover's American Relief Administration, was feeding more than 10 million people a day at its peak.
+  fr: >-
+    Famine en Russie soviétique, aussi appelée famine de la Volga, centrée sur les régions de la Volga et de l’Oural, commencée au printemps 1921 et prolongée en 1922. Une forte sécheresse a frappé un pays épuisé par la Première Guerre mondiale et la guerre civile, où les réquisitions de grain du communisme de guerre avaient privé les paysans de leurs réserves. Le choléra et le typhus se sont répandus et des cas de cannibalisme ont été signalés. L’aide étrangère, surtout celle de l’American Relief Administration d’Herbert Hoover, nourrissait plus de 10 millions de personnes par jour à son apogée.
+categories: [famine]
+kind: event
+start: "1921"
+end: "1922"
+deaths:
+  best: 5000000
+  low: 1000000
+  high: 10000000
+  note:
+    en: "Deaths from starvation and famine-related disease such as typhus and cholera. Best: about 5 million, the conclusion of an official Soviet publication of the early 1920s and the figure usually quoted in textbooks; the World Peace Foundation uses 5.2 million for southern Russia and Ukraine. Low: 1 million, the most conservative counts; an assessment based on the American Relief Administration's medical division gave 2 million. High: 10 million, the highest estimates reported; Ó Gráda gives 9 million."
+    fr: "Morts de faim et des maladies liées à la famine, comme le typhus et le choléra. Valeur centrale : environ 5 millions, conclusion d’une publication soviétique officielle du début des années 1920 et chiffre généralement repris dans les manuels ; la World Peace Foundation retient 5,2 millions pour le sud de la Russie et l’Ukraine. Bas : 1 million, les décomptes les plus prudents ; une évaluation fondée sur le service médical de l’American Relief Administration donnait 2 millions. Haut : 10 millions, les estimations les plus élevées ; Ó Gráda avance 9 millions."
+countries:
+  - { code: RU }
+  - { code: UA }
+  - { code: KZ }
+related: [russian-civil-war]
+sources:
+  - title: Russian famine of 1921-1922
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Russian_famine_of_1921%E2%80%931922
+    accessed: "2026-10-22"
+  - title: Famines and the deaths in them
+    publisher: Our World in Data (World Peace Foundation data)
+    url: https://ourworldindata.org/grapher/famines-and-the-deaths-in-them
+    accessed: "2026-10-22"
+  - title: Making Famine History (Cormac Ó Gráda)
+    publisher: Journal of Economic Literature (UCD Research Repository)
+    url: https://researchrepository.ucd.ie/server/api/core/bitstreams/f57a2154-08a1-44a8-b865-75d1d51a4fcb/content
+    accessed: "2026-10-22"
+reviewed: false

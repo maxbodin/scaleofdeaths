@@ -1,0 +1,76 @@
+id: third-plague-pandemic
+title:
+  en: Third plague pandemic
+  fr: Troisième pandémie de peste
+description:
+  en: >-
+    The third and last of the great plague pandemics, caused by Yersinia pestis. It began in 1855 in Yunnan, in south-western China, reached Guangzhou and Hong Kong in 1894, and from there steamships carried it to port cities on every inhabited continent. British India was by far the worst hit, especially Bombay and the Punjab. Alexandre Yersin identified the bacterium in Hong Kong in 1894, and Paul-Louis Simond later showed in Bombay that rat fleas spread it. The WHO considered the pandemic active until 1960, when deaths fell below 200 a year.
+  fr: >-
+    Troisième et dernière des grandes pandémies de peste, causée par Yersinia pestis. Partie en 1855 du Yunnan, dans le sud-ouest de la Chine, elle atteignit Canton et Hong Kong en 1894, d’où les navires à vapeur la portèrent dans les ports de tous les continents habités. L’Inde britannique fut de loin la plus touchée, surtout Bombay et le Pendjab. Alexandre Yersin identifia le bacille à Hong Kong en 1894, puis Paul-Louis Simond montra à Bombay que les puces du rat le transmettaient. L’OMS considéra la pandémie active jusqu’en 1960, quand les décès tombèrent sous 200 par an.
+categories: [epidemic]
+kind: event
+start: "1855"
+end: "1960"
+deaths:
+  best: 15000000
+  low: 12000000
+  high: 15000000
+  note:
+    en: Best is the "at least 15 million" deaths worldwide by 1960 given by Wikipedia and by a review in Microorganisms (2024), most of them in British India. Wikipedia breaks it down into about 10 million (10 to 12 million in its text) in India, 2.2 million in China and about 3 million elsewhere. The low bound is the 12 million deaths in China and India alone cited by Ben Ari et al. (PNAS, 2012), also the bottom of the 12 to 15 million range in Wikipedia's list of epidemics. India's figure is the low end of the estimates; it covers British India, including present-day Pakistan, Bangladesh and Myanmar. The National Army Museum gives at least 10 million there by the early 1920s, EBSCO more than 12 million.
+    fr: L’estimation retenue est celle d’« au moins 15 millions » de morts dans le monde jusqu’en 1960, donnée par Wikipédia et par une revue publiée dans Microorganisms (2024), en majorité dans l’Inde britannique. Wikipédia la répartit en environ 10 millions (10 à 12 millions dans son texte) en Inde, 2,2 millions en Chine et environ 3 millions ailleurs. La borne basse correspond aux 12 millions de morts en Chine et en Inde seules cités par Ben Ari et al. (PNAS, 2012), qui sont aussi le bas de la fourchette de 12 à 15 millions de la liste des épidémies de Wikipédia. Le chiffre de l’Inde est le bas des estimations ; il couvre l’Inde britannique, Pakistan, Bangladesh et Birmanie actuels compris. Le National Army Museum y compte au moins 10 millions de morts jusqu’au début des années 1920, EBSCO plus de 12 millions.
+countries:
+  - { code: IN, deaths: 10000000 }
+  - { code: CN, deaths: 2200000 }
+  - { code: PK }
+  - { code: BD }
+  - { code: MM }
+  - { code: HK }
+  - { code: TW }
+  - { code: JP }
+  - { code: TH }
+  - { code: PH }
+  - { code: MG }
+  - { code: EG }
+  - { code: SA }
+  - { code: TN }
+  - { code: ZA }
+  - { code: RU }
+  - { code: PT }
+  - { code: GB }
+  - { code: US }
+  - { code: AU }
+  - { code: CU }
+  - { code: PR }
+  - { code: TT }
+  - { code: VE }
+  - { code: EC }
+  - { code: PE }
+  - { code: BO }
+  - { code: BR }
+  - { code: PY }
+sources:
+  - title: Third plague pandemic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Third_plague_pandemic
+    accessed: "2026-10-22"
+  - title: List of epidemics and pandemics
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_epidemics_and_pandemics
+    accessed: "2026-10-22"
+  - title: "Towards a Comprehensive Definition of Pandemics and Strategies for Prevention: A Historical Review and Future Perspectives (Microorganisms, 2024)"
+    publisher: PubMed Central
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11433773/
+    accessed: "2026-10-22"
+  - title: "Identification of Chinese plague foci from long-term epidemiological data (Ben Ari et al., PNAS 2012)"
+    publisher: PubMed Central
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3361404/
+    accessed: "2026-10-22"
+  - title: The Bombay plague
+    publisher: National Army Museum
+    url: https://www.nam.ac.uk/explore/bombay-plague
+    accessed: "2026-10-22"
+  - title: Plague Kills 1.2 Million in India
+    publisher: EBSCO Research Starters
+    url: https://www.ebsco.com/research-starters/history/plague-kills-12-million-india
+    accessed: "2026-10-22"
+reviewed: false

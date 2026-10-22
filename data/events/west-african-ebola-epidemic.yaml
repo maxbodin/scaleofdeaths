@@ -1,0 +1,45 @@
+id: west-african-ebola-epidemic
+title:
+  en: Western African Ebola epidemic
+  fr: Épidémie d’Ebola en Afrique de l’Ouest
+description:
+  en: >-
+    Largest outbreak of Ebola virus disease since the virus was discovered in 1976, with more cases and deaths than all earlier outbreaks combined. It began in December 2013 in south-eastern Guinea, where an 18-month-old boy is believed to have been infected by bats, then spread to Liberia and Sierra Leone and, by July 2014, to the three capitals. The World Health Organization declared a public health emergency of international concern in August 2014. The virus reached seven other countries, with small outbreaks in Nigeria and Mali. The epidemic was declared over in June 2016.
+  fr: >-
+    Plus grande épidémie de maladie à virus Ebola depuis la découverte du virus en 1976, avec plus de cas et de morts que toutes les précédentes réunies. Partie en décembre 2013 du sud-est de la Guinée, où un garçon de 18 mois aurait été infecté par des chauves-souris, elle a gagné le Liberia et la Sierra Leone, puis les trois capitales en juillet 2014. L’Organisation mondiale de la santé a déclaré une urgence de santé publique de portée internationale en août 2014. Le virus a atteint sept autres pays, avec de petits foyers au Nigeria et au Mali. La fin de l’épidémie a été déclarée en juin 2016.
+categories: [epidemic]
+kind: event
+start: "2013-12"
+end: "2016-06"
+deaths:
+  best: 11325
+  note:
+    en: >-
+      Reported deaths among about 28,650 suspected, probable and confirmed cases, as compiled by the WHO and the CDC; the WHO believes these figures substantially understate the real toll, but no published estimate of the total was found. Country figures are the CDC's final counts from WHO situation reports: Guinea, Liberia and Sierra Leone account for 11,310 deaths, Nigeria, Mali and the United States for 15. Italy, Senegal, Spain and the United Kingdom each had one case and no deaths.
+    fr: >-
+      Décès déclarés parmi environ 28 650 cas suspects, probables et confirmés, selon l’OMS et les CDC ; l’OMS estime que ces chiffres sous-estiment nettement le bilan réel, mais aucune estimation publiée du total n’a été trouvée. Les chiffres par pays sont les bilans finaux des CDC tirés des rapports de situation de l’OMS : la Guinée, le Liberia et la Sierra Leone comptent 11 310 morts, le Nigeria, le Mali et les États-Unis 15. L’Italie, le Sénégal, l’Espagne et le Royaume-Uni ont chacun eu un cas, sans décès.
+countries:
+  - { code: LR, deaths: 4810 }
+  - { code: SL, deaths: 3956 }
+  - { code: GN, deaths: 2544 }
+  - { code: NG, deaths: 8 }
+  - { code: ML, deaths: 6 }
+  - { code: US, deaths: 1 }
+sources:
+  - title: Western African Ebola epidemic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Western_African_Ebola_epidemic
+    accessed: "2026-10-22"
+  - title: Ebola outbreak 2014-2016 - West Africa
+    publisher: World Health Organization
+    url: https://www.who.int/emergencies/situations/ebola-outbreak-2014-2016-West-Africa
+    accessed: "2026-10-22"
+  - title: 2014-2016 Ebola Outbreak in West Africa (archived page)
+    publisher: Centers for Disease Control and Prevention
+    url: https://web.archive.org/web/20201230225801/https://www.cdc.gov/vhf/ebola/history/2014-2016-outbreak/index.html
+    accessed: "2026-10-22"
+  - title: "2014-2016 Ebola Outbreak in West Africa: Case Counts (archived page)"
+    publisher: Centers for Disease Control and Prevention
+    url: https://web.archive.org/web/20201221164338/https://www.cdc.gov/vhf/ebola/history/2014-2016-outbreak/case-counts.html
+    accessed: "2026-10-22"
+reviewed: false

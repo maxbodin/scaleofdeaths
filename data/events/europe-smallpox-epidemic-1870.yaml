@@ -1,0 +1,43 @@
+id: europe-smallpox-epidemic-1870
+title:
+  en: 1870-1875 European smallpox epidemic
+  fr: Épidémie de variole de 1870-1875 en Europe
+description:
+  en: >-
+    Smallpox pandemic set off by the Franco-Prussian War. France was already suffering an epidemic of a highly lethal haemorrhagic form of smallpox when it declared war in July 1870, and fewer than half of its recruits had been vaccinated; mobilisation spread the disease, while the Prussian army, revaccinated since 1834, lost few men to it. French prisoners of war carried it into German towns, and soldiers who fled to Belgium, Switzerland and Italy spread it further, before it reached the Americas and Asia. It led several countries, including Germany and England, to enforce vaccination.
+  fr: >-
+    Pandémie de variole déclenchée par la guerre franco-prussienne. La France subissait déjà une épidémie de variole hémorragique très meurtrière lorsqu’elle a déclaré la guerre en juillet 1870, et moins de la moitié de ses recrues étaient vaccinées ; la mobilisation a propagé la maladie, alors que l’armée prussienne, revaccinée depuis 1834, a été épargnée. Les prisonniers français l’ont portée dans les villes allemandes, et les soldats réfugiés en Belgique, en Suisse et en Italie l’ont diffusée, avant qu’elle n’atteigne l’Amérique et l’Asie. Plusieurs pays ont ensuite imposé la vaccination.
+categories: [epidemic]
+kind: event
+start: "1870"
+end: "1875"
+deaths:
+  best: 500000
+  note:
+    en: >-
+      Best is the figure of 500,000 deaths given by Wikipedia and Statista, which Jorland (Les Tribunes de la santé, 2011) gives as at least 500,000; no range was found. It covers the whole pandemic, mostly in Europe. No per-country figures were found in the sources opened; Jorland dates the end of the pandemic to 1874 rather than 1875.
+    fr: >-
+      L’estimation retenue est le chiffre de 500 000 morts donné par Wikipédia et Statista, que Jorland (Les Tribunes de la santé, 2011) présente comme un minimum ; aucune fourchette n’a été trouvée. Il couvre toute la pandémie, surtout en Europe. Aucun chiffre par pays n’a été trouvé dans les sources consultées ; Jorland date la fin de la pandémie de 1874 plutôt que de 1875.
+countries:
+  - { code: FR }
+  - { code: DE }
+  - { code: BE }
+  - { code: NL }
+  - { code: CH }
+  - { code: IT }
+  - { code: GB }
+related: [franco-prussian-war]
+sources:
+  - title: History of smallpox
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/History_of_smallpox
+    accessed: "2026-10-22"
+  - title: Smallpox and the Franco-Prussian War of 1870 (archived page)
+    publisher: Les Tribunes de la santé (Cairn)
+    url: https://web.archive.org/web/20230404155043/https://www.cairn-int.info/article-E_SEVE_033_0025--smallpox-and-the-franco-prussian-war-of.htm
+    accessed: "2026-10-22"
+  - title: "Smallpox: deaths during the Franco-Prussian War 1870-1871"
+    publisher: Statista
+    url: https://www.statista.com/statistics/1107919/smallpox-deaths-franco-prussian-war/
+    accessed: "2026-10-22"
+reviewed: false

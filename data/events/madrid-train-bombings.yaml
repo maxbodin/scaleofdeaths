@@ -1,0 +1,30 @@
+id: madrid-train-bombings
+title:
+  en: 2004 Madrid train bombings
+  fr: Attentats du 11 mars 2004 à Madrid
+description:
+  en: >-
+    Ten nearly simultaneous bomb explosions on four commuter trains heading to Madrid's Atocha station during the morning rush hour, three days before Spain's general election. The government first blamed the Basque separatist group ETA, but investigators traced the attacks to local Islamist militants; a group claiming to belong to al-Qaeda presented them as retaliation for Spain's role in the Iraq War, though Spanish courts found no direct al-Qaeda link. It is the deadliest terrorist attack in Spain's history.
+  fr: >-
+    Dix explosions quasi simultanées dans quatre trains de banlieue se dirigeant vers la gare d’Atocha, à Madrid, à l’heure de pointe du matin, trois jours avant les élections générales espagnoles. Le gouvernement accusa d’abord l’organisation séparatiste basque ETA, mais l’enquête remonta à des islamistes locaux ; un groupe se réclamant d’al-Qaïda présenta les attentats comme une riposte à l’engagement espagnol en Irak, mais la justice espagnole n’a trouvé aucun lien direct avec al-Qaïda. C’est l’attentat le plus meurtrier de l’histoire de l’Espagne.
+categories: [genocide]
+kind: event
+start: "2004-03-11"
+deaths:
+  best: 193
+  low: 191
+  note:
+    en: Victims of the bombings. Best is the total of 193 confirmed dead given by Wikipedia, including a victim who died in 2014 after ten years in a coma; low is the toll of 191 killed often cited at the time and by France 24. No attacker died in the bombings; the suicide blast of suspects in Leganés three weeks later, which also killed a police officer, is not counted.
+    fr: Victimes des attentats. L’estimation centrale est le total de 193 morts confirmés selon Wikipédia, dont une victime décédée en 2014 après dix ans de coma ; la valeur basse est le bilan de 191 morts souvent cité à l’époque et par France 24. Aucun auteur n’est mort dans les attentats ; l’explosion par laquelle des suspects se suicidèrent à Leganés trois semaines plus tard, tuant aussi un policier, n’est pas comptée.
+countries:
+  - { code: ES, deaths: 193 }
+sources:
+  - title: 2004 Madrid train bombings
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2004_Madrid_train_bombings
+    accessed: "2026-10-22"
+  - title: "Madrid train bombings: An open wound, twenty years on"
+    publisher: France 24
+    url: https://www.france24.com/en/tv-shows/revisited/20240308-madrid-train-bombings-an-open-wound-twenty-years-on
+    accessed: "2026-10-22"
+reviewed: false

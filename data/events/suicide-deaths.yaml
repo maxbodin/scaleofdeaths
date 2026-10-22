@@ -1,0 +1,41 @@
+id: suicide-deaths
+title:
+  en: Deaths from suicide per year
+  fr: Décès par suicide par an
+description:
+  en: >-
+    People who died by suicide worldwide in one year, as estimated by the World Health Organization's Global Health Estimates which rely on modelling because only some 80 countries have good-quality death registration data. Suicide was the third leading cause of death among people aged 15 to 29, and 73% of suicides occurred in low- and middle-income countries. Risk is linked to mental disorders such as depression and alcohol use disorders, crises, conflict, abuse and isolation; WHO recommends limiting access to means such as pesticides, firearms and some medicines.
+  fr: >-
+    Personnes mortes par suicide dans le monde en un an, selon les estimations sanitaires mondiales de l’Organisation mondiale de la santé, qui recourent à la modélisation car seuls quelque 80 pays ont des registres de décès de bonne qualité. Le suicide était la troisième cause de mortalité des 15-29 ans, et 73 % des suicides ont eu lieu dans des pays à revenu faible ou intermédiaire. Le risque est lié aux troubles mentaux comme la dépression et l’alcoolisme, aux crises, aux violences et à l’isolement ; l’OMS recommande de limiter l’accès aux pesticides, armes à feu et certains médicaments.
+categories: [annual]
+kind: endemic-total
+start: "2021"
+end: "2021"
+deaths:
+  best: 727000
+  note:
+    en: >-
+      WHO, Suicide worldwide in 2021: global health estimates (2025): an estimated 727,000 people died by suicide in 2021, the latest year published; the WHO fact sheet repeats this figure. No range is given for the global total. WHO notes that data on suicide are poor in many countries, where stigma and the illegality of suicide hinder reporting. Per-country figures are the report's estimates for 2021 (both sexes) for the ten countries with the most suicides.
+    fr: >-
+      OMS, Suicide worldwide in 2021: global health estimates (2025) : environ 727 000 personnes se sont suicidées en 2021, dernière année publiée ; la fiche de l’OMS reprend ce chiffre. Aucune fourchette n’est donnée pour le total mondial. L’OMS souligne la mauvaise qualité des données dans de nombreux pays, où la stigmatisation et l’illégalité du suicide freinent sa déclaration. Les chiffres par pays sont les estimations du rapport pour 2021 (deux sexes) pour les dix pays comptant le plus de suicides.
+countries:
+  - { code: IN, deaths: 177567 }
+  - { code: CN, deaths: 127601 }
+  - { code: US, deaths: 53162 }
+  - { code: RU, deaths: 31172 }
+  - { code: JP, deaths: 21904 }
+  - { code: BR, deaths: 15907 }
+  - { code: KR, deaths: 14273 }
+  - { code: ZA, deaths: 13712 }
+  - { code: PK, deaths: 13506 }
+  - { code: TH, deaths: 11899 }
+sources:
+  - title: "Suicide worldwide in 2021: global health estimates"
+    publisher: World Health Organization
+    url: https://iris.who.int/server/api/core/bitstreams/769d0a45-b50a-4b17-ba40-259bef44d9dd/content
+    accessed: "2026-10-22"
+  - title: Suicide fact sheet
+    publisher: World Health Organization
+    url: https://www.who.int/news-room/fact-sheets/detail/suicide
+    accessed: "2026-10-22"
+reviewed: false

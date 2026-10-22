@@ -1,0 +1,38 @@
+id: russian-civil-war
+title:
+  en: Russian Civil War
+  fr: Guerre civile russe
+description:
+  en: >-
+    Multi-party civil war in the former Russian Empire after the Bolshevik seizure of power, mainly between the Red Army and the anti-Bolshevik White movement, with foreign interventions and independence movements. It ended with Bolshevik victory and the creation of the Soviet Union. Most of the dead were civilians, who died of famine, typhus and other epidemics, Red and White terror, and pogroms against Jews in Ukraine and southern Russia.
+  fr: >-
+    Guerre civile entre de multiples camps dans l’ancien Empire russe après la prise du pouvoir par les bolcheviks, opposant surtout l’Armée rouge aux armées blanches antibolcheviques, avec des interventions étrangères et des mouvements indépendantistes. Elle s’achève par la victoire bolchevique et la création de l’Union soviétique. La plupart des morts sont des civils, victimes de la famine, du typhus et d’autres épidémies, des terreurs rouge et blanche et des pogroms contre les Juifs en Ukraine et dans le sud de la Russie.
+categories: [war]
+kind: event
+start: "1917-11-07"
+end: "1922-10-25"
+deaths:
+  best: 9000000
+  low: 7000000
+  high: 10000000
+  note:
+    en: Military and civilian deaths from fighting, terror, epidemics and famine, including the famine of 1921-1922 (about 5 million deaths). Best is the 9 million given by Necrometrics (the median of the complete estimates it lists, including Richard Pipes's 9 million for 1917-1922). The range is historian Evan Mawdsley's "perhaps seven to ten million", cited on Wikipedia's list of wars; Wikipedia's article says as many as 10 million died. Emigration and lost births are not included.
+    fr: Morts militaires et civiles dues aux combats, à la terreur, aux épidémies et à la famine, y compris la famine de 1921-1922 (environ 5 millions de morts). L’estimation centrale est celle de Necrometrics (9 millions, médiane des estimations complètes qu’il recense, dont les 9 millions de Richard Pipes pour 1917-1922). La fourchette est celle de l’historien Evan Mawdsley, « peut-être sept à dix millions », citée par la liste des guerres de Wikipédia ; l’article de Wikipédia indique jusqu’à 10 millions de morts. L’émigration et le déficit des naissances ne sont pas comptés.
+countries:
+  - { code: RU }
+  - { code: UA }
+related: [first-world-war, russian-typhus-epidemic-1918, russian-famine-1921, polish-soviet-war]
+sources:
+  - title: Russian Civil War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Russian_Civil_War
+    accessed: "2026-10-22"
+  - title: List of wars by death toll
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_wars_by_death_toll
+    accessed: "2026-10-22"
+  - title: "Source List and Detailed Death Tolls for the Primary Megadeaths of the Twentieth Century: Russian Civil War (1917-22)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c5m.htm
+    accessed: "2026-10-22"
+reviewed: false

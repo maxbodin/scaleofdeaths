@@ -1,0 +1,39 @@
+id: japanese-smallpox-epidemic-735
+title:
+  en: 735-737 Japanese smallpox epidemic
+  fr: Épidémie de variole de 735-737 au Japon
+description:
+  en: >-
+    The first recorded smallpox epidemic in Japan, during the Tenpyō era. Probably brought from the Korean peninsula, it broke out around Dazaifu in northern Kyushu in 735, then spread to eastern Japan and to the capital Nara, which it reached in 737. All four Fujiwara brothers who dominated the court died of it. The losses caused labour shortages and abandoned fields, and Emperor Shōmu responded by sponsoring Buddhism, including the Tōdai-ji temple and its Great Buddha.
+  fr: >-
+    Première épidémie de variole attestée au Japon, à l’ère Tenpyō. Probablement venue de la péninsule coréenne, elle éclata autour de Dazaifu, dans le nord de Kyushu, en 735, puis gagna l’est du pays et la capitale Nara, atteinte en 737. Les quatre frères Fujiwara qui dominaient la cour en moururent. Les pertes provoquèrent pénurie de main-d’œuvre et abandon des terres ; l’empereur Shōmu répondit en soutenant le bouddhisme, dont le temple Tōdai-ji et son Grand Bouddha.
+categories: [epidemic]
+kind: event
+start: "0735"
+end: "0737"
+deaths:
+  best: 1000000
+  high: 2000000
+  note:
+    en: Deaths across Japan, about a third of the population (Suzuki 2011; UNESCO says "up to one-third"); estimates by historian William Wayne Farris based on fiscal records put mortality at 25% to 35%. Best is the 1 million given by Wikipedia's article; Wikipedia's list of epidemics gives 2 million (citing Kohn, 2002), used as the high bound. No non-Wikipedia source consulted gives an absolute number.
+    fr: Morts dans tout le Japon, environ un tiers de la population (Suzuki 2011 ; l’UNESCO écrit « jusqu’à un tiers ») ; les estimations de l’historien William Wayne Farris, fondées sur les registres fiscaux, situent la mortalité entre 25 % et 35 %. L’estimation retenue est le million donné par l’article de Wikipédia ; la liste des épidémies de Wikipédia avance 2 millions (d’après Kohn, 2002), retenus comme borne haute. Aucune source hors Wikipédia consultée ne donne de chiffre absolu.
+countries:
+  - { code: JP, deaths: 1000000 }
+sources:
+  - title: 735-737 Japanese smallpox epidemic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/735%E2%80%93737_Japanese_smallpox_epidemic
+    accessed: "2026-10-22"
+  - title: List of epidemics and pandemics
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_epidemics_and_pandemics
+    accessed: "2026-10-22"
+  - title: "Smallpox and the epidemiological heritage of modern Japan: towards a total history (Suzuki, Medical History 2011)"
+    publisher: PubMed Central
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC3143877/
+    accessed: "2026-10-22"
+  - title: "The Spread of Disease along the Silk Roads: Smallpox (archived)"
+    publisher: UNESCO
+    url: https://web.archive.org/web/20231207040541/https://en.unesco.org/silkroad/content/spread-disease-along-silk-roads-smallpox
+    accessed: "2026-10-22"
+reviewed: false

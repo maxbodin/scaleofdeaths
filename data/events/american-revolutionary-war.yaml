@@ -1,0 +1,36 @@
+id: american-revolutionary-war
+title:
+  en: American Revolutionary War
+  fr: Guerre d’indépendance des États-Unis
+description:
+  en: >-
+    War in which thirteen British colonies in North America, which declared their independence as the United States in 1776, fought Britain with the help of France from 1778, Spain from 1779 and the Dutch Republic. Fighting ranged from New England to the Carolinas and Canada and extended to the Caribbean and Gibraltar. Disease, especially smallpox and camp fevers, and the British prison ships in New York killed far more soldiers than combat. The war was decided at Yorktown in 1781, and Britain recognised American independence in 1783.
+  fr: >-
+    Guerre où treize colonies britanniques d’Amérique du Nord, devenues les États-Unis en 1776, combattent la Grande-Bretagne avec l’aide de la France dès 1778, de l’Espagne dès 1779 et des Provinces-Unies. Les combats vont de la Nouvelle-Angleterre aux Carolines et au Canada, et s’étendent aux Antilles et à Gibraltar. Les maladies, surtout la variole et les fièvres des camps, et les pontons-prisons britanniques de New York tuent bien plus de soldats que les combats. La guerre se joue à Yorktown en 1781 et la Grande-Bretagne reconnaît l’indépendance américaine en 1783.
+categories: [war]
+kind: event
+start: "1775-04-19"
+end: "1783-09-03"
+deaths:
+  best: 108800
+  note:
+    en: "Military deaths from battle and disease. Best: 108,800, Louis Duncan's 1931 estimate for American, British and Hessian forces (via Necrometrics), the only overall total found, hence no range. It counts 70,000 American deaths, which Wikipedia treats as an upper limit, but leaves out Loyalist, French, Spanish and Native American losses. Per-country figures are military deaths from Wikipedia: about 25,000 Patriots (Peckham), 43,633 British rank and file in all theatres, and 7,774 German auxiliaries; about 7,000 Loyalists also died. Civilian deaths are not counted, including those of a smallpox epidemic that killed an estimated 130,000 people across North America in 1775-1782."
+    fr: "Morts militaires au combat et de maladie. Estimation centrale : 108 800, estimation de Louis Duncan (1931) pour les forces américaines, britanniques et hessoises (via Necrometrics), seul total global trouvé, d’où l’absence de fourchette. Elle compte 70 000 morts américains, chiffre que Wikipédia présente comme une limite haute, mais omet les pertes loyalistes, françaises, espagnoles et amérindiennes. Les chiffres par pays sont des morts militaires d’après Wikipédia : environ 25 000 patriotes (Peckham), 43 633 soldats britanniques sur tous les théâtres et 7 774 auxiliaires allemands ; environ 7 000 loyalistes sont aussi morts. Les morts civiles ne sont pas comptées, y compris celles d’une épidémie de variole qui a tué environ 130 000 personnes en Amérique du Nord entre 1775 et 1782."
+countries:
+  - { code: US, deaths: 25000 }
+  - { code: GB, deaths: 43633 }
+  - { code: DE, deaths: 7774 }
+  - { code: CA }
+  - { code: FR }
+  - { code: ES }
+related: [seven-years-war]
+sources:
+  - title: American Revolutionary War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/American_Revolutionary_War
+    accessed: "2026-10-22"
+  - title: Statistics of Wars, Oppressions and Atrocities of the Eighteenth Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/wars18c.htm
+    accessed: "2026-10-22"
+reviewed: false

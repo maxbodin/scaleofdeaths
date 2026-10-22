@@ -1,0 +1,46 @@
+id: homicide-deaths
+title:
+  en: Deaths from homicide per year
+  fr: Décès par homicide par an
+description:
+  en: >-
+    Victims of intentional homicide worldwide in one year, as estimated by the United Nations Office on Drugs and Crime (UNODC) from police and public health data reported by countries, with modelling where data are missing. An intentional homicide is an unlawful killing of one person by another with intent to kill or seriously injure; killings in self-defence and deaths in armed conflict are not counted, while terrorist killings are. Latin America and the Caribbean and sub-Saharan Africa have by far the highest homicide rates, and most victims are men.
+  fr: >-
+    Victimes d’homicide volontaire dans le monde en un an, selon l’estimation de l’Office des Nations unies contre la drogue et le crime (ONUDC), fondée sur les données policières et sanitaires transmises par les pays, avec une modélisation des données manquantes. Un homicide volontaire est le meurtre illégal d’une personne par une autre avec l’intention de tuer ou de blesser gravement ; la légitime défense et les morts des conflits armés sont exclues, mais les attentats terroristes sont inclus. L’Amérique latine et les Caraïbes et l’Afrique subsaharienne ont de loin les taux les plus élevés.
+categories: [annual]
+kind: endemic-total
+start: "2023"
+end: "2023"
+deaths:
+  best: 423171
+  note:
+    en: >-
+      UNODC intentional homicide victims dataset (2025 release), as published by Our World in Data: an estimated 423,171 victims worldwide in 2023 (rounded from a modelled value). 2023 is used rather than 2024 (about 419,900) because far fewer countries had reported 2024 data at release. UNODC's Global Study on Homicide 2023 gave 458,000 for 2021, a figure since revised down in the newer dataset; UNODC publishes uncertainty bands but no numeric range. Per-country figures are the counts reported to UNODC for 2023 for the ten countries with the most victims in the dataset.
+    fr: >-
+      Jeu de données de l’ONUDC sur les victimes d’homicide volontaire (édition 2025), publié par Our World in Data : environ 423 171 victimes dans le monde en 2023 (valeur modélisée arrondie). 2023 est retenu plutôt que 2024 (environ 419 900) car bien moins de pays avaient transmis leurs données 2024. L’étude mondiale de l’ONUDC sur l’homicide 2023 donnait 458 000 pour 2021, chiffre revu à la baisse depuis ; l’ONUDC publie des marges d’incertitude mais pas de fourchette chiffrée. Les chiffres par pays sont ceux transmis à l’ONUDC pour 2023, pour les dix pays comptant le plus de victimes dans les données.
+countries:
+  - { code: BR, deaths: 40698 }
+  - { code: NG, deaths: 35884 }
+  - { code: MX, deaths: 32252 }
+  - { code: US, deaths: 19796 }
+  - { code: CO, deaths: 13035 }
+  - { code: PK, deaths: 10729 }
+  - { code: EC, deaths: 8221 }
+  - { code: PH, deaths: 4995 }
+  - { code: HT, deaths: 4789 }
+  - { code: UG, deaths: 4366 }
+related: [terrorism-deaths, us-gun-deaths]
+sources:
+  - title: Homicides (UNODC intentional homicide victims)
+    publisher: Our World in Data (data from the United Nations Office on Drugs and Crime)
+    url: https://ourworldindata.org/grapher/homicides-unodc?tab=table&time=2023
+    accessed: "2026-10-22"
+  - title: Global Study on Homicide 2023
+    publisher: United Nations Office on Drugs and Crime
+    url: https://www.unodc.org/documents/data-and-analysis/gsh/2023/Global_study_on_homicide_2023_web.pdf
+    accessed: "2026-10-22"
+  - title: "The Sustainable Development Goals Report 2026: Goal 16"
+    publisher: United Nations Statistics Division
+    url: https://unstats.un.org/sdgs/report/2026/Goal-16/
+    accessed: "2026-10-22"
+reviewed: false

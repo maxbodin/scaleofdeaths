@@ -1,0 +1,43 @@
+id: maternal-deaths
+title:
+  en: Maternal deaths per year
+  fr: Décès maternels par an
+description:
+  en: >-
+    Women who died from causes related to pregnancy and childbirth worldwide in one year, as estimated by the World Health Organization with other UN agencies. A maternal death occurred almost every 2 minutes, mostly from preventable causes, and just over 90% happened in low- and lower-middle-income countries. Sub-Saharan Africa alone accounted for about 70% of deaths and southern Asia for about 17%; countries in conflict or fragile settings had 61% of maternal deaths but only a quarter of births.
+  fr: >-
+    Femmes mortes de causes liées à la grossesse et à l’accouchement dans le monde en un an, selon l’estimation de l’Organisation mondiale de la santé et d’autres agences de l’ONU. Une femme mourait presque toutes les 2 minutes, surtout de causes évitables, et un peu plus de 90 % des décès survenaient dans des pays à revenu faible ou intermédiaire inférieur. L’Afrique subsaharienne concentrait environ 70 % des décès et l’Asie du Sud environ 17 % ; les pays en conflit ou fragiles comptaient 61 % des décès pour un quart des naissances.
+categories: [annual]
+kind: endemic-total
+start: "2023"
+end: "2023"
+deaths:
+  best: 260000
+  low: 230042
+  high: 308499
+  note:
+    en: >-
+      WHO maternal mortality fact sheet: about 260,000 women died during and following pregnancy and childbirth in 2023. The range is the uncertainty interval of the underlying estimate (260,129) in WHO's Global Health Observatory. Per-country figures are WHO's 2023 central estimates for the ten countries with the most maternal deaths, rounded to whole numbers; Nigeria alone accounts for more than a quarter of the world total.
+    fr: >-
+      Fiche de l’OMS sur la mortalité maternelle : environ 260 000 femmes sont mortes pendant ou après la grossesse et l’accouchement en 2023. La fourchette est l’intervalle d’incertitude de l’estimation sous-jacente (260 129) dans l’Observatoire mondial de la santé de l’OMS. Les chiffres par pays sont les estimations centrales 2023 de l’OMS pour les dix pays les plus touchés, arrondies à l’unité ; le Nigeria compte à lui seul plus du quart du total mondial.
+countries:
+  - { code: NG, deaths: 74559 }
+  - { code: IN, deaths: 18687 }
+  - { code: CD, deaths: 18661 }
+  - { code: PK, deaths: 10669 }
+  - { code: ET, deaths: 8003 }
+  - { code: AF, deaths: 7646 }
+  - { code: TZ, deaths: 6472 }
+  - { code: ID, deaths: 6298 }
+  - { code: TD, deaths: 6123 }
+  - { code: KE, deaths: 5682 }
+sources:
+  - title: Maternal mortality fact sheet
+    publisher: World Health Organization
+    url: https://www.who.int/news-room/fact-sheets/detail/maternal-mortality
+    accessed: "2026-10-22"
+  - title: "Global Health Observatory: number of maternal deaths (MORT_MATERNALNUM), 2023"
+    publisher: World Health Organization
+    url: https://ghoapi.azureedge.net/api/MORT_MATERNALNUM?$filter=TimeDim%20eq%202023
+    accessed: "2026-10-22"
+reviewed: false

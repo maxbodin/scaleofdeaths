@@ -1,0 +1,34 @@
+id: tianjin-explosions-2015
+title:
+  en: 2015 Tianjin explosions
+  fr: Explosions de 2015 à Tianjin
+description:
+  en: >-
+    Late on 12 August 2015 a fire at a hazardous-goods yard run by Ruihai Logistics in the Port of Tianjin, China, set off two huge explosions 33 seconds apart, the second involving about 800 tonnes of ammonium nitrate. The fire began when dry nitrocellulose in a container ignited by itself in the summer heat. Most of the dead were firefighters; the first crews sprayed water on the blaze without knowing which chemicals were stored there. The blasts damaged 304 buildings, 12,428 cars and 7,533 containers; investigators found illegal storage and lax oversight.
+  fr: >-
+    Tard le 12 août 2015, un incendie dans un dépôt de produits dangereux de Ruihai Logistics, dans le port de Tianjin (Chine), déclenche deux énormes explosions à 33 secondes d’intervalle, la seconde impliquant environ 800 tonnes de nitrate d’ammonium. Le feu est parti de nitrocellulose desséchée, enflammée spontanément par la chaleur. La plupart des morts sont des pompiers ; les premières équipes ont arrosé le feu sans savoir ce qui était stocké. Les explosions ont endommagé 304 bâtiments, 12 428 voitures et 7 533 conteneurs ; l’enquête a relevé un stockage illégal et un contrôle laxiste.
+categories: [accident]
+kind: event
+start: "2015-08-12"
+deaths:
+  best: 173
+  low: 165
+  note:
+    en: Official toll from the State Council investigation report of February 2016, 165 dead and 8 missing presumed dead (best, as given by Wikipedia), with 798 people hospitalised. The 165 confirmed dead (low) included 99 firefighters and 11 police officers; with the missing, 104 firefighters died.
+    fr: Bilan officiel du rapport d’enquête du Conseil des affaires de l’État de février 2016, 165 morts et 8 disparus présumés morts (estimation centrale, comme chez Wikipédia), avec 798 personnes hospitalisées. Les 165 morts confirmés (bas de la fourchette) comprenaient 99 pompiers et 11 policiers ; en comptant les disparus, 104 pompiers ont péri.
+countries:
+  - { code: CN, deaths: 173 }
+sources:
+  - title: 2015 Tianjin explosions
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2015_Tianjin_explosions
+    accessed: "2026-10-22"
+  - title: Tianjin blast probe suggests action against 123 people
+    publisher: People's Daily Online (Xinhua)
+    url: https://en.people.cn/n3/2016/0205/c90882-9014669.html
+    accessed: "2026-10-22"
+  - title: "天津港“8·12”瑞海公司危险品仓库特别重大火灾爆炸事故调查报告 (archived)"
+    publisher: State Council of the People's Republic of China
+    url: https://web.archive.org/web/20160205152210/http://www.gov.cn/foot/2016-02/05/5039788/files/460731d8cb4c4488be3bb0c218f8b527.pdf
+    accessed: "2026-10-22"
+reviewed: false

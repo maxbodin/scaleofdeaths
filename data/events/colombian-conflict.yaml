@@ -1,0 +1,46 @@
+id: colombian-conflict
+title:
+  en: Colombian armed conflict
+  fr: Conflit armé colombien
+description:
+  en: >-
+    Armed conflict in Colombia since the 1960s between the state, left-wing guerrillas such as the FARC and the ELN, and right-wing paramilitary groups, fuelled by land disputes and later by the drug trade. Most of the dead were civilians, killed in massacres, targeted killings and extrajudicial executions, including the "false positives" in which soldiers presented murdered civilians as guerrillas; millions were displaced. The 2016 peace agreement disarmed the FARC, but fighting continues with the ELN, FARC dissidents and armed groups linked to drug trafficking.
+  fr: >-
+    Conflit armé en Colombie depuis les années 1960 entre l’État, des guérillas de gauche comme les FARC et l’ELN, et des paramilitaires d’extrême droite, attisé par les conflits fonciers puis par la drogue. La plupart des morts sont des civils, victimes de massacres, d’assassinats ciblés et d’exécutions extrajudiciaires, dont les « faux positifs », civils tués par des soldats et présentés comme guérilleros ; des millions de personnes sont déplacées. L’accord de paix de 2016 désarme les FARC, mais les combats continuent avec l’ELN, des dissidents des FARC et des groupes liés au narcotrafic.
+categories: [war]
+kind: event
+start: "1964-05-27"
+ongoing: true
+asOf: "2018-12-31"
+deaths:
+  best: 450666
+  low: 436747
+  high: 852756
+  note:
+    en: Homicides linked to the armed conflict in 1985-2018 only, the period studied by Colombia's Truth Commission; deaths in 1964-1984 and since 2019 are not included, nor are the 121,768 victims of forced disappearance. Best is the 450,666 victims of homicide (credible interval 436,747 to 464,585, the low) estimated by the joint JEP-CEV-HRDAG project by statistically resolving documented records; about 80% were civilians. Including victims never documented in any database, the same project estimated 813,707 homicides (777,852 to 852,756, the high). The Commission attributed the killings mainly to paramilitary groups (45%), guerrillas (27%) and state agents (12%).
+    fr: Homicides liés au conflit armé de 1985 à 2018 uniquement, période étudiée par la Commission de la vérité colombienne ; les morts de 1964 à 1984 et depuis 2019 ne sont pas comptées, pas plus que les 121 768 victimes de disparition forcée. L’estimation centrale correspond aux 450 666 victimes d’homicide (intervalle de crédibilité de 436 747, le bas, à 464 585) estimées par le projet conjoint JEP-CEV-HRDAG à partir des cas documentés ; environ 80 % étaient des civils. En incluant les victimes jamais documentées, le même projet estime 813 707 homicides (777 852 à 852 756, le haut). La Commission attribue les meurtres surtout aux paramilitaires (45 %), aux guérillas (27 %) et aux agents de l’État (12 %).
+countries:
+  - { code: CO, deaths: 450666 }
+related: [la-violencia]
+sources:
+  - title: Colombian conflict
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Colombian_conflict
+    accessed: "2026-10-22"
+  - title: "Informe metodológico del proyecto conjunto JEP-CEV-HRDAG de integración de datos y estimación estadística (corrected version)"
+    publisher: Human Rights Data Analysis Group (HRDAG), JEP and Truth Commission of Colombia
+    url: https://hrdag.org/wp-content/uploads/2022/08/20220818-fase4-informe-corrected.pdf
+    accessed: "2026-10-22"
+  - title: Analyzing patterns of violence in Colombia using more than 100 databases
+    publisher: Human Rights Data Analysis Group (HRDAG)
+    url: https://hrdag.org/2022/09/20/colombia-100-databases/
+    accessed: "2026-10-22"
+  - title: Truth Commission of Colombia, Executive Summary
+    publisher: ABColombia
+    url: https://www.abcolombia.org.uk/truth-commission-of-colombia-executive-summary/
+    accessed: "2026-10-22"
+  - title: "Colombia's truth commission reveals the devastating health impact of half a century of conflict"
+    publisher: The BMJ
+    url: https://www.bmj.com/content/378/bmj.o2023.full
+    accessed: "2026-10-22"
+reviewed: false

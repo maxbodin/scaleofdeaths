@@ -1,0 +1,38 @@
+id: iranian-protests-2025-2026
+title:
+  en: 2025-2026 Iranian protests
+  fr: Manifestations de 2025-2026 en Iran
+description:
+  en: >-
+    Nationwide protests against the government of Iran that began on 28 December 2025 among merchants of Tehran's Grand Bazaar over inflation and the collapse of the rial, and grew into calls for an end to the Islamic Republic in more than 200 cities. Security forces fired on crowds, above all on 8 and 9 January 2026, amid a near-total internet blackout, and tens of thousands were arrested. Rights groups documented thousands of protesters killed and a UN expert called for an inquiry into possible crimes against humanity; the government blamed the unrest on the United States and Israel.
+  fr: >-
+    Manifestations dans tout l’Iran contre le gouvernement, parties le 28 décembre 2025 des commerçants du Grand Bazar de Téhéran contre l’inflation et la chute du rial, puis devenues un appel à la fin de la République islamique dans plus de 200 villes. Les forces de sécurité tirent sur la foule, surtout les 8 et 9 janvier 2026, sous une coupure d’internet, et des dizaines de milliers de personnes sont arrêtées. Des ONG recensent des milliers de morts et une experte de l’ONU demande une enquête sur de possibles crimes contre l’humanité ; Téhéran accuse Washington et Israël d’attiser les troubles.
+categories: [genocide]
+kind: event
+start: "2025-12-28"
+end: "2026-03-31"
+deaths:
+  best: 7007
+  high: 20000
+  note:
+    en: >-
+      Very uncertain because of the communications blackout. Best is the number of deaths confirmed by the rights group Human Rights Activists (HRANA) in its report The Crimson Winter (February 2026): 7,007, including 6,488 protesters (236 of them children), 76 bystanders and 207 members of the government and security forces; over 11,000 more reported deaths were still under review (The Amargi). High is the figure of 20,000 or more that the UN special rapporteur on Iran, Mai Sato, said doctors inside Iran had reported, while giving her own estimate of at least 5,000 civilians killed (ABC News). The Iranian government acknowledged about 3,100 deaths, including people it described as terrorists (Wikipedia). Higher estimates, such as about 30,000 deaths registered in hospitals for 8 and 9 January reported by Time, are cited by Wikipedia.
+    fr: >-
+      Très incertain en raison de la coupure des communications. L’estimation centrale est le nombre de morts confirmées par l’ONG Human Rights Activists (HRANA) dans son rapport The Crimson Winter (février 2026) : 7 007, dont 6 488 manifestants (dont 236 enfants), 76 passants et 207 membres du gouvernement et des forces de sécurité ; plus de 11 000 autres morts signalées restaient à vérifier (The Amargi). Le haut est le chiffre de 20 000 morts ou plus que, selon la rapporteuse spéciale de l’ONU sur l’Iran Mai Sato, des médecins en Iran lui ont rapporté, son estimation propre étant d’au moins 5 000 civils tués (ABC News). Le gouvernement iranien a reconnu environ 3 100 morts, y compris des personnes qualifiées de terroristes (Wikipédia). Des estimations plus hautes, comme les quelque 30 000 morts enregistrées dans les hôpitaux les 8 et 9 janvier rapportées par Time, sont citées par Wikipédia.
+countries:
+  - { code: IR, deaths: 7007 }
+related: [mahsa-amini-protests, iran-war-2026]
+sources:
+  - title: 2025-2026 Iran massacres
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2025%E2%80%932026_Iran_massacres
+    accessed: "2026-10-22"
+  - title: More than 7,000 Killed in Iran's 'Crimson Winter' Crackdown, Rights Group Says
+    publisher: The Amargi
+    url: https://www.theamargi.com/posts/more-than-7000-killed-in-irans-crimson-winter-crackdown-rights-group-says
+    accessed: "2026-10-22"
+  - title: UN expert says Iran's death toll is rising and there could be crimes against humanity
+    publisher: ABC News (Australia)
+    url: https://www.abc.net.au/news/2026-01-20/united-nations-iran-deaths-investigation-crimes-against-humanity/106238634
+    accessed: "2026-10-22"
+reviewed: false

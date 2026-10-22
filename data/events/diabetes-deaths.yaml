@@ -1,0 +1,46 @@
+id: diabetes-deaths
+title:
+  en: Deaths from diabetes per year
+  fr: Décès dus au diabète par an
+description:
+  en: >-
+    People whose death was directly caused by diabetes worldwide in one year, as estimated by the World Health Organization's Global Health Estimates. Diabetes is a chronic disease in which the body does not produce enough insulin or cannot use it, so blood sugar stays too high and slowly damages blood vessels and nerves, leading to blindness, kidney failure, heart attacks, strokes and amputations. The number of adults with diabetes rose from 200 million in 1990 to 830 million in 2022, and almost half of diabetes deaths occur before age 70.
+  fr: >-
+    Personnes dont la mort a été directement causée par le diabète dans le monde en un an, selon les estimations sanitaires mondiales de l’Organisation mondiale de la santé. Le diabète est une maladie chronique dans laquelle le corps ne produit pas assez d’insuline ou ne l’utilise pas bien : le sucre sanguin reste trop élevé et abîme vaisseaux et nerfs, entraînant cécité, insuffisance rénale, infarctus, AVC et amputations. Le nombre d’adultes diabétiques est passé de 200 millions en 1990 à 830 millions en 2022, et près de la moitié des décès surviennent avant 70 ans.
+categories: [annual]
+kind: endemic-total
+start: "2021"
+end: "2021"
+deaths:
+  best: 1600000
+  note:
+    en: >-
+      WHO diabetes fact sheet: in 2021 diabetes was the direct cause of 1.6 million deaths; another 530,000 kidney disease deaths were caused by diabetes, and high blood glucose causes around 11% of cardiovascular deaths, neither counted here. The International Diabetes Federation's broader estimate, "over 3.4 million deaths annually" among adults aged 20 to 79, counts all deaths attributable to diabetes, including from heart and kidney disease. Per-country figures are WHO Global Health Estimates for 2021 (via Our World in Data, rounded) for the ten countries with the most deaths.
+    fr: >-
+      Fiche de l’OMS sur le diabète : en 2021, le diabète a été la cause directe de 1,6 million de décès ; 530 000 autres décès par maladie rénale étaient dus au diabète, et l’hyperglycémie cause environ 11 % des décès cardiovasculaires, non comptés ici. L’estimation plus large de la Fédération internationale du diabète, « plus de 3,4 millions de décès par an » chez les 20-79 ans, compte tous les décès attribuables au diabète, y compris cardiaques et rénaux. Les chiffres par pays sont les estimations sanitaires mondiales de l’OMS pour 2021 (via Our World in Data, arrondies) pour les dix pays les plus touchés.
+countries:
+  - { code: IN, deaths: 335820 }
+  - { code: CN, deaths: 172867 }
+  - { code: MX, deaths: 96428 }
+  - { code: BR, deaths: 62933 }
+  - { code: US, deaths: 60987 }
+  - { code: ID, deaths: 58164 }
+  - { code: PK, deaths: 54723 }
+  - { code: RU, deaths: 37586 }
+  - { code: PH, deaths: 37246 }
+  - { code: VN, deaths: 32628 }
+related: [cardiovascular-deaths]
+sources:
+  - title: Diabetes fact sheet
+    publisher: World Health Organization
+    url: https://www.who.int/news-room/fact-sheets/detail/diabetes
+    accessed: "2026-10-22"
+  - title: Deaths from diabetes (WHO Global Health Estimates)
+    publisher: Our World in Data (data from the World Health Organization)
+    url: https://ourworldindata.org/grapher/deaths-from-diabetes-ghe?tab=table&time=2021
+    accessed: "2026-10-22"
+  - title: "IDF Diabetes Atlas 11th edition: over 250 million people worldwide unaware they have diabetes"
+    publisher: International Diabetes Federation
+    url: https://idf.org/news-and-resources/news/idf-diabetes-atlas-11th-edition/
+    accessed: "2026-10-22"
+reviewed: false

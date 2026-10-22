@@ -1,0 +1,35 @@
+id: agadir-earthquake-1960
+title:
+  en: 1960 Agadir earthquake
+  fr: Séisme de 1960 à Agadir
+description:
+  en: >-
+    At 23:40 on 29 February 1960, the third day of Ramadan, a shallow magnitude 5.8 earthquake struck right beside Agadir, a port city on Morocco's Atlantic coast. Despite its moderate size it left about 70% of the city in ruins: the Founty, Kasbah, Yachech and Talborjt districts were flattened, the old fortress of Agadir Oufla crumbled and fires burned unchecked. About a third of the population died. French troops and sailors of the US Sixth Fleet led the rescue.
+  fr: >-
+    Le 29 février 1960 à 23 h 40, troisième jour du ramadan, un séisme superficiel de magnitude 5,8 a frappé tout près d’Agadir, port de la côte atlantique du Maroc. Malgré sa magnitude modérée, il a laissé environ 70 % de la ville en ruines : les quartiers de Founty, de la Kasbah, de Yachech et de Talborjt ont été rasés, la vieille forteresse d’Agadir Oufella s’est effondrée et des incendies ont brûlé sans contrôle. Environ un tiers des habitants ont péri. L’armée française et des marins de la VIe flotte américaine ont mené les secours.
+categories: [natural-disaster]
+kind: event
+start: "1960-02-29"
+deaths:
+  best: 13100
+  low: 12000
+  high: 15000
+  note:
+    en: No count was taken and the dead had to be buried quickly, so the exact toll will never be known. Estimates range from 12,000 to 15,000 (Wikipedia; USGS gives 15,000); best is the figure retained by NOAA NCEI.
+    fr: Aucun décompte n’a été fait et les morts ont dû être enterrés très vite, si bien que le bilan exact ne sera jamais connu. Les estimations vont de 12 000 à 15 000 (Wikipédia ; l’USGS donne 15 000) ; l’estimation centrale est le chiffre retenu par la NCEI de la NOAA.
+countries:
+  - { code: MA, deaths: 13100 }
+sources:
+  - title: 1960 Agadir earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1960_Agadir_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Agadir, event 4216"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/4216
+    accessed: "2026-10-22"
+  - title: Earthquakes with 1,000 or More Deaths 1900-2014 (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20170118110610/http://earthquake.usgs.gov/earthquakes/world/world_deaths.php
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,30 @@
+id: morocco-earthquake-2023
+title:
+  en: 2023 Morocco earthquake (Al Haouz)
+  fr: Séisme de 2023 au Maroc (Al Haouz)
+description:
+  en: >-
+    At 23:11 on 8 September 2023 a magnitude 6.8 to 6.9 earthquake struck the High Atlas mountains in Al Haouz Province, Morocco, about 73 km southwest of Marrakesh; it was the strongest earthquake ever recorded instrumentally in the country. Most deaths were in mountain villages of Al Haouz and Taroudant provinces: some 2,930 villages and districts and nearly 60,000 houses were damaged. Historic landmarks in Marrakesh were also damaged or destroyed.
+  fr: >-
+    Le 8 septembre 2023 à 23 h 11, un séisme de magnitude 6,8 à 6,9 a frappé le Haut Atlas, dans la province d’Al Haouz, au Maroc, à environ 73 km au sud-ouest de Marrakech ; c’est le plus puissant séisme jamais enregistré par les instruments dans le pays. La plupart des morts se trouvaient dans les villages de montagne des provinces d’Al Haouz et de Taroudant : quelque 2 930 villages et quartiers et près de 60 000 maisons ont été endommagés. Des monuments historiques de Marrakech ont aussi été endommagés ou détruits.
+categories: [natural-disaster]
+kind: event
+start: "2023-09-08"
+deaths:
+  best: 2960
+  low: 2946
+  note:
+    en: Best is the latest total given by Wikipedia; NOAA NCEI retains the official total of 2,946 as of 22 September 2023 (low), including at least 1,684 deaths in Al Haouz and 980 in Taroudant. The EM-DAT database, as quoted by NCEI, gives a lower 2,497.
+    fr: L’estimation centrale est le dernier total donné par Wikipédia ; la NCEI de la NOAA retient le bilan officiel de 2 946 au 22 septembre 2023 (bas de la fourchette), dont au moins 1 684 morts à Al Haouz et 980 à Taroudant. La base EM-DAT, citée par la NCEI, donne un chiffre inférieur, 2 497.
+countries:
+  - { code: MA, deaths: 2960 }
+sources:
+  - title: 2023 Al Haouz earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2023_Al_Haouz_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Marrakech, Safi, event 10705"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/10705
+    accessed: "2026-10-22"
+reviewed: false

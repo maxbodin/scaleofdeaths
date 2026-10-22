@@ -1,0 +1,37 @@
+id: ecuador-earthquake-2016
+title:
+  en: 2016 Ecuador earthquake
+  fr: Séisme de 2016 en Équateur
+description:
+  en: >-
+    On the evening of 16 April 2016 a magnitude 7.8 thrust earthquake struck the Pacific coast of Ecuador near the towns of Muisne and Pedernales. It was the strongest earthquake in Ecuador since 1979 and its deadliest natural disaster since 1949. Damage was widespread across Manabí Province, where much of Pedernales and the commercial district of Manta were destroyed, and buildings collapsed hundreds of kilometres from the epicentre. Manta, Pedernales and Portoviejo accounted for most of the casualties.
+  fr: >-
+    Le soir du 16 avril 2016, un séisme de magnitude 7,8 a frappé la côte pacifique de l’Équateur près de Muisne et de Pedernales. C’est le plus fort séisme en Équateur depuis 1979 et la catastrophe naturelle la plus meurtrière du pays depuis 1949. Les dégâts ont touché toute la province de Manabí, où une grande partie de Pedernales et le quartier commerçant de Manta ont été détruits, et des immeubles se sont effondrés à des centaines de kilomètres de l’épicentre. Manta, Pedernales et Portoviejo concentrent l’essentiel des victimes.
+categories: [natural-disaster]
+kind: event
+start: "2016-04-16"
+deaths:
+  best: 676
+  low: 670
+  note:
+    en: >-
+      Best is the 676 deaths given by Wikipedia; Ecuadorian official data cited by El Diario break it down into 627 people killed instantly and 49 who later died of their injuries. Low is the 670 deaths given by the government's reconstruction secretary after 100 days (El Comercio). One miner killed near Cali in Colombia is mentioned by Wikipedia but not counted here.
+    fr: >-
+      L’estimation centrale est le bilan de 676 morts de Wikipédia ; les données officielles équatoriennes citées par El Diario le détaillent en 627 personnes tuées sur le coup et 49 mortes ensuite de leurs blessures. L’estimation basse correspond aux 670 morts annoncés par le secrétaire à la reconstruction après cent jours (El Comercio). Un mineur tué près de Cali, en Colombie, est mentionné par Wikipédia mais n’est pas compté ici.
+countries:
+  - { code: EC, deaths: 676 }
+  - { code: CO }
+sources:
+  - title: 2016 Ecuador earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2016_Ecuador_earthquake
+    accessed: "2026-10-22"
+  - title: "Terremoto del 16 de abril: nueve años de recuperación en Manabí y Esmeraldas"
+    publisher: El Diario (Ecuador)
+    url: https://www.eldiario.ec/ecuador/terremoto-del-16-de-abril-nueve-anos-de-recuperacion-en-manabi-y-esmeraldas-09042025/
+    accessed: "2026-10-22"
+  - title: Cifran en 670 los fallecidos en el terremoto del 16 de abril en Ecuador
+    publisher: El Comercio (Ecuador)
+    url: https://www.elcomercio.com/actualidad/ecuador/actualidad-fallecidos-terremoto-manabi-esmeraldas/
+    accessed: "2026-10-22"
+reviewed: false

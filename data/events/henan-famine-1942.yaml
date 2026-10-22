@@ -1,0 +1,38 @@
+id: henan-famine-1942
+title:
+  en: Henan famine of 1942-1943
+  fr: Famine du Henan de 1942-1943
+description:
+  en: >-
+    Famine in Henan province, China, during the Second Sino-Japanese War. The province was split by the front line and its farming was still disrupted by the deliberate Yellow River flood of 1938. In 1942 the rains failed and locusts damaged the harvest, while Nationalist and Japanese authorities kept requisitioning grain for their armies. Theodore White's report in Time magazine in March 1943 drew international attention to the famine, which also drove about three million people to flee the province.
+  fr: >-
+    Famine survenue dans la province du Henan, en Chine, pendant la guerre sino-japonaise. La province est coupée par la ligne de front et son agriculture reste désorganisée par l’inondation volontaire du fleuve Jaune de 1938. En 1942, les pluies font défaut et les criquets ravagent les récoltes, tandis que les autorités nationalistes et japonaises continuent de réquisitionner le grain pour leurs armées. Le reportage de Theodore White dans Time en mars 1943 alerte l’opinion internationale ; environ trois millions de personnes fuient la province.
+categories: [famine]
+kind: event
+partOf: second-world-war
+start: "1942"
+end: "1943"
+deaths:
+  best: 2000000
+  low: 700000
+  high: 3000000
+  note:
+    en: Famine deaths in Henan, mostly from starvation and disease. Estimates differ widely and there is no consensus. Best is the low end of historian Lloyd Eastman's estimate that two to three million people starved to death, and high is its top. Low is the about 700,000 attributed by Wikipedia to Anthony Garnaut, whose quantitative study (Modern Asian Studies, 2013) concludes that excess deaths were "well under one million" and that the Nationalist government's 1943 survey toll of 1,484,983 also counts lost births and out-migration. Figures of 3 to 5 million, such as the 5 million in Stephen Devereux's famine table after Jasper Becker, are according to Garnaut generally unsourced or based on eyewitness estimates. Some deaths in the eastern Henan counties flooded since 1938 may also be counted in estimates for the Yellow River flood.
+    fr: Morts de la famine au Henan, surtout de faim et de maladie. Les estimations varient beaucoup et ne font pas consensus. L’estimation centrale est le bas de l’estimation de l’historien Lloyd Eastman, selon qui deux à trois millions de personnes sont mortes de faim ; le haut de la fourchette en est le haut. Le bas de la fourchette est le chiffre d’environ 700 000 que Wikipédia attribue à Anthony Garnaut, dont l’étude quantitative (Modern Asian Studies, 2013) conclut à une surmortalité « bien inférieure à un million » et montre que le bilan de 1 484 983 de l’enquête du gouvernement nationaliste de 1943 inclut aussi la baisse des naissances et les départs. Les chiffres de 3 à 5 millions, comme les 5 millions du tableau des famines de Stephen Devereux d’après Jasper Becker, sont selon Garnaut généralement sans source ou fondés sur des témoignages. Certains morts des districts de l’est du Henan inondés depuis 1938 peuvent aussi être comptés dans les estimations de l’inondation du fleuve Jaune.
+countries:
+  - { code: CN, deaths: 2000000 }
+related: [yellow-river-flood-1938]
+sources:
+  - title: Chinese famine of 1942-1943
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Chinese_famine_of_1942%E2%80%931943
+    accessed: "2026-10-22"
+  - title: A Quantitative Description of the Henan Famine of 1942
+    publisher: Modern Asian Studies (Cambridge University Press)
+    url: https://www.cambridge.org/core/journals/modern-asian-studies/article/quantitative-description-of-the-henan-famine-of-1942/36663986B38CE1D33C0A0638BA2653CA
+    accessed: "2026-10-22"
+  - title: "Famine in the Twentieth Century (IDS Working Paper 105, archived)"
+    publisher: Institute of Development Studies
+    url: https://web.archive.org/web/20170516151220/http://www.eldis.org/vfile/upload/1/document/0708/DOC7538.pdf
+    accessed: "2026-10-22"
+reviewed: false

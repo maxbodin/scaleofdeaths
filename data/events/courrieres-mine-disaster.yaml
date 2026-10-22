@@ -1,0 +1,30 @@
+id: courrieres-mine-disaster
+title:
+  en: Courrières mine disaster
+  fr: Catastrophe de Courrières
+description:
+  en: >-
+    Shortly after 6:30 on 10 March 1906 a coal-dust explosion swept through the galleries of a coal mine run by the Compagnie des mines de houille de Courrières near Lens, Pas-de-Calais, in northern France. About two-thirds of the miners underground were killed; most came from the nearby villages of Méricourt, Sallaumines, Billy-Montigny and Noyelles-sous-Lens. Thirteen survivors emerged after 20 days underground, and anger at the slow rescue sparked strikes across the coalfield. It remains Europe's deadliest mining disaster.
+  fr: >-
+    Peu après 6 h 30, le 10 mars 1906, un coup de poussière ravage les galeries d’une mine de la Compagnie des mines de houille de Courrières, près de Lens (Pas-de-Calais). Environ deux tiers des mineurs au fond sont tués ; la plupart venaient des villages voisins de Méricourt, Sallaumines, Billy-Montigny et Noyelles-sous-Lens. Treize rescapés remontent après 20 jours sous terre, et la colère contre la lenteur des secours déclenche des grèves dans tout le bassin minier. C’est toujours la catastrophe minière la plus meurtrière d’Europe.
+categories: [accident]
+kind: event
+start: "1906-03-10"
+deaths:
+  best: 1099
+  high: 1200
+  note:
+    en: Best is the official toll of 1,099 miners, given by Wikipedia and Hérodote. Hérodote notes that some consider about 1,200 deaths more likely, out of some 1,800 miners who went down that morning.
+    fr: L’estimation centrale est le bilan officiel de 1 099 mineurs, donné par Wikipédia et Hérodote. Hérodote signale que certains jugent plus vraisemblable le chiffre d’environ 1 200 morts, sur quelque 1 800 mineurs descendus ce matin-là.
+countries:
+  - { code: FR, deaths: 1099 }
+sources:
+  - title: Courrières mine disaster
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Courri%C3%A8res_mine_disaster
+    accessed: "2026-10-22"
+  - title: 10 mars 1906, la catastrophe de Courrières
+    publisher: Hérodote
+    url: https://www.herodote.net/10_mars_1906-evenement-19060310.php
+    accessed: "2026-10-22"
+reviewed: false

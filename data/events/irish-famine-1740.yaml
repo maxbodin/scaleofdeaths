@@ -1,0 +1,41 @@
+id: irish-famine-1740
+title:
+  en: Irish Famine of 1740-1741
+  fr: Famine irlandaise de 1740-1741
+description:
+  en: >-
+    Famine in the Kingdom of Ireland caused by the Great Frost, an extreme cold spell that began at the turn of 1740, followed by drought: grain harvests failed, milk ran short and frost ruined the potatoes. Food prices soared, crowds of beggars roamed the country and epidemics of fever, dysentery and smallpox followed. 1741, the worst year, was remembered as bliain an áir, the year of slaughter. Relative to population, the famine was deadlier than the Great Famine a century later.
+  fr: >-
+    Famine dans le royaume d’Irlande causée par le Grand Gel, une vague de froid extrême débutée au tournant de 1740, suivie de sécheresse : les récoltes de céréales ont échoué, le lait a manqué et le gel a détruit les pommes de terre. Les prix ont flambé, des foules de mendiants ont parcouru le pays et des épidémies de fièvre, de dysenterie et de variole ont suivi. 1741, la pire année, est restée dans les mémoires comme bliain an áir, « l’année du massacre ». Rapportée à la population, cette famine a été plus meurtrière que la Grande Famine un siècle plus tard.
+categories: [famine]
+kind: event
+start: "1740"
+end: "1741"
+deaths:
+  best: 300000
+  low: 250000
+  high: 480000
+  note:
+    en: "Excess deaths from starvation and famine-related disease. There was no civil registration, so estimates rest on burial records and contemporary accounts. Best: about 300,000, Ó Gráda's estimate and the bottom of the 300,000 to 480,000 range given by Wikipedia from David Dickson's work (13 to 20 percent of a population of about 2.4 million). Low and high: demographers and historians now favour 250,000 to 400,000 excess deaths (History Ireland), and some put the toll as high as 480,000; older estimates went as low as 80,000. Figures cover the whole island."
+    fr: "Surmortalité due à la faim et aux maladies liées à la famine. Faute d’état civil, les estimations reposent sur les registres d’inhumation et les récits de l’époque. Valeur centrale : environ 300 000, estimation d’Ó Gráda et bas de la fourchette de 300 000 à 480 000 donnée par Wikipédia d’après les travaux de David Dickson (13 à 20 % d’une population d’environ 2,4 millions). Bas et haut : démographes et historiens retiennent aujourd’hui 250 000 à 400 000 morts en excès (History Ireland), et certains vont jusqu’à 480 000 ; d’anciennes estimations descendaient à 80 000. Les chiffres couvrent toute l’île."
+countries:
+  - { code: IE }
+  - { code: GB }
+sources:
+  - title: Irish Famine (1740-1741)
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Irish_Famine_(1740%E2%80%931741)
+    accessed: "2026-10-22"
+  - title: "Plus ça change? Epidemic disease and social reaction"
+    publisher: History Ireland
+    url: https://historyireland.com/plus-ca-change/
+    accessed: "2026-10-22"
+  - title: A Non-Famine History of Ireland?
+    publisher: History Ireland
+    url: https://historyireland.com/a-non-famine-history-of-ireland/
+    accessed: "2026-10-22"
+  - title: Making Famine History (Cormac Ó Gráda)
+    publisher: Journal of Economic Literature (UCD Research Repository)
+    url: https://researchrepository.ucd.ie/server/api/core/bitstreams/f57a2154-08a1-44a8-b865-75d1d51a4fcb/content
+    accessed: "2026-10-22"
+reviewed: false

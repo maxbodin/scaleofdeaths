@@ -1,0 +1,59 @@
+id: plague-of-justinian
+title:
+  en: Plague of Justinian
+  fr: Peste de Justinien
+description:
+  en: >-
+    The first historically recorded epidemic of bubonic plague (Yersinia pestis) and the opening wave of the first plague pandemic. Reported at Pelusium in Egypt in 541, it reached Constantinople in 542, where Emperor Justinian fell ill and recovered, spread around the Mediterranean until 544 and persisted in northern Europe and the Arabian Peninsula until 549. It struck the Byzantine and Sasanian empires and recurred for about two centuries; its demographic impact is debated.
+  fr: >-
+    Première épidémie de peste bubonique (Yersinia pestis) attestée par l’histoire, vague initiale de la première pandémie de peste. Signalée à Péluse, en Égypte, en 541, elle atteint Constantinople en 542, où l’empereur Justinien tombe malade puis guérit, gagne le pourtour méditerranéen jusqu’en 544 et persiste en Europe du Nord et dans la péninsule Arabique jusqu’en 549. Elle frappe les empires byzantin et sassanide et resurgit pendant deux siècles ; son impact démographique est débattu.
+categories: [epidemic]
+kind: event
+start: "0541"
+end: "0549"
+deaths:
+  best: 25000000
+  low: 15000000
+  high: 100000000
+  note:
+    en: Estimates rarely separate the 541-549 outbreak from later recurrences. Best is the "about 25 million" given for the sixth-century plague by Princeton's Center for Digital Humanities. The 15 to 100 million range (Wikipedia; Mordechai et al., PNAS 2019) and National Geographic's "almost 100 million" cover the whole first pandemic, from 541 to about 750, so the high bound overstates this first wave. Mordechai et al. argue that all these figures are exaggerated.
+    fr: Les estimations distinguent rarement la vague de 541-549 des résurgences suivantes. L’estimation retenue est celle d’« environ 25 millions » donnée pour la peste du VIe siècle par le Center for Digital Humanities de Princeton. La fourchette de 15 à 100 millions (Wikipédia ; Mordechai et al., PNAS 2019) et les « près de 100 millions » de National Geographic portent sur toute la première pandémie, de 541 à 750 environ ; la borne haute surestime donc cette première vague. Mordechai et al. jugent tous ces chiffres exagérés.
+countries:
+  - { code: EG }
+  - { code: TR }
+  - { code: GR }
+  - { code: IT }
+  - { code: FR }
+  - { code: ES }
+  - { code: DE }
+  - { code: GB }
+  - { code: SY }
+  - { code: LB }
+  - { code: IL }
+  - { code: PS }
+  - { code: JO }
+  - { code: IQ }
+  - { code: IR }
+  - { code: TN }
+  - { code: LY }
+  - { code: DZ }
+  - { code: YE }
+related: [plague-of-amwas]
+sources:
+  - title: Plague of Justinian
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Plague_of_Justinian
+    accessed: "2026-10-22"
+  - title: The Justinianic Plague
+    publisher: Center for Digital Humanities, Princeton University
+    url: https://cdh.princeton.edu/projects/justinianic-plague/
+    accessed: "2026-10-22"
+  - title: "The Justinianic Plague: An inconsequential pandemic? (Mordechai et al., PNAS 2019)"
+    publisher: PubMed Central
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6926030/
+    accessed: "2026-10-22"
+  - title: "Black Death: Plague history, causes, and treatments"
+    publisher: National Geographic
+    url: https://www.nationalgeographic.com/science/article/the-plague
+    accessed: "2026-10-22"
+reviewed: false

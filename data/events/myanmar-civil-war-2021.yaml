@@ -1,0 +1,32 @@
+id: myanmar-civil-war-2021
+title:
+  en: Myanmar civil war (since 2021)
+  fr: Guerre civile birmane (depuis 2021)
+description:
+  en: >-
+    Civil war that followed the military coup of 1 February 2021, in which the armed forces led by Min Aung Hlaing ousted the elected government and detained Aung San Suu Kyi. The violent crackdown on mass protests led many demonstrators to take up arms in People's Defence Forces aligned with the National Unity Government, alongside long-standing ethnic armed organisations. Offensives from October 2023 took many towns from the military, which relies on air strikes, conscription and the burning of villages. Millions of people have been displaced.
+  fr: >-
+    Guerre civile qui suit le coup d’État militaire du 1er février 2021, par lequel l’armée dirigée par Min Aung Hlaing renverse le gouvernement élu et arrête Aung San Suu Kyi. La répression violente des manifestations de masse pousse de nombreux manifestants à rejoindre les Forces de défense du peuple, liées au gouvernement d’unité nationale, aux côtés de groupes armés ethniques anciens. Des offensives lancées à partir d’octobre 2023 prennent de nombreuses villes à l’armée, qui recourt aux frappes aériennes, à la conscription et aux incendies de villages. Des millions de personnes sont déplacées.
+categories: [war]
+kind: event
+start: "2021-02-01"
+ongoing: true
+asOf: "2026-03-27"
+deaths:
+  best: 96000
+  note:
+    en: Deaths of combatants and civilians from violence reported since the coup. Best is the estimate of the conflict monitor ACLED, more than 96,000 people killed, cited by Al Jazeera in March 2026; it is based on reported events, so deaths from hunger, disease or lack of care are not included. Wikipedia gives a range of 89,200 to over 96,000 killed according to ACLED. The Assistance Association for Political Prisoners documented 6,087 civilians killed by the end of 2024 (Wikipedia).
+    fr: Morts de combattants et de civils dues aux violences signalées depuis le coup d’État. L’estimation centrale est celle de l’observatoire des conflits ACLED, plus de 96 000 personnes tuées, citée par Al Jazeera en mars 2026 ; fondée sur les événements signalés, elle n’inclut pas les morts dues à la faim, aux maladies ou au manque de soins. Wikipédia donne une fourchette de 89 200 à plus de 96 000 tués selon ACLED. L’Assistance Association for Political Prisoners a recensé 6 087 civils tués à la fin de 2024 (Wikipédia).
+countries:
+  - { code: MM, deaths: 96000 }
+related: [rohingya-genocide, myanmar-earthquake-2025]
+sources:
+  - title: Myanmar civil war (2021-present)
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Myanmar_civil_war_(2021%E2%80%93present)
+    accessed: "2026-10-22"
+  - title: Who is fighting in Myanmar's multi-front civil war?
+    publisher: Al Jazeera
+    url: https://www.aljazeera.com/features/2026/3/27/who-is-fighting-in-myanmars-multi-front-civil-war
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,33 @@
+id: turkish-airlines-flight-981
+title:
+  en: Turkish Airlines Flight 981
+  fr: Vol Turkish Airlines 981
+description:
+  en: >-
+    On 3 March 1974 a Turkish Airlines McDonnell Douglas DC-10 flying from Paris Orly to London, full of travellers stranded by a strike at British European Airways, lost its rear cargo door about ten minutes after take-off. The sudden decompression collapsed the cabin floor, ejected six passengers, disabled an engine and cut the controls to the tail, and the plane crashed 77 seconds later in the Ermenonville Forest, 37 km northeast of Paris. The investigation found the door latch had been engaged incorrectly, a design flaw known since a similar incident in 1972.
+  fr: >-
+    Le 3 mars 1974, un McDonnell Douglas DC-10 de Turkish Airlines reliant Paris-Orly à Londres, rempli de voyageurs bloqués par une grève chez British European Airways, perd sa porte de soute arrière une dizaine de minutes après le décollage. La décompression brutale effondre le plancher de la cabine, éjecte six passagers, coupe un moteur et les commandes de la queue, et l’avion s’écrase 77 secondes plus tard dans la forêt d’Ermenonville, à 37 km au nord-est de Paris. L’enquête a établi que le verrou de la porte avait été mal engagé, un défaut de conception connu depuis un incident en 1972.
+categories: [accident]
+kind: event
+start: "1974-03-03"
+deaths:
+  best: 346
+  note:
+    en: All 335 passengers and 11 crew, the toll given by Wikipedia and SKYbrary (Eurocontrol). Most of those on board were British (177), followed by Turkish (56, including the 11 crew), Japanese (48), American (25) and French (16) nationals; only 188 bodies could be identified. It is the deadliest air accident in France and was the deadliest in aviation history until the Tenerife airport disaster in 1977.
+    fr: Les 335 passagers et 11 membres d’équipage, bilan donné par Wikipédia et SKYbrary (Eurocontrol). La plupart des personnes à bord étaient britanniques (177), puis turques (56, dont les 11 membres d’équipage), japonaises (48), américaines (25) et françaises (16) ; seuls 188 corps ont pu être identifiés. C’est l’accident aérien le plus meurtrier survenu en France, et ce fut le plus meurtrier de l’histoire de l’aviation jusqu’à la catastrophe de Tenerife en 1977.
+countries:
+  - { code: FR, deaths: 346 }
+sources:
+  - title: Turkish Airlines Flight 981
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Turkish_Airlines_Flight_981
+    accessed: "2026-10-22"
+  - title: DC10, en-route, Paris France, 1974
+    publisher: SKYbrary (Eurocontrol)
+    url: https://skybrary.aero/accidents-and-incidents/dc10-en-route-paris-france-1974
+    accessed: "2026-10-22"
+  - title: Accident to the McDonnell Douglas DC10 registered TC-JAV operated by Turkish Airlines on 03/03/1974 at Ermenonville
+    publisher: Bureau d'Enquêtes et d'Analyses (BEA)
+    url: https://bea.aero/en/investigation-reports/notified-events/detail/accident-to-the-mcdonnell-douglas-dc10-registered-tc-jav-operated-by-turkish-airlines-on-03-03-1974-at-ermenonville/
+    accessed: "2026-10-22"
+reviewed: false

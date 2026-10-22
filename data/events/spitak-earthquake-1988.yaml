@@ -1,0 +1,35 @@
+id: spitak-earthquake-1988
+title:
+  en: 1988 Armenian earthquake
+  fr: Séisme de 1988 en Arménie
+description:
+  en: >-
+    At 11:41 on 7 December 1988 a magnitude 6.8 earthquake struck northern Armenia, then a Soviet republic, devastating Spitak and heavily damaging Leninakan (now Gyumri), Kirovakan (now Vanadzor) and many villages. Poorly built Brezhnev-era apartment blocks collapsed, and freezing temperatures added to the toll. Mikhail Gorbachev cut short a visit to New York, and the Soviet Union formally asked the United States for humanitarian help, receiving the largest foreign aid effort since the Second World War.
+  fr: >-
+    Le 7 décembre 1988 à 11 h 41, un séisme de magnitude 6,8 a frappé le nord de l’Arménie, alors république soviétique, dévastant Spitak et endommageant gravement Leninakan (aujourd’hui Gyumri), Kirovakan (aujourd’hui Vanadzor) et de nombreux villages. Des immeubles mal construits de l’ère Brejnev se sont effondrés, et le froid glacial a alourdi le bilan. Mikhaïl Gorbatchev a écourté une visite à New York et l’URSS a officiellement demandé l’aide humanitaire des États-Unis, recevant la plus vaste aide étrangère depuis la Seconde Guerre mondiale.
+categories: [natural-disaster]
+kind: event
+start: "1988-12-07"
+deaths:
+  best: 25000
+  high: 50000
+  note:
+    en: Best is the official Soviet figure, used by USGS and NOAA NCEI. Other estimates put deaths at 30,000 to 40,000, and the Wikipedia article gives a range of 25,000 to 50,000. USGS also reports 4 deaths in the Kars area of Turkey. The 78 people killed in the crash of a Soviet relief aircraft at Leninakan are not included.
+    fr: L’estimation centrale est le chiffre officiel soviétique, repris par l’USGS et la NCEI de la NOAA. D’autres estimations situent les morts entre 30 000 et 40 000, et l’article de Wikipédia donne une fourchette de 25 000 à 50 000. L’USGS signale aussi 4 morts dans la région de Kars, en Turquie. Les 78 personnes tuées dans l’accident d’un avion soviétique de secours à Leninakan ne sont pas incluses.
+countries:
+  - { code: AM, deaths: 25000 }
+  - { code: TR, deaths: 4 }
+sources:
+  - title: 1988 Armenian earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1988_Armenian_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Leninakan, Spitak, Kirovakan, event 5184"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/5184
+    accessed: "2026-10-22"
+  - title: Earthquakes with 1,000 or More Deaths 1900-2014 (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20170118110610/http://earthquake.usgs.gov/earthquakes/world/world_deaths.php
+    accessed: "2026-10-22"
+reviewed: false

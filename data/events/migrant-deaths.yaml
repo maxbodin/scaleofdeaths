@@ -1,0 +1,41 @@
+id: migrant-deaths
+title:
+  en: Deaths of migrants per year
+  fr: Décès de migrants par an
+description:
+  en: >-
+    People who died or went missing on migration routes worldwide in one year, as recorded by the Missing Migrants Project of the International Organization for Migration (IOM) from official records, media reports and IOM missions. Sea crossings remain among the deadliest routes: the Mediterranean and the Atlantic route from West Africa to the Canary Islands. Asia had its deadliest year on record, with many Afghans among the dead, and the Eastern route from the Horn of Africa to Yemen and the Gulf saw several mass shipwrecks of Ethiopian migrants.
+  fr: >-
+    Personnes mortes ou disparues sur les routes migratoires dans le monde en un an, selon le projet Migrants disparus de l’Organisation internationale pour les migrations (OIM), d’après des sources officielles, la presse et ses missions. Les traversées maritimes restent parmi les routes les plus meurtrières : la Méditerranée et la route atlantique de l’Afrique de l’Ouest vers les Canaries. L’Asie a connu son année la plus meurtrière, avec de nombreux Afghans parmi les morts, et la route de l’Est, de la Corne de l’Afrique vers le Yémen et le Golfe, plusieurs naufrages de migrants éthiopiens.
+categories: [annual]
+kind: endemic-total
+start: "2025"
+end: "2025"
+deaths:
+  best: 7667
+  high: 8000
+  note:
+    en: >-
+      IOM (26 February 2026): at least 7,667 people died or went missing on migration routes worldwide in 2025, down from nearly 9,200 in 2024; IOM's annual report (21 April 2026) updates this to "nearly 8,000", so high is set at 8,000. The count includes missing people and is a minimum: at least 1,500 more people reported missing at sea could not be verified. IOM gives deaths by route, not by country: 2,185 in the Mediterranean, 1,214 on the Atlantic route to the Canary Islands (Spain), 922 on the Eastern route via Yemen; the countries on these routes are listed without numbers.
+    fr: >-
+      OIM (26 février 2026) : au moins 7 667 personnes sont mortes ou ont disparu sur les routes migratoires en 2025, contre près de 9 200 en 2024 ; le rapport annuel de l’OIM (21 avril 2026) actualise ce chiffre à « près de 8 000 », d’où la borne haute de 8 000. Le décompte inclut les disparus et constitue un minimum : au moins 1 500 autres disparus en mer n’ont pu être vérifiés. L’OIM donne les morts par route et non par pays : 2 185 en Méditerranée, 1 214 sur la route atlantique vers les Canaries (Espagne), 922 sur la route de l’Est par le Yémen ; les pays de ces routes sont listés sans nombre.
+countries:
+  - { code: LY }
+  - { code: IT }
+  - { code: ES }
+  - { code: YE }
+related: [drowning-deaths]
+sources:
+  - title: 21 Migrants Died Every Day in 2025, New IOM Data Reveals
+    publisher: International Organization for Migration
+    url: https://www.iom.int/news/21-migrants-died-every-day-2025-new-iom-data-reveals
+    accessed: "2026-10-22"
+  - title: Nearly 8,000 Migrant Deaths Recorded in 2025, New IOM Data
+    publisher: International Organization for Migration
+    url: https://www.iom.int/news/nearly-8000-migrant-deaths-recorded-2025-new-iom-data
+    accessed: "2026-10-22"
+  - title: Missing Migrants Project
+    publisher: International Organization for Migration
+    url: https://missingmigrants.iom.int/
+    accessed: "2026-10-22"
+reviewed: false

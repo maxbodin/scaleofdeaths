@@ -1,0 +1,39 @@
+id: laotian-civil-war
+title:
+  en: Laotian Civil War
+  fr: Guerre civile laotienne
+description:
+  en: >-
+    Civil war in Laos between the Royal Lao Government, backed by the United States and Thailand, and the communist Pathet Lao, backed by North Vietnam, closely tied to the Vietnam War. North Vietnamese troops held much of eastern Laos, through which the Ho Chi Minh trail ran, while a CIA-supported army recruited largely among the Hmong fought on the government side. The United States carried out a long bombing campaign, and unexploded ordnance has kept killing people since. The Pathet Lao took power in December 1975 and abolished the monarchy.
+  fr: >-
+    Guerre civile au Laos entre le gouvernement royal lao, soutenu par les États-Unis et la Thaïlande, et le Pathet Lao communiste, soutenu par le Viêt Nam du Nord, étroitement liée à la guerre du Viêt Nam. Les troupes nord-vietnamiennes tiennent une grande partie de l’est du pays, traversé par la piste Hô Chi Minh, tandis qu’une armée soutenue par la CIA, recrutée surtout chez les Hmong, combat pour le gouvernement. Les États-Unis mènent une longue campagne de bombardements, dont les munitions non explosées tuent encore. Le Pathet Lao prend le pouvoir en décembre 1975 et abolit la monarchie.
+categories: [war]
+kind: event
+start: "1959-05-23"
+end: "1975-12-02"
+deaths:
+  best: 62000
+  low: 20000
+  high: 250000
+  note:
+    en: Military and civilian deaths; sources are scarce and disagree widely. Best is the 2008 BMJ survey-based estimate of 62,000 violent war deaths in Laos, which covers the longer period 1955-2002 (95% interval 28,000 to 115,000); low is the earlier Uppsala/PRIO figure of about 20,000 given in the same study (Wikipedia gives 20,000 to 62,000 total killed). High is Clodfelter's estimate of 250,000 dead from all causes (PRIO Battle Deaths documentation), far above other figures; Eckhardt gives 30,000 war-related deaths for 1960-1973. Per-country figures are military deaths from Wikipedia (Royal Lao Army 15,000; about 42,000 North Vietnamese; over 1,751 Thai). The Laotian government counted 29,522 deaths from explosive ordnance during and since the war.
+    fr: Morts militaires et civiles ; les sources sont rares et très divergentes. L’estimation centrale est celle du BMJ (2008), fondée sur des enquêtes, de 62 000 morts violentes de guerre au Laos, qui couvre la période plus longue 1955-2002 (intervalle à 95 % de 28 000 à 115 000) ; le bas correspond au chiffre antérieur d’Uppsala/PRIO, environ 20 000, cité par la même étude (Wikipédia donne 20 000 à 62 000 tués). Le haut correspond à l’estimation de Clodfelter, 250 000 morts toutes causes confondues (documentation du PRIO sur les morts au combat), très supérieure aux autres ; Eckhardt donne 30 000 morts liées à la guerre pour 1960-1973. Les chiffres par pays sont des morts militaires selon Wikipédia (armée royale lao 15 000 ; environ 42 000 Nord-Vietnamiens ; plus de 1 751 Thaïlandais). Le gouvernement laotien a recensé 29 522 morts dues aux munitions explosives pendant et depuis la guerre.
+countries:
+  - { code: VD, name: { en: North Vietnam, fr: Viêt Nam du Nord }, deaths: 42000 }
+  - { code: LA, deaths: 15000 }
+  - { code: TH, deaths: 1751 }
+related: [vietnam-war]
+sources:
+  - title: Laotian Civil War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Laotian_Civil_War
+    accessed: "2026-10-22"
+  - title: "Fifty years of violent war deaths from Vietnam to Bosnia: analysis of data from the world health survey programme (Obermeyer, Murray and Gakidou, 2008)"
+    publisher: BMJ (via PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC2440905/
+    accessed: "2026-10-22"
+  - title: "The PRIO Battle Deaths Dataset, 1946-2008, Version 3.0: Documentation of Coding Decisions (Lacina), Laos"
+    publisher: Peace Research Institute Oslo (PRIO)
+    url: https://cdn.cloud.prio.org/files/91648bba-8885-40ce-8a78-fae75c850c55/PRIO%20Battle%20Deaths%20Dataset%2030%20Documentation.pdf
+    accessed: "2026-10-22"
+reviewed: false

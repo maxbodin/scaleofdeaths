@@ -1,0 +1,31 @@
+id: deccan-famine-1630
+title:
+  en: Deccan famine of 1630-1632
+  fr: Famine du Deccan de 1630-1632
+description:
+  en: >-
+    Famine in the Deccan, Khandesh and Gujarat under the Mughal emperor Shah Jahan, after a drought in 1630, crop damage by mice and locusts in 1631 and then excessive rain. Grain convoys from Malwa were diverted to feed the imperial army campaigning in the Deccan, and free kitchens and tax remissions did little. Starvation and water-borne disease killed huge numbers; contemporary Persian and European accounts, such as that of the English traveller Peter Mundy, describe roads blocked by corpses and cannibalism.
+  fr: >-
+    Famine dans le Deccan, le Khandesh et le Gujarat sous l’empereur moghol Shah Jahan, après une sécheresse en 1630, des ravages de souris et de criquets en 1631, puis des pluies excessives. Les convois de grain venus du Malwa étaient détournés pour nourrir l’armée impériale en campagne dans le Deccan, et les cuisines gratuites comme les remises d’impôt ont eu peu d’effet. La faim et les maladies transmises par l’eau ont fait des ravages ; les récits persans et européens, dont celui du voyageur anglais Peter Mundy, décrivent des routes jonchées de cadavres et des actes de cannibalisme.
+categories: [famine]
+kind: event
+start: "1630"
+end: "1632"
+deaths:
+  best: 7400000
+  low: 3000000
+  note:
+    en: "Deaths from starvation and disease; there is no modern demographic estimate. Best: 7.4 million, a contemporary estimate of deaths in the region up to 1631 alone, as reported by Wikipedia (which cites a 2024 popular history); it is widely repeated but could not be traced to a scholarly study. Low: 3 million, the number of deaths in Gujarat in 1631 given by the University of Exeter's Famine and Dearth project, which covers only part of the affected area and period."
+    fr: "Morts de faim et de maladie ; il n’existe pas d’estimation démographique moderne. Valeur centrale : 7,4 millions, estimation d’époque des morts dans la région jusqu’en 1631 seulement, rapportée par Wikipédia (qui cite un ouvrage de vulgarisation de 2024) ; ce chiffre est très repris, mais il n’a pas pu être rattaché à une étude savante. Bas : 3 millions, nombre de morts au Gujarat en 1631 selon le projet Famine and Dearth de l’université d’Exeter, qui ne couvre qu’une partie de la zone et de la période."
+countries:
+  - { code: IN, deaths: 7400000 }
+sources:
+  - title: Deccan famine of 1630-1632
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Deccan_famine_of_1630%E2%80%931632
+    accessed: "2026-10-22"
+  - title: "About the map: Gujarat famine, 1630-1632"
+    publisher: University of Exeter, Famine and Dearth in India and Britain
+    url: https://famineanddearth.exeter.ac.uk/aboutthemap.html
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,36 @@
+id: fiji-measles-outbreak-1875
+title:
+  en: 1875 Fiji measles outbreak
+  fr: Épidémie de rougeole de 1875 aux Fidji
+description:
+  en: >-
+    Measles epidemic among Indigenous Fijians, a population never before exposed to the disease, shortly after the islands were ceded to Britain in October 1874. The Fijian chief Cakobau and his two sons caught measles in Sydney, where they had been taken to celebrate the annexation, and the colonial authorities did not quarantine the ship that brought them home. The virus spread across the islands with astonishing speed; a colonial delegation carried it into the highlands of Viti Levu, where the deaths fuelled a revolt against British rule.
+  fr: >-
+    Épidémie de rougeole parmi les Fidjiens autochtones, qui n’avaient jamais été exposés à la maladie, peu après la cession des îles au Royaume-Uni en octobre 1874. Le chef fidjien Cakobau et ses deux fils avaient contracté la rougeole à Sydney, où ils avaient été emmenés pour célébrer l’annexion, et les autorités coloniales n’ont pas mis en quarantaine le navire qui les ramenait. Le virus s’est propagé à une vitesse stupéfiante ; une délégation coloniale l’a porté dans les hautes terres de Viti Levu, où les morts ont attisé une révolte contre la domination britannique.
+categories: [epidemic]
+kind: event
+start: "1875"
+end: "1876"
+deaths:
+  best: 40000
+  note:
+    en: >-
+      Best is the commonly cited estimate of about 40,000 deaths, roughly a third of the Indigenous Fijian population, given by Wikipedia and by the Measles & Rubella Partnership (citing a 1998 study by David Morens); no range was found. A 2017 study in Epidemiology and Infection puts the loss at more than a fifth of the Indigenous population over four months in 1875.
+    fr: >-
+      L’estimation retenue est le chiffre couramment cité d’environ 40 000 morts, près d’un tiers de la population fidjienne autochtone, donné par Wikipédia et par le Measles & Rubella Partnership (d’après une étude de David Morens de 1998) ; aucune fourchette n’a été trouvée. Une étude de 2017 parue dans Epidemiology and Infection évalue la perte à plus d’un cinquième de la population autochtone en quatre mois en 1875.
+countries:
+  - { code: FJ, deaths: 40000 }
+sources:
+  - title: History of Fiji
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/History_of_Fiji
+    accessed: "2026-10-22"
+  - title: "Fiji and measles: from devastation to elimination"
+    publisher: Measles & Rubella Partnership
+    url: https://measlesrubellapartnership.org/fiji-and-measles-from-devastation-to-elimination/
+    accessed: "2026-10-22"
+  - title: Rapid mortality transition of Pacific Islands in the 19th century
+    publisher: Epidemiology and Infection (via PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5197612/
+    accessed: "2026-10-22"
+reviewed: false

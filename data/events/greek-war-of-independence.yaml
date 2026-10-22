@@ -1,0 +1,35 @@
+id: greek-war-of-independence
+title:
+  en: Greek War of Independence
+  fr: Guerre d’indépendance grecque
+description:
+  en: >-
+    Uprising of Greeks against Ottoman rule, which began in 1821 in the Danubian principalities and the Peloponnese and led to the creation of an independent Greek state. Both sides massacred civilians: Greek insurgents killed Muslim and Jewish inhabitants, notably at Tripolitsa, while Ottoman forces carried out reprisals such as the massacres of Chios and Psara and the long siege of Missolonghi. The intervention of Britain, France and Russia, who destroyed the Ottoman-Egyptian fleet at Navarino in 1827, secured Greek independence.
+  fr: >-
+    Soulèvement des Grecs contre la domination ottomane, commencé en 1821 dans les principautés danubiennes et dans le Péloponnèse, qui aboutit à la création d’un État grec indépendant. Les deux camps massacrent des civils : les insurgés grecs tuent des habitants musulmans et juifs, notamment à Tripolitsa, et les forces ottomanes mènent des représailles comme les massacres de Chios et de Psara et le long siège de Missolonghi. L’intervention de la Grande-Bretagne, de la France et de la Russie, qui détruisent la flotte ottomano-égyptienne à Navarin en 1827, assure l’indépendance grecque.
+categories: [war]
+kind: event
+start: "1821-02"
+end: "1829-09"
+deaths:
+  best: 230000
+  low: 120000
+  high: 600000
+  note:
+    en: "Sources disagree widely. A recent scholarly estimate (Paschalis Kitromilides, 2021, via Wikipedia) puts Greek civilian deaths alone at 230,000 to 600,000; Wikipedia also gives 15,000 to 25,000 Muslim civilians, 15,000 Greek fighters and 44,000 to 50,000 Ottoman soldiers. Best: 230,000, the low end of the Greek civilian estimate, used as a conservative total because no source adds these figures up. Low: 120,000, the older overall totals of the Correlates of War project and of William Eckhardt (via Necrometrics). High: 600,000, the top of the Greek civilian estimate."
+    fr: "Les sources divergent fortement. Une estimation universitaire récente (Paschalis Kitromilides, 2021, via Wikipédia) évalue les seules morts civiles grecques entre 230 000 et 600 000 ; Wikipédia donne aussi 15 000 à 25 000 civils musulmans, 15 000 combattants grecs et 44 000 à 50 000 soldats ottomans. Estimation centrale : 230 000, bas de l’estimation des morts civiles grecques, retenu comme total prudent car aucune source n’additionne ces chiffres. Bas : 120 000, totaux plus anciens du projet Correlates of War et de William Eckhardt (via Necrometrics). Haut : 600 000, sommet de l’estimation des morts civiles grecques."
+countries:
+  - { code: GR }
+  - { code: TR }
+  - { code: CY }
+  - { code: RO }
+sources:
+  - title: Greek War of Independence
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Greek_War_of_Independence
+    accessed: "2026-10-22"
+  - title: Statistics of Wars, Oppressions and Atrocities of the Nineteenth Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/wars19c.htm
+    accessed: "2026-10-22"
+reviewed: false

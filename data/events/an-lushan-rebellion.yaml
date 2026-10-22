@@ -1,0 +1,35 @@
+id: an-lushan-rebellion
+title:
+  en: An Lushan Rebellion
+  fr: Révolte d’An Lushan
+description:
+  en: >-
+    Civil war in Tang China launched by the frontier general An Lushan, who proclaimed the Yan dynasty and captured Luoyang and then the capital Chang'an, forcing Emperor Xuanzong to flee to Sichuan. With the help of Uyghur and other allied troops, the Tang retook the capitals and finally defeated the rebels in 763, after An Lushan, his son An Qingxu and Shi Siming had each been murdered by a successor. Fighting, famine and displacement devastated northern China and permanently weakened the dynasty.
+  fr: >-
+    Guerre civile dans la Chine des Tang, déclenchée par le général de frontière An Lushan, qui proclame la dynastie Yan et s’empare de Luoyang puis de la capitale Chang’an, contraignant l’empereur Xuanzong à fuir au Sichuan. Avec l’aide de troupes ouïghoures et d’autres alliés, les Tang reprennent les capitales et viennent à bout des rebelles en 763, après l’assassinat successif d’An Lushan, de son fils An Qingxu et de Shi Siming par leurs successeurs. Combats, famines et déplacements ravagent le nord de la Chine et affaiblissent durablement la dynastie.
+categories: [war]
+kind: event
+start: "0755-12-16"
+end: "0763-02-17"
+deaths:
+  best: 13000000
+  high: 36000000
+  note:
+    en: "Based on census figures, which are contested. The census of 755 recorded about 52.9 million people and that of 764 about 16.9 million, a difference of 36 million (high), long cited as the death toll. Historians such as C. P. Fitzgerald and Hans Bielenstein attribute much of the drop to the breakdown of registration and taxation and to provinces leaving imperial control. Best: 13 million, Matthew White's revised estimate, a deliberately conservative figure derived from the fall in registered households. No source found gives a lower estimate."
+    fr: "Fondé sur des recensements contestés. Le recensement de 755 compte environ 52,9 millions d’habitants et celui de 764 environ 16,9 millions, soit un écart de 36 millions (haut), longtemps présenté comme le bilan. Des historiens comme C. P. Fitzgerald et Hans Bielenstein attribuent une grande partie de cette baisse à l’effondrement de l’enregistrement et de la fiscalité et à des provinces sortant du contrôle impérial. Estimation centrale : 13 millions, estimation révisée de Matthew White, volontairement prudente et tirée de la baisse du nombre de foyers recensés. Aucune source trouvée ne donne d’estimation plus basse."
+countries:
+  - { code: CN, deaths: 13000000 }
+sources:
+  - title: An Lushan rebellion
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/An_Lushan_rebellion
+    accessed: "2026-10-22"
+  - title: List of wars by death toll
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_wars_by_death_toll
+    accessed: "2026-10-22"
+  - title: Selected Death Tolls for Wars, Massacres and Atrocities Before the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/pre1700a.htm
+    accessed: "2026-10-22"
+reviewed: false

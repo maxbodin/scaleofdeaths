@@ -1,0 +1,33 @@
+id: yangtze-flood-1954
+title:
+  en: 1954 Yangtze floods
+  fr: Crues du Yangzi de 1954
+description:
+  en: >-
+    From June to September 1954, an unusually long and heavy rainy season raised the middle Yangtze to record levels, 29.73 metres at Wuhan. To protect Wuhan and other cities, the authorities opened sluice gates and diverted floodwater onto rural plains in Hubei that were still inhabited, yet large parts of Wuhan were flooded anyway. Official accounts celebrated a victory over the river, but internal reports reveal a humanitarian catastrophe, with deaths from drowning and from the epidemics that followed.
+  fr: >-
+    De juin à septembre 1954, une saison des pluies exceptionnellement longue et abondante a porté le Yangzi moyen à des niveaux record, 29,73 mètres à Wuhan. Pour protéger Wuhan et d’autres villes, les autorités ont ouvert des vannes et déversé les eaux sur des plaines rurales du Hubei encore habitées, et de larges parties de Wuhan ont malgré tout été inondées. Les récits officiels ont célébré une victoire sur le fleuve, mais des rapports internes révèlent une catastrophe humanitaire, avec des morts par noyade et lors des épidémies qui ont suivi.
+categories: [natural-disaster]
+kind: event
+start: "1954-06"
+end: "1954-09"
+deaths:
+  best: 149507
+  low: 33160
+  note:
+    en: >-
+      Contested. The official toll, compiled by China's State Statistical Bureau in the 1990s, is 33,160 deaths nationwide (Wikipedia gives about 33,000). Historian Chris Courtney (Modern Asian Studies, 2018) found that an internal Communist Party investigation in early 1955 counted 149,507 deaths in Hubei province alone, corroborated by another internal report of about 132,221 deaths between July and November 1954. Best uses the 149,507 figure, which leaves out deaths in other provinces.
+    fr: >-
+      Contesté. Le bilan officiel, établi par le Bureau national de la statistique dans les années 1990, est de 33 160 morts pour toute la Chine (Wikipédia donne environ 33 000). L’historien Chris Courtney (Modern Asian Studies, 2018) a montré qu’une enquête interne du Parti communiste menée début 1955 comptait 149 507 morts dans la seule province du Hubei, chiffre corroboré par un autre rapport interne faisant état d’environ 132 221 morts entre juillet et novembre 1954. L’estimation centrale retient 149 507, qui ne compte pas les morts des autres provinces.
+countries:
+  - { code: CN, deaths: 149507 }
+sources:
+  - title: 1954 Yangtze floods
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1954_Yangtze_floods
+    accessed: "2026-10-22"
+  - title: "At war with water: the Maoist state and the 1954 Yangzi floods"
+    publisher: Modern Asian Studies (Cambridge University Press)
+    url: https://www.cambridge.org/core/journals/modern-asian-studies/article/at-war-with-water-the-maoist-state-and-the-1954-yangzi-floods/F1E406431AB75A0FB1E95D35720853C8
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,40 @@
+id: cyclone-freddy-2023
+title:
+  en: Cyclone Freddy
+  fr: Cyclone Freddy
+description:
+  en: >-
+    Cyclone Freddy formed south of Indonesia on 4 February 2023 and crossed the whole southern Indian Ocean, becoming the longest-lasting tropical cyclone on record, at more than five weeks. It struck Madagascar on 21 February and Mozambique on 24 February, looped back over the Mozambique Channel and made a final landfall near Quelimane, Mozambique, on 11 March. It then brought days of torrential rain to southern Malawi, where flash floods and mudslides devastated Blantyre and its surroundings.
+  fr: >-
+    Le cyclone Freddy s’est formé au sud de l’Indonésie le 4 février 2023 et a traversé tout le sud de l’océan Indien, devenant le cyclone tropical le plus long jamais observé, avec plus de cinq semaines. Il a frappé Madagascar le 21 février et le Mozambique le 24 février, est reparti dans le canal du Mozambique et a touché terre une dernière fois près de Quelimane, au Mozambique, le 11 mars. Il a ensuite apporté des jours de pluies torrentielles au sud du Malawi, où crues et coulées de boue ont dévasté Blantyre et ses environs.
+categories: [natural-disaster]
+kind: event
+start: "2023-02-04"
+end: "2023-03-14"
+deaths:
+  best: 1434
+  note:
+    en: >-
+      Total of national tolls compiled by Wikipedia and by Jeff Masters (Yale Climate Connections). It includes, for Malawi, 679 confirmed deaths and 537 people missing and presumed dead (Malawi's post-disaster needs assessment gives 679 dead and 537 missing). Counting only confirmed deaths would lower the total by 537. Per-country figures: Malawi 1,216, Mozambique 198, Madagascar 17, Zimbabwe 2 and Mauritius 1.
+    fr: >-
+      Total des bilans nationaux compilés par Wikipédia et par Jeff Masters (Yale Climate Connections). Il inclut, pour le Malawi, 679 morts confirmés et 537 disparus présumés morts (l’évaluation post-catastrophe du Malawi donne 679 morts et 537 disparus). Sans les disparus, le total serait inférieur de 537. Chiffres par pays : Malawi 1 216, Mozambique 198, Madagascar 17, Zimbabwe 2 et Maurice 1.
+countries:
+  - { code: MW, deaths: 1216 }
+  - { code: MZ, deaths: 198 }
+  - { code: MG, deaths: 17 }
+  - { code: ZW, deaths: 2 }
+  - { code: MU, deaths: 1 }
+sources:
+  - title: Cyclone Freddy
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Cyclone_Freddy
+    accessed: "2026-10-22"
+  - title: "Five of Africa's top 30 deadliest weather disasters have occurred since 2022"
+    publisher: Yale Climate Connections
+    url: https://yaleclimateconnections.org/2023/05/five-of-africas-top-30-deadliest-weather-disasters-have-occurred-since-2022/
+    accessed: "2026-10-22"
+  - title: Malawi 2023 Tropical Cyclone Freddy Post-Disaster Needs Assessment
+    publisher: Government of Malawi (via United Nations Malawi)
+    url: https://malawi.un.org/sites/default/files/2023-06/Tropical%20Cyclone%20Freddy%20Post%20Disaster%20Needs%20Assessment%20Government%20of%20Malawi%20%20April%202023-12_05_2023.pdf
+    accessed: "2026-10-22"
+reviewed: false

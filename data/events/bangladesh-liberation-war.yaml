@@ -1,0 +1,42 @@
+id: bangladesh-liberation-war
+title:
+  en: Bangladesh Liberation War
+  fr: Guerre de libération du Bangladesh
+description:
+  en: >-
+    War of independence of East Pakistan, now Bangladesh, which began after the Pakistani army launched Operation Searchlight against the Bengali nationalist movement in March 1971. The army and allied militias carried out mass killings of civilians, students, intellectuals and Hindus, and widespread rape, acts widely described as genocide. About 10 million refugees fled to India. Bengali guerrillas fought back, Biharis were also killed in reprisals, and India entered the war in December; Pakistani forces surrendered on 16 December 1971.
+  fr: >-
+    Guerre d’indépendance du Pakistan oriental, devenu le Bangladesh, déclenchée quand l’armée pakistanaise lance l’opération Searchlight contre le mouvement nationaliste bengali en mars 1971. L’armée et des milices alliées commettent des massacres de civils, d’étudiants, d’intellectuels et d’hindous, ainsi que des viols de masse, actes largement qualifiés de génocide. Environ 10 millions de réfugiés fuient en Inde. Des guérilleros bengalis ripostent, des Biharis sont aussi tués en représailles, et l’Inde entre en guerre en décembre ; les forces pakistanaises capitulent le 16 décembre 1971.
+categories: [war, genocide]
+kind: event
+start: "1971-03-26"
+end: "1971-12-16"
+deaths:
+  best: 1250000
+  low: 269000
+  high: 3000000
+  note:
+    en: Civilian and military deaths; the toll is strongly contested. Best is Matthew White's estimate (Necrometrics), between the figures most cited. Low is the 2008 BMJ survey-based estimate of 269,000 violent war deaths (95% interval 125,000 to 505,000), well above the earlier Uppsala/PRIO figure of 58,000. High is the 3 million deaths claimed by the Bangladeshi authorities, a figure that has come under scrutiny. Wikipedia reports that independent researchers estimate about 300,000 to 500,000 deaths, R. J. Rummel about 1.5 million, and Christian Gerlach slightly over half a million, mostly from hunger and exhaustion; the Pakistani Hamoodur Rahman Commission gave 26,000 civilian deaths. Per-country figures are the BMJ estimate for Bangladesh and military deaths for Pakistan (5,866) and India (1,426, low end of 1,426 to 1,525).
+    fr: Morts civiles et militaires ; le bilan est très contesté. L’estimation centrale est celle de Matthew White (Necrometrics), située entre les chiffres les plus cités. Le bas correspond à l’estimation du BMJ (2008), fondée sur des enquêtes, de 269 000 morts violentes de guerre (intervalle à 95 % de 125 000 à 505 000), bien au-dessus du chiffre antérieur de 58 000 d’Uppsala/PRIO. Le haut correspond aux 3 millions de morts avancés par les autorités bangladaises, un chiffre remis en question. Selon Wikipédia, des chercheurs indépendants estiment environ 300 000 à 500 000 morts, R. J. Rummel environ 1,5 million et Christian Gerlach un peu plus d’un demi-million, surtout de faim et d’épuisement ; la commission pakistanaise Hamoodur Rahman a avancé 26 000 morts civiles. Les chiffres par pays sont l’estimation du BMJ pour le Bangladesh et les morts militaires du Pakistan (5 866) et de l’Inde (1 426, bas de la fourchette de 1 426 à 1 525).
+countries:
+  - { code: BD, deaths: 269000 }
+  - { code: PK, deaths: 5866 }
+  - { code: IN, deaths: 1426 }
+sources:
+  - title: Bangladesh Liberation War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Bangladesh_Liberation_War
+    accessed: "2026-10-22"
+  - title: Bangladesh genocide
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Bangladesh_genocide
+    accessed: "2026-10-22"
+  - title: "Fifty years of violent war deaths from Vietnam to Bosnia: analysis of data from the world health survey programme (Obermeyer, Murray and Gakidou, 2008)"
+    publisher: BMJ (via PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC2440905/
+    accessed: "2026-10-22"
+  - title: "Death Tolls for the Major Wars and Atrocities of the Twentieth Century: Bangladesh (1971)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c1m.htm
+    accessed: "2026-10-22"
+reviewed: false

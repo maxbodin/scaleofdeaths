@@ -1,0 +1,29 @@
+id: ufa-train-disaster-1989
+title:
+  en: Ufa train disaster
+  fr: Catastrophe ferroviaire d’Oufa
+description:
+  en: >-
+    At 1:15 on 4 June 1989, near Ulu-Telyak in the Bashkir ASSR of the Soviet Union, about 75 km east of Ufa, two passenger trains on the Kuybyshev Railway ignited a cloud of flammable gas that had built up along the line from an undetected leak in a nearby natural gas liquids pipeline. Sparks from the overhead lines set off an explosion that destroyed 37 carriages and two locomotives, and the fire spread over 250 hectares. Many passengers were holidaymakers travelling to or from Black Sea resorts; about a third of the victims died in the blast itself.
+  fr: >-
+    Le 4 juin 1989 à 1 h 15, près d’Oulou-Teliak, en RSSA bachkire (Union soviétique), à environ 75 km à l’est d’Oufa, deux trains de voyageurs du chemin de fer de Kouïbychev enflamment un nuage de gaz accumulé le long de la voie à cause d’une fuite non détectée d’un gazoduc voisin. Des étincelles des caténaires déclenchent une explosion qui détruit 37 voitures et deux locomotives, et l’incendie s’étend sur 250 hectares. Beaucoup de passagers sont des vacanciers allant vers les stations de la mer Noire ou en revenant ; environ un tiers des victimes meurent dans l’explosion même.
+categories: [accident]
+kind: event
+start: "1989-06-04"
+deaths:
+  best: 575
+  note:
+    en: Official toll of 575 dead, given by Wikipedia and RFE/RL, including more than 300 people who died of their injuries in hospital in the following days; 181 of the dead were children. Many victims were never found. Wikipedia also mentions an unofficial estimate of about 780 deaths, but without a source, so it is not used as a high figure.
+    fr: Bilan officiel de 575 morts, donné par Wikipédia et RFE/RL, dont plus de 300 morts de leurs blessures à l’hôpital dans les jours suivants ; 181 des victimes étaient des enfants. Beaucoup de victimes n’ont jamais été retrouvées. Wikipédia mentionne aussi une estimation officieuse d’environ 780 morts, mais sans source, si bien qu’elle n’est pas retenue comme borne haute.
+countries:
+  - { code: RU, deaths: 575 }
+sources:
+  - title: Ufa train disaster
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Ufa_train_disaster
+    accessed: "2026-10-22"
+  - title: Mass Death On Soviet Rails, 30 Years Later
+    publisher: Radio Free Europe/Radio Liberty
+    url: https://www.rferl.org/a/ufa-train-disaster/29972680.html
+    accessed: "2026-10-22"
+reviewed: false

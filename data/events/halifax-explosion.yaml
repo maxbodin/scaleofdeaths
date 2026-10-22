@@ -1,0 +1,30 @@
+id: halifax-explosion
+title:
+  en: Halifax Explosion
+  fr: Explosion d’Halifax
+description:
+  en: >-
+    On the morning of 6 December 1917 the French cargo ship Mont-Blanc, carrying almost 3,000 tonnes of explosives for the French war effort, collided with the Norwegian ship Imo in the harbour of Halifax, Nova Scotia, Canada. Mont-Blanc caught fire and exploded at 9:04, in the largest human-made explosion up to that time. The blast, a tsunami, fires and collapsing buildings destroyed the Richmond district of Halifax and damaged Dartmouth across the harbour; about 9,000 people were injured, many by flying glass.
+  fr: >-
+    Le matin du 6 décembre 1917, le cargo français Mont-Blanc, chargé de près de 3 000 tonnes d’explosifs destinés à l’effort de guerre français, entre en collision avec le navire norvégien Imo dans le port d’Halifax, en Nouvelle-Écosse (Canada). Le Mont-Blanc prend feu et explose à 9 h 04, la plus puissante explosion d’origine humaine jamais survenue jusque-là. Le souffle, un tsunami, les incendies et les effondrements rasent le quartier de Richmond et endommagent Dartmouth ; environ 9 000 personnes sont blessées, souvent par des éclats de verre.
+categories: [accident]
+kind: event
+start: "1917-12-06"
+deaths:
+  best: 1782
+  high: 2000
+  note:
+    en: Best is the 1,782 victims identified by the Halifax Explosion Remembrance Book of the Nova Scotia Archives, including people who died of their injuries in the following months. The exact toll is unknown; high is Britannica's figure of nearly 2,000 deaths.
+    fr: L’estimation centrale correspond aux 1 782 victimes identifiées par le Halifax Explosion Remembrance Book des archives de la Nouvelle-Écosse, y compris les blessés morts dans les mois suivants. Le bilan exact reste inconnu ; la borne haute correspond aux près de 2 000 morts indiqués par Britannica.
+countries:
+  - { code: CA, deaths: 1782 }
+sources:
+  - title: Halifax Explosion
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Halifax_Explosion
+    accessed: "2026-10-22"
+  - title: Halifax explosion
+    publisher: Encyclopaedia Britannica
+    url: https://www.britannica.com/event/Halifax-explosion
+    accessed: "2026-10-22"
+reviewed: false

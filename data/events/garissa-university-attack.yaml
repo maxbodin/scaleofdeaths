@@ -1,0 +1,32 @@
+id: garissa-university-attack
+title:
+  en: Garissa University College attack
+  fr: Attaque de l’université de Garissa
+description:
+  en: >-
+    Attack on Garissa University College in north-eastern Kenya on 2 April 2015 by gunmen of the Somali Islamist group al-Shabaab. Arriving before dawn, they killed the guards at the gate, took hundreds of students hostage in the dormitories, freed Muslims and killed students who identified as Christians. The siege ended the same day when Kenyan forces cornered the four attackers, who died when their suicide vests exploded. It was the deadliest attack in Kenya since the 1998 US embassy bombing in Nairobi.
+  fr: >-
+    Attaque de l’université de Garissa, dans le nord-est du Kenya, le 2 avril 2015 par des hommes armés du groupe islamiste somalien al-Chabab. Arrivés avant l’aube, ils tuent les gardes à l’entrée, prennent en otage des centaines d’étudiants dans les dortoirs, libèrent les musulmans et tuent ceux qui se déclarent chrétiens. Le siège prend fin le jour même lorsque les forces kényanes encerclent les quatre assaillants, tués par l’explosion de leurs ceintures d’explosifs. C’est l’attentat le plus meurtrier au Kenya depuis celui de 1998 contre l’ambassade américaine.
+categories: [genocide]
+kind: event
+start: "2015-04-02"
+deaths:
+  best: 148
+  low: 147
+  note:
+    en: >-
+      People killed by the attackers, 142 students, 3 soldiers and 3 police officers (Wikipedia). Low is the toll of at least 147 dead announced on the day of the attack (BBC News). The four attackers are not counted.
+    fr: >-
+      Personnes tuées par les assaillants, 142 étudiants, 3 soldats et 3 policiers (Wikipédia). Le bas est le bilan d’au moins 147 morts annoncé le jour de l’attaque (BBC News). Les quatre assaillants ne sont pas comptés.
+countries:
+  - { code: KE, deaths: 148 }
+sources:
+  - title: Garissa University College attack
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Garissa_University_College_attack
+    accessed: "2026-10-22"
+  - title: "Kenya attack: 147 dead in Garissa University assault"
+    publisher: BBC News
+    url: https://www.bbc.com/news/world-africa-32169080
+    accessed: "2026-10-22"
+reviewed: false

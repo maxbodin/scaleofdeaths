@@ -1,0 +1,49 @@
+id: chernobyl-disaster
+title:
+  en: Chernobyl disaster
+  fr: Catastrophe de Tchernobyl
+description:
+  en: >-
+    On 26 April 1986 reactor 4 of the Chernobyl Nuclear Power Plant, near Pripyat in the Ukrainian SSR of the Soviet Union, exploded during a safety test and released large amounts of radioactive material, measurable across the northern hemisphere. Two workers died in the explosion and 28 of the 134 workers who suffered acute radiation sickness died within three months. About 115,000 people were evacuated in 1986 and 220,000 more relocated later. Thousands of thyroid cancers followed among people exposed as children.
+  fr: >-
+    Le 26 avril 1986, le réacteur 4 de la centrale nucléaire de Tchernobyl, près de Pripiat, en RSS d’Ukraine (Union soviétique), explose lors d’un essai de sûreté et rejette d’énormes quantités de matières radioactives, mesurables dans tout l’hémisphère Nord. Deux employés meurent dans l’explosion et 28 des 134 travailleurs atteints du syndrome d’irradiation aiguë succombent dans les trois mois. Environ 115 000 personnes sont évacuées en 1986 et 220 000 autres relogées ensuite. Des milliers de cancers de la thyroïde frappent ensuite des personnes exposées dans l’enfance.
+categories: [accident]
+kind: event
+start: "1986-04-26"
+deaths:
+  best: 4000
+  low: 30
+  high: 60000
+  note:
+    en: Low is the 30 workers who died within weeks, 2 in the explosion and 28 from acute radiation sickness (UNSCEAR); by mid-2005 fewer than 50 deaths had been directly attributed to radiation (WHO). All higher figures are projections of eventual cancer deaths based on the linear no-threshold model, which is contested at low doses. Best is the Chernobyl Forum (WHO, IAEA and other UN agencies) estimate of up to 4,000 eventual deaths among the 600,000 most exposed people; a 2006 UN report added about 5,000 in other contaminated areas. IARC projects about 16,000 cancer deaths in Europe by 2065 and the Union of Concerned Scientists about 27,000 worldwide; high is the estimate of up to 60,000 when small doses around the world are included.
+    fr: La borne basse correspond aux 30 travailleurs morts en quelques semaines, 2 dans l’explosion et 28 du syndrome d’irradiation aiguë (UNSCEAR) ; mi-2005, moins de 50 décès avaient été directement attribués aux radiations (OMS). Tous les chiffres plus élevés sont des projections de décès par cancer fondées sur le modèle linéaire sans seuil, contesté pour les faibles doses. L’estimation centrale est celle du Forum Tchernobyl (OMS, AIEA et autres agences de l’ONU), soit jusqu’à 4 000 décès à terme parmi les 600 000 personnes les plus exposées ; un rapport onusien de 2006 y ajoute environ 5 000 décès dans les autres zones contaminées. Le CIRC prévoit environ 16 000 décès par cancer en Europe d’ici 2065 et l’Union of Concerned Scientists environ 27 000 dans le monde ; la borne haute correspond aux estimations allant jusqu’à 60 000 en incluant les faibles doses reçues dans le monde entier.
+countries:
+  - { code: UA }
+  - { code: BY }
+  - { code: RU }
+sources:
+  - title: Chernobyl disaster
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Chernobyl_disaster
+    accessed: "2026-10-22"
+  - title: Deaths due to the Chernobyl disaster
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Deaths_due_to_the_Chernobyl_disaster
+    accessed: "2026-10-22"
+  - title: "Chernobyl: the true scale of the accident"
+    publisher: World Health Organization
+    url: https://www.who.int/news/item/05-09-2005-chernobyl-the-true-scale-of-the-accident
+    accessed: "2026-10-22"
+  - title: Chernobyl accident
+    publisher: United Nations Scientific Committee on the Effects of Atomic Radiation (UNSCEAR)
+    url: https://www.unscear.org/unscear/en/areas-of-work/chernobyl.html
+    accessed: "2026-10-22"
+  - title: The Cancer Burden from Chernobyl in Europe
+    publisher: International Agency for Research on Cancer (IARC)
+    url: https://www.iarc.who.int/wp-content/uploads/2018/07/IARCBriefingChernobyl.pdf
+    accessed: "2026-10-22"
+  - title: How Many Cancers Did Chernobyl Really Cause? (Updated Version)
+    publisher: Union of Concerned Scientists
+    url: https://blog.ucs.org/lisbeth-gronlund/how-many-cancers-did-chernobyl-really-cause-updated/
+    accessed: "2026-10-22"
+reviewed: false

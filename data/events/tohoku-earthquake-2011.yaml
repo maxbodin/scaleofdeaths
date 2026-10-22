@@ -1,0 +1,37 @@
+id: tohoku-earthquake-2011
+title:
+  en: 2011 Tōhoku earthquake and tsunami
+  fr: Séisme et tsunami de 2011 au Tōhoku
+description:
+  en: >-
+    At 14:46 on 11 March 2011 a magnitude 9.0 to 9.1 megathrust earthquake, the most powerful ever recorded in Japan, struck off the Pacific coast of Tōhoku. It generated tsunami waves up to about 40 metres high that reached up to 10 km inland and destroyed entire coastal towns in Iwate, Miyagi and Fukushima; about 90% of the victims drowned and most were over 60. The tsunami also caused the Fukushima Daiichi nuclear disaster, which forced mass evacuations.
+  fr: >-
+    Le 11 mars 2011 à 14 h 46, un séisme de mégachevauchement de magnitude 9,0 à 9,1, le plus puissant jamais enregistré au Japon, s’est produit au large de la côte pacifique du Tōhoku. Il a provoqué un tsunami atteignant environ 40 mètres, qui a pénétré jusqu’à 10 km dans les terres et détruit des villes côtières entières dans les préfectures d’Iwate, de Miyagi et de Fukushima ; environ 90 % des victimes sont mortes noyées et la plupart avaient plus de 60 ans. Le tsunami a aussi provoqué la catastrophe nucléaire de Fukushima Daiichi, qui a entraîné des évacuations massives.
+categories: [natural-disaster]
+kind: event
+start: "2011-03-11"
+deaths:
+  best: 18423
+  high: 22000
+  note:
+    en: Best is the NOAA NCEI total, built on the National Police Agency count of 15,901 dead and 2,519 still missing (March 2026), plus one death each in California and Indonesia and one later death from radiation exposure at Fukushima Daiichi. The figure for Japan below counts confirmed dead only. Japan also recognises disaster-related deaths (from evacuation, life in shelters, interrupted medical care and some suicides), mostly in Fukushima Prefecture; including them, more than 22,000 lives were lost (high). The Fire and Disaster Management Agency, which counts differently, gave 19,759 deaths and 2,553 missing in 2022.
+    fr: L’estimation centrale est le total de la NCEI de la NOAA, fondé sur le décompte de l’Agence nationale de police (15 901 morts et 2 519 disparus en mars 2026), plus un mort en Californie, un en Indonésie et un décès ultérieur dû à l’exposition aux radiations à Fukushima Daiichi. Le chiffre du Japon ci-dessous ne compte que les morts confirmés. Le Japon reconnaît aussi des décès liés à la catastrophe (évacuation, vie dans les abris, soins interrompus, quelques suicides), surtout dans la préfecture de Fukushima ; en les incluant, plus de 22 000 vies ont été perdues (haut de la fourchette). L’Agence de gestion des incendies et des catastrophes, qui compte autrement, donnait 19 759 morts et 2 553 disparus en 2022.
+countries:
+  - { code: JP, deaths: 15901 }
+  - { code: US, deaths: 1 }
+  - { code: ID, deaths: 1 }
+related: [fukushima-nuclear-disaster]
+sources:
+  - title: 2011 Tōhoku earthquake and tsunami
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2011_T%C5%8Dhoku_earthquake_and_tsunami
+    accessed: "2026-10-22"
+  - title: "Global Historical Tsunami Database: Honshu Island, event 5413"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events/5413
+    accessed: "2026-10-22"
+  - title: '"Passing down memories and lessons" to protect lives in the next disaster: Challenges at the 15th anniversary of the Great East Japan Earthquake'
+    publisher: Japan Science and Technology Agency (Science Japan)
+    url: https://sj.jst.go.jp/stories/2026/s0507-01p.html
+    accessed: "2026-10-22"
+reviewed: false

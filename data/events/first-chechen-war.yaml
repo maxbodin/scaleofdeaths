@@ -1,0 +1,47 @@
+id: first-chechen-war
+title:
+  en: First Chechen War
+  fr: Première guerre de Tchétchénie
+description:
+  en: >-
+    War between the Russian Federation and the separatist Chechen Republic of Ichkeria, which had declared independence in 1991. Russian forces entered Chechnya in December 1994 and besieged Grozny, which was largely destroyed by bombing and shelling; fighting then spread to towns and villages across the republic. After heavy losses and the recapture of Grozny by Chechen fighters in August 1996, the Khasavyurt Accord ended the war and left Chechnya de facto independent.
+  fr: >-
+    Guerre entre la Fédération de Russie et la république tchétchène d’Itchkérie, séparatiste, qui avait proclamé son indépendance en 1991. Les forces russes entrent en Tchétchénie en décembre 1994 et assiègent Grozny, en grande partie détruite par les bombardements ; les combats s’étendent ensuite aux villes et villages de la république. Après de lourdes pertes et la reprise de Grozny par les combattants tchétchènes en août 1996, l’accord de Khassaviourt met fin à la guerre et laisse la Tchétchénie indépendante de fait.
+categories: [war]
+kind: event
+start: "1994-12-11"
+end: "1996-08-31"
+deaths:
+  best: 46500
+  low: 40000
+  high: 100000
+  note:
+    en: >-
+      Military and civilian deaths, mostly Chechen civilians. Best is the estimate of Chechnya specialist John B. Dunlop (Hoover Institution, 2002) of about 7,500 Russian military and police, 4,000 Chechen fighters and 35,000 civilians. Low is the estimate of about 40,000 military and civilian deaths reported by PBS. Human Rights Watch (1997) reported at least 50,000 civilians killed, and Al Jazeera (2005) noted that many estimates put civilian deaths at about 80,000. High is the 80,000 to 100,000 deaths asserted by Russian security official Alexander Lebed, and the figure of about 100,000 given by the Chechen authorities (Wikipedia).
+    fr: >-
+      Morts militaires et civiles, surtout des civils tchétchènes. L’estimation centrale est celle du spécialiste de la Tchétchénie John B. Dunlop (Hoover Institution, 2002) : environ 7 500 militaires et policiers russes, 4 000 combattants tchétchènes et 35 000 civils. Le bas correspond aux quelque 40 000 morts militaires et civiles indiquées par PBS. Human Rights Watch (1997) faisait état d’au moins 50 000 civils tués, et Al Jazeera (2005) relevait que de nombreuses estimations évaluent les morts civiles à environ 80 000. Le haut correspond aux 80 000 à 100 000 morts avancées par le responsable russe de la sécurité Alexandre Lebed et aux quelque 100 000 morts annoncées par les autorités tchétchènes (Wikipédia).
+countries:
+  - { code: RU, deaths: 46500 }
+related: [second-chechen-war]
+sources:
+  - title: First Chechen War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/First_Chechen_War
+    accessed: "2026-10-22"
+  - title: The Forgotten War
+    publisher: Hoover Institution
+    url: https://www.hoover.org/research/forgotten-war
+    accessed: "2026-10-22"
+  - title: "Russia / Chechnya: Background"
+    publisher: Human Rights Watch
+    url: https://www.hrw.org/reports/1997/russia2/Russia-01.htm
+    accessed: "2026-10-22"
+  - title: "Explore Chechnya's Turbulent Past: 1994-1996, War with Russia I"
+    publisher: PBS (Wide Angle)
+    url: https://www.pbs.org/wnet/wideangle/uncategorized/explore-chechnyas-turbulent-past-1994-1996-war-with-russia-i/3319/
+    accessed: "2026-10-22"
+  - title: "Official: Chechen wars killed 300,000"
+    publisher: Al Jazeera
+    url: https://www.aljazeera.com/news/2005/6/26/official-chechen-wars-killed-300000
+    accessed: "2026-10-22"
+reviewed: false

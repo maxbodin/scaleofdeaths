@@ -1,0 +1,49 @@
+id: viral-hepatitis-deaths
+title:
+  en: Deaths from viral hepatitis per year
+  fr: Décès dus aux hépatites virales par an
+description:
+  en: >-
+    People who died from chronic hepatitis B and C worldwide in one year, as estimated by the World Health Organization in its 2026 Global hepatitis report. These two viruses cause 95% of hepatitis-related deaths, mainly through liver cirrhosis and liver cancer. Hepatitis B spreads mainly from mother to child at birth and through blood and body fluids; hepatitis C mainly through unsafe injections and shared needles. A vaccine prevents hepatitis B and short treatments cure hepatitis C, but fewer than 5% of people with chronic hepatitis B were being treated.
+  fr: >-
+    Personnes mortes d’hépatite B ou C chronique dans le monde en un an, selon l’estimation de l’Organisation mondiale de la santé dans son rapport mondial sur les hépatites 2026. Ces deux virus causent 95 % des décès liés aux hépatites, surtout par cirrhose et cancer du foie. L’hépatite B se transmet surtout de la mère à l’enfant à la naissance et par le sang et les fluides corporels, l’hépatite C surtout par les injections à risque. Un vaccin protège de l’hépatite B et des traitements courts guérissent l’hépatite C, mais moins de 5 % des porteurs chroniques du B étaient traités.
+categories: [annual, epidemic]
+kind: endemic-total
+start: "2024"
+end: "2024"
+deaths:
+  best: 1340000
+  note:
+    en: >-
+      WHO, 2026 Global hepatitis report (28 April 2026): hepatitis B and C claimed 1.34 million lives in 2024, about 1.1 million from hepatitis B and 240,000 from hepatitis C (the hepatitis C fact sheet gives 239,000). Hepatitis A and E, which cause the remaining 5% of hepatitis deaths, are not included. No range is given in the release. The countries listed are the ten that WHO says accounted for nearly 70% of hepatitis B deaths in 2024; no per-country figures for 2024 were found.
+    fr: >-
+      OMS, rapport mondial sur les hépatites 2026 (28 avril 2026) : les hépatites B et C ont coûté la vie à 1,34 million de personnes en 2024, environ 1,1 million pour l’hépatite B et 240 000 pour l’hépatite C (la fiche sur l’hépatite C donne 239 000). Les hépatites A et E, responsables des 5 % restants des décès, ne sont pas comptées. Aucune fourchette n’est donnée. Les pays listés sont les dix qui, selon l’OMS, ont concentré près de 70 % des décès dus à l’hépatite B en 2024 ; aucun chiffre par pays pour 2024 n’a été trouvé.
+countries:
+  - { code: BD }
+  - { code: CN }
+  - { code: ET }
+  - { code: GH }
+  - { code: IN }
+  - { code: ID }
+  - { code: NG }
+  - { code: PH }
+  - { code: ZA }
+  - { code: VN }
+sources:
+  - title: Efforts to eliminate hepatitis deliver gains but more action needed to meet 2030 targets
+    publisher: World Health Organization
+    url: https://www.who.int/news/item/28-04-2026-efforts-to-eliminate-hepatitis-delivers-gains-but-more-action-needed-to-meet-2030-targets
+    accessed: "2026-10-22"
+  - title: WHO calls for stepped up action to eliminate viral hepatitis
+    publisher: UN News
+    url: https://news.un.org/en/story/2026/04/1167395
+    accessed: "2026-10-22"
+  - title: Hepatitis B fact sheet
+    publisher: World Health Organization
+    url: https://www.who.int/news-room/fact-sheets/detail/hepatitis-b
+    accessed: "2026-10-22"
+  - title: Hepatitis C fact sheet
+    publisher: World Health Organization
+    url: https://www.who.int/news-room/fact-sheets/detail/hepatitis-c
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,31 @@
+id: bosnian-war
+title:
+  en: Bosnian War
+  fr: Guerre de Bosnie-Herzégovine
+description:
+  en: >-
+    Armed conflict in Bosnia and Herzegovina after its declaration of independence from Yugoslavia, fought between the forces of the Bosnian government, Bosnian Serb forces supported by Serbia, and Bosnian Croat forces supported by Croatia. It was marked by ethnic cleansing, mass rape, the siege of Sarajevo and the Srebrenica genocide, and displaced more than 2 million people before the Dayton Agreement ended it in 1995.
+  fr: >-
+    Conflit armé en Bosnie-Herzégovine après sa déclaration d’indépendance de la Yougoslavie, opposant les forces du gouvernement bosnien, les forces serbes de Bosnie soutenues par la Serbie et les forces croates de Bosnie soutenues par la Croatie. Marqué par le nettoyage ethnique, les viols de masse, le siège de Sarajevo et le génocide de Srebrenica, il déplace plus de 2 millions de personnes avant que l’accord de Dayton n’y mette fin en 1995.
+categories: [war]
+kind: event
+start: "1992-04-06"
+end: "1995-11-21"
+deaths:
+  best: 104732
+  low: 89186
+  note:
+    en: Military and civilian deaths. Best is the final estimate of the demographic unit of the International Criminal Tribunal for the former Yugoslavia (ICTY, 2010), of 104,732 people killed, including about 68,100 Bosniaks, 22,800 Serbs and 8,900 Croats, of whom about 36,700 were civilians (Wikipedia). Low is the minimum number of victims established in the same research (89,186); the Research and Documentation Center in Sarajevo listed 101,040 dead or missing people by name in 2012. Early figures of 200,000 or more are now considered overestimates.
+    fr: Morts militaires et civiles. L’estimation centrale est l’estimation finale de l’unité démographique du Tribunal pénal international pour l’ex-Yougoslavie (TPIY, 2010), soit 104 732 personnes tuées, dont environ 68 100 Bosniaques, 22 800 Serbes et 8 900 Croates, et environ 36 700 civils (Wikipédia). Le bas est le nombre minimal de victimes établi par la même recherche (89 186) ; le Centre de recherche et de documentation de Sarajevo a recensé nominativement 101 040 morts ou disparus en 2012. Les premiers chiffres de 200 000 morts ou plus sont aujourd’hui considérés comme surestimés.
+countries:
+  - { code: BA, deaths: 104732 }
+sources:
+  - title: Bosnian War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Bosnian_War
+    accessed: "2026-10-22"
+  - title: New War Demographics Feature on the ICTY website
+    publisher: International Criminal Tribunal for the former Yugoslavia
+    url: https://www.icty.org/en/press/new-war-demographics-feature-icty-website
+    accessed: "2026-10-22"
+reviewed: false

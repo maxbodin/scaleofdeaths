@@ -1,0 +1,39 @@
+id: boko-haram-insurgency
+title:
+  en: Boko Haram insurgency
+  fr: Insurrection de Boko Haram
+description:
+  en: >-
+    Armed insurgency by the jihadist group Boko Haram, which launched an uprising in north-eastern Nigeria in July 2009 and later fought for control of territory in Borno, Yobe and Adamawa states. Attacks on villages, markets, mosques, churches and schools, suicide bombings and mass kidnappings, such as that of the Chibok schoolgirls in 2014, spread to neighbouring Cameroon, Chad and Niger. In 2016 the group split, its faction allied with the Islamic State (ISWAP) becoming the main threat. Military operations continue and millions of people have been displaced.
+  fr: >-
+    Insurrection armée du groupe djihadiste Boko Haram, qui se soulève dans le nord-est du Nigeria en juillet 2009 puis dispute le contrôle de territoires dans les États de Borno, Yobe et Adamawa. Attaques de villages, de marchés, de mosquées, d’églises et d’écoles, attentats-suicides et enlèvements de masse, comme celui des lycéennes de Chibok en 2014, gagnent le Cameroun, le Tchad et le Niger voisins. En 2016, le groupe se scinde et sa faction alliée à l’État islamique (ISWAP) devient la principale menace. Les opérations militaires se poursuivent et des millions de personnes ont été déplacées.
+categories: [war]
+kind: event
+start: "2009-07-26"
+ongoing: true
+asOf: "2020-12-31"
+deaths:
+  best: 350000
+  low: 35000
+  note:
+    en: Deaths in north-eastern Nigeria only, direct and indirect, as of late 2020. Best is the estimate of a United Nations Development Programme study published in June 2021 of nearly 350,000 deaths, of which about 314,000 from indirect causes such as hunger and disease and more than 90% among children under five. Low is the earlier estimate of about 35,000 deaths in fighting, which the same study gives as direct deaths. Deaths in Cameroon, Chad and Niger and those after 2020 are not included.
+    fr: Morts dans le nord-est du Nigeria uniquement, directes et indirectes, à la fin de 2020. L’estimation centrale est celle d’une étude du Programme des Nations unies pour le développement publiée en juin 2021, près de 350 000 morts, dont environ 314 000 de causes indirectes comme la faim et les maladies et plus de 90 % parmi les enfants de moins de cinq ans. Le bas correspond à l’estimation antérieure d’environ 35 000 morts dans les combats, que la même étude retient comme morts directes. Les morts au Cameroun, au Tchad et au Niger et celles postérieures à 2020 ne sont pas comptées.
+countries:
+  - { code: NG, deaths: 350000 }
+  - { code: CM }
+  - { code: TD }
+  - { code: NE }
+sources:
+  - title: Boko Haram insurgency
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Boko_Haram_insurgency
+    accessed: "2026-10-22"
+  - title: "Northeast Nigeria conflict killed more than 300,000 children: UN"
+    publisher: Al Jazeera
+    url: https://www.aljazeera.com/news/2021/6/24/northeast-nigeria-conflict-killed-more-than-300000-children-un
+    accessed: "2026-10-22"
+  - title: Assessing the Impact of Conflict on Development in North-East Nigeria
+    publisher: Africa Center for Strategic Studies (UNDP study summary)
+    url: https://africacenter.org/security-article/assessing-the-impact-of-conflict-on-development-in-north-east-nigeria/
+    accessed: "2026-10-22"
+reviewed: false

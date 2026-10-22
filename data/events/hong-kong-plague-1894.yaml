@@ -1,0 +1,35 @@
+id: hong-kong-plague-1894
+title:
+  en: 1894 Hong Kong plague
+  fr: Peste de 1894 à Hong Kong
+description:
+  en: >-
+    Bubonic plague epidemic in the British colony of Hong Kong, part of the third plague pandemic. After killing some 80,000 people in neighbouring Guangzhou, the disease was recorded in Hong Kong in May 1894, starting in the crowded Chinese district of Tai Ping Shan, which was later demolished. Some 80,000 to 90,000 Chinese residents fled Hong Kong Island. Alexandre Yersin identified the plague bacterium there in 1894. After a lull in 1895, the plague returned almost every year until 1929.
+  fr: >-
+    Épidémie de peste bubonique dans la colonie britannique de Hong Kong, dans le cadre de la troisième pandémie de peste. Après avoir tué quelque 80 000 personnes dans la ville voisine de Canton, la maladie apparut à Hong Kong en mai 1894, d’abord dans le quartier chinois surpeuplé de Tai Ping Shan, rasé par la suite. Quelque 80 000 à 90 000 habitants chinois quittèrent l’île de Hong Kong. Alexandre Yersin y identifia le bacille de la peste en 1894. Après une accalmie en 1895, la peste revint presque chaque année jusqu’en 1929.
+categories: [epidemic]
+kind: event
+start: "1894-05"
+end: "1929"
+deaths:
+  best: 20489
+  note:
+    en: Recorded deaths in Hong Kong from 1894 to 1923, 20,489 out of 21,867 cases (Wikipedia); cases continued until 1929 and Wikipedia puts the total at over 20,000. The 1894 outbreak itself caused 2,317 recorded deaths (Wikipedia, from Public Health Reports, 1906), at a time when deaths did not have to be reported; the Hong Kong Museum of History says that more than 2,500 people died in Tai Ping Shan. No non-Wikipedia source for the multi-year total was found. Deaths in Guangzhou are not included.
+    fr: Morts enregistrés à Hong Kong de 1894 à 1923, soit 20 489 pour 21 867 cas (Wikipédia) ; des cas furent encore signalés jusqu’en 1929 et Wikipédia évalue le total à plus de 20 000. La vague de 1894 elle-même fit 2 317 morts enregistrés (Wikipédia, d’après les Public Health Reports de 1906), alors que les décès n’étaient pas soumis à déclaration ; le Hong Kong Museum of History indique que plus de 2 500 personnes moururent à Tai Ping Shan. Aucune source hors Wikipédia n’a été trouvée pour le total pluriannuel. Les morts de Canton ne sont pas inclus.
+countries:
+  - { code: HK, deaths: 20489 }
+partOf: third-plague-pandemic
+sources:
+  - title: 1894 Hong Kong plague
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1894_Hong_Kong_plague
+    accessed: "2026-10-22"
+  - title: Selfless Dedication in the Time of Plague (newsletter, PDF)
+    publisher: Hong Kong Museum of History
+    url: https://hk.history.museum/documents/Exhibitions/Exhibition-Updates/newsletter_Plague_EN.pdf
+    accessed: "2026-10-22"
+  - title: "Towards a Comprehensive Definition of Pandemics and Strategies for Prevention: A Historical Review and Future Perspectives (Microorganisms, 2024)"
+    publisher: PubMed Central
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11433773/
+    accessed: "2026-10-22"
+reviewed: false

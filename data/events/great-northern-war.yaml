@@ -1,0 +1,47 @@
+id: great-northern-war
+title:
+  en: Great Northern War
+  fr: Grande Guerre du Nord
+description:
+  en: >-
+    War in which a coalition led by Russia, with Denmark-Norway and Saxony-Poland, challenged the Swedish Empire's supremacy in the Baltic. After early victories, including Narva in 1700, Charles XII of Sweden invaded Russia but was decisively defeated at Poltava in 1709. Fighting and occupation ravaged the Baltic provinces, Finland, Poland-Lithuania and northern Germany. The Treaty of Nystad in 1721 transferred Sweden's Baltic provinces to Russia, which emerged as a great power.
+  fr: >-
+    Guerre au cours de laquelle une coalition menée par la Russie, avec le Danemark-Norvège et la Saxe-Pologne, conteste la suprématie de l’Empire suédois sur la Baltique. Après des victoires initiales, dont Narva en 1700, Charles XII de Suède envahit la Russie mais est battu de façon décisive à Poltava en 1709. Les combats et les occupations ravagent les provinces baltes, la Finlande, la Pologne-Lituanie et le nord de l’Allemagne. Le traité de Nystad, en 1721, cède les provinces baltes suédoises à la Russie, qui s’affirme comme grande puissance.
+categories: [war]
+kind: event
+start: "1700-02-22"
+end: "1721-09-10"
+deaths:
+  best: 400000
+  high: 1000000
+  note:
+    en: "Best: 400,000 soldiers and civilians killed by direct war-related violence (Mackenbach, 2020, cited by Wikipedia), a figure that leaves out disease so as not to double count the plague epidemic that spread around the Baltic during the war, which is a separate event. Because it also leaves out soldiers who died of disease, it is probably too low: military deaths exceeded 200,000 for Sweden and about 300,000 for the Russian army (Wikipedia), and Clodfelter puts Sweden's total losses, including Finland and the Baltic provinces, at 350,000 (via Necrometrics). High: over 1 million deaths in total (Gasper, 2012, via Wikipedia), which may include plague victims."
+    fr: "Estimation centrale : 400 000 soldats et civils tués par des violences directement liées à la guerre (Mackenbach, 2020, cité par Wikipédia), chiffre qui exclut les maladies afin de ne pas compter deux fois l’épidémie de peste qui s’est répandue autour de la Baltique pendant la guerre, traitée comme un événement distinct. Comme il exclut aussi les soldats morts de maladie, il est probablement trop bas : les morts militaires dépassent 200 000 pour la Suède et environ 300 000 pour l’armée russe (Wikipédia), et Clodfelter évalue les pertes totales de la Suède, Finlande et provinces baltes comprises, à 350 000 (via Necrometrics). Haut : plus de 1 million de morts au total (Gasper, 2012, via Wikipédia), chiffre qui peut inclure des victimes de la peste."
+countries:
+  - { code: SE }
+  - { code: FI }
+  - { code: EE }
+  - { code: LV }
+  - { code: LT }
+  - { code: PL }
+  - { code: BY }
+  - { code: UA }
+  - { code: RU }
+  - { code: DE }
+  - { code: DK }
+  - { code: NO }
+related: [war-of-the-spanish-succession]
+sources:
+  - title: Great Northern War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Great_Northern_War
+    accessed: "2026-10-22"
+  - title: List of wars by death toll
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_wars_by_death_toll
+    accessed: "2026-10-22"
+  - title: Statistics of Wars, Oppressions and Atrocities of the Eighteenth Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/wars18c.htm
+    accessed: "2026-10-22"
+reviewed: false

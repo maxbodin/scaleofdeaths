@@ -1,0 +1,37 @@
+id: greco-turkish-war-1919
+title:
+  en: Greco-Turkish War (1919-1922)
+  fr: Guerre gréco-turque (1919-1922)
+description:
+  en: >-
+    War between Greece and the Turkish national movement led by Mustafa Kemal, after Greek troops landed at Smyrna (İzmir) in May 1919 under the post-war settlement of the Ottoman Empire. The Greek army advanced deep into Anatolia but was stopped at the Sakarya River in 1921 and routed in August 1922; Turkish forces then took Smyrna, where a great fire destroyed the Greek and Armenian quarters. Both sides committed atrocities against civilians. The war was followed by the Treaty of Lausanne and a population exchange between Greece and Turkey.
+  fr: >-
+    Guerre entre la Grèce et le mouvement national turc de Mustafa Kemal, après le débarquement des troupes grecques à Smyrne (İzmir) en mai 1919 dans le cadre du partage de l’Empire ottoman. L’armée grecque s’enfonce en Anatolie mais est arrêtée sur la Sakarya en 1921 et mise en déroute en août 1922 ; les forces turques prennent alors Smyrne, où un grand incendie détruit les quartiers grec et arménien. Les deux camps commettent des atrocités contre les civils. La guerre est suivie du traité de Lausanne et d’un échange de populations entre la Grèce et la Turquie.
+categories: [war]
+kind: event
+start: "1919-05-15"
+end: "1922-10-14"
+deaths:
+  best: 52000
+  high: 70000
+  note:
+    en: "Military deaths, to avoid double counting: Greek civilian deaths in this period (264,000 according to R. J. Rummel) are part of the separate Greek genocide event. Best: 52,000 battle deaths, Boris Urlanis's estimate of 26,000 Greek dead and about as many Turks. High: 70,000, William Eckhardt's 50,000 military and 20,000 civilian deaths (both via Necrometrics). Per-country figures are the Correlates of War project's battle deaths: 30,000 for Greece and 20,000 for Turkey. Turkish civilians killed by Greek forces (15,000 according to Rummel) are not in best. With all civilians, Matthew White's total reaches 400,000."
+    fr: "Morts militaires, pour éviter un double compte : les morts civiles grecques de cette période (264 000 selon R. J. Rummel) font partie de l’événement distinct du génocide grec. Estimation centrale : 52 000 morts au combat, estimation de Boris Urlanis de 26 000 morts grecs et à peu près autant de Turcs. Haut : 70 000, soit 50 000 morts militaires et 20 000 civiles selon William Eckhardt (tous deux via Necrometrics). Les chiffres par pays sont les morts au combat du projet Correlates of War : 30 000 pour la Grèce et 20 000 pour la Turquie. Les civils turcs tués par les forces grecques (15 000 selon Rummel) ne sont pas dans l’estimation centrale. Avec tous les civils, le total de Matthew White atteint 400 000."
+countries:
+  - { code: GR, deaths: 30000 }
+  - { code: TR, deaths: 20000 }
+related: [greek-genocide]
+sources:
+  - title: Greco-Turkish War (1919-1922)
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Greco-Turkish_War_(1919%E2%80%931922)
+    accessed: "2026-10-22"
+  - title: Inter-State War Data, v4.0 (war 115, Second Greco-Turkish)
+    publisher: Correlates of War Project
+    url: https://correlatesofwar.org/wp-content/uploads/Inter-StateWarData_v4.0.csv
+    accessed: "2026-10-22"
+  - title: Twentieth Century Atlas - Death Tolls and Casualty Statistics for Wars, Dictatorships and Genocides
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c300k.htm
+    accessed: "2026-10-22"
+reviewed: false

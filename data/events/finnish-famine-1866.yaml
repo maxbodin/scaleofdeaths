@@ -1,0 +1,31 @@
+id: finnish-famine-1866
+title:
+  en: Finnish famine of 1866-1868
+  fr: Famine finlandaise de 1866-1868
+description:
+  en: >-
+    The last famine in Finland, then a grand duchy of the Russian Empire, and one of the last major famines in Northern Europe, remembered as the great hunger years. After poor harvests, an extremely rainy summer in 1866 ruined crops, the spring of 1867 was exceptionally cold and late, and early frosts that September halved the harvest. Thousands took to the roads to beg, people ate bark bread, and typhus and other contagious diseases spread. Government aid came late.
+  fr: >-
+    Dernière famine de Finlande, alors grand-duché de l’Empire russe, et l’une des dernières grandes famines d’Europe du Nord, restée dans les mémoires comme « les grandes années de faim ». Après de mauvaises récoltes, un été 1866 très pluvieux a ruiné les cultures, le printemps 1867 a été exceptionnellement froid et tardif, et des gelées précoces en septembre ont réduit la récolte de moitié. Des milliers de personnes ont pris la route pour mendier, on a mangé du pain d’écorce, et le typhus et d’autres maladies contagieuses se sont répandus. L’aide publique est arrivée tard.
+categories: [famine]
+kind: event
+start: "1866"
+end: "1868"
+deaths:
+  best: 150000
+  low: 100000
+  note:
+    en: "Excess deaths above normal mortality, from hunger and disease. Best: about 150,000 (Wikipedia), out of some 270,000 deaths in total over the three years. Low: 100,000, Ó Gráda's estimate of excess mortality in 1868."
+    fr: "Surmortalité par rapport à la mortalité normale, due à la faim et aux maladies. Valeur centrale : environ 150 000 (Wikipédia), sur quelque 270 000 décès au total en trois ans. Bas : 100 000, estimation par Ó Gráda de la surmortalité de 1868."
+countries:
+  - { code: FI, deaths: 150000 }
+sources:
+  - title: Finnish famine of 1866-1868
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Finnish_famine_of_1866%E2%80%931868
+    accessed: "2026-10-22"
+  - title: Making Famine History (Cormac Ó Gráda)
+    publisher: Journal of Economic Literature (UCD Research Repository)
+    url: https://researchrepository.ucd.ie/server/api/core/bitstreams/f57a2154-08a1-44a8-b865-75d1d51a4fcb/content
+    accessed: "2026-10-22"
+reviewed: false

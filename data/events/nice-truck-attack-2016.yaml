@@ -1,0 +1,31 @@
+id: nice-truck-attack-2016
+title:
+  en: 2016 Nice truck attack
+  fr: Attentat du 14 juillet 2016 à Nice
+description:
+  en: >-
+    On the evening of 14 July 2016, a 19-tonne cargo truck was deliberately driven into crowds celebrating Bastille Day on the Promenade des Anglais in Nice, France, during a rampage of several minutes. The driver, Mohamed Lahouaiej-Bouhlel, a Tunisian living in Nice, was shot dead by police. The Islamic State group claimed him as one of its followers, but investigators found no concrete link with it. In 2022 a French court convicted eight people, two of them for helping him prepare the attack.
+  fr: >-
+    Le soir du 14 juillet 2016, un camion de 19 tonnes est lancé délibérément sur la foule venue assister aux festivités de la fête nationale sur la promenade des Anglais, à Nice, pendant plusieurs minutes. Le conducteur, Mohamed Lahouaiej-Bouhlel, un Tunisien résidant à Nice, est abattu par la police. L’organisation État islamique le revendique comme l’un de ses partisans, mais les enquêteurs n’ont trouvé aucun lien concret avec elle. En 2022, la justice française condamne huit personnes, dont deux pour l’avoir aidé à préparer l’attentat.
+categories: [genocide]
+kind: event
+start: "2016-07-14"
+deaths:
+  best: 86
+  note:
+    en: >-
+      People killed by the truck (Wikipedia, Al Jazeera). The attacker, shot dead by police, is not counted. More than 450 people were injured.
+    fr: >-
+      Personnes tuées par le camion (Wikipédia, Al Jazeera). L’assaillant, abattu par la police, n’est pas compté. Plus de 450 personnes ont été blessées.
+countries:
+  - { code: FR, deaths: 86 }
+sources:
+  - title: 2016 Nice truck attack
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2016_Nice_truck_attack
+    accessed: "2026-10-22"
+  - title: French court sentences eight for 2016 truck attack in Nice
+    publisher: Al Jazeera
+    url: https://www.aljazeera.com/news/2022/12/13/french-court-convicts-eight-suspects-in-2016-nice-truck-attack
+    accessed: "2026-10-22"
+reviewed: false

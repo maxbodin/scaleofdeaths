@@ -1,0 +1,36 @@
+id: spain-yellow-fever-epidemic-1800
+title:
+  en: 1800 Spain yellow fever epidemic
+  fr: Épidémie de fièvre jaune de 1800 en Espagne
+description:
+  en: >-
+    Yellow fever epidemic in Andalusia, the deadliest of the yellow fever outbreaks that struck southern Spain in the 19th century. It broke out in early August 1800 in the Santa María quarter of Cádiz, a busy Atlantic port with close trade links to the Americas, and spread to the rest of lower Andalusia, including Isla de León, Puerto Real, El Puerto de Santa María, Jerez and Seville. In Cádiz about 50,000 people fell ill; many wealthy families fled, theatres closed and the dead were buried at night in lime-filled pits. New outbreaks followed in 1801, 1803 and 1804.
+  fr: >-
+    Épidémie de fièvre jaune en Andalousie, la plus meurtrière de celles qui ont frappé le sud de l’Espagne au XIXe siècle. Elle a éclaté début août 1800 dans le quartier de Santa María à Cadix, grand port atlantique tourné vers l’Amérique, puis s’est étendue à la basse Andalousie, dont l’île de León, Puerto Real, El Puerto de Santa María, Jerez et Séville. À Cadix, environ 50 000 personnes sont tombées malades ; les familles aisées ont fui, les théâtres ont fermé et les morts étaient enterrés la nuit dans des fosses de chaux vive. D’autres flambées ont suivi en 1801, 1803 et 1804.
+categories: [epidemic]
+kind: event
+start: "1800-08"
+end: "1800-12"
+deaths:
+  best: 60000
+  note:
+    en: >-
+      Best is the more than 60,000 deaths in the cities of Seville and Cádiz in 1800 given by the magazine Andalucía en la Historia (Centro de Estudios Andaluces, 2021), also used by Wikipedia's list of epidemics (60,000+, for 1800-1803). Cádiz alone counted more than 10,000 deaths among some 50,000 sick (Diario de Cádiz). The later outbreaks are not included: about 27,000 deaths in 1804.
+    fr: >-
+      L’estimation retenue est celle de plus de 60 000 morts dans les villes de Séville et Cadix en 1800, donnée par la revue Andalucía en la Historia (Centro de Estudios Andaluces, 2021) et reprise par la liste des épidémies de Wikipédia (plus de 60 000, pour 1800-1803). Cadix seule a compté plus de 10 000 morts sur quelque 50 000 malades (Diario de Cádiz). Les flambées suivantes ne sont pas incluses : environ 27 000 morts en 1804.
+countries:
+  - { code: ES, deaths: 60000 }
+sources:
+  - title: List of epidemics and pandemics
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_epidemics_and_pandemics
+    accessed: "2026-10-22"
+  - title: "Epidemias (Andalucía en la Historia, no. 71, April 2021)"
+    publisher: Centro de Estudios Andaluces
+    url: https://www.centrodeestudiosandaluces.es/contenido/datos/publicaciones/documentos/AH_71.pdf
+    accessed: "2026-10-22"
+  - title: "La fiebre que asoló Cádiz: los estragos de la epidemia de 1800"
+    publisher: Diario de Cádiz
+    url: https://www.diariodecadiz.es/cadiz/fiebre-asolo-Cadiz-estragos-epidemia_0_1629138022.html
+    accessed: "2026-10-22"
+reviewed: false

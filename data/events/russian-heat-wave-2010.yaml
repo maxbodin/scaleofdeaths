@@ -1,0 +1,41 @@
+id: russian-heat-wave-2010
+title:
+  en: 2010 Russian heat wave
+  fr: Canicule de 2010 en Russie
+description:
+  en: >-
+    In the summer of 2010 an exceptional heat wave and the worst drought in just over a century hit European Russia, and Moscow had its hottest July on record. Hundreds of forest and peat fires broke out, and their smoke covered Moscow and other cities in heavy smog, with pollution in the capital several times above normal levels. At the peak, about 700 people died each day in Moscow, roughly twice the usual number, from the combined effects of heat and air pollution.
+  fr: >-
+    À l’été 2010, une canicule exceptionnelle et la pire sécheresse depuis plus d’un siècle ont frappé la Russie d’Europe, et Moscou a connu le mois de juillet le plus chaud de son histoire. Des centaines d’incendies de forêts et de tourbières ont éclaté et leur fumée a plongé Moscou et d’autres villes dans un épais smog, avec une pollution plusieurs fois supérieure à la normale dans la capitale. Au plus fort de la crise, environ 700 personnes mouraient chaque jour à Moscou, à peu près le double de la normale, sous l’effet conjugué de la chaleur et de la pollution.
+categories: [natural-disaster]
+kind: event
+start: "2010-06"
+end: "2010-08"
+deaths:
+  best: 55736
+  high: 56000
+  note:
+    en: >-
+      Deaths attributed to the heat wave, which ran from June to August 2010, by the Centre for Research on the Epidemiology of Disasters (CRED) in its EM-DAT disaster database; CRED's annual review says the heat wave killed nearly 56,000 people through heat and increased air pollution from the fires. High is the similar estimate of 56,000 deaths from the smog and the heat made by the reinsurer Munich Re (Wikipedia).
+    fr: >-
+      Morts attribuées à la canicule, de juin à août 2010, par le Centre de recherche sur l’épidémiologie des désastres (CRED) dans sa base de données EM-DAT ; selon la revue annuelle du CRED, la canicule a tué près de 56 000 personnes par la chaleur et la pollution de l’air due aux incendies. L’estimation haute est l’estimation proche du réassureur Munich Re, 56 000 morts dues au smog et à la chaleur (Wikipédia).
+countries:
+  - { code: RU, deaths: 55736 }
+sources:
+  - title: 2010 Russian wildfires
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2010_Russian_wildfires
+    accessed: "2026-10-22"
+  - title: 2010 Northern Hemisphere heat waves
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2010_Northern_Hemisphere_heat_waves
+    accessed: "2026-10-22"
+  - title: Disasters in Numbers 2010
+    publisher: Centre for Research on the Epidemiology of Disasters (CRED)
+    url: https://www.cred.be/sites/default/files/Disaster_numbers_presentation_2010.pdf
+    accessed: "2026-10-22"
+  - title: "Annual Disaster Statistical Review 2010: The Numbers and Trends"
+    publisher: Centre for Research on the Epidemiology of Disasters (CRED)
+    url: https://www.cred.be/sites/default/files/ADSR_2010.pdf
+    accessed: "2026-10-22"
+reviewed: false

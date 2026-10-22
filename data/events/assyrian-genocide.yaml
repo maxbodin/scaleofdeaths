@@ -1,0 +1,34 @@
+id: assyrian-genocide
+title:
+  en: Assyrian genocide (Sayfo)
+  fr: Génocide assyrien (Sayfo)
+description:
+  en: >-
+    Mass killing and deportation of Assyrian and Syriac Christians in south-eastern Anatolia and in Persia's Azerbaijan province by Ottoman forces and some Kurdish tribes during the First World War. Massacres began during the Ottoman occupation of north-western Persia in early 1915 and spread to Hakkari, Bitlis and Diyarbekir, often alongside the Armenian genocide. It was less systematic than the Armenian genocide and is less studied; Turkey denies that it was a genocide.
+  fr: >-
+    Massacres et déportations des chrétiens assyriens et syriaques du sud-est de l’Anatolie et de la province persane d’Azerbaïdjan par les forces ottomanes et certaines tribus kurdes pendant la Première Guerre mondiale. Les tueries commencent pendant l’occupation ottomane du nord-ouest de la Perse début 1915, puis s’étendent au Hakkari, à Bitlis et au Diyarbekir, souvent en même temps que le génocide arménien. Moins systématique et moins étudié que celui-ci, il est nié en tant que génocide par la Turquie.
+categories: [genocide]
+kind: event
+start: "1914"
+end: "1924"
+deaths:
+  best: 250000
+  high: 275000
+  note:
+    en: The only overall figures are those of the Assyro-Chaldean delegation, 250,000 dead in the Ottoman Empire and Persia at the 1919 Paris Peace Conference (best), raised to 275,000 at Lausanne in 1923 (high). Historian David Gaunt says their accuracy cannot be verified and the delegation had an incentive to exaggerate. The delegation counted 40,000 in Persia, a figure Gaunt considers probably too high; the rest died in the Ottoman provinces of Van, Diyarbekir, Bitlis, Harput, Urfa and elsewhere.
+    fr: Les seuls chiffres globaux sont ceux de la délégation assyro-chaldéenne, 250 000 morts dans l’Empire ottoman et en Perse à la conférence de la paix de Paris en 1919 (estimation centrale), portés à 275 000 à Lausanne en 1923 (borne haute). L’historien David Gaunt juge leur exactitude invérifiable et note que la délégation avait intérêt à exagérer. La délégation comptait 40 000 morts en Perse, chiffre que Gaunt estime probablement trop élevé ; les autres sont morts dans les provinces ottomanes de Van, Diyarbekir, Bitlis, Harput, Urfa et ailleurs.
+countries:
+  - { code: TR }
+  - { code: IR, deaths: 40000 }
+partOf: first-world-war
+related: [armenian-genocide, greek-genocide]
+sources:
+  - title: Sayfo
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Sayfo
+    accessed: "2026-10-22"
+  - title: Identity conflicts among Oriental Christians in Sweden (David Gaunt, 2010)
+    publisher: Sens public
+    url: https://sens-public.org/articles/767/
+    accessed: "2026-10-22"
+reviewed: false

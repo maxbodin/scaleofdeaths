@@ -1,0 +1,42 @@
+id: tuberculosis-deaths-annual
+title:
+  en: Deaths from tuberculosis per year
+  fr: Décès dus à la tuberculose par an
+description:
+  en: >-
+    People who died from tuberculosis (TB) worldwide in one year, as estimated by the World Health Organization. TB is caused by bacteria that usually attack the lungs and spread through the air when sick people cough, sneeze or spit; about a quarter of the world's population is thought to carry the infection, but only 5 to 10% develop the disease. It is the world's leading cause of death from a single infectious agent and the main killer of people with HIV, although it is preventable and curable. An estimated 10.7 million people fell ill with TB that year.
+  fr: >-
+    Personnes mortes de la tuberculose dans le monde en un an, selon l’estimation de l’Organisation mondiale de la santé. La tuberculose est causée par une bactérie qui attaque surtout les poumons et se transmet par l’air quand les malades toussent, éternuent ou crachent ; environ un quart de la population mondiale serait infecté, mais seuls 5 à 10 % développent la maladie. C’est la première cause de mortalité due à un agent infectieux unique et la principale cause de décès des personnes vivant avec le VIH, alors qu’elle est évitable et curable.
+categories: [annual, epidemic]
+kind: endemic-total
+start: "2024"
+end: "2024"
+deaths:
+  best: 1230000
+  note:
+    en: >-
+      WHO tuberculosis fact sheet: a total of 1.23 million people died from TB in 2024, including 150,000 people with HIV (these 150,000 are also counted among AIDS-related deaths). WHO's Global Health Observatory gives 1.08 million deaths among people without HIV (uncertainty interval 987,000 to 1.18 million); no interval for the total was found. Per-country figures are WHO's 2024 estimates of TB deaths among people without HIV for the ten countries with the most such deaths.
+    fr: >-
+      Fiche de l’OMS sur la tuberculose : au total, 1,23 million de personnes sont mortes de la tuberculose en 2024, dont 150 000 personnes vivant avec le VIH (ces 150 000 sont aussi comptées parmi les décès liés au sida). L’Observatoire mondial de la santé de l’OMS donne 1,08 million de décès chez les personnes non infectées par le VIH (intervalle d’incertitude de 987 000 à 1,18 million) ; aucun intervalle n’a été trouvé pour le total. Les chiffres par pays sont les estimations 2024 de l’OMS des décès hors VIH pour les dix pays les plus touchés.
+countries:
+  - { code: IN, deaths: 300000 }
+  - { code: ID, deaths: 118000 }
+  - { code: CD, deaths: 59000 }
+  - { code: NG, deaths: 56000 }
+  - { code: PK, deaths: 51000 }
+  - { code: BD, deaths: 44000 }
+  - { code: PH, deaths: 36000 }
+  - { code: MM, deaths: 31000 }
+  - { code: CN, deaths: 25000 }
+  - { code: AO, deaths: 25000 }
+related: [tuberculosis]
+sources:
+  - title: Tuberculosis fact sheet
+    publisher: World Health Organization
+    url: https://www.who.int/news-room/fact-sheets/detail/tuberculosis
+    accessed: "2026-10-22"
+  - title: "Global Health Observatory: number of deaths due to tuberculosis, excluding HIV (TB_e_mort_exc_tbhiv_num), 2024"
+    publisher: World Health Organization
+    url: https://ghoapi.azureedge.net/api/TB_e_mort_exc_tbhiv_num?$filter=TimeDim%20eq%202024
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,32 @@
+id: venezuela-earthquakes-2026
+title:
+  en: 2026 Venezuela earthquakes
+  fr: Séismes de 2026 au Venezuela
+description:
+  en: >-
+    On the evening of 24 June 2026 a doublet of large strike-slip earthquakes struck north-western and central Venezuela: a magnitude 7.2 shock near San Felipe in Yaracuy was followed 30 seconds later by a magnitude 7.5 mainshock off the coast of La Guaira. Damage was widespread, particularly in Caracas and in La Guaira state, where about 80% of buildings collapsed. Rescue was hampered by a lack of machinery and medical supplies and by the country's strained health system, and tens of thousands of people were reported missing.
+  fr: >-
+    Le soir du 24 juin 2026, un doublet de puissants séismes a frappé le nord-ouest et le centre du Venezuela : une secousse de magnitude 7,2 près de San Felipe (Yaracuy) a été suivie 30 secondes plus tard d’un choc principal de magnitude 7,5 au large de La Guaira. Les dégâts ont été considérables, surtout à Caracas et dans l’État de La Guaira, où environ 80 % des bâtiments se sont effondrés. Les secours ont manqué de machines et de matériel médical dans un système de santé déjà fragilisé, et des dizaines de milliers de personnes ont été portées disparues.
+categories: [natural-disaster]
+kind: event
+start: "2026-06-24"
+deaths:
+  best: 6509
+  high: 7265
+  note:
+    en: >-
+      Best is the official toll of 6,509 deaths as of 24 August 2026, reported by UN OCHA; the government has published no update since. High is the 7,265 deaths reported on 4 August by the governor of La Guaira (Wikipedia), which the national figures did not reflect. Thousands of people remain missing (unofficial estimates of 18,100 to 50,000) and are not included; journalists have suggested the official toll is an undercount.
+    fr: >-
+      L’estimation centrale est le bilan officiel de 6 509 morts au 24 août 2026, rapporté par le Bureau de la coordination des affaires humanitaires de l’ONU (OCHA) ; le gouvernement n’a publié aucune mise à jour depuis. L’estimation haute correspond aux 7 265 morts annoncés le 4 août par le gouverneur de La Guaira (Wikipédia), que les chiffres nationaux n’ont pas repris. Des milliers de personnes restent disparues (estimations officieuses de 18 100 à 50 000) et ne sont pas comptées ; des journalistes estiment le bilan officiel sous-évalué.
+countries:
+  - { code: VE, deaths: 6509 }
+sources:
+  - title: 2026 Venezuela earthquakes
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2026_Venezuela_earthquakes
+    accessed: "2026-10-22"
+  - title: "Earthquakes in Venezuela: Situation Report #34 (27 August 2026)"
+    publisher: UN Office for the Coordination of Humanitarian Affairs
+    url: https://www.unocha.org/publications/report/venezuela-bolivarian-republic/earthquakes-venezuela-situation-report-34-27-august-2026-time-0500-pm
+    accessed: "2026-10-22"
+reviewed: false

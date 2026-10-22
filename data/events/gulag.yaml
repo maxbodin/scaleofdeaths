@@ -1,0 +1,33 @@
+id: gulag
+title:
+  en: Gulag
+  fr: Goulag
+description:
+  en: >-
+    System of forced labour camps and colonies run by the Soviet secret police, through which about 18 million people passed between 1930 and 1953, among them political prisoners, deported peasants and common criminals. Prisoners worked in mining, logging and construction, often in the Far North, Siberia and Kazakhstan, under harsh climate, hunger and exhausting work quotas. Mortality peaked during the Second World War, when about half of all deaths occurred, between 1941 and 1943.
+  fr: >-
+    Système de camps et de colonies de travail forcé géré par la police politique soviétique, par lequel passèrent environ 18 millions de personnes entre 1930 et 1953 : prisonniers politiques, paysans déportés et détenus de droit commun. Les détenus travaillaient dans les mines, l’exploitation forestière et les chantiers, souvent dans le Grand Nord, en Sibérie et au Kazakhstan, soumis au froid, à la faim et à des normes de travail épuisantes. La mortalité culmina pendant la Seconde Guerre mondiale : environ la moitié des décès eurent lieu entre 1941 et 1943.
+categories: [genocide]
+kind: endemic-total
+start: "1930"
+end: "1953"
+deaths:
+  best: 1600000
+  low: 1053829
+  high: 1760000
+  note:
+    en: Deaths of prisoners in the camps and colonies, and of prisoners released when close to death. Best is the tentative scholarly consensus of about 1.6 million given by Wikipedia (Gulag History, George Mason University, says "at least 1.6 million"); the consensus range is 1.6 to 1.76 million. Low is the 1993 archival study count of 1,053,829 deaths in the camps from 1934 to 1953, which excludes prisoners released before dying. Higher figures are not used, such as 2,749,163 when deaths in labour colonies and special settlements are added (J. Otto Pohl, incomplete data) and the disputed 6 million of Golfo Alexopoulos (Wikipedia). Executions of the Great Purge are counted separately.
+    fr: Morts de détenus dans les camps et colonies, ainsi que de détenus libérés sur le point de mourir. L’estimation centrale est le consensus provisoire des historiens, environ 1,6 million, donné par Wikipédia (Gulag History, université George Mason, indique « au moins 1,6 million ») ; la fourchette de ce consensus va de 1,6 à 1,76 million. La valeur basse est le décompte de l’étude d’archives de 1993, 1 053 829 morts dans les camps de 1934 à 1953, sans les détenus libérés avant leur mort. Les chiffres plus élevés ne sont pas retenus, comme 2 749 163 en ajoutant les morts des colonies de travail et des peuplements spéciaux (J. Otto Pohl, données incomplètes) et les 6 millions contestés de Golfo Alexopoulos (Wikipédia). Les exécutions des Grandes Purges sont comptées à part.
+countries:
+  - { code: SU, name: { en: Soviet Union, fr: Union soviétique }, deaths: 1600000 }
+related: [great-purge, second-world-war]
+sources:
+  - title: Gulag
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Gulag
+    accessed: "2026-10-22"
+  - title: "Gulag: Many Days, Many Lives - The Gulag's Ultimate Victims"
+    publisher: Gulag History (Roy Rosenzweig Center for History and New Media, George Mason University)
+    url: https://gulaghistory.org/exhibits/days-and-lives/fates/2.html
+    accessed: "2026-10-22"
+reviewed: false

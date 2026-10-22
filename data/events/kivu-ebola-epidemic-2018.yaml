@@ -1,0 +1,33 @@
+id: kivu-ebola-epidemic-2018
+title:
+  en: Kivu Ebola epidemic
+  fr: Épidémie d’Ebola au Kivu
+description:
+  en: >-
+    Tenth Ebola outbreak in the Democratic Republic of the Congo, declared on 1 August 2018 in North Kivu and spreading to Ituri and, in 2019, South Kivu. It was the country's longest Ebola outbreak and, at the time, the second largest in the world after the 2014-2016 West African epidemic. Armed groups, attacks on health workers and community mistrust of treatment centres hampered the response; a third of patients died outside treatment centres. In June 2019 a Congolese family carried the virus into Uganda, where it was contained. The outbreak was declared over on 25 June 2020.
+  fr: >-
+    Dixième épidémie d’Ebola en République démocratique du Congo, déclarée le 1er août 2018 au Nord-Kivu, puis étendue à l’Ituri et, en 2019, au Sud-Kivu. Ce fut la plus longue épidémie d’Ebola du pays et, à l’époque, la deuxième au monde après celle d’Afrique de l’Ouest de 2014-2016. Groupes armés, attaques contre les soignants et méfiance envers les centres de traitement ont entravé la riposte ; un tiers des malades sont morts hors de ces centres. En juin 2019, une famille congolaise a porté le virus en Ouganda, où il a été contenu. La fin de l’épidémie a été déclarée le 25 juin 2020.
+categories: [epidemic]
+kind: event
+start: "2018-08-01"
+end: "2020-06-25"
+deaths:
+  best: 2287
+  note:
+    en: >-
+      Reported deaths among 3,470 confirmed and probable cases in North Kivu, Ituri and South Kivu between 1 August 2018 and 25 June 2020, according to the World Health Organization's final report; Wikipedia gives 2,280 from United Nations figures. The few imported cases in Uganda in June 2019 are not included.
+    fr: >-
+      Décès déclarés parmi 3 470 cas confirmés et probables au Nord-Kivu, en Ituri et au Sud-Kivu entre le 1er août 2018 et le 25 juin 2020, selon le rapport final de l’Organisation mondiale de la santé ; Wikipédia donne 2 280 d’après des chiffres des Nations unies. Les quelques cas importés en Ouganda en juin 2019 ne sont pas comptés.
+countries:
+  - { code: CD, deaths: 2287 }
+related: [west-african-ebola-epidemic]
+sources:
+  - title: Kivu Ebola epidemic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Kivu_Ebola_epidemic
+    accessed: "2026-10-22"
+  - title: Ebola virus disease - Democratic Republic of the Congo (Disease Outbreak News, 26 June 2020)
+    publisher: World Health Organization
+    url: https://www.who.int/emergencies/disease-outbreak-news/item/2020-DON284
+    accessed: "2026-10-22"
+reviewed: false

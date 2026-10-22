@@ -1,0 +1,35 @@
+id: battle-of-antietam
+title:
+  en: Battle of Antietam
+  fr: Bataille d’Antietam
+description:
+  en: >-
+    Battle near Sharpsburg, Maryland, between George McClellan's Union Army of the Potomac and Robert E. Lee's Confederate Army of Northern Virginia, which had invaded Maryland. Fighting at the Cornfield, the Sunken Road (Bloody Lane) and Burnside's Bridge ended in a tactical draw, but Lee withdrew to Virginia. It remains the deadliest single day in American military history, and the Union success allowed Abraham Lincoln to issue the preliminary Emancipation Proclamation.
+  fr: >-
+    Bataille livrée près de Sharpsburg, dans le Maryland, entre l’armée du Potomac de l’Union, commandée par George McClellan, et l’armée confédérée de Virginie du Nord de Robert E. Lee, qui avait envahi le Maryland. Les combats du Cornfield, de la route creuse (Bloody Lane) et du pont de Burnside s’achèvent sur un résultat tactique indécis, mais Lee se replie en Virginie. C’est toujours la journée la plus meurtrière de l’histoire militaire américaine, et le succès de l’Union permet à Abraham Lincoln de publier la proclamation préliminaire d’émancipation.
+categories: [war]
+kind: event
+start: "1862-09-17"
+deaths:
+  best: 3650
+  high: 6500
+  note:
+    en: "Soldiers killed, not counting the wounded, captured or missing (total casualties were about 22,700). Best: about 3,650 killed in action on both sides, the National Park Service count (2,100 Union and 1,550 Confederate, via Necrometrics); the American Battlefield Trust gives 2,108 Union and 1,546 Confederate killed. High: 6,300 to 6,500 killed or mortally wounded, James McPherson's estimate including soldiers who later died of their wounds (via Necrometrics); the high end is used."
+    fr: "Soldats tués, sans les blessés, prisonniers ou disparus (les pertes totales sont d’environ 22 700). Estimation centrale : environ 3 650 tués au combat dans les deux camps, décompte du National Park Service (2 100 nordistes et 1 550 confédérés, via Necrometrics) ; l’American Battlefield Trust donne 2 108 tués nordistes et 1 546 confédérés. Haut : 6 300 à 6 500 tués ou blessés mortellement, estimation de James McPherson qui inclut les soldats morts ensuite de leurs blessures (via Necrometrics) ; le haut de la fourchette est retenu."
+countries:
+  - { code: US, deaths: 3650 }
+partOf: american-civil-war
+sources:
+  - title: Battle of Antietam
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Battle_of_Antietam
+    accessed: "2026-10-22"
+  - title: Antietam
+    publisher: American Battlefield Trust
+    url: https://www.battlefields.org/learn/civil-war/battles/antietam
+    accessed: "2026-10-22"
+  - title: Casualties in the Battles of the Early Modern Era (1500-1900)
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/battle19.htm
+    accessed: "2026-10-22"
+reviewed: false

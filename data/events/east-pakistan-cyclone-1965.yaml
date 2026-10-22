@@ -1,0 +1,36 @@
+id: east-pakistan-cyclone-1965
+title:
+  en: May 1965 East Pakistan cyclone
+  fr: Cyclone de mai 1965 au Pakistan oriental
+description:
+  en: >-
+    A severe cyclonic storm from the Bay of Bengal struck the coast of East Pakistan (now Bangladesh) on 11 and 12 May 1965, hitting the Barisal and Bakerganj area with winds of up to 162 km/h and a storm surge of about 3.7 metres that flooded the low-lying delta. Barisal suffered by far the heaviest losses. It was one of several deadly cyclones to hit the region in the 1960s, and another storm struck the coast only weeks later, on 1 June 1965.
+  fr: >-
+    Un violent cyclone venu du golfe du Bengale a frappé les 11 et 12 mai 1965 la côte du Pakistan oriental (actuel Bangladesh), dans la région de Barisal et de Bakerganj, avec des vents atteignant 162 km/h et une onde de tempête d’environ 3,7 mètres qui a submergé le delta. Barisal a de loin subi les plus lourdes pertes. C’est l’un des cyclones meurtriers qui ont frappé la région dans les années 1960, et une autre tempête a touché la côte quelques semaines plus tard, le 1er juin 1965.
+categories: [natural-disaster]
+kind: event
+start: "1965-05-09"
+end: "1965-05-12"
+deaths:
+  best: 19279
+  note:
+    en: >-
+      19,279 deaths, 16,456 of them in Barisal (Banglapedia; also in Wikipedia's list of Bangladesh cyclones). Wikipedia's article on the 1965 cyclone season gives 47,000 deaths for this storm and the 1 June cyclone together, without a breakdown; the June storm is not included here.
+    fr: >-
+      19 279 morts, dont 16 456 à Barisal (Banglapedia ; chiffres repris dans la liste des cyclones du Bangladesh de Wikipédia). L’article de Wikipédia sur la saison cyclonique 1965 donne 47 000 morts pour ce cyclone et celui du 1er juin réunis, sans détail ; la tempête de juin n’est pas comptée ici.
+countries:
+  - { code: BD, deaths: 19279 }
+sources:
+  - title: List of Bangladesh tropical cyclones
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_Bangladesh_tropical_cyclones
+    accessed: "2026-10-22"
+  - title: 1965 North Indian Ocean cyclone season
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1965_North_Indian_Ocean_cyclone_season
+    accessed: "2026-10-22"
+  - title: Cyclone
+    publisher: Banglapedia (Asiatic Society of Bangladesh)
+    url: https://en.banglapedia.org/index.php/Cyclone
+    accessed: "2026-10-22"
+reviewed: false

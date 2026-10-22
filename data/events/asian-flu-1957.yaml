@@ -1,0 +1,46 @@
+id: asian-flu-1957
+title:
+  en: 1957-1958 influenza pandemic ("Asian flu")
+  fr: Pandémie de grippe de 1957-1958 (« grippe asiatique »)
+description:
+  en: >-
+    Influenza pandemic caused by a new H2N2 virus that carried genes from an avian influenza virus. It emerged in southern China (Guizhou) and was first reported in Singapore in February 1957 and in Hong Kong in April, where at least 250,000 people were reported to be receiving treatment by 17 April. It then spread across Asia and worldwide, reaching India by June, the United Kingdom in late June and coastal cities of the United States in the summer. A decade later, a reassortant of its virus, H3N2, caused the Hong Kong flu pandemic.
+  fr: >-
+    Pandémie de grippe due à un nouveau virus H2N2 portant des gènes d’un virus de grippe aviaire. Apparue dans le sud de la Chine (Guizhou), elle a été signalée à Singapour en février 1957 puis à Hong Kong en avril, où au moins 250 000 personnes recevaient des soins dès le 17 avril. Elle s’est ensuite répandue en Asie et dans le monde entier, atteignant l’Inde en juin, le Royaume-Uni fin juin et les villes côtières des États-Unis à l’été. Dix ans plus tard, un virus réassorti issu du sien, le H3N2, a causé la pandémie de grippe de Hong Kong.
+categories: [epidemic]
+kind: event
+start: "1957-02"
+end: "1958"
+deaths:
+  best: 1100000
+  low: 700000
+  high: 4000000
+  note:
+    en: >-
+      Excess deaths. Best is the CDC figure of 1.1 million worldwide, from a 2016 study of mortality statistics in 39 countries (Viboud et al.), whose 95% confidence interval (0.7 to 1.5 million) gives low; high is the upper end of the 1 to 4 million range cited by Wikipedia from the WHO. Country figures: United States, CDC estimate; Canada, excess deaths from September to November 1957; Japan and India, deaths reported at the time (India: 19 May 1957 to 8 February 1958), which are far lower than excess mortality.
+    fr: >-
+      Surmortalité. L’estimation retenue est celle des CDC, 1,1 million de morts dans le monde, issue d’une étude de 2016 portant sur 39 pays (Viboud et al.), dont l’intervalle de confiance à 95 % (0,7 à 1,5 million) donne le bas de la fourchette ; le haut reprend la fourchette de 1 à 4 millions citée par Wikipédia d’après l’OMS. Chiffres par pays : États-Unis, estimation des CDC ; Canada, surmortalité de septembre à novembre 1957 ; Japon et Inde, décès déclarés à l’époque (Inde : du 19 mai 1957 au 8 février 1958), bien inférieurs à la surmortalité.
+countries:
+  - { code: US, deaths: 116000 }
+  - { code: JP, deaths: 7735 }
+  - { code: CA, deaths: 3373 }
+  - { code: IN, deaths: 1098 }
+  - { code: CN }
+  - { code: HK }
+  - { code: SG }
+  - { code: GB }
+related: [russian-flu-1889, spanish-flu, hong-kong-flu-1968, swine-flu-2009]
+sources:
+  - title: 1957-1958 influenza pandemic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1957%E2%80%931958_influenza_pandemic
+    accessed: "2026-10-22"
+  - title: 1957-1958 Pandemic (H2N2 virus) (archived page)
+    publisher: Centers for Disease Control and Prevention
+    url: https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/1957-1958-pandemic.html
+    accessed: "2026-10-22"
+  - title: Global Mortality Impact of the 1957-1959 Influenza Pandemic
+    publisher: The Journal of Infectious Diseases (via PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4747626/
+    accessed: "2026-10-22"
+reviewed: false

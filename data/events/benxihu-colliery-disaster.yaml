@@ -1,0 +1,31 @@
+id: benxihu-colliery-disaster
+title:
+  en: Benxihu Colliery disaster
+  fr: Catastrophe de la mine de Benxihu
+description:
+  en: >-
+    On 26 April 1942 a gas and coal-dust explosion tore through the Benxihu (Honkeiko) coal mine at Benxi, Liaoning, then in the Japanese puppet state of Manchukuo, where Chinese labourers, some of them captured fighters, were forced to work in harsh conditions. To smother the fire, the Japanese operators shut off the ventilation and sealed the pit before it was fully evacuated, and most victims died of carbon monoxide poisoning. It took ten days to remove the bodies, buried in a mass grave. It is the deadliest coal-mining disaster on record.
+  fr: >-
+    Le 26 avril 1942, un coup de grisou et de poussières de charbon ravage la mine de Benxihu (Honkeiko), à Benxi, dans le Liaoning, alors au Mandchoukouo, État fantoche japonais, où des ouvriers chinois, dont des combattants capturés, travaillaient de force dans des conditions terribles. Pour étouffer l’incendie, les exploitants japonais coupent la ventilation et scellent le puits sans l’avoir entièrement évacué ; la plupart des victimes meurent intoxiquées au monoxyde de carbone. Il faut dix jours pour sortir les corps, enterrés dans une fosse commune. C’est la pire catastrophe minière connue.
+categories: [accident]
+kind: event
+start: "1942-04-26"
+deaths:
+  best: 1549
+  low: 1327
+  note:
+    en: Best is the toll of 1,549 given by Britannica and Wikipedia (1,518 Chinese and 31 Japanese, about a third of the miners working that day). The Japanese authorities first reported 34 deaths; low is the 1,327 later inscribed on the memorial they erected.
+    fr: L’estimation centrale est le bilan de 1 549 morts donné par Britannica et Wikipédia (1 518 Chinois et 31 Japonais, environ un tiers des mineurs présents ce jour-là). Les autorités japonaises ont d’abord annoncé 34 morts ; la borne basse correspond aux 1 327 morts inscrits ensuite sur le monument qu’elles ont érigé.
+countries:
+  - { code: CN, deaths: 1549 }
+related: [second-world-war]
+sources:
+  - title: Benxihu Colliery
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Benxihu_Colliery
+    accessed: "2026-10-22"
+  - title: Honkeiko colliery mining disaster
+    publisher: Encyclopaedia Britannica
+    url: https://www.britannica.com/event/Honkeiko-colliery-mining-disaster
+    accessed: "2026-10-22"
+reviewed: false

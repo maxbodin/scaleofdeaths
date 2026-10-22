@@ -1,0 +1,33 @@
+id: wounded-knee-massacre
+title:
+  en: Wounded Knee massacre
+  fr: Massacre de Wounded Knee
+description:
+  en: >-
+    Killing of Lakota men, women and children by the US Army's 7th Cavalry Regiment on 29 December 1890 near Wounded Knee Creek, on the Pine Ridge Indian Reservation in South Dakota. The day before, soldiers had intercepted Spotted Elk's band of Miniconjou Lakota, joined by Hunkpapa refugees after the killing of Sitting Bull, and escorted them to the creek. During an attempt to disarm them, a shot was fired and the troops opened fire with rifles and Hotchkiss guns, pursuing those who fled. The dead were buried in a mass grave.
+  fr: >-
+    Massacre d’hommes, de femmes et d’enfants lakotas par le 7e régiment de cavalerie de l’armée américaine le 29 décembre 1890 près de la rivière Wounded Knee, dans la réserve indienne de Pine Ridge (Dakota du Sud). La veille, les soldats avaient intercepté la bande de Lakotas miniconjous de Spotted Elk, rejointe par des réfugiés hunkpapas après la mort de Sitting Bull, et l’avaient escortée jusqu’à la rivière. Lors d’une tentative de désarmement, un coup de feu part et la troupe ouvre le feu aux fusils et aux canons Hotchkiss, poursuivant les fuyards.
+categories: [genocide]
+kind: event
+start: "1890-12-29"
+deaths:
+  best: 250
+  low: 150
+  high: 300
+  note:
+    en: >-
+      Lakota killed, many of them women and children. Best is the lower end of the 250 to 300 killed given by Wikipedia; low and high are the estimated 150 to 300 given by the National Park Service. The burial party counted 84 men, 44 women and 18 children dead on the field, with at least seven more mortally wounded (Wikipedia). The 25 US soldiers killed, some of them believed to have been hit by their own side's fire, and six who later died of wounds, are not counted.
+    fr: >-
+      Lakotas tués, dont beaucoup de femmes et d’enfants. L’estimation centrale est la borne basse des 250 à 300 tués indiqués par Wikipédia ; le bas et le haut correspondent aux 150 à 300 morts estimés par le National Park Service. Les fossoyeurs comptèrent 84 hommes, 44 femmes et 18 enfants morts sur le terrain, et au moins sept blessés mortellement (Wikipédia). Les 25 soldats américains tués, dont certains auraient été touchés par les tirs de leur propre camp, et les six morts plus tard de leurs blessures ne sont pas comptés.
+countries:
+  - { code: US, deaths: 250 }
+sources:
+  - title: Wounded Knee Massacre
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Wounded_Knee_Massacre
+    accessed: "2026-10-22"
+  - title: Bigfoot Pass Overlook
+    publisher: National Park Service (Badlands National Park)
+    url: https://www.nps.gov/places/bigfoot-pass-overlook.htm
+    accessed: "2026-10-22"
+reviewed: false

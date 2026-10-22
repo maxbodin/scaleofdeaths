@@ -1,0 +1,35 @@
+id: lagos-armoury-explosion-2002
+title:
+  en: 2002 Lagos armoury explosion
+  fr: Explosion de l’arsenal de Lagos en 2002
+description:
+  en: >-
+    On the evening of 27 January 2002 a fire that started in a market next to the Ikeja military cantonment in Lagos, Nigeria, reached an army munitions store, setting off explosions that continued through the night. Shells and debris fell across the north of the city, starting fires and collapsing buildings. Most victims were not killed by the blasts: fleeing crowds fell into the Oke-Afa canal, hidden under water hyacinth in the dark, where hundreds, many of them children, drowned or were crushed. A government inquiry blamed the army for failing to maintain the base.
+  fr: >-
+    Le soir du 27 janvier 2002, un incendie parti d’un marché voisin du camp militaire d’Ikeja, à Lagos, au Nigeria, atteint un dépôt de munitions de l’armée et déclenche des explosions qui se succèdent toute la nuit. Obus et débris s’abattent sur le nord de la ville, provoquant incendies et effondrements. La plupart des victimes ne sont pas tuées par les explosions : la foule en fuite tombe dans le canal d’Oke-Afa, masqué par les jacinthes d’eau dans l’obscurité, où des centaines de personnes, dont beaucoup d’enfants, se noient ou sont écrasées. Une enquête officielle a mis en cause l’armée.
+categories: [accident]
+kind: event
+start: "2002-01-27"
+deaths:
+  best: 1100
+  low: 1000
+  high: 2000
+  note:
+    en: Best is the "at least 1,100" deaths given by Wikipedia. Low is the more than 1,000 people known to have been killed according to the UN disaster assessment team (UNDAC), which added that local sources put the figure as high as 2,000 (high). Official figures on 30 January stood at about 700 (WHO), before many bodies were recovered from the canal; some people were never found.
+    fr: L’estimation centrale correspond aux « au moins 1 100 » morts indiqués par Wikipédia. La borne basse correspond aux plus de 1 000 morts connus selon l’équipe des Nations unies pour l’évaluation des catastrophes (UNDAC), qui précisait que des sources locales évoquaient jusqu’à 2 000 morts (borne haute). Le 30 janvier, le bilan officiel était d’environ 700 morts (OMS), avant que de nombreux corps ne soient repêchés dans le canal ; certaines personnes n’ont jamais été retrouvées.
+countries:
+  - { code: NG, deaths: 1100 }
+sources:
+  - title: 2002 Lagos armoury explosion
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2002_Lagos_armoury_explosion
+    accessed: "2026-10-22"
+  - title: "UNDAC Mission to Lagos, Nigeria: Munitions depot explosion - Report"
+    publisher: United Nations Office for the Coordination of Humanitarian Affairs (OCHA)
+    url: https://www.unocha.org/publications/report/nigeria/undac-mission-lagos-nigeria-munitions-depot-explosion-report
+    accessed: "2026-10-22"
+  - title: Armoury Explosion In Lagos, Nigeria
+    publisher: World Health Organization, Regional Office for Africa
+    url: https://www.afro.who.int/countries/nigeria/news/armoury-explosion-lagos-nigeria
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,31 @@
+id: croatian-war-of-independence
+title:
+  en: Croatian War of Independence
+  fr: Guerre de Croatie
+description:
+  en: >-
+    War that followed Croatia's declaration of independence from Yugoslavia in June 1991, between Croatian forces and the Yugoslav People's Army together with Croatian Serb forces, which proclaimed the Republic of Serbian Krajina on part of Croatian territory. In 1991 the fighting included the sieges of Vukovar and Dubrovnik and the expulsion of Croats and other non-Serbs from Serb-held areas. A UN-monitored ceasefire took hold in 1992; in 1995 Croatian offensives retook most of the territory and many Serb civilians fled. Hundreds of thousands of people were displaced on both sides.
+  fr: >-
+    Guerre qui suit la proclamation d’indépendance de la Croatie en juin 1991, entre les forces croates et l’Armée populaire yougoslave alliée aux Serbes de Croatie, qui proclament la République serbe de Krajina sur une partie du territoire. En 1991, les combats comprennent les sièges de Vukovar et de Dubrovnik et l’expulsion des Croates et autres non-Serbes des zones serbes. Un cessez-le-feu surveillé par l’ONU s’installe en 1992 ; en 1995, des offensives croates reprennent l’essentiel du territoire et de nombreux civils serbes fuient. Des centaines de milliers de personnes sont déplacées.
+categories: [war]
+kind: event
+start: "1991-03-01"
+end: "1995-11-12"
+deaths:
+  best: 20000
+  note:
+    en: Military and civilian deaths on all sides. Best is the "over 20,000" killed given in Wikipedia's summary; its infobox gives 15,007 dead or missing on the Croatian side (8,685 soldiers and 6,322 civilians) and 7,204 to 8,413 dead or missing on the Serb side, including 1,279 soldiers of the Yugoslav People's Army. The estimates compiled in the PRIO Battle Deaths documentation (10,000 to 25,000) cover only 1991-1992, so no full-war range is shown. The whole toll is counted in Croatia, where the deaths occurred.
+    fr: Morts militaires et civiles de tous les camps. L’estimation centrale correspond aux « plus de 20 000 » tués indiqués dans le résumé de Wikipédia ; son infobox donne 15 007 morts ou disparus côté croate (8 685 soldats et 6 322 civils) et 7 204 à 8 413 morts ou disparus côté serbe, dont 1 279 soldats de l’Armée populaire yougoslave. Les estimations réunies par la documentation du PRIO sur les morts au combat (10 000 à 25 000) ne portent que sur 1991-1992, si bien qu’aucune fourchette pour toute la guerre n’est indiquée. Tout le bilan est compté en Croatie, où les morts ont eu lieu.
+countries:
+  - { code: HR, deaths: 20000 }
+related: [bosnian-war]
+sources:
+  - title: Croatian War of Independence
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Croatian_War_of_Independence
+    accessed: "2026-10-22"
+  - title: "The PRIO Battle Deaths Dataset, 1946-2008, Version 3.0: Documentation of Coding Decisions (Lacina), Balkans"
+    publisher: Peace Research Institute Oslo (PRIO)
+    url: https://cdn.cloud.prio.org/files/91648bba-8885-40ce-8a78-fae75c850c55/PRIO%20Battle%20Deaths%20Dataset%2030%20Documentation.pdf
+    accessed: "2026-10-22"
+reviewed: false

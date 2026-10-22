@@ -1,0 +1,47 @@
+id: natural-disaster-deaths-annual
+title:
+  en: Deaths from natural disasters per year
+  fr: Décès dus aux catastrophes naturelles par an
+description:
+  en: >-
+    People killed by natural hazard-related disasters worldwide in one year, as recorded by the Emergency Events Database (EM-DAT) of the Centre for Research on the Epidemiology of Disasters (CRED). It covers earthquakes, storms, floods, landslides, wildfires, droughts and extreme temperatures, and counts the missing presumed dead. In 2025, 358 disasters were recorded; the deadliest were the earthquakes in Myanmar in March and in eastern Afghanistan, and Asia accounted for almost three quarters of deaths. There was no mega-disaster, and the toll was well below the 2005-2024 yearly average.
+  fr: >-
+    Personnes tuées par des catastrophes d’origine naturelle dans le monde en un an, selon la base de données EM-DAT du Centre de recherche sur l’épidémiologie des désastres (CRED). Sont comptés séismes, tempêtes, inondations, glissements de terrain, incendies, sécheresses et températures extrêmes, disparus présumés morts compris. En 2025, 358 catastrophes ont été recensées ; les plus meurtrières ont été les séismes de mars en Birmanie et de l’est de l’Afghanistan, et l’Asie concentre près des trois quarts des morts. Le bilan est très inférieur à la moyenne annuelle 2005-2024.
+categories: [annual, natural-disaster]
+kind: endemic-total
+start: "2025"
+end: "2025"
+deaths:
+  best: 16607
+  note:
+    en: >-
+      CRED, 2025 Disasters in Numbers (EM-DAT): 16,607 deaths in 2025, against a 2005-2024 average of 57,429 a year. CRED warns that the 2025 figures may be revised and that, because of reporting delays, many heatwave deaths (in Pakistan, India and Europe) and drought deaths are not yet included; drought mortality is usually not reported at all. Per-country figures are the report's ten deadliest events: Myanmar earthquake 3,820, Afghanistan earthquake 2,200, Indonesia (Cyclone Senyar) 1,109, Pakistan floods 1,037, Sri Lanka (Cyclone Ditwah) 823, Sudan landslide 400, Philippines (Typhoon Kalmaegi) 372, Thailand 276; Nigeria uses its larger event (Mokwa flood, 1,100) as a lower bound, as it also had 238 deaths in June-October floods.
+    fr: >-
+      CRED, 2025 Disasters in Numbers (EM-DAT) : 16 607 morts en 2025, contre une moyenne de 57 429 par an sur 2005-2024. Le CRED prévient que les chiffres 2025 peuvent être révisés et que, en raison de retards de déclaration, de nombreux décès dus aux canicules (Pakistan, Inde, Europe) et aux sécheresses ne sont pas encore inclus ; la mortalité due aux sécheresses n’est en général pas déclarée. Les chiffres par pays sont les dix événements les plus meurtriers du rapport : séisme en Birmanie 3 820, séisme en Afghanistan 2 200, Indonésie (cyclone Senyar) 1 109, inondations au Pakistan 1 037, Sri Lanka (cyclone Ditwah) 823, glissement de terrain au Soudan 400, Philippines (typhon Kalmaegi) 372, Thaïlande 276 ; pour le Nigeria, l’événement le plus lourd (inondation de Mokwa, 1 100) sert de borne basse, 238 autres morts étant dues aux inondations de juin à octobre.
+countries:
+  - { code: MM, deaths: 3820 }
+  - { code: AF, deaths: 2200 }
+  - { code: ID, deaths: 1109 }
+  - { code: NG, deaths: 1100 }
+  - { code: PK, deaths: 1037 }
+  - { code: LK, deaths: 823 }
+  - { code: SD, deaths: 400 }
+  - { code: PH, deaths: 372 }
+  - { code: TH, deaths: 276 }
+related:
+  [
+    myanmar-earthquake-2025,
+    afghanistan-earthquake-2025,
+    los-angeles-wildfires-2025,
+    texas-floods-2025,
+  ]
+sources:
+  - title: "2025 Disasters in Numbers: Earth, Wind and Fire"
+    publisher: Centre for Research on the Epidemiology of Disasters (CRED)
+    url: https://files.emdat.be/reports/2025_EMDAT_report.pdf
+    accessed: "2026-10-22"
+  - title: "2025 disasters in numbers: Earth, wind and fire"
+    publisher: PreventionWeb (UNDRR)
+    url: https://www.preventionweb.net/publication/documents-and-publications/2025-disasters-numbers-earth-wind-and-fire
+    accessed: "2026-10-22"
+reviewed: false

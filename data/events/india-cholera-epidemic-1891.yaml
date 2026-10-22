@@ -1,0 +1,32 @@
+id: india-cholera-epidemic-1891
+title:
+  en: 1891 India cholera epidemic
+  fr: Épidémie de choléra de 1891 en Inde
+description:
+  en: >-
+    Severe cholera epidemic in British India during the fifth cholera pandemic, with the highest cholera mortality recorded there since 1877. Outbreaks among Hindu pilgrims returning from a bathing festival in Bengal spread the disease across northern India, with the heaviest toll in Assam, Bengal and present-day Uttar Pradesh. In March 1892 cholera broke out at the Haridwar fair; carried by pilgrims, the Transcaspian railway and Volga steamers, it reached Kabul, Persia, Russia and Hamburg within five months, starting the great European epidemic of 1892.
+  fr: >-
+    Grave épidémie de choléra en Inde britannique pendant la cinquième pandémie de choléra, la plus meurtrière qu’on y ait enregistrée depuis 1877. Des flambées parmi les pèlerins hindous revenant d’une fête de bains rituels au Bengale ont propagé la maladie dans tout le nord de l’Inde, surtout en Assam, au Bengale et dans l’actuel Uttar Pradesh. En mars 1892, le choléra a éclaté à la foire de Haridwar ; porté par les pèlerins, le chemin de fer transcaspien et les vapeurs de la Volga, il a atteint Kaboul, la Perse, la Russie et Hambourg en cinq mois.
+categories: [epidemic]
+kind: event
+start: "1891"
+deaths:
+  best: 601603
+  note:
+    en: >-
+      Recorded deaths. Best is the 601,603 cholera deaths recorded in India in 1891 given by the 1911 Encyclopaedia Britannica. It covers the whole calendar year and all of British India, whose territory also included present-day Pakistan and Bangladesh, and it includes the cholera deaths India recorded every year, not only the epidemic excess. Wikipedia, citing Kohn's Encyclopedia of Plague and Pestilence, gives more than 580,000 cholera deaths in Assam, Bengal and Uttar Pradesh alone.
+    fr: >-
+      Décès enregistrés. L’estimation retenue est le chiffre de 601 603 morts du choléra enregistrés en Inde en 1891, donné par l’Encyclopaedia Britannica de 1911. Il couvre toute l’année et toute l’Inde britannique, dont le territoire comprenait aussi l’actuel Pakistan et l’actuel Bangladesh, et inclut les morts du choléra enregistrés chaque année, pas seulement la surmortalité épidémique. Wikipédia, d’après l’Encyclopedia of Plague and Pestilence de Kohn, donne plus de 580 000 morts du choléra pour l’Assam, le Bengale et l’Uttar Pradesh seulement.
+countries:
+  - { code: IN, deaths: 601603 }
+related: [russia-cholera-epidemic-1847, spain-cholera-epidemic-1854, sixth-cholera-pandemic]
+sources:
+  - title: 1881-1896 cholera pandemic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1881%E2%80%931896_cholera_pandemic
+    accessed: "2026-10-22"
+  - title: Cholera (1911 Encyclopaedia Britannica)
+    publisher: Encyclopaedia Britannica, 11th edition (via Wikisource)
+    url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cholera
+    accessed: "2026-10-22"
+reviewed: false

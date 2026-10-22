@@ -1,0 +1,37 @@
+id: battle-of-mosul-2016
+title:
+  en: Battle of Mosul (2016-2017)
+  fr: Bataille de Mossoul (2016-2017)
+description:
+  en: >-
+    Offensive by Iraqi government forces, Kurdish Peshmerga and allied militias, supported by US-led coalition air strikes, to retake Mosul, Iraq's second-largest city, from the Islamic State group, which had held it since 2014. Eastern Mosul fell in January 2017, and the battle for the densely built western side and its old city lasted until July. Civilians were trapped between Islamic State fighters, who used them as human shields and executed many, and heavy artillery and air strikes that destroyed much of the old city.
+  fr: >-
+    Offensive des forces irakiennes, des peshmergas kurdes et de milices alliées, appuyées par les frappes de la coalition menée par les États-Unis, pour reprendre Mossoul, deuxième ville d’Irak, à l’État islamique, qui la tenait depuis 2014. L’est de la ville tombe en janvier 2017 ; la bataille pour l’ouest densément bâti et sa vieille ville dure jusqu’en juillet. Les civils sont pris au piège entre les combattants de l’État islamique, qui s’en servent comme boucliers humains et en exécutent beaucoup, et l’artillerie et les frappes aériennes qui détruisent une grande partie de la vieille ville.
+categories: [war]
+kind: event
+start: "2016-10-16"
+end: "2017-07-20"
+deaths:
+  best: 9606
+  low: 9000
+  high: 11000
+  note:
+    en: "Civilian deaths only. Best: 9,606, the list of people killed during the operation obtained by the Associated Press from Mosul's morgue; the AP's investigation put the civilian toll at 9,000 to 11,000 (low and high). Other estimates: a UN report counted at least 2,521 civilians killed, the Iraqi prime minister 1,260, while Kurdish intelligence reported to The Independent more than 40,000. Combatant deaths are not included: about 1,200 to 1,400 Iraqi government troops and, according to Iraqi officials, between 7,757 and more than 25,000 Islamic State fighters (via Wikipedia)."
+    fr: "Morts civiles uniquement. Estimation centrale : 9 606, liste des personnes tuées pendant l’opération obtenue par l’Associated Press auprès de la morgue de Mossoul ; l’enquête de l’AP évalue le bilan civil entre 9 000 et 11 000 (bas et haut). Autres estimations : un rapport de l’ONU compte au moins 2 521 civils tués, le Premier ministre irakien 1 260, et les services de renseignement kurdes cités par The Independent plus de 40 000. Les morts de combattants ne sont pas comprises : environ 1 200 à 1 400 soldats gouvernementaux irakiens et, selon des responsables irakiens, entre 7 757 et plus de 25 000 combattants de l’État islamique (via Wikipédia)."
+countries:
+  - { code: IQ, deaths: 9606 }
+partOf: war-in-iraq-2013
+sources:
+  - title: Battle of Mosul (2016-2017)
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Battle_of_Mosul_(2016%E2%80%932017)
+    accessed: "2026-10-22"
+  - title: "Mosul is a graveyard: Final IS battle kills 9,000 civilians"
+    publisher: Associated Press
+    url: https://apnews.com/article/middle-east-only-on-ap-islamic-state-group-bbea7094fb954838a2fdc11278d65460
+    accessed: "2026-10-22"
+  - title: "The massacre of Mosul: 40,000 feared dead in battle to take back city from Isis as scale of civilian casualties revealed"
+    publisher: The Independent
+    url: https://www.independent.co.uk/news/world/middle-east/mosul-massacre-battle-isis-iraq-city-civilian-casualties-killed-deaths-fighting-forces-islamic-state-a7848781.html
+    accessed: "2026-10-22"
+reviewed: false

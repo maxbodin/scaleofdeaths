@@ -1,0 +1,43 @@
+id: russo-turkish-war-1877
+title:
+  en: Russo-Turkish War (1877-1878)
+  fr: Guerre russo-turque de 1877-1878
+description:
+  en: >-
+    War between the Ottoman Empire and a coalition led by the Russian Empire, with Romania, Serbia, Montenegro and Bulgarian volunteers, after the Ottoman suppression of the April Uprising in Bulgaria. Russian forces crossed the Danube, were held for months at the siege of Plevna, then crossed the Balkans and reached the outskirts of Constantinople, while another front opened in the Caucasus. Disease killed more soldiers than battle, and Muslim and Bulgarian civilians were massacred or driven out. The war led to the independence of Romania, Serbia and Montenegro and an autonomous Bulgaria.
+  fr: >-
+    Guerre entre l’Empire ottoman et une coalition menée par la Russie, avec la Roumanie, la Serbie, le Monténégro et des volontaires bulgares, après la répression ottomane du soulèvement d’Avril en Bulgarie. Bloqués des mois au siège de Plevna, les Russes passent ensuite les Balkans et atteignent les abords de Constantinople, tandis qu’un autre front s’ouvre dans le Caucase. Les maladies tuent plus de soldats que les combats, et des civils musulmans et bulgares sont massacrés ou chassés. La guerre aboutit à l’indépendance de la Roumanie, de la Serbie et du Monténégro et à une Bulgarie autonome.
+categories: [war]
+kind: event
+start: "1877-04-24"
+end: "1878-03-03"
+deaths:
+  best: 285000
+  low: 215000
+  high: 500000
+  note:
+    en: "Best: 285,000 military deaths from all causes, the Correlates of War figures of 120,000 for Russia and 165,000 for the Ottoman Empire (also used by Eckhardt, via Necrometrics). Low: about 215,000, Matthew White's total from Clodfelter's figures (Necrometrics). High: 'not less than half a million' perished according to Brockett and Bliss (1878), a contemporary figure that includes civilians. Civilian deaths are mostly not in best: Justin McCarthy and Dennis Hupchick estimate some 260,000 Muslims dead or missing, and Leslie Rogne Schumacher between tens of thousands and over 200,000 Balkan Muslims killed (via Wikipedia)."
+    fr: "Estimation centrale : 285 000 morts militaires de toutes causes, chiffres du projet Correlates of War, 120 000 pour la Russie et 165 000 pour l’Empire ottoman (repris par Eckhardt, via Necrometrics). Bas : environ 215 000, total établi par Matthew White à partir des chiffres de Clodfelter (Necrometrics). Haut : « pas moins d’un demi-million » de morts selon Brockett et Bliss (1878), chiffre d’époque qui inclut des civils. Les morts civiles ne sont en général pas comprises dans l’estimation centrale : Justin McCarthy et Dennis Hupchick estiment quelque 260 000 musulmans morts ou disparus, et Leslie Rogne Schumacher entre des dizaines de milliers et plus de 200 000 musulmans des Balkans tués (via Wikipédia)."
+countries:
+  - { name: { en: Russian Empire, fr: Empire russe }, deaths: 120000 }
+  - { name: { en: Ottoman Empire, fr: Empire ottoman }, deaths: 165000 }
+  - { code: BG }
+  - { code: RO }
+  - { code: RS }
+  - { code: ME }
+  - { code: GE }
+  - { code: TR }
+sources:
+  - title: Russo-Turkish War (1877-1878)
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Russo-Turkish_War_(1877%E2%80%931878)
+    accessed: "2026-10-22"
+  - title: Inter-State War Data, v4.0 (war 61, Second Russo-Turkish)
+    publisher: Correlates of War Project
+    url: https://correlatesofwar.org/wp-content/uploads/Inter-StateWarData_v4.0.csv
+    accessed: "2026-10-22"
+  - title: Statistics of Wars, Oppressions and Atrocities of the Nineteenth Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/wars19c.htm
+    accessed: "2026-10-22"
+reviewed: false

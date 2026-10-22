@@ -1,0 +1,32 @@
+id: russian-famine-1891
+title:
+  en: Russian famine of 1891-1892
+  fr: Famine russe de 1891-1892
+description:
+  en: >-
+    Famine in the Russian Empire, sometimes called the Tsar famine, which began along the Volga and spread towards the Urals and the Black Sea, affecting provinces such as Nizhny Novgorod, Kazan, Simbirsk, Samara, Saratov, Penza, Tambov, Ryazan and Tula. Poor weather caused the crop failure of 1891, and weak transport links and a lack of grain reserves, linked to the government's export policy, hampered relief. The state spent heavily on aid, volunteers such as Leo Tolstoy organised relief, and cholera struck in 1892.
+  fr: >-
+    Famine dans l’Empire russe, parfois appelée « famine du tsar », partie de la Volga et étendue vers l’Oural et la mer Noire, qui a touché des provinces comme celles de Nijni Novgorod, Kazan, Simbirsk, Samara, Saratov, Penza, Tambov, Riazan et Toula. Le mauvais temps a provoqué l’échec des récoltes de 1891, et la faiblesse des transports comme le manque de réserves de grain, lié à la politique d’exportation du gouvernement, ont entravé les secours. L’État a beaucoup dépensé, des bénévoles comme Léon Tolstoï ont organisé l’aide, et le choléra a frappé en 1892.
+categories: [famine]
+kind: event
+start: "1891"
+end: "1892"
+deaths:
+  best: 400000
+  low: 375000
+  high: 1300000
+  note:
+    en: "Contested. Best and low: some historians estimate 375,000 to 400,000 deaths, mostly from diseases that accompanied the famine. Others argue that the crop failure itself caused few or no deaths and that the excess mortality of 1892 is explained by the cholera pandemic, which killed about 300,000 people in Russia that year. High: 1.3 million, the World Peace Foundation estimate for a longer famine period, 1891-1895. The affected provinces named in the sources are all in today's Russia; the per-country figure is the low end of the 375,000 to 400,000 range."
+    fr: "Bilan contesté. Valeur centrale et basse : certains historiens estiment les morts à 375 000 à 400 000, surtout dues aux maladies qui ont accompagné la famine. D’autres soutiennent que la mauvaise récolte elle-même n’a causé que peu ou pas de morts et que la surmortalité de 1892 s’explique par la pandémie de choléra, qui a tué environ 300 000 personnes en Russie cette année-là. Haut : 1,3 million, estimation de la World Peace Foundation pour une période plus longue, 1891-1895. Les provinces touchées citées par les sources sont toutes dans l’actuelle Russie ; le chiffre par pays est le bas de la fourchette de 375 000 à 400 000."
+countries:
+  - { code: RU, deaths: 375000 }
+sources:
+  - title: Russian famine of 1891-1892
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Russian_famine_of_1891%E2%80%931892
+    accessed: "2026-10-22"
+  - title: Famines and the deaths in them
+    publisher: Our World in Data (World Peace Foundation data)
+    url: https://ourworldindata.org/grapher/famines-and-the-deaths-in-them
+    accessed: "2026-10-22"
+reviewed: false

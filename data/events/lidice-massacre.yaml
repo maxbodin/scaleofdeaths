@@ -1,0 +1,38 @@
+id: lidice-massacre
+title:
+  en: Lidice massacre
+  fr: Massacre de Lidice
+description:
+  en: >-
+    Destruction of the Czech village of Lidice, near Kladno in the German-occupied Protectorate of Bohemia and Moravia, on 10 June 1942, in reprisal for the assassination of Reinhard Heydrich. German forces shot all 173 men and boys aged 15 or over present in the village, deported the women to Ravensbrück concentration camp and sent most of the children to the Chełmno extermination camp in occupied Poland, where they were gassed; a few were given to German families for Germanisation. The village was burned and razed. Its ruins are now a memorial site.
+  fr: >-
+    Destruction du village tchèque de Lidice, près de Kladno, dans le protectorat de Bohême-Moravie occupé par l’Allemagne, le 10 juin 1942, en représailles à l’assassinat de Reinhard Heydrich. Les forces allemandes fusillent les 173 hommes et garçons de 15 ans et plus présents au village, déportent les femmes au camp de concentration de Ravensbrück et envoient la plupart des enfants au camp d’extermination de Chełmno, en Pologne occupée, où ils sont gazés ; quelques-uns sont confiés à des familles allemandes. Le village est incendié et rasé.
+categories: [genocide]
+kind: event
+partOf: second-world-war
+start: "1942-06-10"
+deaths:
+  best: 340
+  note:
+    en: >-
+      People from Lidice killed in the reprisal, approximately 340 according to Wikipedia, 192 men, 60 women and 88 children. This includes the 173 men shot in the village on 10 June 1942 (Lidice Memorial), men and women executed in the following weeks, the 53 women who died in the concentration camps and the children gassed at Chełmno, about 80 according to the US Holocaust Memorial Museum.
+    fr: >-
+      Habitants de Lidice tués lors des représailles, environ 340 selon Wikipédia, 192 hommes, 60 femmes et 88 enfants. Ce total comprend les 173 hommes fusillés au village le 10 juin 1942 (mémorial de Lidice), les hommes et femmes exécutés dans les semaines suivantes, les 53 femmes mortes dans les camps de concentration et les enfants gazés à Chełmno, environ 80 selon le musée du Mémorial de l’Holocauste des États-Unis.
+countries:
+  - { code: CZ }
+  - { code: PL }
+  - { code: DE }
+sources:
+  - title: Lidice massacre
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Lidice_massacre
+    accessed: "2026-10-22"
+  - title: Lidice
+    publisher: United States Holocaust Memorial Museum
+    url: https://encyclopedia.ushmm.org/content/en/article/lidice
+    accessed: "2026-10-22"
+  - title: History of the village Lidice
+    publisher: Lidice Memorial
+    url: https://www.lidice-memorial.cz/en/memorial/memorial-and-reverent-area/history-of-the-village-lidice/
+    accessed: "2026-10-22"
+reviewed: false

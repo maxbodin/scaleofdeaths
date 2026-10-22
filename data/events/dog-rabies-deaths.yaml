@@ -1,0 +1,36 @@
+id: dog-rabies-deaths
+title:
+  en: Deaths from rabies per year
+  fr: Décès dus à la rage par an
+description:
+  en: >-
+    Human deaths from rabies worldwide in one year, as modelled by the World Health Organization's Global Health Estimates. Rabies is a viral disease spread through the saliva of infected animals: dogs cause up to 99% of human cases, mostly through bites, and 40% of deaths are children under 15. Once symptoms appear it is virtually always fatal, yet it is preventable with dog vaccination and prompt post-exposure treatment. Most deaths occur in poor communities in Asia and Africa, where surveillance is weak and many cases are never diagnosed.
+  fr: >-
+    Décès humains dus à la rage dans le monde en un an, selon les estimations sanitaires mondiales de l’OMS. La rage est une maladie virale transmise par la salive d’animaux infectés : les chiens sont responsables de jusqu’à 99 % des cas humains, surtout par morsure, et 40 % des morts sont des enfants de moins de 15 ans. Une fois les symptômes apparus, elle est presque toujours mortelle, mais la vaccination des chiens et un traitement rapide après exposition l’évitent. La plupart des morts touchent des communautés pauvres d’Asie et d’Afrique, où la surveillance est faible.
+categories: [annual, epidemic]
+kind: endemic-total
+start: "2021"
+end: "2021"
+deaths:
+  best: 44203
+  note:
+    en: >-
+      WHO rabies fact sheet: according to the 2021 Global Health Estimates model, rabies causes 44,203 deaths a year; WHO adds that the true number is uncertain and likely substantially underreported. This counts rabies from all animals, of which dogs cause up to 99%. No range is published with it. An earlier study of dog-mediated rabies alone (Hampson et al., PLOS Neglected Tropical Diseases, 2015) estimated about 59,000 deaths a year (95% CI 25,000 to 159,000) around 2010, with India accounting for about 35% (some 20,800 deaths); no per-country figures are available for 2021, so India is listed without a number.
+    fr: >-
+      Fiche de l’OMS sur la rage : selon le modèle des estimations sanitaires mondiales 2021, la rage cause 44 203 décès par an ; l’OMS ajoute que le chiffre réel est incertain et probablement très sous-déclaré. Cela inclut la rage transmise par tous les animaux, dont les chiens représentent jusqu’à 99 %. Aucune fourchette n’est publiée. Une étude antérieure sur la seule rage canine (Hampson et al., PLOS Neglected Tropical Diseases, 2015) estimait environ 59 000 décès par an (IC 95 % : 25 000 à 159 000) vers 2010, dont environ 35 % en Inde (quelque 20 800 décès) ; aucun chiffre par pays n’existe pour 2021, l’Inde est donc listée sans nombre.
+countries:
+  - { code: IN }
+sources:
+  - title: Rabies fact sheet
+    publisher: World Health Organization
+    url: https://www.who.int/news-room/fact-sheets/detail/rabies
+    accessed: "2026-10-22"
+  - title: Estimating the Global Burden of Endemic Canine Rabies (Hampson et al., 2015)
+    publisher: PLOS Neglected Tropical Diseases
+    url: https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0003709
+    accessed: "2026-10-22"
+  - title: Rabies
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Rabies
+    accessed: "2026-10-22"
+reviewed: false

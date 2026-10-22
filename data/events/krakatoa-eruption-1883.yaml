@@ -1,0 +1,33 @@
+id: krakatoa-eruption-1883
+title:
+  en: 1883 eruption of Krakatoa
+  fr: Éruption du Krakatoa en 1883
+description:
+  en: >-
+    Krakatoa, a volcanic island in the Sunda Strait between Java and Sumatra, then part of the Dutch East Indies, had been erupting since May 1883 when the eruption reached its climax on 26 and 27 August. A series of enormous explosions on 27 August destroyed most of the island, and one of them is the loudest sound known in history. Pyroclastic flows crossed the sea to southern Sumatra, but most victims were killed by the tsunamis that swept the coasts of the strait, wiping out towns and villages.
+  fr: >-
+    Le Krakatoa, île volcanique du détroit de la Sonde entre Java et Sumatra, alors dans les Indes orientales néerlandaises, était en éruption depuis mai 1883 lorsque l’éruption a atteint son paroxysme les 26 et 27 août. Une série d’explosions gigantesques, le 27 août, a détruit la majeure partie de l’île ; l’une d’elles est le son le plus fort connu de l’histoire. Des coulées pyroclastiques ont traversé la mer jusqu’au sud de Sumatra, mais la plupart des victimes ont été emportées par les tsunamis qui ont ravagé les côtes du détroit, rasant villes et villages.
+categories: [natural-disaster]
+kind: event
+start: "1883-08-26"
+end: "1883-08-27"
+deaths:
+  best: 36417
+  note:
+    en: >-
+      Official death toll reported at the time (Wikipedia), also recorded by NOAA. According to NOAA, about 2,000 people were killed by the eruption itself, mainly by pyroclastic flows in southern Sumatra, and the rest by the tsunamis. One death was reported in Sri Lanka.
+    fr: >-
+      Bilan officiel établi à l’époque (Wikipédia), également retenu par la NOAA. Selon la NOAA, environ 2 000 personnes ont été tuées par l’éruption elle-même, surtout par les coulées pyroclastiques dans le sud de Sumatra, et les autres par les tsunamis. Un mort a été signalé au Sri Lanka.
+countries:
+  - { code: ID, deaths: 36417 }
+  - { code: LK }
+sources:
+  - title: 1883 eruption of Krakatoa
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1883_eruption_of_Krakatoa
+    accessed: "2026-10-22"
+  - title: "Global Significant Volcanic Eruptions Database: Krakatau, 1883"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/volcanoes?minYear=1883&maxYear=1883&country=Indonesia
+    accessed: "2026-10-22"
+reviewed: false

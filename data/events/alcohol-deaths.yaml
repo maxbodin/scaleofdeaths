@@ -1,0 +1,41 @@
+id: alcohol-deaths
+title:
+  en: Deaths from alcohol per year
+  fr: Décès dus à l’alcool par an
+description:
+  en: >-
+    Deaths worldwide in one year caused by alcohol consumption, as estimated by the World Health Organization. Alcohol plays a causal role in more than 200 diseases and injuries; the deaths counted include noncommunicable diseases such as cancers, liver disease and heart disease, injuries such as road crashes, violence and suicide, and infectious diseases such as tuberculosis. Men account for about three quarters of the deaths, and the highest death rates are in WHO's European and African regions. Alcohol-attributable death rates fell by about a fifth between 2010 and 2019.
+  fr: >-
+    Décès causés par la consommation d’alcool dans le monde en un an, selon l’estimation de l’Organisation mondiale de la santé. L’alcool joue un rôle causal dans plus de 200 maladies et traumatismes ; sont comptés des décès par maladies non transmissibles comme les cancers, les maladies du foie et du cœur, par traumatismes comme les accidents de la route, la violence et le suicide, et par maladies infectieuses comme la tuberculose. Les hommes représentent environ les trois quarts des morts, et les taux les plus élevés se trouvent dans les régions européenne et africaine de l’OMS.
+categories: [annual]
+kind: endemic-total
+start: "2019"
+end: "2019"
+deaths:
+  best: 2600000
+  note:
+    en: >-
+      WHO alcohol fact sheet: around 2.6 million deaths were caused by alcohol consumption in 2019, the latest year WHO reports (1.6 million from noncommunicable diseases, 700,000 from injuries and 300,000 from communicable diseases; 2 million men and 600,000 women). These are attributable deaths, estimated from consumption data and disease risks; no range is given. Per-country figures are WHO's Global Health Observatory estimates of alcohol-attributable deaths in 2019 for the ten countries with the most deaths, rounded to whole numbers.
+    fr: >-
+      Fiche de l’OMS sur l’alcool : environ 2,6 millions de décès ont été causés par la consommation d’alcool en 2019, dernière année publiée (1,6 million par maladies non transmissibles, 700 000 par traumatismes et 300 000 par maladies transmissibles ; 2 millions d’hommes et 600 000 femmes). Ce sont des décès attribuables, estimés à partir de la consommation et des risques de maladie ; aucune fourchette n’est donnée. Les chiffres par pays sont les estimations de l’Observatoire mondial de la santé de l’OMS pour 2019, arrondies à l’unité, pour les dix pays les plus touchés.
+countries:
+  - { code: IN, deaths: 482050 }
+  - { code: RU, deaths: 323143 }
+  - { code: CN, deaths: 295783 }
+  - { code: US, deaths: 149867 }
+  - { code: UA, deaths: 119250 }
+  - { code: BR, deaths: 91927 }
+  - { code: NG, deaths: 62236 }
+  - { code: VN, deaths: 55429 }
+  - { code: JP, deaths: 51446 }
+  - { code: DE, deaths: 46244 }
+sources:
+  - title: Alcohol fact sheet
+    publisher: World Health Organization
+    url: https://www.who.int/news-room/fact-sheets/detail/alcohol
+    accessed: "2026-10-22"
+  - title: "Global Health Observatory: alcohol-attributable all-cause deaths, all ages, number (SA_0000001844)"
+    publisher: World Health Organization
+    url: https://ghoapi.azureedge.net/api/SA_0000001844?$filter=Dim1%20eq%20'SEX_BTSX'
+    accessed: "2026-10-22"
+reviewed: false

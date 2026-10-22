@@ -1,0 +1,32 @@
+id: sharpeville-massacre
+title:
+  en: Sharpeville massacre
+  fr: Massacre de Sharpeville
+description:
+  en: >-
+    Police shooting of a crowd of about 5,000 people gathered outside the police station in the township of Sharpeville, South Africa, on 21 March 1960, during a campaign of the Pan Africanist Congress against the apartheid pass laws. Protesters had left their passes at home to invite arrest. Police opened fire without warning, shooting many people in the back as they fled. After nationwide protests, the government declared a state of emergency and detained more than 18,000 people. 21 March is now Human Rights Day in South Africa.
+  fr: >-
+    Fusillade par la police d’une foule d’environ 5 000 personnes rassemblées devant le commissariat du township de Sharpeville (Afrique du Sud), le 21 mars 1960, lors d’une campagne du Congrès panafricain (PAC) contre les lois sur les laissez-passer de l’apartheid. Les manifestants avaient laissé leur laissez-passer chez eux pour se faire arrêter. La police ouvre le feu sans sommation, touchant beaucoup de gens dans le dos alors qu’ils s’enfuyaient. Après des manifestations dans tout le pays, le gouvernement proclame l’état d’urgence et fait arrêter plus de 18 000 personnes.
+categories: [genocide]
+kind: event
+start: "1960-03-21"
+deaths:
+  best: 69
+  high: 91
+  note:
+    en: >-
+      Protesters and bystanders shot dead by the police. Best is the long-standing figure of 69 dead from the police record and the official inquest, which also counted 180 wounded (South African History Online, Wikipedia). High is the at least 91 people killed found by more recent research (Wikipedia).
+    fr: >-
+      Manifestants et passants tués par les tirs de la police. L’estimation centrale est le chiffre de 69 morts établi de longue date d’après le registre de la police et l’enquête officielle, qui comptait aussi 180 blessés (South African History Online, Wikipédia). Le haut correspond aux au moins 91 morts établis par des recherches plus récentes (Wikipédia).
+countries:
+  - { code: ZA, deaths: 69 }
+sources:
+  - title: Sharpeville massacre
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Sharpeville_massacre
+    accessed: "2026-10-22"
+  - title: Sharpeville Massacre, 21 March 1960
+    publisher: South African History Online
+    url: https://www.sahistory.org.za/article/sharpeville-massacre-21-march-1960
+    accessed: "2026-10-22"
+reviewed: false

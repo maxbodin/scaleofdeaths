@@ -1,0 +1,34 @@
+id: camp-speicher-massacre
+title:
+  en: Camp Speicher massacre
+  fr: Massacre du camp Speicher
+description:
+  en: >-
+    Mass execution by the Islamic State group of Iraqi soldiers, cadets and volunteers who had left the Tikrit Air Academy at Camp Speicher after the group seized Tikrit in June 2014. The captives were separated by sect, and the Shia men were taken to the former Presidential Palace Complex in Tikrit and shot over at least three days; bodies were buried in mass graves or thrown into the Tigris, and the group filmed the killings. A UN investigative team (UNITAD) found reasonable grounds to believe they were committed with genocidal intent. Iraq hanged 36 men convicted over the massacre in 2016.
+  fr: >-
+    Exécution de masse par l’organisation État islamique de soldats, d’élèves officiers et de volontaires irakiens qui avaient quitté l’académie de l’armée de l’air du camp Speicher après la prise de Tikrit en juin 2014. Les captifs furent triés selon leur confession, et les chiites emmenés dans l’ancien complexe des palais présidentiels de Tikrit et fusillés pendant au moins trois jours ; les corps furent jetés dans des fosses communes ou dans le Tigre, et l’organisation diffusa des vidéos des tueries. L’équipe d’enquête de l’ONU (UNITAD) y voit une intention génocidaire.
+categories: [genocide]
+kind: event
+partOf: war-in-iraq-2013
+start: "2014-06-12"
+end: "2014-06-14"
+deaths:
+  best: 1700
+  low: 1095
+  note:
+    en: >-
+      Captives killed at the Presidential Palace Complex in Tikrit. Best is the figure of around 1,700 that the UN Investigative Team (UNITAD) considers reasonable, matching the number announced by the Islamic State group; the remains of 1,237 victims have been recovered there, and the number of dead or missing Tikrit Air Academy personnel is set at 2,156, some of whom may have been taken elsewhere (UNITAD, 2024). Low is the lower end of the confirmed toll of 1,095 to 1,566 given by Wikipedia; 1,095 is the number of missing soldiers and cadets reported by Iraq's human rights ministry in September 2014.
+    fr: >-
+      Captifs tués au complexe des palais présidentiels de Tikrit. L’estimation centrale est le chiffre d’environ 1 700 morts que l’équipe d’enquête de l’ONU (UNITAD) juge raisonnable, conforme au nombre annoncé par l’organisation État islamique ; les restes de 1 237 victimes y ont été exhumés, et le nombre de morts ou disparus parmi le personnel de l’académie de Tikrit est fixé à 2 156, dont certains ont pu être emmenés ailleurs (UNITAD, 2024). Le bas est la borne basse du bilan confirmé de 1 095 à 1 566 morts donné par Wikipédia ; 1 095 est le nombre de soldats et d’élèves officiers disparus annoncé par le ministère irakien des Droits de l’homme en septembre 2014.
+countries:
+  - { code: IQ, deaths: 1700 }
+sources:
+  - title: Camp Speicher massacre
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Camp_Speicher_massacre
+    accessed: "2026-10-22"
+  - title: "Camp Speicher: A Pattern of Mass Killing and Genocidal Intent"
+    publisher: United Nations Investigative Team (UNITAD)
+    url: https://iraq.un.org/sites/default/files/2024-06/camp_speicher-pattern_of_mass_killing_and_genocidal_intend_en.pdf
+    accessed: "2026-10-22"
+reviewed: false

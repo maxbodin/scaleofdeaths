@@ -1,0 +1,38 @@
+id: sahel-famine-1968
+title:
+  en: Sahel famine of 1968-1974
+  fr: Famine du Sahel de 1968-1974
+description:
+  en: >-
+    Famine in the West African Sahel during the Great Sahelian drought, which struck Mauritania, Mali, Chad, Niger and Upper Volta (now Burkina Faso) hardest. As rains failed year after year, grazing became impossible and about a third of the livestock died, devastating nomadic herding communities. The crisis prompted the first large mobilisation of external aid to the region and led the United Nations to create the International Fund for Agricultural Development.
+  fr: >-
+    Famine dans le Sahel ouest-africain pendant la grande sécheresse sahélienne, qui a surtout frappé la Mauritanie, le Mali, le Tchad, le Niger et la Haute-Volta (l’actuel Burkina Faso). Les pluies manquant année après année, le pâturage est devenu impossible et environ un tiers du bétail est mort, dévastant les communautés d’éleveurs nomades. La crise a suscité la première grande mobilisation d’aide extérieure dans la région et conduit les Nations unies à créer le Fonds international de développement agricole.
+categories: [famine]
+kind: event
+start: "1968"
+end: "1974"
+deaths:
+  best: 101200
+  note:
+    en: "Excess deaths among nomadic communities. Best: about 101,200, the estimate by the US Centers for Disease Control used by the World Peace Foundation (shown as 101,000 by Our World in Data); the World Peace Foundation does not add the smaller estimate for the settled population. Wikipedia similarly reports that up to 100,000 people died."
+    fr: "Surmortalité parmi les communautés nomades. Valeur centrale : environ 101 200, estimation des Centers for Disease Control américains retenue par la World Peace Foundation (arrondie à 101 000 par Our World in Data) ; la World Peace Foundation n’y ajoute pas l’estimation, plus faible, pour la population sédentaire. Wikipédia indique de même que jusqu’à 100 000 personnes sont mortes."
+countries:
+  - { code: MR }
+  - { code: ML }
+  - { code: TD }
+  - { code: NE }
+  - { code: BF }
+sources:
+  - title: Sahel drought
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Sahel_drought
+    accessed: "2026-10-22"
+  - title: Famine Datasets Methodological Annex
+    publisher: World Peace Foundation
+    url: https://worldpeacefoundation.org/wp-content/uploads/2025/03/Famine-dataset-Methods-Annex-d1.pdf
+    accessed: "2026-10-22"
+  - title: Famines and the deaths in them
+    publisher: Our World in Data (World Peace Foundation data)
+    url: https://ourworldindata.org/grapher/famines-and-the-deaths-in-them
+    accessed: "2026-10-22"
+reviewed: false

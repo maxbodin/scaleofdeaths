@@ -1,0 +1,37 @@
+id: oradour-sur-glane-massacre
+title:
+  en: Oradour-sur-Glane massacre
+  fr: Massacre d’Oradour-sur-Glane
+description:
+  en: >-
+    Massacre of the inhabitants of the village of Oradour-sur-Glane, in Haute-Vienne in German-occupied France, on 10 June 1944, four days after D-Day, by a company of the 2nd SS Panzer Division Das Reich. The men were taken to barns and sheds, shot and set on fire; the women and children were herded into the church, which was set on fire, and those trying to escape were machine-gunned. The village was looted and burned, and only a handful of people survived. Charles de Gaulle ordered the ruins to be preserved as a permanent memorial.
+  fr: >-
+    Massacre des habitants du village d’Oradour-sur-Glane, en Haute-Vienne, dans la France occupée, le 10 juin 1944, quatre jours après le débarquement, par une compagnie de la 2e division SS Panzer Das Reich. Les hommes sont conduits dans des granges, mitraillés puis brûlés ; les femmes et les enfants sont enfermés dans l’église, incendiée, et ceux qui tentent de fuir sont abattus. Le village est pillé et incendié ; seule une poignée d’habitants survit. Le général de Gaulle fait conserver les ruines comme mémorial.
+categories: [genocide]
+kind: event
+partOf: second-world-war
+start: "1944-06-10"
+deaths:
+  best: 643
+  low: 642
+  note:
+    en: >-
+      Civilians killed, men, women and children, including people who were only passing through the village. Best is the toll of 643 dead commonly used at commemorations (RFI); low is the 642 people recorded as murdered according to Wikipedia, which notes that the dead included 17 Spanish citizens, and the Lidice Memorial.
+    fr: >-
+      Civils tués, hommes, femmes et enfants, dont des personnes de passage dans le village. L’estimation centrale est le bilan de 643 morts couramment retenu lors des commémorations (RFI) ; le bas correspond aux 642 personnes recensées comme assassinées selon Wikipédia, qui précise que les victimes comprenaient 17 Espagnols, et le mémorial de Lidice.
+countries:
+  - { code: FR, deaths: 643 }
+sources:
+  - title: Oradour-sur-Glane massacre
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Oradour-sur-Glane_massacre
+    accessed: "2026-10-22"
+  - title: French, German presidents mark 80th anniversary of martyred village
+    publisher: RFI
+    url: https://www.rfi.fr/en/france/20240610-french-german-presidents-mark-80th-anniversary-of-martyred-village
+    accessed: "2026-10-22"
+  - title: Oradour-sur-Glane Tragedy (exhibition)
+    publisher: Lidice Memorial
+    url: https://www.lidice-memorial.cz/en/exhibitions-and-events/on-tour/oradour-sur-glane-tragedy/
+    accessed: "2026-10-22"
+reviewed: false

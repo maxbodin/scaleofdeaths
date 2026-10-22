@@ -1,0 +1,36 @@
+id: northern-chinese-famine-1876
+title:
+  en: Northern Chinese Famine of 1876-1879
+  fr: Grande famine de la Chine du Nord (1876-1879)
+description:
+  en: >-
+    Famine in northern China under the Qing dynasty, also known as the Dingwu famine, caused by a drought that began in 1875 and was worsened by the 1877-1878 El Niño, bringing years of crop failure. Shanxi was the worst-hit province, followed by Zhili (now Hebei), Henan and Shandong, with remote rural districts suffering most. Foreign missionaries and businesses organised an international relief effort that reached millions of people in Shanxi alone.
+  fr: >-
+    Famine dans le nord de la Chine sous la dynastie Qing, aussi appelée famine Dingwu, causée par une sécheresse commencée en 1875 et aggravée par l’El Niño de 1877-1878, qui a entraîné des années de mauvaises récoltes. Le Shanxi a été la province la plus touchée, devant le Zhili (l’actuel Hebei), le Henan et le Shandong, les districts ruraux isolés souffrant le plus. Des missionnaires et des entreprises étrangères ont organisé des secours internationaux qui ont atteint des millions de personnes dans le seul Shanxi.
+categories: [famine]
+kind: event
+start: "1876"
+end: "1879"
+deaths:
+  best: 9500000
+  high: 13000000
+  note:
+    en: "Deaths from starvation and disease. Best: 9.5 million, the contemporary total reported in 1879 by the British consul R. J. Forrest (5.5 million in Shanxi, 2.5 million in Zhili, 1 million in Henan and 0.5 million in Shandong), also used by the World Peace Foundation. High: 13 million, the top of the 9.5 to 13 million range given by Wikipedia and by Ó Gráda. The census drop of about 23 million people includes famine migration as well as deaths."
+    fr: "Morts de faim et de maladie. Valeur centrale : 9,5 millions, total rapporté en 1879 par le consul britannique R. J. Forrest (5,5 millions au Shanxi, 2,5 millions au Zhili, 1 million au Henan et 0,5 million au Shandong), également retenu par la World Peace Foundation. Haut : 13 millions, haut de la fourchette de 9,5 à 13 millions donnée par Wikipédia et par Ó Gráda. La baisse d’environ 23 millions d’habitants dans les recensements inclut les migrations de famine en plus des morts."
+countries:
+  - { code: CN, deaths: 9500000 }
+related: [great-famine-1876]
+sources:
+  - title: Northern Chinese Famine of 1876-1879
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Northern_Chinese_Famine_of_1876%E2%80%931879
+    accessed: "2026-10-22"
+  - title: Famines and the deaths in them
+    publisher: Our World in Data (World Peace Foundation data)
+    url: https://ourworldindata.org/grapher/famines-and-the-deaths-in-them
+    accessed: "2026-10-22"
+  - title: Making Famine History (Cormac Ó Gráda)
+    publisher: Journal of Economic Literature (UCD Research Repository)
+    url: https://researchrepository.ucd.ie/server/api/core/bitstreams/f57a2154-08a1-44a8-b865-75d1d51a4fcb/content
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,34 @@
+id: rajputana-famine-1869
+title:
+  en: Rajputana famine of 1869
+  fr: Famine du Rajputana de 1869
+description:
+  en: >-
+    Famine across western and northern India after the 1868 monsoon came late and stopped in August. It was worst in the princely states of Rajputana, especially Marwar and Bikaner, and in British Ajmer, and also struck Central India, the North-Western Provinces, the Punjab, Gujarat and the northern Deccan. With no fodder or water, grain could only arrive by camel, and about a million of Marwar's 1.5 million people emigrated with their herds. Cholera, locusts that destroyed the 1869 harvest and a fever epidemic followed before the famine ended in 1870.
+  fr: >-
+    Famine dans l’ouest et le nord de l’Inde après une mousson de 1868 tardive et interrompue dès août. Elle a été la plus grave dans les États princiers du Rajputana, surtout le Marwar et le Bikaner, et dans l’Ajmer britannique, et a aussi frappé l’Inde centrale, les Provinces du Nord-Ouest, le Pendjab, le Gujarat et le nord du Deccan. Sans fourrage ni eau, le grain ne pouvait arriver qu’à dos de chameau, et environ un million des 1,5 million d’habitants du Marwar ont émigré avec leurs troupeaux. Choléra, criquets ravageant la récolte de 1869 et fièvres ont suivi jusqu’en 1870.
+categories: [famine]
+kind: event
+start: "1868"
+end: "1870"
+deaths:
+  best: 1200000
+  note:
+    en: "Excess deaths, mainly from cholera, smallpox and fever. Best: about 1.2 million, the 1880 Indian Famine Commission's estimate of excess mortality in the British North-Western Provinces and Punjab alone, based on very imperfect vital statistics. It is a minimum: no records exist for the princely states of Rajputana, where the Imperial Gazetteer of India describes the mortality as dreadful. Wikipedia's figure of over 1.5 million deaths in Rajputana is attributed to the Imperial Gazetteer, which does not state it (the 1.5 million it gives is Marwar's population), so it is not used."
+    fr: "Surmortalité, surtout due au choléra, à la variole et aux fièvres. Valeur centrale : environ 1,2 million, estimation par la commission indienne des famines de 1880 de la surmortalité dans les seules Provinces du Nord-Ouest et le Pendjab britanniques, à partir de statistiques d’état civil très imparfaites. C’est un minimum : il n’existe aucun relevé pour les États princiers du Rajputana, où l’Imperial Gazetteer of India qualifie la mortalité d’effroyable. Le chiffre de plus de 1,5 million de morts au Rajputana donné par Wikipédia est attribué à l’Imperial Gazetteer, qui ne l’indique pas (le 1,5 million qu’il cite est la population du Marwar) ; il n’est donc pas retenu."
+countries:
+  - { code: IN, deaths: 1200000 }
+sources:
+  - title: Rajputana famine of 1869
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Rajputana_famine_of_1869
+    accessed: "2026-10-22"
+  - title: "Report of the Indian Famine Commission, Part I (1880)"
+    publisher: Government of India (Internet Archive)
+    url: https://archive.org/details/FamineCommission
+    accessed: "2026-10-22"
+  - title: "Imperial Gazetteer of India, vol. III: The Indian Empire, Economic (1907)"
+    publisher: Clarendon Press (Internet Archive)
+    url: https://archive.org/details/imperialgazettee03grea
+    accessed: "2026-10-22"
+reviewed: false

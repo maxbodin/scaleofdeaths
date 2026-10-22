@@ -1,0 +1,36 @@
+id: guatemalan-genocide
+title:
+  en: Guatemalan genocide
+  fr: Génocide guatémaltèque
+description:
+  en: >-
+    Mass killing of Maya people by the Guatemalan army and allied militias during the civil war, also called the Silent Holocaust. Accusing Maya communities of supporting the guerrillas, the military carried out scorched-earth campaigns in the western highlands, including at least 626 massacres. The killing peaked in 1981-1983, under Lucas García and then Ríos Montt. In 1999 the UN-sponsored truth commission concluded that state agents had committed acts of genocide against Maya groups in four regions during counter-insurgency operations in 1981-1983.
+  fr: >-
+    Massacres de populations mayas par l’armée guatémaltèque et des milices alliées pendant la guerre civile, aussi appelés « Holocauste silencieux ». Accusant les communautés mayas de soutenir la guérilla, l’armée mène des campagnes de terre brûlée dans les hautes terres de l’Ouest, avec au moins 626 massacres. Les tueries culminent en 1981-1983, sous Lucas García puis Ríos Montt. En 1999, la commission de vérité parrainée par l’ONU conclut que des agents de l’État ont commis des actes de génocide contre des groupes mayas de quatre régions lors d’opérations de contre-insurrection en 1981-1983.
+categories: [genocide]
+kind: event
+partOf: guatemalan-civil-war
+start: "1981"
+end: "1983"
+deaths:
+  best: 100000
+  high: 150000
+  note:
+    en: Civilians killed in 1981-1983, the peak of the killing, most of them Maya. Best is historian Greg Grandin's figure of over 100,000 Maya peasants executed in 1981-1983, and high is the top of Susanne Jonas's 100,000 to 150,000 civilian deaths for the same years (both cited by the World Peace Foundation). The truth commission estimated that 81% of the war's more than 200,000 victims were killed in 1981-1983, which Wikipedia turns into 162,000 deaths, including 134,600 Maya. Documented counts are much lower (the CIIDH database records 23,857 deaths and disappearances for these years). Deaths in earlier and later massacres of Maya are not included.
+    fr: Civils tués en 1981-1983, au plus fort des tueries, pour la plupart mayas. L’estimation centrale correspond aux plus de 100 000 paysans mayas exécutés en 1981-1983 selon l’historien Greg Grandin, et le haut au sommet de la fourchette de 100 000 à 150 000 civils tués avancée par Susanne Jonas pour ces mêmes années (tous deux cités par la World Peace Foundation). La commission de vérité estime que 81 % des plus de 200 000 victimes de la guerre ont été tuées en 1981-1983, ce dont Wikipédia déduit 162 000 morts, dont 134 600 Mayas. Les décomptes nominatifs sont bien plus bas (la base de données du CIIDH recense 23 857 morts et disparus pour ces années). Les morts des massacres de Mayas antérieurs et postérieurs ne sont pas comptées.
+countries:
+  - { code: GT, deaths: 100000 }
+sources:
+  - title: Guatemalan genocide
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Guatemalan_genocide
+    accessed: "2026-10-22"
+  - title: "Guatemala (Mass Atrocity Endings, archived)"
+    publisher: World Peace Foundation
+    url: https://web.archive.org/web/20240106080409/https://sites.tufts.edu/atrocityendings/2015/08/07/guatemala/
+    accessed: "2026-10-22"
+  - title: "Guatemala: Memory of Silence, Conclusions II (archived)"
+    publisher: Commission for Historical Clarification (CEH), via AAAS
+    url: https://web.archive.org/web/20111226012013/http://shr.aaas.org/guatemala/ceh/report/english/conc2.html
+    accessed: "2026-10-22"
+reviewed: false

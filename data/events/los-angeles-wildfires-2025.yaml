@@ -1,0 +1,37 @@
+id: los-angeles-wildfires-2025
+title:
+  en: January 2025 Los Angeles wildfires
+  fr: Incendies de janvier 2025 à Los Angeles
+description:
+  en: >-
+    From 7 January 2025, hurricane-force Santa Ana winds, drought and abundant dry vegetation drove a series of wildfires across the Los Angeles area. The two largest, the Palisades Fire in Pacific Palisades and the Eaton Fire in Altadena, burned more than 50,000 acres and destroyed nearly 16,000 homes and businesses before being contained on 31 January. More than 200,000 people were evacuated. They were among the most destructive fires in California's history.
+  fr: >-
+    À partir du 7 janvier 2025, des vents de Santa Ana d’une force d’ouragan, la sécheresse et une végétation sèche abondante ont alimenté une série d’incendies dans la région de Los Angeles. Les deux plus grands, le Palisades Fire à Pacific Palisades et l’Eaton Fire à Altadena, ont brûlé plus de 20 000 hectares et détruit près de 16 000 maisons et commerces avant d’être maîtrisés le 31 janvier. Plus de 200 000 personnes ont été évacuées. Ce sont parmi les incendies les plus destructeurs de l’histoire de la Californie.
+categories: [natural-disaster]
+kind: event
+start: "2025-01-07"
+end: "2025-01-31"
+deaths:
+  best: 31
+  high: 440
+  note:
+    en: >-
+      Best is the 31 deaths directly caused by the fires, 19 in the Eaton Fire and 12 in the Palisades Fire, confirmed by the Los Angeles County Medical Examiner in July 2025. High is the 440 excess deaths in Los Angeles County from 5 January to 1 February 2025 that a study published in JAMA attributed to the fires, mostly through smoke exposure and disrupted health care (Boston University School of Public Health).
+    fr: >-
+      L’estimation centrale correspond aux 31 morts directement causées par les incendies, 19 dans l’Eaton Fire et 12 dans le Palisades Fire, confirmées par le médecin légiste du comté de Los Angeles en juillet 2025. L’estimation haute correspond aux 440 morts en excès dans le comté entre le 5 janvier et le 1er février 2025 qu’une étude publiée dans le JAMA attribue aux incendies, surtout par l’exposition aux fumées et la perturbation des soins (École de santé publique de l’université de Boston).
+countries:
+  - { code: US, deaths: 31 }
+sources:
+  - title: January 2025 Southern California wildfires
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/January_2025_Southern_California_wildfires
+    accessed: "2026-10-22"
+  - title: "Wildfires update: 31st death related to the January wildfires confirmed"
+    publisher: Los Angeles County Department of Medical Examiner
+    url: https://me.lacounty.gov/2025/press-releases/wildfires-update-31st-death-related-to-the-january-wildfires-confirmed/
+    accessed: "2026-10-22"
+  - title: Death Count for 2025 LA County Wildfires Likely Hundreds Higher than Official Records Show
+    publisher: Boston University School of Public Health
+    url: https://www.bu.edu/sph/news/articles/2025/death-count-for-2025-la-county-wildfires-likely-hundreds-higher-than-official-records-show/
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,32 @@
+id: ugandan-bush-war
+title:
+  en: Ugandan Bush War
+  fr: Guerre du Bush ougandais
+description:
+  en: >-
+    Civil war in Uganda between the government of Milton Obote and its army, the Uganda National Liberation Army (UNLA), and several rebel groups, chiefly Yoweri Museveni's National Resistance Army (NRA). It began with an insurgency by supporters of former dictator Idi Amin in 1980; the NRA took up arms in February 1981 after disputed elections returned Obote to power. The Luwero Triangle north of Kampala became the main theatre of the war, and most of the dead were civilians. Obote was overthrown in 1985, and the NRA captured Kampala in January 1986.
+  fr: >-
+    Guerre civile en Ouganda entre le gouvernement de Milton Obote et son armée (UNLA), et plusieurs groupes rebelles, surtout l’Armée de résistance nationale (NRA) de Yoweri Museveni. Elle commence en 1980 par une insurrection de partisans de l’ancien dictateur Idi Amin ; la NRA prend les armes en février 1981 après des élections contestées qui ramènent Obote au pouvoir. Le triangle de Luwero, au nord de Kampala, devient le principal théâtre de la guerre, et la plupart des morts sont des civils. Obote est renversé en 1985 et la NRA prend Kampala en janvier 1986.
+categories: [war]
+kind: event
+start: "1980-10-06"
+end: "1986-03"
+deaths:
+  best: 300000
+  low: 100000
+  high: 500000
+  note:
+    en: Military and civilian deaths, mostly civilians (SIPRI counted about 100,000 civilians and 5,000 to 6,000 soldiers killed in 1981-1987). Best is Matthew White's estimate (Necrometrics), the figure given by Edgerton, Bill Berkeley and Dan Smith, and the "conservative" 300,000 to 320,000 cited by Quinn (2009) from Ofcansky. The range is the 100,000 to 500,000 killed given on Wikipedia; 100,000 is also the figure of Encarta and The Guardian, and 500,000 that of Bercovitch and Jackson and the Associated Press.
+    fr: Morts militaires et civiles, surtout des civils (le SIPRI comptait environ 100 000 civils et 5 000 à 6 000 soldats tués en 1981-1987). L’estimation centrale est celle de Matthew White (Necrometrics), chiffre avancé par Edgerton, Bill Berkeley et Dan Smith, et les 300 000 à 320 000 morts, estimation « prudente », cités par Quinn (2009) d’après Ofcansky. La fourchette correspond aux 100 000 à 500 000 tués indiqués par Wikipédia ; 100 000 est aussi le chiffre d’Encarta et du Guardian, 500 000 celui de Bercovitch et Jackson et de l’Associated Press.
+countries:
+  - { code: UG, deaths: 300000 }
+sources:
+  - title: Ugandan Bush War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Ugandan_Bush_War
+    accessed: "2026-10-22"
+  - title: "Secondary Wars and Atrocities of the Twentieth Century: Ugandan Bush War (1979-86)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c300k.htm
+    accessed: "2026-10-22"
+reviewed: false

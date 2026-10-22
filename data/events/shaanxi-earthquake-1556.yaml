@@ -1,0 +1,38 @@
+id: shaanxi-earthquake-1556
+title:
+  en: 1556 Shaanxi earthquake
+  fr: Séisme de 1556 au Shaanxi
+description:
+  en: >-
+    An earthquake of estimated magnitude 7 to 8 struck the Wei River valley near Huaxian, Shaanxi, in Ming dynasty China in the early morning of 23 January 1556 (Julian calendar). Many people lived in yaodong, artificial caves dug into loess cliffs, which collapsed on those sleeping inside, and landslides and ground fissures added to the destruction. More than 97 counties in about ten provinces were affected, and in some counties up to 60% of the population was killed. It is often cited as the deadliest earthquake in history.
+  fr: >-
+    Un séisme de magnitude estimée entre 7 et 8 a frappé la vallée de la Wei, près de Huaxian (Shaanxi), dans la Chine des Ming, au petit matin du 23 janvier 1556 (calendrier julien). Beaucoup d’habitants vivaient dans des yaodong, habitations creusées dans des falaises de lœss, qui se sont effondrées sur les dormeurs, et glissements de terrain et crevasses ont aggravé les destructions. Plus de 97 districts d’une dizaine de provinces ont été touchés et, dans certains, jusqu’à 60 % de la population a péri. Il est souvent présenté comme le séisme le plus meurtrier de l’histoire.
+categories: [natural-disaster]
+kind: event
+start: "1556-01-23"
+deaths:
+  best: 830000
+  low: 100000
+  note:
+    en: Best is the toll of officials, soldiers and civilians recorded in the Ming official history, used by USGS and the NOAA NCEI database and the most often cited. China Earthquake Administration publications now put direct earthquake deaths at roughly 100,000 (low) and read 830,000 as the fall in registered population, which also counts people who later died of famine and disease or who fled. CEA scientists have estimated that the real toll was probably no more than 450,000 (530,000 in another study).
+    fr: L’estimation centrale est le bilan des fonctionnaires, soldats et civils consigné dans l’histoire officielle des Ming, repris par l’USGS et la base NCEI de la NOAA, et le plus cité. Les publications de l’Administration chinoise des séismes (CEA) estiment désormais les morts directes du séisme à environ 100 000 (bas de la fourchette) et voient dans les 830 000 la baisse de la population enregistrée, qui inclut aussi les morts ultérieures de famine et d’épidémies et les personnes enfuies. Des scientifiques de la CEA jugent que le bilan réel ne dépassait probablement pas 450 000 (530 000 selon une autre étude).
+countries:
+  - { code: CN, deaths: 830000 }
+sources:
+  - title: 1556 Shaanxi earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1556_Shaanxi_earthquake
+    accessed: "2026-10-22"
+  - title: Earthquakes with 50,000 or More Deaths (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20130507101448/http://earthquake.usgs.gov/earthquakes/world/most_destructive.php
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Shaanxi Province, event 732"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/732
+    accessed: "2026-10-22"
+  - title: "全国防灾减灾日：你不知道的地震冷知识"
+    publisher: China News Service
+    url: https://www.chinanews.com.cn/m/sh/shipin/cns/2020/05-11/news856088.shtml
+    accessed: "2026-10-22"
+reviewed: false

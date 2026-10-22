@@ -1,0 +1,29 @@
+id: oklahoma-city-bombing
+title:
+  en: Oklahoma City bombing
+  fr: Attentat d’Oklahoma City
+description:
+  en: >-
+    Truck bombing of the Alfred P. Murrah Federal Building in downtown Oklahoma City, United States, carried out by Timothy McVeigh, an extremist angered by the 1993 Waco siege, with the help of Terry Nichols. A rented truck packed with fertiliser and fuel explosives destroyed about a third of the building, which housed federal agencies and a day-care centre, and damaged more than 300 nearby buildings. It remains the deadliest act of domestic terrorism in US history. McVeigh was executed in 2001 and Nichols sentenced to life imprisonment.
+  fr: >-
+    Attentat au camion piégé contre le bâtiment fédéral Alfred P. Murrah, dans le centre d’Oklahoma City (États-Unis), commis par Timothy McVeigh, extrémiste révolté par le siège de Waco de 1993, avec l’aide de Terry Nichols. Un camion de location chargé d’explosifs à base d’engrais et de carburant détruisit environ un tiers du bâtiment, qui abritait des agences fédérales et une crèche, et endommagea plus de 300 bâtiments voisins. C’est l’acte de terrorisme intérieur le plus meurtrier de l’histoire des États-Unis. McVeigh fut exécuté en 2001 et Nichols condamné à la perpétuité.
+categories: [genocide]
+kind: event
+start: "1995-04-19"
+deaths:
+  best: 168
+  note:
+    en: People killed, including 19 children (FBI). Wikipedia counts 167 killed by the explosion and a rescue worker killed by falling debris during the rescue, for a total of 168; an unidentified leg found in the rubble may belong to another victim. No perpetrator died in the attack.
+    fr: Personnes tuées, dont 19 enfants (FBI). Wikipédia compte 167 morts dus à l’explosion et une secouriste tuée par la chute de débris pendant les secours, soit 168 au total ; une jambe non identifiée retrouvée dans les décombres pourrait appartenir à une autre victime. Aucun auteur n’est mort dans l’attentat.
+countries:
+  - { code: US, deaths: 168 }
+sources:
+  - title: Oklahoma City bombing
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Oklahoma_City_bombing
+    accessed: "2026-10-22"
+  - title: Oklahoma City Bombing
+    publisher: Federal Bureau of Investigation
+    url: https://www.fbi.gov/history/cases-and-criminals/oklahoma-city-bombing
+    accessed: "2026-10-22"
+reviewed: false

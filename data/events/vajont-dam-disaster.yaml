@@ -1,0 +1,30 @@
+id: vajont-dam-disaster
+title:
+  en: Vajont Dam disaster
+  fr: Catastrophe du Vajont
+description:
+  en: >-
+    On the night of 9 October 1963, as the reservoir behind the new Vajont Dam in the Italian Alps was being filled, a huge landslide from Mount Toc fell into the lake in less than a minute. It sent a wave of about 50 million cubic metres of water over the dam, which stayed almost intact, and down into the Piave valley. Within minutes the town of Longarone and the villages of Pirago, Rivalta, Villanova and Faè were wiped out, and villages above the lake were also hit. A smaller slide had already hit the lake in 1960, and the slope had been creeping for months.
+  fr: >-
+    Dans la nuit du 9 octobre 1963, pendant la mise en eau du barrage du Vajont, dans les Alpes italiennes, un gigantesque glissement de terrain se détache du mont Toc et tombe dans le lac en moins d’une minute. Il projette quelque 50 millions de mètres cubes d’eau par-dessus le barrage, resté presque intact, vers la vallée du Piave. En quelques minutes, la ville de Longarone et les villages de Pirago, Rivalta, Villanova et Faè sont rayés de la carte, et des villages au-dessus du lac sont touchés. Un glissement plus petit avait déjà touché le lac en 1960, et le versant bougeait depuis des mois.
+categories: [accident]
+kind: event
+start: "1963-10-09"
+deaths:
+  best: 1917
+  high: 2500
+  note:
+    en: Best is the official toll of 1,917 victims. An exact count is impossible, since only about 1,500 bodies were recovered; the Association of State Dam Safety Officials gives upwards of 2,056 deaths, and Wikipedia gives estimates of up to 2,500, used as high. 1,269 of the dead were in Longarone alone (ASDSO).
+    fr: L’estimation centrale est le bilan officiel de 1 917 victimes. Un décompte exact est impossible, car seuls 1 500 corps environ ont été retrouvés ; l’Association of State Dam Safety Officials avance plus de 2 056 morts, et Wikipédia cite des estimations allant jusqu’à 2 500, retenues comme borne haute. 1 269 des morts se trouvaient à Longarone même (ASDSO).
+countries:
+  - { code: IT, deaths: 1917 }
+sources:
+  - title: Vajont Dam
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Vajont_Dam
+    accessed: "2026-10-22"
+  - title: Vajont Dam (Italy, 1963)
+    publisher: Association of State Dam Safety Officials (damfailures.org)
+    url: https://damfailures.org/case-study/vajont-dam-italy-1963
+    accessed: "2026-10-22"
+reviewed: false

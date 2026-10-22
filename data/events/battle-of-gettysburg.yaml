@@ -1,0 +1,35 @@
+id: battle-of-gettysburg
+title:
+  en: Battle of Gettysburg
+  fr: Bataille de Gettysburg
+description:
+  en: >-
+    Three-day battle in and around the town of Gettysburg, Pennsylvania, between the Union Army of the Potomac under George Meade and Robert E. Lee's Confederate Army of Northern Virginia, which had invaded the North. After fighting at McPherson's Ridge, Little Round Top and Culp's Hill, Lee's final assault on the Union centre, Pickett's Charge, was repulsed with heavy losses. It was the bloodiest battle of the war and ended Lee's second invasion of the North.
+  fr: >-
+    Bataille de trois jours livrée dans et autour de la ville de Gettysburg, en Pennsylvanie, entre l’armée du Potomac de l’Union, commandée par George Meade, et l’armée confédérée de Virginie du Nord de Robert E. Lee, qui avait envahi le Nord. Après les combats de McPherson’s Ridge, de Little Round Top et de Culp’s Hill, l’assaut final de Lee contre le centre de l’Union, la charge de Pickett, est repoussé avec de lourdes pertes. C’est la bataille la plus meurtrière de la guerre ; elle met fin à la seconde invasion du Nord par Lee.
+categories: [war]
+kind: event
+start: "1863-07-01"
+end: "1863-07-03"
+deaths:
+  best: 7058
+  note:
+    en: "Soldiers killed in action, not counting the wounded, captured or missing (the battle's total casualties were about 51,000). Best: 7,058 killed, Thomas Livermore's figures of 3,155 Union and 3,903 Confederate dead, also used by the American Battlefield Trust (total via Necrometrics). Busey and Martin give 4,708 Confederate killed (via Wikipedia), and many wounded died later, so the full death toll was higher; no source gives a total including them, hence no range."
+    fr: "Soldats tués au combat, sans les blessés, prisonniers ou disparus (les pertes totales de la bataille sont d’environ 51 000). Estimation centrale : 7 058 tués, chiffres de Thomas Livermore de 3 155 morts de l’Union et 3 903 confédérés, repris par l’American Battlefield Trust (total via Necrometrics). Busey et Martin donnent 4 708 tués confédérés (via Wikipédia), et de nombreux blessés sont morts ensuite, si bien que le bilan réel est plus élevé ; aucune source ne donne de total les incluant, d’où l’absence de fourchette."
+countries:
+  - { code: US, deaths: 7058 }
+partOf: american-civil-war
+sources:
+  - title: Battle of Gettysburg
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Battle_of_Gettysburg
+    accessed: "2026-10-22"
+  - title: Gettysburg
+    publisher: American Battlefield Trust
+    url: https://www.battlefields.org/learn/civil-war/battles/gettysburg
+    accessed: "2026-10-22"
+  - title: Casualties in the Battles of the Early Modern Era (1500-1900)
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/battle19.htm
+    accessed: "2026-10-22"
+reviewed: false

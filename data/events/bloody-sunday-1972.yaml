@@ -1,0 +1,31 @@
+id: bloody-sunday-1972
+title:
+  en: Bloody Sunday (1972)
+  fr: Bloody Sunday (1972)
+description:
+  en: >-
+    Shooting of unarmed civilians by British soldiers of the 1st Battalion of the Parachute Regiment during a civil rights march against internment without trial in the Bogside area of Derry, Northern Ireland, on 30 January 1972. Soldiers shot 26 people, many of them while fleeing or helping the wounded. The Widgery Tribunal largely accepted the soldiers' accounts, but the Saville Inquiry concluded in 2010 that the shootings were "unjustified and unjustifiable", and Prime Minister David Cameron apologised on behalf of the United Kingdom.
+  fr: >-
+    Fusillade de civils désarmés par des soldats britanniques du 1er bataillon du régiment de parachutistes lors d’une marche pour les droits civiques contre l’internement sans procès, dans le quartier du Bogside à Derry (Irlande du Nord), le 30 janvier 1972. Les soldats touchent 26 personnes, dont beaucoup alors qu’elles fuyaient ou secouraient des blessés. Le tribunal Widgery reprend l’essentiel de la version des soldats, mais l’enquête Saville conclut en 2010 à des tirs « injustifiés et injustifiables », et le Premier ministre David Cameron présente des excuses.
+categories: [genocide]
+kind: event
+start: "1972-01-30"
+deaths:
+  best: 14
+  note:
+    en: >-
+      Thirteen men killed on the day and a fourteenth who died four months later of his gunshot wounds (Wikipedia); the Saville Report found that 14 people were killed (RTÉ). No British soldier was wounded by gunfire or bombs.
+    fr: >-
+      Treize hommes tués le jour même et un quatorzième mort quatre mois plus tard de ses blessures par balle (Wikipédia) ; le rapport Saville retient 14 morts (RTÉ). Aucun soldat britannique n’a été blessé par balle ou par une bombe.
+countries:
+  - { code: GB, deaths: 14 }
+sources:
+  - title: Bloody Sunday (1972)
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Bloody_Sunday_(1972)
+    accessed: "2026-10-22"
+  - title: British apology for events of Bloody Sunday
+    publisher: RTÉ Archives
+    url: https://www.rte.ie/archives/2015/0612/707746-british-apology-for-events-of-bloody-sunday/
+    accessed: "2026-10-22"
+reviewed: false

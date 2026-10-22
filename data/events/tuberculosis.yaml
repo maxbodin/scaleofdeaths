@@ -1,0 +1,44 @@
+id: tuberculosis
+title:
+  en: Tuberculosis (two centuries to 2013)
+  fr: Tuberculose (deux siècles jusqu’en 2013)
+description:
+  en: >-
+    Deaths from tuberculosis, a bacterial infection that usually attacks the lungs and spreads through the air, over the two centuries up to 2013. Known as consumption or the "white death", it caused about a quarter of all deaths in 19th-century Europe. Better living conditions and, from the 1950s, effective drugs made it decline in Western Europe and North America, but it remains one of the deadliest infectious diseases, now concentrated in Asia and Africa and worsened by HIV and drug resistance.
+  fr: >-
+    Morts de la tuberculose, infection bactérienne qui touche surtout les poumons et se transmet par l’air, sur les deux siècles précédant 2013. Appelée phtisie ou « peste blanche », elle causait environ un quart des décès dans l’Europe du XIXe siècle. L’amélioration des conditions de vie puis, à partir des années 1950, des médicaments efficaces l’ont fait reculer en Europe de l’Ouest et en Amérique du Nord, mais elle reste l’une des maladies infectieuses les plus meurtrières, désormais concentrée en Asie et en Afrique et aggravée par le VIH et les résistances aux médicaments.
+categories: [epidemic]
+kind: endemic-total
+start: "1813"
+end: "2013"
+circa: true
+deaths:
+  best: 1000000000
+  note:
+    en: >-
+      Order-of-magnitude figure: Nature (Paulson, 2013) states that tuberculosis has killed over a billion people in the past two hundred years, that is roughly 1813 to 2013, and Scientific American (2022) repeats "as many as one billion in the past 200 years". Neither publishes a method or a range, so no low/high is given. No source gives per-country totals; the countries listed are the eight that today carry more than two-thirds of the global burden (Wikipedia, from WHO data), although much of the 19th-century toll fell on Europe and North America.
+    fr: >-
+      Ordre de grandeur : Nature (Paulson, 2013) indique que la tuberculose a tué plus d’un milliard de personnes au cours des deux derniers siècles, soit environ de 1813 à 2013, et Scientific American (2022) reprend « jusqu’à un milliard en 200 ans ». Aucun des deux ne publie de méthode ni de fourchette, d’où l’absence de bornes. Aucune source ne donne de total par pays ; les pays listés sont les huit qui concentrent aujourd’hui plus des deux tiers de la charge mondiale (Wikipédia, d’après l’OMS), même si une grande partie des morts du XIXe siècle se trouvait en Europe et en Amérique du Nord.
+countries:
+  - { code: IN }
+  - { code: ID }
+  - { code: CN }
+  - { code: PH }
+  - { code: PK }
+  - { code: NG }
+  - { code: BD }
+  - { code: CD }
+sources:
+  - title: Tuberculosis
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Tuberculosis
+    accessed: "2026-10-22"
+  - title: "Epidemiology: A mortal foe (Paulson, Nature 502, S2-S3, 2013)"
+    publisher: Nature
+    url: https://www.nature.com/articles/502S2a
+    accessed: "2026-10-22"
+  - title: Tuberculosis Is the Oldest Pandemic, and Poverty Makes It Continue
+    publisher: Scientific American
+    url: https://www.scientificamerican.com/article/tuberculosis-is-the-oldest-pandemic-and-poverty-makes-it-continue/
+    accessed: "2026-10-22"
+reviewed: false

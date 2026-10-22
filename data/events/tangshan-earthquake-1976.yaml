@@ -1,0 +1,34 @@
+id: tangshan-earthquake-1976
+title:
+  en: 1976 Tangshan earthquake
+  fr: Séisme de 1976 à Tangshan
+description:
+  en: >-
+    At 03:42 on 28 July 1976 a magnitude 7.6 earthquake struck about 12 km beneath the southern part of Tangshan, an industrial city of about one million people in Hebei province, China. Within minutes 85% of the city's buildings collapsed or became unusable, all services failed and most road and railway bridges collapsed. A magnitude 7.0 shock that evening near Luanxian and many aftershocks added to the destruction, and damage extended to Tianjin and Beijing.
+  fr: >-
+    Le 28 juillet 1976 à 3 h 42, un séisme de magnitude 7,6 s’est produit à environ 12 km sous le sud de Tangshan, ville industrielle d’environ un million d’habitants de la province du Hebei, en Chine. En quelques minutes, 85 % des bâtiments se sont effondrés ou sont devenus inutilisables, tous les services ont cessé et la plupart des ponts routiers et ferroviaires se sont écroulés. Une secousse de magnitude 7,0 le soir près de Luanxian et de nombreuses répliques ont aggravé les destructions, et les dégâts ont atteint Tianjin et Pékin.
+categories: [natural-disaster]
+kind: event
+start: "1976-07-28"
+deaths:
+  best: 242769
+  high: 655000
+  note:
+    en: Best is the official toll as given by USGS and NOAA NCEI. Variants of the official figure include 242,469 (the breakdown used by Wikipedia), 242,419 and 246,465 (names on the Tangshan memorial wall). Historians who cross-checked government files put deaths at 300,000 or more; an internal report of September 1976 counted 263,299 dead and 17,599 missing. The high is the 655,000 cited by USGS, which traces back to a document obtained by Taiwanese intelligence that scholars consider suspicious; early foreign estimates went up to 779,000.
+    fr: L’estimation centrale est le bilan officiel donné par l’USGS et la NCEI de la NOAA. Il existe des variantes du chiffre officiel, dont 242 469 (la ventilation reprise par Wikipédia), 242 419 et 246 465 (noms inscrits sur le mur du mémorial de Tangshan). Des historiens ayant recoupé les archives officielles estiment les morts à 300 000 ou plus ; un rapport interne de septembre 1976 comptait 263 299 morts et 17 599 disparus. Le haut de la fourchette est le chiffre de 655 000 cité par l’USGS, qui provient d’un document obtenu par les services de renseignement taïwanais et jugé suspect par les chercheurs ; des estimations étrangères de l’époque allaient jusqu’à 779 000.
+countries:
+  - { code: CN, deaths: 242769 }
+sources:
+  - title: 1976 Tangshan earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1976_Tangshan_earthquake
+    accessed: "2026-10-22"
+  - title: Earthquakes with 1,000 or More Deaths 1900-2014 (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20170118110610/http://earthquake.usgs.gov/earthquakes/world/world_deaths.php
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Tangshan, event 4735"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/4735
+    accessed: "2026-10-22"
+reviewed: false

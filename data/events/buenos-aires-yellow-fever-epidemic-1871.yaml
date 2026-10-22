@@ -1,0 +1,34 @@
+id: buenos-aires-yellow-fever-epidemic-1871
+title:
+  en: 1871 Buenos Aires yellow fever epidemic
+  fr: Épidémie de fièvre jaune de 1871 à Buenos Aires
+description:
+  en: >-
+    Yellow fever epidemic in Buenos Aires, probably brought by soldiers returning from the Paraguayan War through Corrientes. The first three cases were diagnosed on 27 January 1871 in the crowded tenements of San Telmo. Deaths rose from about 20 a day before the epidemic to a peak of 583 on 10 April; a third of the inhabitants fled the city, and a citizens' People's Commission organised relief, losing several members, including its president José Roque Pérez. The disaster led to the opening of La Chacarita cemetery and to the building of running water and sewer systems.
+  fr: >-
+    Épidémie de fièvre jaune à Buenos Aires, sans doute apportée par des soldats revenant de la guerre du Paraguay via Corrientes. Les trois premiers cas ont été diagnostiqués le 27 janvier 1871 dans les conventillos surpeuplés de San Telmo. Les morts sont passés d’une vingtaine par jour avant l’épidémie à un pic de 583 le 10 avril ; un tiers des habitants a fui, et une Commission populaire a organisé les secours, perdant plusieurs membres, dont son président José Roque Pérez. La catastrophe a conduit à ouvrir le cimetière de la Chacarita et à construire réseaux d’eau courante et d’égouts.
+categories: [epidemic]
+kind: event
+start: "1871-01-27"
+end: "1871-06"
+deaths:
+  best: 14000
+  low: 13500
+  high: 14467
+  note:
+    en: >-
+      Best is the reported toll of 14,000 lives in a city of about 180,000 given by the CDC's Emerging Infectious Diseases journal (2026). Wikipedia states that the toll was between 13,500 and 26,200: the official count from the diary of the witness Mardoqueo Navarro is about 13,600 (13,614 in the infobox, 13,641 in the text), and Dr Penna's count from cemetery registers is 14,467 (used as high). The English newspaper The Standard's figure of 26,000 was considered an exaggeration and is not used.
+    fr: >-
+      L’estimation retenue est le bilan de 14 000 vies, pour une ville d’environ 180 000 habitants, donné par la revue Emerging Infectious Diseases des CDC (2026). Selon Wikipédia, le bilan se situe entre 13 500 et 26 200 morts : le décompte officiel, tiré du journal du témoin Mardoqueo Navarro, est d’environ 13 600 (13 614 dans l’infobox, 13 641 dans le texte), et celui du Dr Penna d’après les registres des cimetières de 14 467 (haut de fourchette). Les 26 000 morts du journal anglais The Standard, jugés exagérés, ne sont pas retenus.
+countries:
+  - { code: AR, deaths: 14000 }
+sources:
+  - title: Yellow fever in Buenos Aires
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Yellow_fever_in_Buenos_Aires
+    accessed: "2026-10-22"
+  - title: Yellow Fever in Buenos Aires
+    publisher: Emerging Infectious Diseases (via PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12928225/
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,34 @@
+id: yazidi-genocide
+title:
+  en: Yazidi genocide
+  fr: Génocide des Yézidis
+description:
+  en: >-
+    Killing, enslavement and forced conversion of Yazidis by the Islamic State, which began with its assault on the Sinjar region of northern Iraq on 3 August 2014. Men were executed in villages such as Kocho, thousands of women and girls were abducted and sold into sexual slavery, and boys were taken to Syria and trained to fight. Tens of thousands of Yazidis were trapped on Mount Sinjar without food or water, and hundreds of thousands were displaced. UN bodies, including the UNITAD investigative team in 2021, have found that the crimes constitute genocide.
+  fr: >-
+    Massacres, esclavage et conversions forcées infligés aux Yézidis par l’État islamique, à partir de son offensive du 3 août 2014 contre le Sinjar, dans le nord de l’Irak. Les hommes furent exécutés dans des villages comme Kocho, des milliers de femmes et de filles enlevées et vendues comme esclaves sexuelles, et des garçons emmenés en Syrie pour y être formés au combat. Des dizaines de milliers de Yézidis furent assiégés sur le mont Sinjar sans eau ni vivres ; des centaines de milliers furent déplacés. Plusieurs organes de l’ONU, dont l’équipe UNITAD en 2021, y ont vu un génocide.
+categories: [genocide]
+kind: event
+start: "2014-08-03"
+end: "2017-12"
+deaths:
+  best: 5000
+  low: 2100
+  high: 5500
+  note:
+    en: Yazidis killed by the Islamic State or who died during the siege of Mount Sinjar, mostly in August 2014. Best is the United Nations figure of about 5,000 killed in 2014 cited by Wikipedia. A 2017 household survey published in PLOS Medicine estimated 3,100 deaths (95% CI 2,100 to 4,400) in the Sinjar area in August 2014 alone, almost half of them executions and the rest from starvation, dehydration or injuries on Mount Sinjar; lists by local authorities and human rights groups give 2,000 to 5,500 killed. Deaths of captives in later years are not well documented.
+    fr: Yézidis tués par l’État islamique ou morts pendant le siège du mont Sinjar, surtout en août 2014. L’estimation centrale est le chiffre de l’ONU, environ 5 000 tués en 2014, cité par Wikipédia. Une enquête auprès des ménages publiée dans PLOS Medicine en 2017 estime à 3 100 (IC à 95 % de 2 100 à 4 400) le nombre de morts dans la région du Sinjar pour le seul mois d’août 2014, dont près de la moitié exécutés et les autres morts de faim, de soif ou de blessures sur le mont Sinjar ; les listes des autorités locales et d’ONG font état de 2 000 à 5 500 tués. Les morts de captifs les années suivantes sont mal documentées.
+countries:
+  - { code: IQ, deaths: 5000 }
+  - { code: SY }
+related: [war-in-iraq-2013]
+sources:
+  - title: Yazidi genocide
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Yazidi_genocide
+    accessed: "2026-10-22"
+  - title: "Mortality and kidnapping estimates for the Yazidi population in the area of Mount Sinjar, Iraq, in August 2014: A retrospective household survey"
+    publisher: PLOS Medicine
+    url: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002297
+    accessed: "2026-10-22"
+reviewed: false

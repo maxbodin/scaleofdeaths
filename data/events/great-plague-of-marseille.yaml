@@ -1,0 +1,37 @@
+id: great-plague-of-marseille
+title:
+  en: Great Plague of Marseille
+  fr: Peste de Marseille
+description:
+  en: >-
+    The last major outbreak of bubonic plague in Western Europe. It arrived in Marseille in May 1720 aboard the merchant ship Grand-Saint-Antoine, returning from the Levant, whose silk and cotton cargo, wanted by merchants for the Beaucaire fair, was not kept in strict quarantine. The epidemic killed up to half of the city's inhabitants and spread through Provence, the Comtat Venaissin and Languedoc until 1722, despite strict measures imposed by the royal government from September 1720.
+  fr: >-
+    Dernière grande épidémie de peste bubonique en Europe occidentale. Elle arriva à Marseille en mai 1720 à bord du navire marchand Grand-Saint-Antoine, revenu du Levant, dont la cargaison de soie et de coton, attendue par les marchands pour la foire de Beaucaire, ne fut pas strictement mise en quarantaine. L’épidémie tua jusqu’à la moitié des habitants de la ville et se répandit en Provence, dans le Comtat Venaissin et en Languedoc jusqu’en 1722, malgré les mesures sévères imposées par le Conseil du roi à partir de septembre 1720.
+categories: [epidemic]
+kind: event
+start: "1720-05"
+end: "1722"
+deaths:
+  best: 100000
+  low: 90000
+  high: 150000
+  note:
+    en: Deaths in Marseille and the rest of Provence, the Comtat Venaissin and Languedoc. Best is the "over 100,000" given by Wikipedia (about 50,000 in the city and 50,000 elsewhere). French Wikipedia gives 30,000 to 40,000 in Marseille and 90,000 to 120,000 in the whole region, and historian Gilbert Buti (Aix-Marseille University) about 150,000 out of roughly 400,000 inhabitants of Provence.
+    fr: Morts à Marseille et dans le reste de la Provence, le Comtat Venaissin et le Languedoc. L’estimation retenue est celle de « plus de 100 000 » donnée par Wikipédia en anglais (environ 50 000 en ville et 50 000 ailleurs). Wikipédia en français donne 30 000 à 40 000 morts à Marseille et 90 000 à 120 000 pour toute la région, et l’historien Gilbert Buti (Aix-Marseille Université) environ 150 000 sur quelque 400 000 habitants de la Provence.
+countries:
+  - { code: FR, deaths: 100000 }
+related: [black-death]
+sources:
+  - title: Great Plague of Marseille
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Great_Plague_of_Marseille
+    accessed: "2026-10-22"
+  - title: Peste de Marseille (1720)
+    publisher: Wikipédia (French)
+    url: https://fr.wikipedia.org/wiki/Peste_de_Marseille_(1720)
+    accessed: "2026-10-22"
+  - title: La peste à Marseille et en Provence (1720-1722)
+    publisher: Aix-Marseille Université
+    url: https://scienceotheque.univ-amu.fr/fr/peste-marseille-provence-1720-1722
+    accessed: "2026-10-22"
+reviewed: false

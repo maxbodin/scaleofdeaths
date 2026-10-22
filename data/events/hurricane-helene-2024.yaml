@@ -1,0 +1,33 @@
+id: hurricane-helene-2024
+title:
+  en: Hurricane Helene
+  fr: Ouragan Helene
+description:
+  en: >-
+    Hurricane Helene made landfall in the Big Bend region of Florida on the night of 26 September 2024, the strongest hurricane on record there, then raced inland across Georgia and the Carolinas. Storm surge flooded the Gulf coast as far south as Tampa Bay, and winds felled countless trees, killing dozens. Torrential rain then caused catastrophic floods and landslides in the southern Appalachians, above all in western North Carolina around Asheville and in eastern Tennessee. More than 7 million customers lost power.
+  fr: >-
+    L’ouragan Helene, le plus puissant jamais enregistré dans le Big Bend de Floride, y a touché terre dans la nuit du 26 septembre 2024, puis a traversé la Géorgie et les Carolines. L’onde de tempête a inondé la côte du golfe jusqu’à la baie de Tampa, et les vents ont abattu des arbres, tuant des dizaines de personnes. Des pluies torrentielles ont ensuite provoqué des crues et des glissements de terrain catastrophiques dans le sud des Appalaches, surtout dans l’ouest de la Caroline du Nord, autour d’Asheville, et dans l’est du Tennessee. Plus de 7 millions d’abonnés ont perdu le courant.
+categories: [natural-disaster]
+kind: event
+start: "2024-09-24"
+end: "2024-09-29"
+deaths:
+  best: 250
+  high: 253
+  note:
+    en: >-
+      Best is the "at least 250 fatalities in the United States", including at least 175 direct deaths (14 from storm surge, 65 from wind, 94 from freshwater flooding and landslides, 2 from a tornado), in the National Hurricane Center's report; North Carolina recorded 107 deaths (Wikipedia). High is the 253 deaths in Wikipedia. At least five people were still listed as missing.
+    fr: >-
+      L’estimation centrale correspond aux « au moins 250 morts aux États-Unis », dont au moins 175 morts directes (14 par l’onde de tempête, 65 par le vent, 94 par les crues et glissements de terrain, 2 par une tornade), du rapport du National Hurricane Center ; la Caroline du Nord compte 107 morts (Wikipédia). L’estimation haute est le chiffre de 253 morts de Wikipédia. Au moins cinq personnes restaient portées disparues.
+countries:
+  - { code: US, deaths: 250 }
+sources:
+  - title: Hurricane Helene
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Hurricane_Helene
+    accessed: "2026-10-22"
+  - title: "Tropical Cyclone Report: Hurricane Helene"
+    publisher: NOAA National Hurricane Center
+    url: https://www.nhc.noaa.gov/data/tcr/AL092024_Helene.pdf
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,42 @@
+id: gallipoli-campaign
+title:
+  en: Gallipoli campaign
+  fr: Bataille des Dardanelles
+description:
+  en: >-
+    Allied attempt to force the Dardanelles strait, take Constantinople and knock the Ottoman Empire out of the war. After a failed naval attack, British, French, Australian, New Zealand, Indian and Newfoundland troops landed on the Gallipoli peninsula in April 1915 but were contained by Ottoman forces in trench warfare. Disease, heat and poor sanitation took a heavy toll, and the Allies evacuated in January 1916. The campaign became a founding moment for Australia, New Zealand and modern Turkey.
+  fr: >-
+    Tentative alliée de forcer le détroit des Dardanelles, de prendre Constantinople et de faire sortir l’Empire ottoman de la guerre. Après l’échec de l’attaque navale, des troupes britanniques, françaises, australiennes, néo-zélandaises, indiennes et terre-neuviennes débarquent sur la péninsule de Gallipoli en avril 1915, mais sont bloquées par les forces ottomanes dans une guerre de tranchées. Maladies, chaleur et insalubrité font des ravages, et les Alliés évacuent en janvier 1916. La campagne est un moment fondateur pour l’Australie, la Nouvelle-Zélande et la Turquie moderne.
+categories: [war]
+kind: event
+start: "1915-02-19"
+end: "1916-01-09"
+deaths:
+  best: 130000
+  low: 100000
+  note:
+    en: Soldiers who died, not counting the wounded (total casualties approached 500,000). Best is the Necrometrics estimate of 130,000; low is Edward Erickson's "over 100,000 men" killed (56,000 to 68,000 Ottoman, around 53,000 British and French), via Wikipedia. Per-country figures are the dead in Wikipedia's casualty table (56,643 Ottoman from the Ottoman archives; 56,707 Allied). Some estimates put Ottoman dead at 87,000 or more; the Australian War Memorial gives 8,141 Australian deaths.
+    fr: Soldats morts, sans les blessés (les pertes totales approchent 500 000). L’estimation centrale est celle de Necrometrics (130 000) ; le bas correspond aux « plus de 100 000 hommes » tués selon Edward Erickson (56 000 à 68 000 Ottomans, environ 53 000 Britanniques et Français), via Wikipédia. Les chiffres par pays sont les morts du tableau de Wikipédia (56 643 Ottomans d’après les archives ottomanes ; 56 707 Alliés). Certaines estimations portent les morts ottomans à 87 000 ou plus ; l’Australian War Memorial compte 8 141 morts australiens.
+countries:
+  - { name: { en: Ottoman Empire, fr: Empire ottoman }, deaths: 56643 }
+  - { code: GB, deaths: 34072 }
+  - { code: FR, deaths: 9798 }
+  - { code: AU, deaths: 8709 }
+  - { code: NZ, deaths: 2721 }
+  - { code: IN, name: { en: British India, fr: Inde britannique }, deaths: 1358 }
+  - { name: { en: Dominion of Newfoundland, fr: Dominion de Terre-Neuve }, deaths: 49 }
+partOf: first-world-war
+sources:
+  - title: Gallipoli campaign
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Gallipoli_campaign
+    accessed: "2026-10-22"
+  - title: "Bloodiest Battles of the 20th Century: Gallipoli (1915-16)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/battles.htm
+    accessed: "2026-10-22"
+  - title: Gallipoli
+    publisher: Australian War Memorial
+    url: https://www.awm.gov.au/articles/encyclopedia/gallipoli
+    accessed: "2026-10-22"
+reviewed: false

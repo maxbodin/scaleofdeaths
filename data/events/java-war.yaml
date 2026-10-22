@@ -1,0 +1,34 @@
+id: java-war
+title:
+  en: Java War
+  fr: Guerre de Java
+description:
+  en: >-
+    Rebellion in central Java led by Prince Diponegoro of Yogyakarta against Dutch colonial rule and the Javanese aristocracy allied with it, fuelled by heavy taxation, land leases to Europeans and religious grievances. Diponegoro's forces waged a guerrilla war across central and eastern Java until the Dutch, using a network of fortified posts, wore them down. The war ended in 1830 when Diponegoro was arrested during negotiations and exiled. Most of the dead were Javanese civilians, killed by violence or by the disease and famine the war caused.
+  fr: >-
+    Révolte menée dans le centre de Java par le prince Diponegoro de Yogyakarta contre la domination néerlandaise et l’aristocratie javanaise alliée, nourrie par une fiscalité écrasante, la location de terres aux Européens et des griefs religieux. Ses forces mènent une guérilla dans le centre et l’est de Java jusqu’à ce que les Néerlandais, grâce à un réseau de postes fortifiés, les épuisent. La guerre s’achève en 1830 quand Diponegoro est arrêté pendant des négociations puis exilé. La plupart des morts sont des civils javanais, tués par la violence ou par les maladies et la famine.
+categories: [war]
+kind: event
+start: "1825-07-20"
+end: "1830-03-28"
+deaths:
+  best: 200000
+  note:
+    en: "Best: at least 200,000 Javanese killed by violence or by the resulting disease and starvation, the figure of the historian Peter Carey (via Wikipedia) and of the Correlates of War project, which also counts 15,000 deaths on the Dutch side (8,000 European and 7,000 local soldiers according to Carey); Rudolf von Albertini also gives 200,000 (via Necrometrics). Rebel combat deaths are put at 20,000 or less. It is not clear whether the Dutch-side deaths are included in the 200,000, so the full toll may be somewhat higher. No range was found."
+    fr: "Estimation centrale : au moins 200 000 Javanais tués par la violence ou par les maladies et la famine qui ont suivi, chiffre de l’historien Peter Carey (via Wikipédia) et du projet Correlates of War, qui compte aussi 15 000 morts côté néerlandais (8 000 soldats européens et 7 000 soldats locaux selon Carey) ; Rudolf von Albertini donne aussi 200 000 (via Necrometrics). Les morts au combat chez les insurgés sont estimées à 20 000 ou moins. On ignore si les morts du côté néerlandais sont comprises dans les 200 000, si bien que le bilan complet pourrait être un peu plus élevé. Aucune fourchette n’a été trouvée."
+countries:
+  - { code: ID, deaths: 200000 }
+sources:
+  - title: Java War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Java_War
+    accessed: "2026-10-22"
+  - title: Extra-State War Data, v4.0 (war 313, Dutch-Javanese)
+    publisher: Correlates of War Project
+    url: https://correlatesofwar.org/wp-content/uploads/Extra-StateWarData_v4.0.csv
+    accessed: "2026-10-22"
+  - title: Statistics of Wars, Oppressions and Atrocities of the Nineteenth Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/wars19c.htm
+    accessed: "2026-10-22"
+reviewed: false

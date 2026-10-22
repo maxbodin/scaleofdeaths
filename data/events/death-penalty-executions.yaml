@@ -1,0 +1,39 @@
+id: death-penalty-executions
+title:
+  en: Executions under the death penalty per year
+  fr: Exécutions capitales par an
+description:
+  en: >-
+    People executed by states under the death penalty worldwide in one year, as recorded by Amnesty International in its yearly report. 2025 saw the highest number of recorded executions since 1981, in 17 countries, driven by Iran, which accounted for about 80% of the recorded total. Nearly half were for drug-related offences, which international law does not allow. Methods included hanging, beheading, lethal injection, shooting and nitrogen gas. The count excludes China, believed to be the world's leading executioner, whose figures are a state secret.
+  fr: >-
+    Personnes exécutées par des États au titre de la peine de mort dans le monde en un an, selon le décompte du rapport annuel d’Amnesty International. 2025 a compté le plus grand nombre d’exécutions recensées depuis 1981, dans 17 pays, sous l’impulsion de l’Iran, qui représente environ 80 % du total recensé. Près de la moitié concernaient des infractions liées aux stupéfiants, ce que le droit international interdit. Le décompte exclut la Chine, considérée comme le premier pays exécuteur, dont les chiffres sont un secret d’État.
+categories: [annual]
+kind: endemic-total
+start: "2025"
+end: "2025"
+deaths:
+  best: 2707
+  note:
+    en: >-
+      Amnesty International, Death Sentences and Executions 2025: at least 2,707 executions recorded in 17 countries in 2025, up 78% from 1,518 in 2024. This is a minimum: it excludes the thousands of executions believed to take place in China each year, and those in North Korea and Viet Nam, where Amnesty believes the death penalty was used extensively. Per-country figures are Amnesty's minimum counts: Iran 2,159, Saudi Arabia 356, Yemen 51, United States 47, Egypt 23, Kuwait 17, Singapore 17; China is listed without a number.
+    fr: >-
+      Amnesty International, Death Sentences and Executions 2025 : au moins 2 707 exécutions recensées dans 17 pays en 2025, soit 78 % de plus que les 1 518 de 2024. C’est un minimum : sont exclues les milliers d’exécutions qui auraient lieu chaque année en Chine, ainsi que celles de Corée du Nord et du Viêt Nam, où Amnesty estime la peine de mort largement appliquée. Les chiffres par pays sont les minimums d’Amnesty : Iran 2 159, Arabie saoudite 356, Yémen 51, États-Unis 47, Égypte 23, Koweït 17, Singapour 17 ; la Chine est listée sans nombre.
+countries:
+  - { code: IR, deaths: 2159 }
+  - { code: SA, deaths: 356 }
+  - { code: YE, deaths: 51 }
+  - { code: US, deaths: 47 }
+  - { code: EG, deaths: 23 }
+  - { code: KW, deaths: 17 }
+  - { code: SG, deaths: 17 }
+  - { code: CN }
+sources:
+  - title: "Death penalty in 2025: Facts and figures"
+    publisher: Amnesty International Australia
+    url: https://www.amnesty.org.au/death-penalty-in-2025-facts-and-figures/
+    accessed: "2026-10-22"
+  - title: Death Sentences and Executions 2025 (report release)
+    publisher: Amnesty International Australia
+    url: https://www.amnesty.org.au/death-sentences-and-executions-2025/
+    accessed: "2026-10-22"
+reviewed: false

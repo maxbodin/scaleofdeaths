@@ -1,0 +1,30 @@
+id: indian-rebellion-1857
+title:
+  en: Indian Rebellion of 1857
+  fr: Révolte des cipayes
+description:
+  en: >-
+    Large-scale uprising against the rule of the British East India Company, which began with a mutiny of Indian soldiers (sepoys) at Meerut in May 1857 and spread across northern and central India, around Delhi, Lucknow, Kanpur and in Awadh and Bundelkhand. Both sides committed atrocities: rebels killed British officers and civilians, including women and children at Kanpur, and British forces retook cities with mass killings, executions and the burning of villages. The rebellion led to the end of Company rule and direct rule by the British Crown.
+  fr: >-
+    Vaste soulèvement contre la Compagnie britannique des Indes orientales, parti en mai 1857 d’une mutinerie de cipayes (soldats indiens) à Meerut et étendu au nord et au centre de l’Inde, autour de Delhi, Lucknow et Kanpur et dans l’Awadh. Les deux camps commettent des atrocités : les insurgés tuent des officiers et des civils britanniques, dont des femmes et des enfants à Kanpur, et les troupes britanniques reprennent les villes au prix de massacres, d’exécutions et de villages incendiés. La révolte entraîne la fin du pouvoir de la Compagnie et l’administration directe par la Couronne.
+categories: [war]
+kind: event
+start: "1857-05-10"
+end: "1858-11-01"
+deaths:
+  best: 800000
+  note:
+    en: "Indian deaths in the rebellion and in the famines and epidemics it caused. Best: probably 800,000, and very likely more, an estimate by Douglas Peers based on a rough comparison of pre-1857 data with the 1871 census (via Wikipedia); about 6,000 of the roughly 40,000 Europeans in India were also killed. Narrower figures exist: conventional histories counted about 100,000 Indian soldiers killed in reprisals and the historian Saul David speaks of hundreds of thousands (The Guardian); some estimates put the toll in Awadh alone at 150,000. Amaresh Misra's claim of almost 10 million deaths over ten years is disputed and not used."
+    fr: "Morts indiennes dans la révolte et dans les famines et épidémies qu’elle a provoquées. Estimation centrale : probablement 800 000, et très vraisemblablement davantage, estimation de Douglas Peers fondée sur une comparaison approximative des données antérieures à 1857 et du recensement de 1871 (via Wikipédia) ; environ 6 000 des quelque 40 000 Européens présents en Inde ont aussi été tués. Il existe des chiffres plus restreints : les histoires classiques comptaient environ 100 000 soldats indiens tués lors des représailles et l’historien Saul David parle de centaines de milliers (The Guardian) ; certaines estimations avancent 150 000 morts pour le seul Awadh. L’affirmation d’Amaresh Misra de près de 10 millions de morts en dix ans est contestée et non retenue."
+countries:
+  - { code: IN, deaths: 800000 }
+sources:
+  - title: Indian Rebellion of 1857
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Indian_Rebellion_of_1857
+    accessed: "2026-10-22"
+  - title: "India's secret history: 'A holocaust, one where millions disappeared'"
+    publisher: The Guardian
+    url: https://www.theguardian.com/world/2007/aug/24/india.randeepramesh
+    accessed: "2026-10-22"
+reviewed: false

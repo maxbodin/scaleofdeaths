@@ -1,0 +1,41 @@
+id: eighty-years-war
+title:
+  en: Eighty Years' War
+  fr: Guerre de Quatre-Vingts Ans
+description:
+  en: >-
+    Revolt of the Netherlands against the rule of the Spanish Habsburgs, driven by the persecution of Protestants, taxation and the defence of local privileges, which led to the independence of the Dutch Republic. Fighting was dominated by long sieges, harsh repression and the mutinies of unpaid Spanish troops, such as the sack of Antwerp in 1576. Interrupted by the Twelve Years' Truce (1609-1621), the war merged into the Thirty Years' War and ended with the Peace of Münster in 1648.
+  fr: >-
+    Révolte des Pays-Bas contre la domination des Habsbourg d’Espagne, nourrie par la persécution des protestants, la fiscalité et la défense des privilèges locaux, qui aboutit à l’indépendance des Provinces-Unies. Les combats sont dominés par de longs sièges, une répression sévère et les mutineries des troupes espagnoles impayées, comme le sac d’Anvers en 1576. Interrompue par la trêve de Douze Ans (1609-1621), la guerre se fond dans la guerre de Trente Ans et prend fin avec la paix de Münster en 1648.
+categories: [war]
+kind: event
+start: "1568"
+end: "1648-01-30"
+deaths:
+  best: 100000
+  high: 500000
+  note:
+    en: "Military and civilian deaths. The World History Encyclopedia gives an estimated 100,000 to as many as 500,000 lives, the range also used by Wikipedia's list of wars by death toll; as no source found gives a central estimate, best is the low end of that range. The Duke of Alba alone boasted of some 18,000 executions (via Necrometrics). After 1621 the war overlapped with the Thirty Years' War, whose estimates may include some of the same deaths."
+    fr: "Morts militaires et civiles. La World History Encyclopedia avance de 100 000 à 500 000 vies perdues, fourchette reprise par la liste des guerres par nombre de morts de Wikipédia ; aucune source trouvée ne donnant d’estimation centrale, celle-ci correspond au bas de la fourchette. Le duc d’Albe se vantait à lui seul d’environ 18 000 exécutions (via Necrometrics). Après 1621, la guerre se confond en partie avec la guerre de Trente Ans, dont les estimations peuvent inclure certains des mêmes morts."
+countries:
+  - { code: NL }
+  - { code: BE }
+related: [thirty-years-war, french-wars-of-religion]
+sources:
+  - title: Eighty Years' War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Eighty_Years%27_War
+    accessed: "2026-10-22"
+  - title: List of wars by death toll
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_wars_by_death_toll
+    accessed: "2026-10-22"
+  - title: Eighty Years' War
+    publisher: World History Encyclopedia
+    url: https://www.worldhistory.org/Eighty_Years%27_War/
+    accessed: "2026-10-22"
+  - title: Selected Death Tolls for Wars, Massacres and Atrocities Before the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/pre1700a.htm
+    accessed: "2026-10-22"
+reviewed: false

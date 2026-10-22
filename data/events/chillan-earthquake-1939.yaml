@@ -1,0 +1,34 @@
+id: chillan-earthquake-1939
+title:
+  en: 1939 Chillán earthquake
+  fr: Séisme de 1939 à Chillán
+description:
+  en: >-
+    At 23:32 on 24 January 1939 a magnitude 8.3 earthquake struck south-central Chile. It destroyed more than half of Chillán, including its cathedral, and minutes later devastated Concepción, where around 95% of houses were destroyed and dozens of fires broke out. Damage covered some 45,000 km² of the Central Valley between Linares and Los Ángeles, where most adobe houses collapsed. The late hour added to the toll, and it remains the deadliest earthquake in Chile's history.
+  fr: >-
+    Le 24 janvier 1939 à 23 h 32, un séisme de magnitude 8,3 a frappé le centre-sud du Chili. Il a détruit plus de la moitié de Chillán, dont sa cathédrale, et quelques minutes plus tard dévasté Concepción, où environ 95 % des maisons ont été détruites et des dizaines d’incendies se sont déclarés. Les dégâts ont couvert quelque 45 000 km² de la vallée centrale entre Linares et Los Ángeles, où la plupart des maisons en adobe se sont effondrées. L’heure tardive a alourdi le bilan, et c’est le séisme le plus meurtrier de l’histoire du Chili.
+categories: [natural-disaster]
+kind: event
+start: "1939-01-24"
+deaths:
+  best: 28000
+  high: 30000
+  note:
+    en: Most deaths were in Chillán and Concepción. Best is the figure given by Wikipedia and USGS; NOAA NCEI retains about 30,000 (high), and other catalogues it cites give 28,000 or 30,000. No detailed official count was found in the sources consulted.
+    fr: La plupart des morts se trouvaient à Chillán et à Concepción. L’estimation centrale est le chiffre donné par Wikipédia et l’USGS ; la NCEI de la NOAA retient environ 30 000 (haut de la fourchette), et les autres catalogues qu’elle cite donnent 28 000 ou 30 000. Aucun décompte officiel détaillé n’a été trouvé dans les sources consultées.
+countries:
+  - { code: CL, deaths: 28000 }
+sources:
+  - title: 1939 Chillán earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1939_Chill%C3%A1n_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Chillan, event 3632"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/3632
+    accessed: "2026-10-22"
+  - title: Earthquakes with 1,000 or More Deaths 1900-2014 (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20170118110610/http://earthquake.usgs.gov/earthquakes/world/world_deaths.php
+    accessed: "2026-10-22"
+reviewed: false

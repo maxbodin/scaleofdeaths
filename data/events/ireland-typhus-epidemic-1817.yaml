@@ -1,0 +1,37 @@
+id: ireland-typhus-epidemic-1817
+title:
+  en: 1817-1819 Ireland typhus epidemic
+  fr: Épidémie de typhus de 1817-1819 en Irlande
+description:
+  en: >-
+    Typhus epidemic in Ireland that followed the "Year Without a Summer" of 1816, attributed to the weather effects of the eruption of Mount Tambora. The louse-borne fever spread among hungry and cold people and was worst in 1817; there were about 1.5 million cases. Doctors and clergy who attended the sick died at high rates, as they were older and had little immunity. The physicians Barker and Cheyne proposed control measures, including banning wakes. Typhus struck Ireland again during the Great Famine of the 1840s.
+  fr: >-
+    Épidémie de typhus en Irlande qui a suivi « l’année sans été » de 1816, attribuée aux effets climatiques de l’éruption du Tambora. Transmise par les poux, la fièvre s’est propagée parmi une population affamée et transie, et a culminé en 1817 ; on a compté environ 1,5 million de cas. Médecins et membres du clergé qui soignaient les malades sont morts en grand nombre, plus âgés et peu immunisés. Les médecins Barker et Cheyne ont proposé des mesures, dont l’interdiction des veillées funèbres.
+categories: [epidemic]
+kind: event
+start: "1817"
+end: "1819"
+deaths:
+  best: 65000
+  note:
+    en: >-
+      Best is the commonly cited estimate of 65,000 deaths among about 1.5 million cases, given by the Ulster Medical Journal (2023), by The Irish Story history website and by Wikipedia's list of epidemics (after Fenning, Collectanea Hibernica, 1999). No range was found. The Ulster Medical Journal dates the epidemic 1816-1819, most of it in 1817.
+    fr: >-
+      L’estimation retenue est le chiffre couramment cité de 65 000 morts sur environ 1,5 million de cas, donné par l’Ulster Medical Journal (2023), par le site d’histoire The Irish Story et par la liste des épidémies de Wikipédia (d’après Fenning, Collectanea Hibernica, 1999). Aucune fourchette n’a été trouvée. L’Ulster Medical Journal date l’épidémie de 1816-1819, avec un pic en 1817.
+countries:
+  - { code: IE, deaths: 65000 }
+related: [tambora-eruption-1815]
+sources:
+  - title: List of epidemics and pandemics
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_epidemics_and_pandemics
+    accessed: "2026-10-22"
+  - title: "The Launch of William Whitla's Medical Institute: Undercurrents and Outcomes"
+    publisher: The Ulster Medical Journal (via PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9899028/
+    accessed: "2026-10-22"
+  - title: Epidemics in Ireland - A Short History
+    publisher: The Irish Story
+    url: https://www.theirishstory.com/2020/03/31/epidemics-in-ireland-a-short-history/
+    accessed: "2026-10-22"
+reviewed: false

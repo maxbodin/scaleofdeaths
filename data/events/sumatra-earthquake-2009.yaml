@@ -1,0 +1,34 @@
+id: sumatra-earthquake-2009
+title:
+  en: 2009 Padang earthquake
+  fr: Séisme de 2009 à Padang
+description:
+  en: >-
+    At 17:16 on 30 September 2009 a magnitude 7.6 earthquake struck about 45 km west-northwest of Padang, the capital of West Sumatra, Indonesia, at a depth of about 80 km. Most deaths were in Padang Pariaman regency and in the city of Padang, where many buildings collapsed, and landslides destroyed several villages in Padang Pariaman. Around 135,000 houses were severely damaged, and some 1.25 million people were affected.
+  fr: >-
+    Le 30 septembre 2009 à 17 h 16, un séisme de magnitude 7,6 s’est produit à environ 45 km à l’ouest-nord-ouest de Padang, capitale de Sumatra occidental (Indonésie), à environ 80 km de profondeur. La plupart des morts se trouvaient dans le kabupaten de Padang Pariaman et dans la ville de Padang, où de nombreux bâtiments se sont effondrés, et des glissements de terrain ont détruit plusieurs villages de Padang Pariaman. Environ 135 000 maisons ont été gravement endommagées et quelque 1,25 million de personnes ont été touchées.
+categories: [natural-disaster]
+kind: event
+start: "2009-09-30"
+deaths:
+  best: 1115
+  high: 1117
+  note:
+    en: Best is the toll confirmed by the Indonesian government and authorities, including 675 deaths in Padang Pariaman, 313 in Padang, 80 in Agam and 37 in Pariaman; USGS and NOAA NCEI give 1,117 (high). The separate magnitude 6.6 Jambi earthquake of 1 October 2009 is not included.
+    fr: L’estimation centrale est le bilan confirmé par le gouvernement et les autorités indonésiennes, dont 675 morts à Padang Pariaman, 313 à Padang, 80 à Agam et 37 à Pariaman ; l’USGS et la NCEI de la NOAA donnent 1 117 (haut de la fourchette). Le séisme distinct de magnitude 6,6 de Jambi, le 1er octobre 2009, n’est pas inclus.
+countries:
+  - { code: ID, deaths: 1115 }
+sources:
+  - title: 2009 Sumatra earthquakes
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2009_Sumatra_earthquakes
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Sumatra, Padang, event 8409"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/8409
+    accessed: "2026-10-22"
+  - title: Earthquakes with 1,000 or More Deaths 1900-2014 (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20170118110610/http://earthquake.usgs.gov/earthquakes/world/world_deaths.php
+    accessed: "2026-10-22"
+reviewed: false

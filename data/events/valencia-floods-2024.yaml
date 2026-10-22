@@ -1,0 +1,32 @@
+id: valencia-floods-2024
+title:
+  en: 2024 Valencia floods
+  fr: Inondations de 2024 à Valence
+description:
+  en: >-
+    On 29 October 2024 a cut-off low ("DANA") brought more than a year's worth of rain in a few hours to parts of eastern Spain. Flash floods along the Poyo ravine and the Magro river swept through towns south of the city of Valencia such as Paiporta, Catarroja and Benetússer, trapping people in cars, garages and ground-floor homes, often where little rain had fallen. Many residents received no timely warning, and the authorities' handling of the disaster is the subject of a criminal investigation.
+  fr: >-
+    Le 29 octobre 2024, une goutte froide (« DANA ») a déversé en quelques heures plus d’une année de pluie sur une partie de l’est de l’Espagne. Des crues éclair du ravin du Poyo et du Magro ont balayé des communes au sud de Valence, comme Paiporta, Catarroja et Benetússer, piégeant des habitants dans leurs voitures, garages et rez-de-chaussée, souvent là où il avait peu plu. Beaucoup d’habitants n’ont pas été alertés à temps, et la gestion de la catastrophe par les autorités fait l’objet d’une enquête pénale.
+categories: [natural-disaster]
+kind: event
+start: "2024-10-29"
+end: "2024-10-30"
+deaths:
+  best: 241
+  note:
+    en: >-
+      About 241 deaths according to Wikipedia: 233 in the province of Valencia, the official count recognised by the Catarroja judge investigating the disaster as of late September 2026 (Valencia Plaza, EFE), plus 7 in Castilla-La Mancha and 1 in Andalusia (Wikipedia). The Valencia count has risen several times as later deaths were linked to the floods.
+    fr: >-
+      Environ 241 morts selon Wikipédia : 233 dans la province de Valence, décompte officiel reconnu par la juge de Catarroja chargée de l’enquête à la fin de septembre 2026 (Valencia Plaza, EFE), plus 7 en Castille-La Manche et 1 en Andalousie (Wikipédia). Le décompte de Valence a été relevé à plusieurs reprises, à mesure que des décès ultérieurs étaient rattachés aux inondations.
+countries:
+  - { code: ES, deaths: 241 }
+sources:
+  - title: 2024 Spanish floods
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2024_Spanish_floods
+    accessed: "2026-10-22"
+  - title: Se eleva a 233 la cifra de víctimas mortales que dejó la Dana de Valencia de octubre de 2024
+    publisher: Valencia Plaza (EFE)
+    url: https://valenciaplaza.com/valenciaplaza/comunitat-valenciana1/se-eleva-a-233-la-cifra-de-victimas-mortales-que-dejo-la-dana-de-valencia-de-octubre-de-2024
+    accessed: "2026-10-22"
+reviewed: false

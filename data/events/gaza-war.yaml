@@ -1,0 +1,72 @@
+id: gaza-war
+title:
+  en: Gaza war
+  fr: Guerre de Gaza
+description:
+  en: >-
+    War that began on 7 October 2023 with the Hamas-led attack on Israel. Israel's air and ground offensive destroyed much of the Gaza Strip, displaced nearly all its population and led to famine conditions. A UN commission of inquiry (2025), Amnesty International (2024) and the International Association of Genocide Scholars (2025) concluded that Israel is committing genocide, and Human Rights Watch found acts of genocide; South Africa's case is pending at the International Court of Justice. Israel rejects these accusations. A ceasefire began on 10 October 2025, but deadly strikes continue.
+  fr: >-
+    Guerre commencée le 7 octobre 2023 par l’attaque menée par le Hamas contre Israël. L’offensive israélienne détruit une grande partie de la bande de Gaza, déplace presque toute sa population et provoque des conditions de famine. Une commission d’enquête de l’ONU (2025), Amnesty International (2024) et l’Association internationale des chercheurs sur le génocide (2025) concluent à un génocide commis par Israël, Human Rights Watch à des actes de génocide ; une requête sud-africaine est pendante devant la CIJ. Israël rejette ces accusations. Les frappes continuent malgré le cessez-le-feu de 2025.
+categories: [war, genocide]
+kind: event
+start: "2023-10-07"
+ongoing: true
+asOf: "2026-10-09"
+deaths:
+  best: 77632
+  high: 115000
+  note:
+    en: >-
+      Best is the total compiled by Wikipedia on 9 October 2026: 75,586 Palestinians killed according to the Gaza Health Ministry (74,370 in the Gaza Strip and 1,216 in the West Bank, as relayed by the WHO) and 2,046 Israelis according to Israeli authorities (civilians and security personnel, including the 1,195 killed in the 7 October attacks and hostages who died in captivity). The ministry's Gaza toll reached 74,480 on 19 October 2026 (WAFA). Israel disputes the ministry's figures but has not published its own; the UN and independent experts consider the ministry the most reliable source (AP), and its count is a floor: it covers registered deaths only, and about 7,400 missing people presumed dead are not included (Wikipedia). Independent estimates are higher: a capture-recapture study in The Lancet estimated 64,260 deaths from traumatic injury in Gaza by 30 June 2024, when the ministry reported 37,877 (AFP); a household survey in The Lancet Global Health estimated 75,200 violent deaths by 5 January 2025, plus 8,540 excess non-violent deaths (Wikipedia). High is the estimate by researchers of the Max Planck Institute for Demographic Research and the Centre for Demographic Studies of about 115,000 violent deaths in Gaza in the first two years of war, to October 2025 (uncertainty interval 104,000 to 129,000). Not counted: indirect deaths from hunger, disease and the collapse of health care, which have not been fully estimated; about 1,200 attackers killed in Israel on 7 October, according to Israel; deaths in Lebanon, Syria, Yemen and Iran from the related regional conflicts. The figure for Israel counts only the 7 October attacks, the only source-stated toll for deaths inside Israel.
+    fr: >-
+      L’estimation centrale est le total compilé par Wikipédia au 9 octobre 2026 : 75 586 Palestiniens tués selon le ministère de la Santé de Gaza (74 370 dans la bande de Gaza et 1 216 en Cisjordanie, chiffres relayés par l’OMS) et 2 046 Israéliens selon les autorités israéliennes (civils et membres des forces de sécurité, dont les 1 195 morts des attaques du 7 octobre et les otages morts en captivité). Le bilan du ministère pour Gaza atteint 74 480 morts le 19 octobre 2026 (WAFA). Israël conteste les chiffres du ministère sans publier les siens ; l’ONU et des experts indépendants considèrent le ministère comme la source la plus fiable (AP), et son décompte est un plancher : il ne compte que les morts enregistrées, et les quelque 7 400 disparus présumés morts n’y figurent pas (Wikipédia). Les estimations indépendantes sont plus élevées : une étude par capture-recapture publiée dans The Lancet estimait à 64 260 les morts par traumatisme à Gaza au 30 juin 2024, quand le ministère en comptait 37 877 (AFP) ; une enquête auprès des ménages publiée dans The Lancet Global Health estimait à 75 200 les morts violentes au 5 janvier 2025, plus 8 540 morts non violentes en excès (Wikipédia). Le haut est l’estimation de chercheurs de l’Institut Max-Planck de recherche démographique et du Centre d’études démographiques de Barcelone : environ 115 000 morts violentes à Gaza pendant les deux premières années de guerre, jusqu’en octobre 2025 (intervalle d’incertitude de 104 000 à 129 000). Ne sont pas comptés : les morts indirectes dues à la faim, aux maladies et à l’effondrement du système de santé, qui n’ont pas été pleinement estimées ; les quelque 1 200 assaillants tués en Israël le 7 octobre, selon Israël ; les morts au Liban, en Syrie, au Yémen et en Iran dans les conflits régionaux liés. Le chiffre pour Israël ne compte que les attaques du 7 octobre, seul bilan chiffré par les sources pour les morts sur le sol israélien.
+countries:
+  - { code: PS, deaths: 75586 }
+  - { code: IL, deaths: 1195 }
+related: [israel-hezbollah-war, iran-israel-war-2025]
+sources:
+  - title: Gaza war
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Gaza_war
+    accessed: "2026-10-22"
+  - title: Casualties of the Gaza war
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Casualties_of_the_Gaza_war
+    accessed: "2026-10-22"
+  - title: Death toll in the Gaza Strip rises to 74,480, with 175,539 injured
+    publisher: WAFA
+    url: https://english.wafa.ps/Pages/Details/176051
+    accessed: "2026-10-22"
+  - title: Leading genocide scholars organization says Israel is committing genocide in Gaza
+    publisher: PBS NewsHour (Associated Press)
+    url: https://www.pbs.org/newshour/world/leading-genocide-scholars-organization-says-israel-is-committing-genocide-in-gaza
+    accessed: "2026-10-22"
+  - title: Lancet study estimates Gaza death toll 40% higher than recorded
+    publisher: France 24 (AFP)
+    url: https://www.france24.com/en/live-news/20250110-lancet-study-estimates-gaza-death-toll-40-higher-than-recorded
+    accessed: "2026-10-22"
+  - title: The scale of Gaza's population losses after two years of war
+    publisher: Population Europe (Max Planck Institute for Demographic Research)
+    url: https://population-europe.eu/research/policy-insights/scale-gazas-population-losses-after-two-years-war-0
+    accessed: "2026-10-22"
+  - title: "Gaza: Top independent rights probe alleges Israel committed genocide"
+    publisher: UN News
+    url: https://news.un.org/en/story/2025/09/1165856
+    accessed: "2026-10-22"
+  - title: Amnesty International concludes Israel is committing genocide against Palestinians in Gaza
+    publisher: Amnesty International
+    url: https://www.amnesty.org/en/latest/news/2024/12/amnesty-international-concludes-israel-is-committing-genocide-against-palestinians-in-gaza/
+    accessed: "2026-10-22"
+  - title: "Israel's Crime of Extermination, Acts of Genocide in Gaza"
+    publisher: Human Rights Watch
+    url: https://www.hrw.org/news/2024/12/19/israels-crime-extermination-acts-genocide-gaza
+    accessed: "2026-10-22"
+  - title: Application of the Convention on the Prevention and Punishment of the Crime of Genocide in the Gaza Strip (South Africa v. Israel)
+    publisher: International Court of Justice
+    url: https://www.icj-cij.org/case/192
+    accessed: "2026-10-22"
+  - title: South Africa's genocide case against Israel
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/South_Africa%27s_genocide_case_against_Israel
+    accessed: "2026-10-22"
+reviewed: false

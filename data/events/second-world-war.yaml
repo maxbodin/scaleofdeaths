@@ -1,0 +1,97 @@
+id: second-world-war
+title:
+  en: Second World War
+  fr: Seconde Guerre mondiale
+description:
+  en: >-
+    Global conflict between the Allies and the Axis powers, fought in Europe, Asia, Africa and the Pacific from 1939 to 1945, and from 1937 in China. It is the deadliest conflict in history. Most of the dead were civilians, killed in genocides, above all the Holocaust, in massacres and reprisals, sieges and strategic bombing, including the atomic bombings of Hiroshima and Nagasaki, or by war-related famine and disease in China, the Soviet Union, India, Indonesia and Indochina. The Soviet Union and China suffered the heaviest losses.
+  fr: >-
+    Conflit mondial opposant les Alliés aux puissances de l’Axe en Europe, en Asie, en Afrique et dans le Pacifique de 1939 à 1945, et dès 1937 en Chine. C’est le conflit le plus meurtrier de l’histoire. La plupart des morts sont des civils, victimes de génocides, au premier rang desquels la Shoah, de massacres et de représailles, de sièges et de bombardements stratégiques, dont les bombardements atomiques d’Hiroshima et de Nagasaki, ou des famines et épidémies liées à la guerre en Chine, en URSS, en Inde, en Indonésie et en Indochine. L’URSS et la Chine ont subi les plus lourdes pertes.
+categories: [war]
+kind: event
+start: "1939-09-01"
+end: "1945-09-02"
+deaths:
+  best: 75000000
+  low: 60000000
+  high: 85000000
+  note:
+    en: Military and civilian deaths from all causes, including genocide, bombing and war-related famine and disease; deaths in China are counted from 1937. Estimates differ mostly on how many famine and disease deaths are included. Low is the 60 million given by the Imperial War Museums, by the National WWII Museum (15 million battle deaths and 45 million civilian deaths), by the UN Secretary-General (40 million civilians and 20 million soldiers) and at the low end of Wikipedia's lead (60 to 75 million, citing Beevor, Hastings and Aubin et al.). High is the top of the total in Wikipedia's per-country table (70 to 85 million), which includes 19 to 28 million war-related famine and disease deaths that other compilations often leave out. No source gives a single central figure; best is 75 million, the top of the lead range and inside the table range. Per-country figures are the total deaths column of Wikipedia's World War II casualties table, using the low end of each range. They count each country's own dead, including soldiers who died abroad, in the borders used by the table, so Poland and the Baltic states (1939 borders) overlap the Soviet Union (1946-1991 borders), Germany includes Austria and ethnic Germans from eastern Europe, and a few small entries (Ireland, Luxembourg, Malta, Newfoundland) partly repeat deaths counted elsewhere. Colonies are listed under the present-day country covering the same territory (British India, which also covered Pakistan and Bangladesh, as India; the Dutch East Indies as Indonesia; Burma as Myanmar), or under their historical name when now split between several countries.
+    fr: Morts militaires et civiles de toutes causes, y compris les génocides, les bombardements, les famines et les maladies liées à la guerre ; les morts en Chine sont comptées depuis 1937. Les estimations diffèrent surtout selon la part des morts de famine et de maladie retenue. Le bas de la fourchette correspond aux 60 millions avancés par les Imperial War Museums, par le National WWII Museum (15 millions de morts au combat et 45 millions de morts civiles), par le secrétaire général de l’ONU (40 millions de civils et 20 millions de soldats) et en bas de la fourchette de l’introduction de Wikipédia (60 à 75 millions, d’après Beevor, Hastings et Aubin et al.). Le haut de la fourchette est le haut du total du tableau par pays de Wikipédia (70 à 85 millions), qui inclut 19 à 28 millions de morts de famine et de maladie liées à la guerre, souvent omises ailleurs. Aucune source ne donne de chiffre central unique ; l’estimation centrale retenue, 75 millions, est le haut de la fourchette de l’introduction et se situe dans celle du tableau. Les chiffres par pays sont ceux de la colonne des morts totales du tableau de Wikipédia sur les pertes humaines de la Seconde Guerre mondiale, bas de chaque fourchette. Ils comptent les morts de chaque pays, y compris les soldats morts à l’étranger, dans les frontières retenues par le tableau ; la Pologne et les pays baltes (frontières de 1939) recoupent donc l’URSS (frontières de 1946-1991), l’Allemagne inclut l’Autriche et les Allemands ethniques d’Europe de l’Est, et quelques petites entrées (Irlande, Luxembourg, Malte, Terre-Neuve) reprennent en partie des morts comptées ailleurs. Les colonies figurent sous le pays actuel couvrant le même territoire (l’Inde britannique, qui comprenait aussi le Pakistan et le Bangladesh, sous l’Inde ; les Indes orientales néerlandaises sous l’Indonésie ; la Birmanie sous le Myanmar), ou sous leur nom historique lorsqu’elles sont aujourd’hui partagées entre plusieurs pays.
+countries:
+  - { code: SU, name: { en: Soviet Union, fr: Union soviétique }, deaths: 20000000 }
+  - { code: CN, deaths: 14000000 }
+  - { code: DE, deaths: 6900000 }
+  - { code: PL, deaths: 5900000 }
+  - { code: ID, deaths: 3000000 }
+  - { code: JP, deaths: 2500000 }
+  - { code: IN, deaths: 2200000 }
+  - { code: YU, name: { en: Yugoslavia, fr: Yougoslavie }, deaths: 1027000 }
+  - { name: { en: French Indochina, fr: Indochine française }, deaths: 1000000 }
+  - { code: FR, deaths: 600000 }
+  - { code: PH, deaths: 557000 }
+  - { code: GR, deaths: 507000 }
+  - { code: RO, deaths: 500000 }
+  - { code: IT, deaths: 492400 }
+  - { name: { en: Korea, fr: Corée }, deaths: 483000 }
+  - { code: HU, deaths: 464000 }
+  - { code: GB, deaths: 450900 }
+  - { code: US, deaths: 419400 }
+  - { code: LT, deaths: 370000 }
+  - { code: CS, name: { en: Czechoslovakia, fr: Tchécoslovaquie }, deaths: 340000 }
+  - { code: MM, deaths: 252600 }
+  - { code: LV, deaths: 250000 }
+  - { code: NL, deaths: 250000 }
+  - { name: { en: Malaya and Singapore, fr: Malaisie britannique et Singapour }, deaths: 100000 }
+  - { code: ET, deaths: 100000 }
+  - { code: FI, deaths: 96800 }
+  - { code: BE, deaths: 88000 }
+  - { code: EE, deaths: 83000 }
+  - { code: CA, deaths: 43600 }
+  - { code: AU, deaths: 40400 }
+  - { code: TL, deaths: 40000 }
+  - { name: { en: Ruanda-Urundi, fr: Ruanda-Urundi }, deaths: 36000 }
+  - { code: AL, deaths: 30000 }
+  - { code: BG, deaths: 21500 }
+  - { code: PG, deaths: 15000 }
+  - { code: ZA, deaths: 11900 }
+  - { code: NZ, deaths: 11700 }
+  - { code: NO, deaths: 10200 }
+  - { name: { en: South Seas Mandate, fr: Mandat des îles du Pacifique }, deaths: 10000 }
+  - { code: TH, deaths: 7600 }
+  - { code: LU, deaths: 7106 }
+  - { code: DK, deaths: 6000 }
+  - { code: IE, deaths: 5100 }
+  - { code: SE, deaths: 2100 }
+  - { code: BR, deaths: 2000 }
+  - { code: MT, deaths: 1500 }
+  - { name: { en: Newfoundland, fr: Terre-Neuve }, deaths: 1200 }
+  - { code: EG, deaths: 1100 }
+  - { code: GU, deaths: 1000 }
+  - { code: IQ, deaths: 700 }
+  - { code: NR, deaths: 500 }
+  - { code: MN, deaths: 300 }
+  - { code: IS, deaths: 200 }
+  - { code: TR, deaths: 200 }
+  - { code: CU, deaths: 100 }
+  - { code: MX, deaths: 100 }
+  - { code: CH, deaths: 100 }
+  - { code: AT }
+sources:
+  - title: World War II casualties
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/World_War_II_casualties
+    accessed: "2026-10-22"
+  - title: "Research Starters: Worldwide Deaths in World War II"
+    publisher: The National WWII Museum
+    url: https://www.nationalww2museum.org/students-teachers/student-resources/research-starters/research-starters-worldwide-deaths-world-war
+    accessed: "2026-10-22"
+  - title: How the legacy of the Second World War shaped the modern world
+    publisher: Imperial War Museums
+    url: https://www.iwm.org.uk/history/second-world-war/victory/how-the-legacy-of-the-second-world-war-shaped-the-modern-world
+    accessed: "2026-10-22"
+  - title: Time of Remembrance and Reconciliation for Those Who Lost Their Lives during the Second World War
+    publisher: United Nations
+    url: https://www.un.org/en/observances/second-world-war-remembrance-days
+    accessed: "2026-10-22"
+reviewed: false

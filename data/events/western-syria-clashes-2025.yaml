@@ -1,0 +1,39 @@
+id: western-syria-clashes-2025
+title:
+  en: March 2025 Western Syria clashes
+  fr: Affrontements de mars 2025 dans l’ouest de la Syrie
+description:
+  en: >-
+    Clashes and mass killings in Syria's coastal Latakia and Tartus regions in March 2025, three months after the fall of Bashar al-Assad. On 6 March, Assad loyalist insurgents attacked the new government's security forces around Jableh and Baniyas; tens of thousands of fighters from allied factions and armed civilians then converged on the coast, and raids on Alawite villages and neighbourhoods killed mostly Alawite men. A UN commission of inquiry found the abuses widespread and systematic, but no evidence of a government policy to carry them out.
+  fr: >-
+    Affrontements et tueries de masse dans les régions côtières de Lattaquié et de Tartous en mars 2025, trois mois après la chute de Bachar al-Assad. Le 6 mars, des insurgés fidèles à Assad attaquent les forces de sécurité du nouveau pouvoir autour de Jableh et de Banias ; des dizaines de milliers de combattants de factions alliées et de civils armés affluent alors sur la côte, et des raids dans les villages et quartiers alaouites tuent surtout des hommes alaouites. Une commission d’enquête de l’ONU juge les exactions généralisées et systématiques, sans preuve d’une politique gouvernementale.
+categories: [genocide, war]
+kind: event
+start: "2025-03-06"
+end: "2025-03-12"
+deaths:
+  best: 1400
+  low: 823
+  high: 1700
+  note:
+    en: >-
+      Best is the finding of the Syrian government's own inquiry that more than 1,400 people were killed, most of them civilians (AP, via The New Arab); a Reuters investigation counted 1,479 Alawites killed between 7 and 9 March (Wikipedia). Low is the count of 823 civilians killed by the Syrian Network for Human Rights, and high the count of 1,700 civilians killed by the Syrian Observatory for Human Rights, which also reported 315 security personnel and about 200 pro-Assad fighters killed (Wikipedia). Earlier and later sectarian killings in the region are not included.
+    fr: >-
+      L’estimation centrale est la conclusion de l’enquête du gouvernement syrien lui-même : plus de 1 400 morts, en majorité des civils (AP, via The New Arab) ; une enquête de Reuters a compté 1 479 alaouites tués entre le 7 et le 9 mars (Wikipédia). Le bas est le décompte de 823 civils tués du Réseau syrien pour les droits de l’homme, et le haut celui de 1 700 civils tués de l’Observatoire syrien des droits de l’homme, qui fait aussi état de 315 membres des forces de sécurité et d’environ 200 combattants pro-Assad tués (Wikipédia). Les tueries confessionnelles antérieures et postérieures dans la région ne sont pas comptées.
+countries:
+  - { code: SY, deaths: 1400 }
+related: [syrian-civil-war]
+sources:
+  - title: March 2025 Western Syria clashes
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/March_2025_Western_Syria_clashes
+    accessed: "2026-10-22"
+  - title: 2025 massacres of Syrian Alawites
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2025_massacres_of_Syrian_Alawites
+    accessed: "2026-10-22"
+  - title: UN report finds violations against Alawites in coastal Syria
+    publisher: The New Arab (AP)
+    url: https://www.newarab.com/news/un-report-finds-violations-against-alawites-coastal-syria
+    accessed: "2026-10-22"
+reviewed: false

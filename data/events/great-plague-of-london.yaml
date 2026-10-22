@@ -1,0 +1,33 @@
+id: great-plague-of-london
+title:
+  en: Great Plague of London
+  fr: Grande peste de Londres
+description:
+  en: >-
+    The last major epidemic of bubonic plague in England, part of the second plague pandemic. It began in the poor parish of St Giles in early 1665, spread through the crowded suburbs and peaked in September 1665, when over 7,000 plague deaths were recorded in a single week, before fading in 1666. The court and many wealthy residents fled, while houses of the sick were shut up for 40 days. Samuel Pepys described it in his diary.
+  fr: >-
+    Dernière grande épidémie de peste bubonique en Angleterre, dans le cadre de la deuxième pandémie de peste. Partie au début de 1665 de la paroisse pauvre de St Giles, elle gagna les faubourgs surpeuplés et culmina en septembre 1665, avec plus de 7 000 morts de la peste enregistrés en une semaine, avant de s’éteindre en 1666. La cour et de nombreux riches fuirent, tandis que les maisons des malades étaient condamnées pendant 40 jours. Samuel Pepys en a laissé le récit dans son journal.
+categories: [epidemic]
+kind: event
+start: "1665"
+end: "1666"
+deaths:
+  best: 100000
+  low: 68596
+  high: 100000
+  note:
+    en: Deaths in London. The Bills of Mortality recorded 68,596 plague deaths (68,595 according to Royal Museums Greenwich), an undercount; the true total is estimated at about 100,000, almost a quarter of the population according to Wikipedia, one fifth according to Royal Museums Greenwich. Deaths in other English towns, such as Eyam, are not included.
+    fr: Morts à Londres. Les Bills of Mortality recensent 68 596 morts de la peste (68 595 selon les Royal Museums Greenwich), un chiffre sous-estimé ; le bilan réel est estimé à environ 100 000, près d’un quart de la population selon Wikipédia, un cinquième selon les Royal Museums Greenwich. Les morts dans d’autres villes anglaises, comme Eyam, ne sont pas incluses.
+countries:
+  - { code: GB, deaths: 100000 }
+related: [black-death]
+sources:
+  - title: Great Plague of London
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Great_Plague_of_London
+    accessed: "2026-10-22"
+  - title: The Great Plague
+    publisher: Royal Museums Greenwich
+    url: https://www.rmg.co.uk/stories/royal-history/great-plague
+    accessed: "2026-10-22"
+reviewed: false

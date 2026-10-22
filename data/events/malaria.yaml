@@ -1,0 +1,45 @@
+id: malaria
+title:
+  en: Malaria in the 20th century
+  fr: Paludisme au XXe siècle
+description:
+  en: >-
+    Deaths from malaria, a parasitic disease spread by Anopheles mosquitoes, during the 20th century. In the first half of the century it killed at least 3 million people a year, with very high death rates in India and elsewhere in Asia, and it was still present in parts of Europe and the Americas. After the Second World War, campaigns spraying homes with DDT sharply cut deaths in Asia and eliminated the disease from countries such as the United States, while in tropical Africa it kept killing mainly young children.
+  fr: >-
+    Morts du paludisme, maladie parasitaire transmise par les moustiques anophèles, au cours du XXe siècle. Dans la première moitié du siècle, il tuait au moins 3 millions de personnes par an, avec des taux de mortalité très élevés en Inde et ailleurs en Asie, et sévissait encore dans certaines régions d’Europe et des Amériques. Après la Seconde Guerre mondiale, les campagnes d’aspersion des maisons au DDT ont fortement réduit les décès en Asie et éliminé la maladie de pays comme les États-Unis, tandis qu’en Afrique tropicale il continuait de tuer surtout de jeunes enfants.
+categories: [epidemic]
+kind: endemic-total
+start: "1900"
+end: "2000"
+deaths:
+  best: 150000000
+  low: 150000000
+  high: 300000000
+  note:
+    en: >-
+      Carter and Mendis (2002) estimate that somewhere between 150 and 300 million people died from the effects of malaria during the 20th century, 2 to 5% of all deaths, a range also used by the US Institute of Medicine (2004). They give no central estimate, so best uses the low end of their range. No source gives per-country totals for the century; India is listed because the authors single it out for the highest death rates early in the century, and Nigeria, the Democratic Republic of the Congo and Niger because they account for the largest shares of malaria deaths today (WHO).
+    fr: >-
+      Carter et Mendis (2002) estiment qu’entre 150 et 300 millions de personnes sont mortes des effets du paludisme au cours du XXe siècle, soit 2 à 5 % de l’ensemble des décès, une fourchette reprise par l’Institute of Medicine américain (2004). Ils ne donnent pas d’estimation centrale : l’estimation retenue est donc la borne basse. Aucune source ne donne de total par pays pour le siècle ; l’Inde est listée car les auteurs y relèvent les plus forts taux de mortalité au début du siècle, et le Nigeria, la République démocratique du Congo et le Niger car ils concentrent aujourd’hui la plus grande part des décès (OMS).
+countries:
+  - { code: IN }
+  - { code: NG }
+  - { code: CD }
+  - { code: NE }
+sources:
+  - title: History of malaria
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/History_of_malaria
+    accessed: "2026-10-22"
+  - title: Evolutionary and Historical Aspects of the Burden of Malaria (Carter and Mendis, 2002)
+    publisher: Clinical Microbiology Reviews
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC126857/
+    accessed: "2026-10-22"
+  - title: "Saving Lives, Buying Time: Economics of Malaria Drugs in an Age of Resistance, chapter 5: A Brief History of Malaria"
+    publisher: Institute of Medicine (National Academies Press)
+    url: https://www.nationalacademies.org/read/11017/chapter/7
+    accessed: "2026-10-22"
+  - title: Malaria fact sheet
+    publisher: World Health Organization
+    url: https://www.who.int/news-room/fact-sheets/detail/malaria
+    accessed: "2026-10-22"
+reviewed: false

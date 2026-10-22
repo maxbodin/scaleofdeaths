@@ -1,0 +1,41 @@
+id: finnish-famine-1695
+title:
+  en: Great Famine of 1695-1697
+  fr: Grande famine de 1695-1697
+description:
+  en: >-
+    Famine in the Swedish realm at the lowest point of the Little Ice Age, which hit Finland hardest, along with Estonia and Livonia, northern and central Sweden and, in 1696, Norway. Cold summers, early frosts and floods destroyed successive harvests from 1695; people ate bark bread, begged in the streets and flocked to the towns, and cannibalism was reported at least once. Mortality peaked in the spring and summer of 1697 with dysentery, typhus and typhoid. In Finland it is remembered as the years of many deaths, the country's worst demographic catastrophe.
+  fr: >-
+    Famine dans le royaume de Suède au plus froid du petit âge glaciaire, qui a frappé surtout la Finlande, mais aussi l’Estonie et la Livonie, le nord et le centre de la Suède et, en 1696, la Norvège. Étés froids, gelées précoces et crues ont détruit les récoltes successives à partir de 1695 ; on a mangé du pain d’écorce, mendié et afflué vers les villes, et au moins un cas de cannibalisme a été signalé. La mortalité a culminé au printemps et à l’été 1697 avec la dysenterie, le typhus et la typhoïde. En Finlande, « les grandes années de mort » sont la pire catastrophe démographique du pays.
+categories: [famine]
+kind: event
+start: "1695"
+end: "1697"
+deaths:
+  best: 150000
+  note:
+    en: "Deaths from hunger and disease. Best: about 150,000 deaths in Finland, about a third of its population of some 500,000 (Wikipedia); Dribe, Olsson and Svensson (Lund University) cite estimates of a quarter to a third of Finland's population. Estonia lost 60,000 to 80,000 people, about a sixth of its population, according to a study published by the National Archives of Estonia (Wikipedia gives 70,000 to 100,000 for Estonia and Livonia), but no source gives a combined total, so these deaths are not included in best. No figures were found for Sweden and Norway."
+    fr: "Morts de faim et de maladie. Valeur centrale : environ 150 000 morts en Finlande, soit un tiers d’une population d’environ 500 000 habitants (Wikipédia) ; Dribe, Olsson et Svensson (université de Lund) citent des estimations d’un quart à un tiers de la population finlandaise. L’Estonie a perdu 60 000 à 80 000 personnes, environ un sixième de sa population, selon une étude publiée par les Archives nationales d’Estonie (Wikipédia donne 70 000 à 100 000 pour l’Estonie et la Livonie), mais aucune source ne donne de total commun ; ces morts ne sont donc pas inclus dans la valeur centrale. Aucun chiffre n’a été trouvé pour la Suède et la Norvège."
+countries:
+  - { code: FI, deaths: 150000 }
+  - { code: EE }
+  - { code: SE }
+  - { code: NO }
+sources:
+  - title: Great Famine of 1695-1697
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Great_Famine_of_1695%E2%80%931697
+    accessed: "2026-10-22"
+  - title: Great Famine of Estonia
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Great_Famine_of_Estonia
+    accessed: "2026-10-22"
+  - title: "Famines in the Nordic countries, AD 536 - 1875"
+    publisher: Lund University, Department of Economic History
+    url: https://lup.lub.lu.se/record/8001054
+    accessed: "2026-10-22"
+  - title: The Causes of Rural Mortality in the Swedish Baltic Provinces of Estland and Livland during the Great Famine 1696-1697
+    publisher: Tuna (National Archives of Estonia)
+    url: https://tuna.ra.ee/en/the-causes-of-rural-mortality-in-the-swedish-baltic-provinces-of-estland-and-livland-during-the-great-famine-1696-1697/
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,35 @@
+id: gujarat-earthquake-2001
+title:
+  en: 2001 Gujarat earthquake
+  fr: Séisme de 2001 au Gujarat
+description:
+  en: >-
+    At 08:46 on 26 January 2001, India's Republic Day, a magnitude 7.6 intraplate earthquake struck Kutch district in Gujarat, western India. Bhuj was devastated, with 95% of its buildings destroyed or uninhabitable, and towns such as Bhachau, Anjar and Gandhidham suffered heavy losses, including schoolchildren at a Republic Day parade. Apartment blocks collapsed as far away as Ahmedabad. About 400,000 homes collapsed and over a million were damaged; there were also deaths in Sindh, Pakistan.
+  fr: >-
+    Le 26 janvier 2001 à 8 h 46, jour de la fête de la République en Inde, un séisme intraplaque de magnitude 7,6 a frappé le district de Kutch, au Gujarat, dans l’ouest du pays. Bhuj a été dévastée, 95 % de ses bâtiments étant détruits ou inhabitables, et des villes comme Bhachau, Anjar et Gandhidham ont subi de lourdes pertes, dont des écoliers lors d’un défilé de la fête de la République. Des immeubles se sont effondrés jusqu’à Ahmedabad. Environ 400 000 maisons se sont écroulées et plus d’un million ont été endommagées ; il y a aussi eu des morts dans le Sind, au Pakistan.
+categories: [natural-disaster]
+kind: event
+start: "2001-01-26"
+deaths:
+  best: 20023
+  high: 20085
+  note:
+    en: Best is the total from the USGS PAGER-CAT catalogue given by Wikipedia, almost all in Gujarat (18,416 in Kutch district alone). USGS's list of deadly earthquakes gives 20,085. Per country, NOAA NCEI reports at least 20,005 killed in Gujarat and at least 18 in southern Pakistan (Wikipedia gives 19 for Pakistan).
+    fr: L’estimation centrale est le total du catalogue PAGER-CAT de l’USGS repris par Wikipédia, presque entièrement au Gujarat (18 416 dans le seul district de Kutch). La liste des séismes meurtriers de l’USGS donne 20 085. Par pays, la NCEI de la NOAA signale au moins 20 005 morts au Gujarat et au moins 18 dans le sud du Pakistan (Wikipédia donne 19 pour le Pakistan).
+countries:
+  - { code: IN, deaths: 20005 }
+  - { code: PK, deaths: 18 }
+sources:
+  - title: 2001 Gujarat earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2001_Gujarat_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Gujarat, Pakistan, event 5589"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/5589
+    accessed: "2026-10-22"
+  - title: Earthquakes with 1,000 or More Deaths 1900-2014 (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20170118110610/http://earthquake.usgs.gov/earthquakes/world/world_deaths.php
+    accessed: "2026-10-22"
+reviewed: false

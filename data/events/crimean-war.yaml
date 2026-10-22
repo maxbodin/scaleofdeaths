@@ -1,0 +1,43 @@
+id: crimean-war
+title:
+  en: Crimean War
+  fr: Guerre de Crimée
+description:
+  en: >-
+    War between the Russian Empire and an alliance of the Ottoman Empire, France, Britain and Sardinia, fought mainly in Crimea around the siege of Sevastopol, as well as on the Danube, in the Caucasus and the Baltic. Disease, especially cholera, typhus and dysentery, killed far more soldiers than combat. Reports of the suffering of the troops led to reforms in military medicine and nursing, associated with Florence Nightingale.
+  fr: >-
+    Guerre entre l’Empire russe et une alliance réunissant l’Empire ottoman, la France, le Royaume-Uni et la Sardaigne, menée surtout en Crimée autour du siège de Sébastopol, mais aussi sur le Danube, dans le Caucase et en Baltique. Les maladies, notamment le choléra, le typhus et la dysenterie, ont tué bien plus de soldats que les combats. Les récits des souffrances des troupes ont entraîné des réformes de la médecine militaire et des soins infirmiers, associées à Florence Nightingale.
+categories: [war]
+kind: event
+start: "1853-10-16"
+end: "1856-03-30"
+deaths:
+  best: 610000
+  high: 670000
+  note:
+    en: Military deaths from all causes, mostly disease. Best is the low end of the 0.61 to 0.67 million range on Wikipedia's list of wars by death toll, which matches Mulhall's 1892 total of 609,797; high is the top of that range. Per-country figures are Mulhall's, except Sardinia (Clodfelter, via Wikipedia). Russian losses are the most uncertain (450,000 to 630,000), Ottoman losses range from 45,400 to 400,000, and some authors give over 1 million deaths in total.
+    fr: Morts militaires de toutes causes, surtout de maladie. L’estimation centrale est le bas de la fourchette de 0,61 à 0,67 million de la liste des guerres de Wikipédia, qui correspond au total de 609 797 établi par Mulhall en 1892 ; le haut est le sommet de cette fourchette. Les chiffres par pays sont ceux de Mulhall, sauf la Sardaigne (Clodfelter, via Wikipédia). Les pertes russes sont les plus incertaines (450 000 à 630 000), les pertes ottomanes vont de 45 400 à 400 000, et certains auteurs avancent plus d’un million de morts au total.
+countries:
+  - { name: { en: Russian Empire, fr: Empire russe }, deaths: 446600 }
+  - { code: FR, deaths: 95615 }
+  - { name: { en: Ottoman Empire, fr: Empire ottoman }, deaths: 45400 }
+  - { code: GB, deaths: 22182 }
+  - { name: { en: Kingdom of Sardinia, fr: Royaume de Sardaigne }, deaths: 2166 }
+sources:
+  - title: Crimean War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Crimean_War
+    accessed: "2026-10-22"
+  - title: List of wars by death toll
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_wars_by_death_toll
+    accessed: "2026-10-22"
+  - title: "The Dictionary of Statistics (M. G. Mulhall, 1892), Wars, p. 587"
+    publisher: Internet Archive
+    url: https://archive.org/details/dictionaryofstat00mulhuoft
+    accessed: "2026-10-22"
+  - title: "Losses of Life Caused by War (S. Dumas and K. O. Vedel-Petersen, 1923), pp. 41-42"
+    publisher: Clarendon Press (via Internet Archive)
+    url: https://archive.org/details/lossesoflifecaus00samu
+    accessed: "2026-10-22"
+reviewed: false

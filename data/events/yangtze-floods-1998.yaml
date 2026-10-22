@@ -1,0 +1,37 @@
+id: yangtze-floods-1998
+title:
+  en: 1998 China floods
+  fr: Inondations de 1998 en Chine
+description:
+  en: >-
+    From mid-June to early September 1998, months of above-average rainfall swelled the Yangtze, above all around Dongting and Poyang lakes and in Hubei and Hunan provinces, as well as the Nen and Songhua rivers in the north-east and the Pearl River in the south. It was considered the worst flood in southern China in 40 years: more than 200 million people were affected, 13.3 million houses were damaged or destroyed and about 15 million people were left homeless. Around a million soldiers and civilians were mobilised.
+  fr: >-
+    De la mi-juin au début septembre 1998, des mois de pluies supérieures à la normale ont fait gonfler le Yangzi, surtout autour des lacs Dongting et Poyang et dans les provinces du Hubei et du Hunan, ainsi que la Nen et la Songhua dans le nord-est et la rivière des Perles dans le sud. Ce sont les pires crues du sud de la Chine en 40 ans : plus de 200 millions de personnes touchées, 13,3 millions de maisons endommagées ou détruites et environ 15 millions de sans-abri. Près d’un million de soldats et de civils ont été mobilisés.
+categories: [natural-disaster]
+kind: event
+start: "1998-06"
+end: "1998-09"
+deaths:
+  best: 4150
+  low: 3004
+  note:
+    en: >-
+      Deaths in all the 1998 floods in China, not only along the Yangtze. Best is the total of 4,150 given by Wikipedia (citing Spignesi, 2004); PBS gave about 4,000, and the 3,704 in Wikipedia is attributed to that PBS page, which actually says 4,000. Low is the 3,004 deaths in government estimates at the end of August 1998, reported by the UN disaster assessment mission.
+    fr: >-
+      Morts de l’ensemble des inondations de 1998 en Chine, pas seulement le long du Yangzi. L’estimation centrale est le total de 4 150 donné par Wikipédia (d’après Spignesi, 2004) ; PBS donnait environ 4 000, et le chiffre de 3 704 de Wikipédia est attribué à cette page de PBS, qui indique en fait 4 000. L’estimation basse correspond aux 3 004 morts des estimations gouvernementales de fin août 1998, rapportées par la mission d’évaluation des Nations unies.
+countries:
+  - { code: CN, deaths: 4150 }
+sources:
+  - title: 1998 China floods
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1998_China_floods
+    accessed: "2026-10-22"
+  - title: Final Report on 1998 Floods in the People's Republic of China
+    publisher: UN Office for the Coordination of Humanitarian Affairs (UNDAC mission)
+    url: https://www.unocha.org/publications/report/china/final-report-1998-floods-peoples-republic-china
+    accessed: "2026-10-22"
+  - title: "Great Wall Across the Yangtze: The Dam"
+    publisher: PBS (Internet Archive copy)
+    url: https://web.archive.org/web/20021003172247/http://www.pbs.org/itvs/greatwall/dam1.html
+    accessed: "2026-10-22"
+reviewed: false

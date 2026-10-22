@@ -1,0 +1,33 @@
+id: occupational-deaths
+title:
+  en: Deaths from work-related accidents and diseases per year
+  fr: Décès dus aux accidents et maladies liés au travail par an
+description:
+  en: >-
+    Workers who died worldwide in one year from work-related accidents and diseases, as estimated by the International Labour Organization (ILO). Most of these deaths come from diseases caused by exposures at work, mainly circulatory diseases, cancers and respiratory diseases; fatal work accidents are concentrated in agriculture, construction, forestry, fishing and manufacturing. Asia and the Pacific accounts for almost 63% of deaths, reflecting the size of its workforce, and the death rate is more than twice as high for men as for women.
+  fr: >-
+    Travailleurs morts dans le monde en un an d’accidents et de maladies liés au travail, selon l’estimation de l’Organisation internationale du travail (OIT). La plupart de ces décès sont dus à des maladies causées par des expositions professionnelles, surtout maladies circulatoires, cancers et maladies respiratoires ; les accidents mortels touchent surtout l’agriculture, le bâtiment, la sylviculture, la pêche et l’industrie. L’Asie-Pacifique concentre près de 63 % des morts, du fait de la taille de sa population active.
+categories: [annual, accident]
+kind: endemic-total
+start: "2019"
+end: "2019"
+deaths:
+  best: 2930000
+  note:
+    en: >-
+      ILO, A call for safer and healthier working environments (2023): according to the latest ILO estimates, covering the year 2019, around 2.93 million workers died as a result of work-related factors: 2.6 million from work-related diseases and 330,000 from work accidents. This is an attributable estimate (6.71% of all deaths), not a count, and no range is published. No per-country figures are given; China and India, the two most populous countries of Asia and the Pacific, are listed without numbers.
+    fr: >-
+      OIT, A call for safer and healthier working environments (2023) : selon ses dernières estimations, portant sur l’année 2019, environ 2,93 millions de travailleurs sont morts de facteurs liés au travail : 2,6 millions de maladies professionnelles et 330 000 d’accidents du travail. Il s’agit d’une estimation de décès attribuables (6,71 % de tous les décès), pas d’un décompte, et aucune fourchette n’est publiée. Aucun chiffre par pays n’est donné ; la Chine et l’Inde, les deux pays les plus peuplés d’Asie-Pacifique, sont listées sans nombre.
+countries:
+  - { code: CN }
+  - { code: IN }
+sources:
+  - title: A call for safer and healthier working environments (2023)
+    publisher: International Labour Organization
+    url: https://www.ilo.org/sites/default/files/wcmsp5/groups/public/%40ed_protect/%40protrav/%40safework/documents/publication/wcms_903140.pdf
+    accessed: "2026-10-22"
+  - title: Nearly 3 million people die of work-related accidents and diseases
+    publisher: International Labour Organization
+    url: https://www.ilo.org/resource/news/nearly-3-million-people-die-work-related-accidents-and-diseases
+    accessed: "2026-10-22"
+reviewed: false

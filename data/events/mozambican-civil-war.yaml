@@ -1,0 +1,36 @@
+id: mozambican-civil-war
+title:
+  en: Mozambican Civil War
+  fr: Guerre civile du Mozambique
+description:
+  en: >-
+    Civil war between Mozambique's ruling FRELIMO party, which sought to build a socialist one-party state after independence from Portugal, and the RENAMO insurgency, backed first by Rhodesia and then by South Africa. Zimbabwe, Tanzania and Malawi sent troops to support the government. Both sides committed abuses against civilians, and RENAMO was blamed for many massacres. Fighting and the disruption of food supplies caused widespread famine, and about 5 million people were displaced. The Rome General Peace Accords ended the war in October 1992.
+  fr: >-
+    Guerre civile entre le FRELIMO au pouvoir, qui cherche à bâtir un État socialiste à parti unique après l’indépendance du Mozambique, et la rébellion de la RENAMO, soutenue d’abord par la Rhodésie puis par l’Afrique du Sud. Le Zimbabwe, la Tanzanie et le Malawi envoient des troupes aux côtés du gouvernement. Les deux camps commettent des exactions contre les civils, et de nombreux massacres sont imputés à la RENAMO. Les combats et les pénuries alimentaires provoquent une vaste famine, et environ 5 millions de personnes sont déplacées. Les accords de Rome mettent fin à la guerre en octobre 1992.
+categories: [war]
+kind: event
+start: "1977-05-30"
+end: "1992-10-04"
+deaths:
+  best: 1000000
+  low: 500000
+  note:
+    en: Deaths from fighting, violence against civilians and war-induced famine and disease. Best is the figure most often cited, "over one million" Mozambicans killed in the fighting or starved (Wikipedia), also given by the BBC, Bercovitch and Jackson and Dan Smith (Necrometrics); Mahmood Mamdani attributes as many as 100,000 killings to RENAMO. Low is the 500,000 given by the Sydney Morning Herald in 1994; other estimates range from 600,000 to 1 million, and Matthew White's own estimate is 800,000 (Necrometrics). Per-country figures are foreign military deaths (Zimbabwe 296 soldiers in 1984-1990, plus 24 pilots; Malawi over 100); Mozambican deaths make up nearly all of the total but are not given separately.
+    fr: Morts dues aux combats, aux violences contre les civils et aux famines et maladies causées par la guerre. L’estimation centrale est le chiffre le plus souvent cité, « plus d’un million » de Mozambicains tués dans les combats ou morts de faim (Wikipédia), également donné par la BBC, Bercovitch et Jackson et Dan Smith (Necrometrics) ; Mahmood Mamdani attribue jusqu’à 100 000 meurtres à la RENAMO. Le bas correspond aux 500 000 morts indiquées par le Sydney Morning Herald en 1994 ; d’autres estimations vont de 600 000 à 1 million, et Matthew White retient 800 000 (Necrometrics). Les chiffres par pays sont des morts militaires étrangères (Zimbabwe 296 soldats en 1984-1990, plus 24 pilotes ; Malawi plus de 100) ; les morts mozambicaines représentent la quasi-totalité du bilan mais ne sont pas données à part.
+countries:
+  - { code: MZ }
+  - { code: ZW, deaths: 296 }
+  - { code: MW, deaths: 100 }
+  - { code: TZ, deaths: 99 }
+  - { code: SU, name: { en: Soviet Union, fr: Union soviétique }, deaths: 8 }
+related: [angolan-civil-war]
+sources:
+  - title: Mozambican Civil War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Mozambican_Civil_War
+    accessed: "2026-10-22"
+  - title: "Secondary Wars and Atrocities of the Twentieth Century: Mozambique (1975-1992)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c300k.htm
+    accessed: "2026-10-22"
+reviewed: false

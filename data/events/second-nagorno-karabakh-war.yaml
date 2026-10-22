@@ -1,0 +1,34 @@
+id: second-nagorno-karabakh-war
+title:
+  en: Second Nagorno-Karabakh War
+  fr: Seconde guerre du Haut-Karabakh
+description:
+  en: >-
+    Six-week war launched by Azerbaijan, with Turkish support, against the Armenian-controlled Nagorno-Karabakh region and surrounding districts, defended by the forces of the self-proclaimed Republic of Artsakh and Armenia. Fighting relied heavily on drones, artillery and missiles, and towns on both sides were shelled. Azerbaijan retook the surrounding districts and part of Nagorno-Karabakh, including the town of Shusha. A Russian-brokered ceasefire on 10 November 2020 brought in Russian peacekeepers; tens of thousands of Armenians fled the region.
+  fr: >-
+    Guerre de six semaines lancée par l’Azerbaïdjan, avec le soutien de la Turquie, contre le Haut-Karabakh et les districts voisins contrôlés par les Arméniens, défendus par les forces de la république autoproclamée d’Artsakh et de l’Arménie. Drones, artillerie et missiles dominent les combats, et des villes des deux camps sont bombardées. L’Azerbaïdjan reprend les districts voisins et une partie du Haut-Karabakh, dont la ville de Chouchi. Un cessez-le-feu négocié par la Russie le 10 novembre 2020 amène des soldats de la paix russes ; des dizaines de milliers d’Arméniens fuient la région.
+categories: [war]
+kind: event
+start: "2020-09-27"
+end: "2020-11-10"
+deaths:
+  best: 6700
+  high: 7100
+  note:
+    en: Military and civilian deaths. Best is the SIPRI Yearbook 2021 estimate of about 6,700 military and civilian fatalities (based on ACLED data); high is the "over 7,100" given by other sources it cites. Official figures reported by Wikipedia are 2,906 Azerbaijani and 3,825 Armenian servicemen killed (with 6 and 187 missing), 100 Azerbaijani and 85 Armenian civilians, plus 541 Syrian fighters on the Azerbaijani side reported by the Syrian Observatory for Human Rights; taken together these exceed the SIPRI figures. Per-country figures are the official military deaths of each side.
+    fr: Morts militaires et civiles. L’estimation centrale correspond aux quelque 6 700 morts militaires et civils estimés par l’annuaire 2021 du SIPRI (d’après les données d’ACLED) ; le haut aux « plus de 7 100 » morts selon d’autres sources qu’il cite. Les chiffres officiels repris par Wikipédia sont de 2 906 militaires azerbaïdjanais et 3 825 militaires arméniens tués (avec 6 et 187 disparus), 100 civils azerbaïdjanais et 85 civils arméniens, plus 541 combattants syriens côté azerbaïdjanais selon l’Observatoire syrien des droits de l’homme ; pris ensemble, ils dépassent les chiffres du SIPRI. Les chiffres par pays sont les morts militaires officielles de chaque camp.
+countries:
+  - { code: AM, deaths: 3825 }
+  - { code: AZ, deaths: 2906 }
+  - { code: SY }
+related: [first-nagorno-karabakh-war]
+sources:
+  - title: Second Nagorno-Karabakh War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Second_Nagorno-Karabakh_War
+    accessed: "2026-10-22"
+  - title: "SIPRI Yearbook 2021, chapter 5, section II: The interstate armed conflict between Armenia and Azerbaijan (Ian Davis)"
+    publisher: Stockholm International Peace Research Institute (SIPRI)
+    url: https://www.sipri.org/sites/default/files/SIPRIYB21c05sII.pdf
+    accessed: "2026-10-22"
+reviewed: false

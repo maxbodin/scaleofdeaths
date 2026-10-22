@@ -1,0 +1,37 @@
+id: dungan-revolt-1862
+title:
+  en: Dungan Revolt (1862-1877)
+  fr: Révolte des Dounganes (1862-1877)
+description:
+  en: >-
+    Uprising of Chinese Muslims, mostly Hui, in Shaanxi, Gansu and Ningxia, followed by a second wave in Xinjiang, during the reign of the Tongzhi Emperor. It began with clashes between Hui and Han militias and turned into cycles of massacres and revenge massacres between the two communities, worsened by famine and plague. Qing forces under Zuo Zongtang suppressed it, and the region suffered huge population losses, with many Hui fleeing to the Russian Empire.
+  fr: >-
+    Soulèvement de musulmans chinois, surtout hui, au Shaanxi, au Gansu et au Ningxia, suivi d’une seconde vague au Xinjiang, sous le règne de l’empereur Tongzhi. Il commence par des affrontements entre milices hui et han et dégénère en cycles de massacres et de représailles entre les deux communautés, aggravés par la famine et la peste. Les forces Qing de Zuo Zongtang l’écrasent, et la région subit d’énormes pertes de population ; de nombreux Hui fuient vers l’Empire russe.
+categories: [war]
+kind: event
+start: "1862"
+end: "1877"
+deaths:
+  best: 10000000
+  low: 8000000
+  high: 12000000
+  note:
+    en: Deaths of soldiers and civilians from fighting, massacres, famine and disease. The figures are highly uncertain. Best and high are the "estimated 10-12 million" deaths of the Asia Pacific Foundation of Canada's background reading; low is the bottom of the 8 to 12 million in Wikipedia's infobox, which cites that document. Chinese demographic studies cited by Wikipedia put the population loss at 21 million, including migration; much lower figures (around 300,000) in older Western datasets compiled by Necrometrics appear to count only combat deaths.
+    fr: Morts de soldats et de civils dus aux combats, aux massacres, à la famine et aux maladies. Les chiffres sont très incertains. L’estimation centrale et le haut correspondent aux « 10 à 12 millions » de morts estimés par un document pédagogique de la Fondation Asie Pacifique du Canada ; le bas est le minimum de la fourchette de 8 à 12 millions de l’infobox de Wikipédia, qui cite ce document. Des études démographiques chinoises citées par Wikipédia évaluent la perte de population à 21 millions, migrations comprises ; des chiffres bien plus bas (environ 300 000) dans d’anciennes bases occidentales compilées par Necrometrics semblent ne compter que les morts au combat.
+countries:
+  - { code: CN, deaths: 10000000 }
+related: [taiping-rebellion, panthay-rebellion]
+sources:
+  - title: Dungan Revolt (1862-1877)
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Dungan_Revolt_(1862%E2%80%931877)
+    accessed: "2026-10-22"
+  - title: "Chinese Migrations: Background Reading"
+    publisher: Asia Pacific Foundation of Canada
+    url: https://asiapacificcurriculum.ca/index.php/system/files/2019-10/Chinese%20Migrations%20-%20Background%20Reading%20-%20%20Fall%202019_0.pdf
+    accessed: "2026-10-22"
+  - title: "Statistics of Wars, Oppressions and Atrocities of the Nineteenth Century: Hui Rebellion (1862-78)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/wars19c.htm
+    accessed: "2026-10-22"
+reviewed: false

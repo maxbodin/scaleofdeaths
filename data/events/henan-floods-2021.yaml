@@ -1,0 +1,37 @@
+id: henan-floods-2021
+title:
+  en: 2021 Henan floods
+  fr: Inondations de 2021 au Henan
+description:
+  en: >-
+    From 17 to 31 July 2021 extreme rainfall struck Henan province in central China. On 20 July the provincial capital Zhengzhou recorded 201.9 mm of rain in one hour, the highest since records began in 1951. Floodwater filled a metro line, where passengers were trapped in a train, and a road tunnel, and submerged entire neighbourhoods, while landslides and house collapses killed others. About 815,000 people were evacuated. A State Council investigation later found that local officials had concealed deaths.
+  fr: >-
+    Du 17 au 31 juillet 2021, des pluies extrêmes ont frappé la province du Henan, au centre de la Chine. Le 20 juillet, la capitale provinciale, Zhengzhou, a reçu 201,9 mm de pluie en une heure, un record depuis le début des mesures en 1951. L’eau a envahi une ligne de métro, piégeant des passagers dans une rame, ainsi qu’un tunnel routier et des quartiers entiers ; glissements de terrain et effondrements de maisons ont fait d’autres victimes. Quelque 815 000 personnes ont été évacuées. Une enquête du Conseil des affaires de l’État a établi que des responsables locaux avaient caché des morts.
+categories: [natural-disaster]
+kind: event
+start: "2021-07-17"
+end: "2021-07-31"
+deaths:
+  best: 398
+  low: 302
+  note:
+    en: >-
+      Best is the 398 dead or missing found by the State Council investigation in January 2022, which said Zhengzhou officials had concealed or delayed reporting up to 139 deaths and missing persons (CNN; China Digital Times). Low is the 302 confirmed deaths reported by provincial authorities in August 2021, when about 50 people were still missing.
+    fr: >-
+      L’estimation centrale correspond aux 398 morts ou disparus établis par l’enquête du Conseil des affaires de l’État en janvier 2022, selon laquelle les autorités de Zhengzhou avaient dissimulé ou retardé le signalement de jusqu’à 139 morts et disparus (CNN ; China Digital Times). L’estimation basse correspond aux 302 morts confirmés annoncés par les autorités provinciales en août 2021, alors qu’une cinquantaine de personnes restaient disparues.
+countries:
+  - { code: CN, deaths: 398 }
+sources:
+  - title: 2021 Henan floods
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2021_Henan_floods
+    accessed: "2026-10-22"
+  - title: Chinese officials punished for covering up true scale of deadly floods
+    publisher: CNN (via WHDH)
+    url: https://whdh.com/news/chinese-officials-punished-for-covering-up-true-scale-of-deadly-floods/
+    accessed: "2026-10-22"
+  - title: State Council Reports Henan Officials Covered Up Summer Flood Deaths
+    publisher: China Digital Times
+    url: https://chinadigitaltimes.net/2022/01/state-council-reports-henan-officials-covered-up-summer-flood-deaths/
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,33 @@
+id: nicaraguan-revolution
+title:
+  en: Nicaraguan Revolution
+  fr: Révolution sandiniste
+description:
+  en: >-
+    Overthrow of the Somoza family dictatorship, in power since the 1930s, by the Sandinista National Liberation Front (FSLN), a guerrilla movement founded in 1961. The murder of opposition newspaper editor Pedro Joaquín Chamorro in January 1978 set off strikes and urban uprisings in Managua, León, Estelí and Masaya, which the National Guard put down with heavy firepower, including air strikes on cities. A final Sandinista offensive in mid-1979 forced Anastasio Somoza Debayle to flee on 17 July 1979, and the FSLN took power.
+  fr: >-
+    Renversement de la dictature de la famille Somoza, au pouvoir depuis les années 1930, par le Front sandiniste de libération nationale (FSLN), guérilla fondée en 1961. L’assassinat du directeur de journal d’opposition Pedro Joaquín Chamorro en janvier 1978 déclenche grèves et insurrections urbaines à Managua, León, Estelí et Masaya, que la Garde nationale écrase sous un feu massif, y compris par des frappes aériennes sur les villes. Une offensive finale sandiniste au milieu de 1979 contraint Anastasio Somoza Debayle à fuir le 17 juillet 1979, et le FSLN prend le pouvoir.
+categories: [war]
+kind: event
+start: "1978-01-10"
+end: "1979-07-17"
+deaths:
+  best: 30000
+  low: 10000
+  high: 50000
+  note:
+    en: Military and civilian deaths in the 1978-1979 insurrection, when nearly all the fighting of the revolution took place; the later Contra War is counted separately. Estimates vary widely. Best is R. J. Rummel's middle estimate of 30,000 for 1978-1979; low is the 10,000 deaths, including at least 7,000 civilians, that Clodfelter considers the most reliable figure and that the PRIO Battle Deaths dataset uses as its best estimate; high is the 50,000 of Eckhardt, also the top of Wikipedia's 10,000 to 50,000 range (all except Wikipedia reported in PRIO's documentation). Leitenberg and the Correlates of War dataset give 35,000. Wikipedia gives 425 to 1,200 National Guard and 2,000 to 6,000 Sandinista dead.
+    fr: Morts militaires et civiles de l’insurrection de 1978-1979, période où ont eu lieu presque tous les combats de la révolution ; la guerre des Contras qui suit est comptée à part. Les estimations varient beaucoup. L’estimation centrale est l’estimation médiane de R. J. Rummel, 30 000 morts pour 1978-1979 ; le bas correspond aux 10 000 morts, dont au moins 7 000 civils, que Clodfelter juge le chiffre le plus fiable et que le jeu de données PRIO sur les morts au combat retient comme meilleure estimation ; le haut correspond aux 50 000 d’Eckhardt, sommet de la fourchette de 10 000 à 50 000 de Wikipédia (tous cités, sauf Wikipédia, par la documentation du PRIO). Leitenberg et Correlates of War donnent 35 000. Wikipédia indique 425 à 1 200 morts dans la Garde nationale et 2 000 à 6 000 chez les sandinistes.
+countries:
+  - { code: NI, deaths: 30000 }
+related: [contra-war]
+sources:
+  - title: Nicaraguan Revolution
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Nicaraguan_Revolution
+    accessed: "2026-10-22"
+  - title: "The PRIO Battle Deaths Dataset, 1946-2008, Version 3.0: Documentation of Coding Decisions (Lacina), Nicaragua"
+    publisher: Peace Research Institute Oslo (PRIO)
+    url: https://cdn.cloud.prio.org/files/91648bba-8885-40ce-8a78-fae75c850c55/PRIO%20Battle%20Deaths%20Dataset%2030%20Documentation.pdf
+    accessed: "2026-10-22"
+reviewed: false

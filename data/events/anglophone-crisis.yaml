@@ -1,0 +1,37 @@
+id: anglophone-crisis
+title:
+  en: Anglophone Crisis
+  fr: Crise anglophone
+description:
+  en: >-
+    Armed conflict in the English-speaking North-West and South-West regions of Cameroon between government forces and separatist groups seeking an independent state they call Ambazonia. It grew out of the repression of lawyers' and teachers' protests in 2016-2017, after which separatists took up arms and proclaimed independence in October 2017. Both sides have been accused of unlawful killings, torching of villages and abductions, and separatists have enforced a boycott of schools; hundreds of thousands of people have been displaced.
+  fr: >-
+    Conflit armé dans les régions anglophones du Nord-Ouest et du Sud-Ouest du Cameroun entre les forces gouvernementales et des groupes séparatistes réclamant un État indépendant qu’ils appellent Ambazonie. Il naît de la répression des manifestations d’avocats et d’enseignants de 2016-2017, après laquelle des séparatistes prennent les armes et proclament l’indépendance en octobre 2017. Les deux camps sont accusés de meurtres illégaux, d’incendies de villages et d’enlèvements, et les séparatistes imposent un boycott des écoles ; des centaines de milliers de personnes sont déplacées.
+categories: [war]
+kind: event
+start: "2017-09-09"
+ongoing: true
+asOf: "2024-01-11"
+deaths:
+  best: 6000
+  note:
+    en: >-
+      Best is the Human Rights Watch figure of at least 6,000 civilians killed by government forces and armed separatists since the violence began in late 2016 (World Report 2024, published January 2024). It counts civilians only: between 800 and 1,000 Cameroonian soldiers had been killed by February 2020, and separatist fighters' deaths are not counted (Wikipedia), so the full toll is higher. No more recent consolidated count was found.
+    fr: >-
+      L’estimation centrale est le chiffre de Human Rights Watch d’au moins 6 000 civils tués par les forces gouvernementales et les séparatistes armés depuis le début des violences fin 2016 (Rapport mondial 2024, publié en janvier 2024). Il ne compte que les civils : entre 800 et 1 000 soldats camerounais avaient été tués en février 2020, et les morts parmi les combattants séparatistes ne sont pas comptées (Wikipédia) ; le bilan complet est donc plus élevé. Aucun décompte consolidé plus récent n’a été trouvé.
+countries:
+  - { code: CM, deaths: 6000 }
+sources:
+  - title: Anglophone Crisis
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Anglophone_Crisis
+    accessed: "2026-10-22"
+  - title: "World Report 2024: Cameroon"
+    publisher: Human Rights Watch
+    url: https://www.hrw.org/world-report/2024/country-chapters/cameroon
+    accessed: "2026-10-22"
+  - title: "World Report 2023: Cameroon"
+    publisher: Human Rights Watch
+    url: https://www.hrw.org/world-report/2023/country-chapters/cameroon
+    accessed: "2026-10-22"
+reviewed: false

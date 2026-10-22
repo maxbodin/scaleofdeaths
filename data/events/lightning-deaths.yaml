@@ -1,0 +1,36 @@
+id: lightning-deaths
+title:
+  en: Deaths from lightning in India per year
+  fr: Décès dus à la foudre en Inde par an
+description:
+  en: >-
+    People killed by lightning strikes in India in one year, as recorded by the National Crime Records Bureau (NCRB) in its yearly report on accidental deaths and suicides, compiled from police records. Lightning is the deadliest natural hazard in the country, ahead of heat stroke, cold and floods, and caused over a third of all deaths attributed to forces of nature in 2024. Victims are often farmers and labourers working outdoors in rural areas, especially during pre-monsoon thunderstorms; in West Bengal and Tamil Nadu lightning caused most deaths from natural hazards.
+  fr: >-
+    Personnes tuées par la foudre en Inde en un an, selon le rapport annuel du National Crime Records Bureau (NCRB) sur les morts accidentelles, fondé sur les dossiers de police. La foudre est le risque naturel le plus meurtrier du pays, devant les coups de chaleur, le froid et les inondations, et a causé plus d’un tiers des décès attribués aux forces de la nature en 2024. Les victimes sont souvent des agriculteurs et ouvriers travaillant dehors, surtout lors des orages d’avant la mousson ; au Bengale-Occidental et au Tamil Nadu, la foudre cause l’essentiel des morts dues aux aléas naturels.
+categories: [annual, natural-disaster]
+kind: endemic-total
+start: "2024"
+end: "2024"
+deaths:
+  best: 2825
+  note:
+    en: >-
+      NCRB, Accidental Deaths and Suicides in India 2024, as reported by ETV Bharat: 2,825 lightning deaths in 2024 (35.7% of the 7,903 deaths due to forces of nature). These are police-recorded deaths, so the true toll may be higher; no range is published. India is used because no authoritative yearly global count was found; for comparison, the US National Weather Service counts 21 lightning deaths in the United States in 2025 (preliminary data).
+    fr: >-
+      NCRB, Accidental Deaths and Suicides in India 2024, d’après ETV Bharat : 2 825 décès dus à la foudre en 2024 (35,7 % des 7 903 décès dus aux forces de la nature). Il s’agit de décès enregistrés par la police : le bilan réel peut être plus élevé ; aucune fourchette n’est publiée. L’Inde est retenue faute de décompte mondial annuel faisant autorité ; à titre de comparaison, le National Weather Service américain recense 21 morts par la foudre aux États-Unis en 2025 (données provisoires).
+countries:
+  - { code: IN, deaths: 2825 }
+sources:
+  - title: "Extreme Weather Killed Over 7,900 People Across India In 2024: NCRB Data"
+    publisher: ETV Bharat
+    url: https://www.etvbharat.com/en/bharat/extreme-weather-killed-over-7900-people-across-india-in-2024-ncrb-data-enn26051304465
+    accessed: "2026-10-22"
+  - title: Accidental Deaths and Suicides in India (ADSI)
+    publisher: National Crime Records Bureau (India)
+    url: https://www.ncrb.gov.in/accidental-deaths-suicides-in-india-adsi.html
+    accessed: "2026-10-22"
+  - title: Lightning fatalities
+    publisher: US National Weather Service
+    url: https://www.weather.gov/safety/lightning-fatalities
+    accessed: "2026-10-22"
+reviewed: false

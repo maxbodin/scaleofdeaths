@@ -1,0 +1,35 @@
+id: aviation-accident-deaths
+title:
+  en: Deaths in commercial airline accidents per year
+  fr: Décès dans les accidents d’avions de ligne par an
+description:
+  en: >-
+    People killed in accidents of scheduled commercial flights worldwide in one year, as recorded by the International Civil Aviation Organization (ICAO) for aeroplanes over 5,700 kg. Airlines carried a record of nearly 5 billion passengers on 38 million flights in 2025, with 85 accidents, only four of them fatal. One crash caused two thirds of the deaths: an Air India Boeing 787 lost power after take-off from Ahmedabad on 12 June, killing all but one of the 242 people on board and 19 on the ground. The others were a mid-air collision in the United States and crashes in Russia and Honduras.
+  fr: >-
+    Personnes tuées dans des accidents de vols commerciaux réguliers dans le monde en un an, selon l’Organisation de l’aviation civile internationale (OACI), pour les avions de plus de 5 700 kg. En 2025, les compagnies ont transporté un record de près de 5 milliards de passagers sur 38 millions de vols, avec 85 accidents dont quatre mortels. Un seul accident a causé les deux tiers des morts : un Boeing 787 d’Air India a perdu sa puissance après son décollage d’Ahmedabad le 12 juin, tuant 241 des 242 personnes à bord et 19 au sol.
+categories: [annual, accident]
+kind: endemic-total
+start: "2025"
+end: "2025"
+deaths:
+  best: 387
+  note:
+    en: >-
+      ICAO Safety Report 2026: 387 fatalities in 2025 in scheduled commercial air transport (aeroplanes with a maximum take-off mass over 5,700 kg), up from 296 in 2024, in four fatal accidents. Per-country figures are the four fatal accidents listed by ICAO: India 260 (Air India, including people on the ground), United States 67 (mid-air collision), Russia 48 (Antonov An-24) and Honduras 12 (BAe Jetstream). Non-scheduled, private and military flights and smaller aircraft are not included. This is a count, so no range is given.
+    fr: >-
+      Rapport de sécurité 2026 de l’OACI : 387 morts en 2025 dans le transport aérien commercial régulier (avions de plus de 5 700 kg au décollage), contre 296 en 2024, dans quatre accidents mortels. Les chiffres par pays sont ceux des quatre accidents mortels listés par l’OACI : Inde 260 (Air India, y compris les victimes au sol), États-Unis 67 (collision en vol), Russie 48 (Antonov An-24) et Honduras 12 (BAe Jetstream). Les vols non réguliers, privés et militaires et les petits avions ne sont pas comptés. Il s’agit d’un décompte, sans fourchette.
+countries:
+  - { code: IN, deaths: 260 }
+  - { code: US, deaths: 67 }
+  - { code: RU, deaths: 48 }
+  - { code: HN, deaths: 12 }
+sources:
+  - title: ICAO Safety Report 2026 Edition
+    publisher: International Civil Aviation Organization
+    url: https://www.icao.int/sites/default/files/sp-files/safety/Documents/ICAO_SR_2026.pdf
+    accessed: "2026-10-22"
+  - title: Mixed Results
+    publisher: Flight Safety Foundation (AeroSafety World)
+    url: https://flightsafety.org/asw-article/mixed-results-3/
+    accessed: "2026-10-22"
+reviewed: false

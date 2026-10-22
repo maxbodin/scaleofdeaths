@@ -1,0 +1,34 @@
+id: izmit-earthquake-1999
+title:
+  en: 1999 İzmit earthquake
+  fr: Séisme de 1999 à İzmit
+description:
+  en: >-
+    At 03:01 on 17 August 1999 a magnitude 7.6 earthquake on the North Anatolian Fault struck Kocaeli Province in north-western Turkey, near the industrial city of İzmit, rupturing the ground over more than 100 km. Shaking lasted about 37 seconds; tens of thousands of buildings collapsed in İzmit, Gölcük, Yalova and Adapazarı, and the Avcılar district of Istanbul, 70 km away, was also badly hit. A local tsunami struck the Gulf of İzmit. Poor construction and lax enforcement of building codes were widely blamed.
+  fr: >-
+    Le 17 août 1999 à 3 h 01, un séisme de magnitude 7,6 sur la faille nord-anatolienne a frappé la province de Kocaeli, dans le nord-ouest de la Turquie, près de la ville industrielle d’İzmit, rompant le sol sur plus de 100 km. La secousse a duré environ 37 secondes ; des dizaines de milliers de bâtiments se sont effondrés à İzmit, Gölcük, Yalova et Adapazarı, et le district d’Avcılar, à Istanbul, à 70 km, a aussi été durement touché. Un tsunami local a frappé le golfe d’İzmit. La mauvaise qualité des constructions et le laxisme dans l’application des normes ont été largement mis en cause.
+categories: [natural-disaster]
+kind: event
+start: "1999-08-17"
+deaths:
+  best: 18373
+  low: 17118
+  note:
+    en: Deaths in ten Turkish provinces, including at least 155 attributed to the tsunami. Best is the figure published in 2010 by the research service of the Grand National Assembly of Turkey and given as the official toll by Wikipedia; an earlier official estimate of October 1999 gave 17,127, and USGS and NOAA NCEI give 17,118 (low). 5,840 people were also reported missing. Wikipedia mentions unattributed claims that the real toll was closer to 45,000.
+    fr: Morts dans dix provinces turques, dont au moins 155 attribués au tsunami. L’estimation centrale est le chiffre publié en 2010 par le service de recherche de la Grande Assemblée nationale de Turquie et présenté comme bilan officiel par Wikipédia ; une estimation officielle antérieure, d’octobre 1999, donnait 17 127, et l’USGS et la NCEI de la NOAA donnent 17 118 (bas de la fourchette). 5 840 personnes ont aussi été portées disparues. Wikipédia mentionne des affirmations non sourcées selon lesquelles le bilan réel approcherait 45 000.
+countries:
+  - { code: TR, deaths: 18373 }
+sources:
+  - title: 1999 İzmit earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1999_%C4%B0zmit_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Istanbul, Kocaeli, Sakarya, event 5527"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/5527
+    accessed: "2026-10-22"
+  - title: Earthquakes with 1,000 or More Deaths 1900-2014 (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20170118110610/http://earthquake.usgs.gov/earthquakes/world/world_deaths.php
+    accessed: "2026-10-22"
+reviewed: false

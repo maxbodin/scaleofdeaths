@@ -1,0 +1,30 @@
+id: mv-le-joola
+title:
+  en: Sinking of MV Le Joola
+  fr: Naufrage du Joola
+description:
+  en: >-
+    On the night of 26 September 2002 Le Joola, a ferry owned by the Senegalese government and run by the navy, capsized in a storm off the coast of The Gambia while sailing from Ziguinchor in Casamance to Dakar. Built for 536 passengers, it was carrying almost four times that number, about half without tickets, and the vehicles in its hold were not secured. Help took more than 16 hours to arrive and only 64 people survived. Most of the dead were young people from Casamance, and at least 12 nationalities were among them.
+  fr: >-
+    Dans la nuit du 26 septembre 2002, le Joola, un ferry appartenant à l’État sénégalais et exploité par la marine, chavire dans une tempête au large de la Gambie, sur la ligne entre Ziguinchor, en Casamance, et Dakar. Conçu pour 536 passagers, il en transporte près de quatre fois plus, dont environ la moitié sans billet, et les véhicules de la cale ne sont pas arrimés. Les secours mettent plus de 16 heures à arriver et seules 64 personnes survivent. La plupart des victimes sont de jeunes Casamançais, et on compte au moins 12 nationalités parmi elles.
+categories: [accident]
+kind: event
+start: "2002-09-26"
+deaths:
+  best: 1863
+  note:
+    en: Official toll of people who died on board, given by Wikipedia and RFI; the exact number will never be known because of the many passengers without tickets, and some Senegalese organisations put the number of people on board at more than 2,000. Most of the dead were Senegalese; RFI counts 18 French nationals among them.
+    fr: Bilan officiel des personnes mortes à bord, donné par Wikipédia et RFI ; le nombre exact ne sera jamais connu en raison des nombreux passagers sans billet, et certaines associations sénégalaises estiment à plus de 2 000 le nombre de personnes à bord. La plupart des victimes étaient sénégalaises ; RFI compte parmi elles 18 Français.
+countries:
+  - { code: SN }
+  - { code: GM }
+sources:
+  - title: MV Le Joola
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/MV_Le_Joola
+    accessed: "2026-10-22"
+  - title: Two decades after the Joola tragedy, Senegal recalls the wound that never heals
+    publisher: RFI
+    url: https://www.rfi.fr/en/africa/20220926-senegal-marks-a-tragic-anniversary-20-years-after-the-joola-disaster
+    accessed: "2026-10-22"
+reviewed: false

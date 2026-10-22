@@ -1,0 +1,35 @@
+id: antimicrobial-resistance-deaths
+title:
+  en: Deaths from antimicrobial resistance per year
+  fr: Décès dus à la résistance aux antimicrobiens par an
+description:
+  en: >-
+    Deaths worldwide in one year directly attributable to bacterial antimicrobial resistance (AMR), as estimated by the Global Burden of Disease study's antimicrobial resistance collaborators (IHME) and published in The Lancet. These are people who would not have died if their drug-resistant infections had instead been treatable with antibiotics. Many more deaths involve a resistant infection. Deaths have fallen among young children since 1990 but risen sharply among people aged 70 and over, and resistant MRSA and carbapenem-resistant bacteria are growing threats.
+  fr: >-
+    Décès directement attribuables à la résistance bactérienne aux antimicrobiens dans le monde en un an, selon l’estimation des chercheurs de l’étude Global Burden of Disease (IHME), publiée dans The Lancet. Il s’agit de personnes qui ne seraient pas mortes si leurs infections résistantes avaient pu être traitées par antibiotiques. Bien plus de décès impliquent une infection résistante. Les décès ont baissé chez les jeunes enfants depuis 1990 mais fortement augmenté chez les 70 ans et plus.
+categories: [annual, epidemic]
+kind: endemic-total
+start: "2021"
+end: "2021"
+deaths:
+  best: 1140000
+  low: 1000000
+  high: 1280000
+  note:
+    en: >-
+      GBD 2021 Antimicrobial Resistance Collaborators (The Lancet, 2024): 1.14 million deaths attributable to bacterial AMR in 2021 (95% uncertainty interval 1.00 to 1.28 million), and 4.71 million deaths associated with it (people who died with a resistant infection, whatever the cause), the broader figure WHO cites. Best uses the attributable figure. The study publishes regional estimates only; India and Nigeria, the most populous countries of South Asia and sub-Saharan Africa, the regions with the highest AMR burden according to the estimates it cites, are listed without numbers.
+    fr: >-
+      GBD 2021 Antimicrobial Resistance Collaborators (The Lancet, 2024) : 1,14 million de décès attribuables à la résistance bactérienne en 2021 (intervalle d’incertitude à 95 % de 1,00 à 1,28 million), et 4,71 millions de décès associés (personnes mortes avec une infection résistante, quelle qu’en soit la cause), le chiffre plus large cité par l’OMS. L’estimation retenue est le chiffre attribuable. L’étude ne publie que des estimations régionales ; l’Inde et le Nigeria, pays les plus peuplés de l’Asie du Sud et de l’Afrique subsaharienne, régions les plus touchées selon les estimations qu’elle cite, sont listés sans nombre.
+countries:
+  - { code: IN }
+  - { code: NG }
+sources:
+  - title: "Global burden of bacterial antimicrobial resistance 1990-2021: a systematic analysis with forecasts to 2050 (GBD 2021 Antimicrobial Resistance Collaborators)"
+    publisher: The Lancet (PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11718157/
+    accessed: "2026-10-22"
+  - title: Antimicrobial resistance fact sheet
+    publisher: World Health Organization
+    url: https://www.who.int/news-room/fact-sheets/detail/antimicrobial-resistance
+    accessed: "2026-10-22"
+reviewed: false

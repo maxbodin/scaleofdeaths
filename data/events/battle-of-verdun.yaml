@@ -1,0 +1,40 @@
+id: battle-of-verdun
+title:
+  en: Battle of Verdun
+  fr: Bataille de Verdun
+description:
+  en: >-
+    The longest battle of the First World War, fought on the hills north of Verdun in north-eastern France between the German 5th Army and the French Army. Germany attacked in February 1916 hoping to inflict catastrophic losses on the French army; the French held the line under Pétain and recovered most of the lost ground by December. Massive artillery bombardments destroyed nine villages, which were never rebuilt, and the battle became a symbol of French resistance and sacrifice.
+  fr: >-
+    Plus longue bataille de la Première Guerre mondiale, livrée sur les hauteurs au nord de Verdun, dans le nord-est de la France, entre la 5e armée allemande et l’armée française. L’Allemagne attaque en février 1916 pour infliger des pertes catastrophiques à l’armée française ; les Français tiennent sous les ordres de Pétain et reprennent l’essentiel du terrain perdu en décembre. Les bombardements d’artillerie massifs ont rayé de la carte neuf villages jamais reconstruits, et la bataille est devenue un symbole de la résistance et du sacrifice français.
+categories: [war]
+kind: event
+start: "1916-02-21"
+end: "1916-12-18"
+deaths:
+  best: 300000
+  note:
+    en: French and German soldiers killed or died of wounds, not counting the wounded (total French and German casualties were close to 700,000). Best is the "more than 300,000" lives reported by Deutsche Welle at the 2016 centenary, which, like the Mémorial de Verdun, gives 163,000 French and 143,000 German dead; Necrometrics gives 305,000. Wikipedia's infobox ranges are lower (148,000 to 160,000 French and 71,000 to 143,000 German killed); per-country figures use these low ends.
+    fr: Soldats français et allemands tués ou morts de leurs blessures, sans les blessés (les pertes françaises et allemandes totales approchent 700 000). L’estimation centrale reprend les « plus de 300 000 » vies citées par la Deutsche Welle lors du centenaire de 2016, qui donne, comme le Mémorial de Verdun, 163 000 morts français et 143 000 allemands ; Necrometrics donne 305 000. Les fourchettes de l’infobox de Wikipédia sont plus basses (148 000 à 160 000 Français et 71 000 à 143 000 Allemands tués) ; les chiffres par pays en reprennent le bas.
+countries:
+  - { code: FR, deaths: 148000 }
+  - { code: DE, deaths: 71000 }
+partOf: first-world-war
+sources:
+  - title: Battle of Verdun
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Battle_of_Verdun
+    accessed: "2026-10-22"
+  - title: Hollande, Merkel mark centenary of Battle of Verdun
+    publisher: Deutsche Welle
+    url: https://www.dw.com/en/hollande-merkel-mark-centenary-of-battle-of-verdun/a-19291517
+    accessed: "2026-10-22"
+  - title: La bataille de Verdun
+    publisher: Mémorial de Verdun
+    url: https://memorial-verdun.fr/fr/ressources/la-bataille-de-verdun
+    accessed: "2026-10-22"
+  - title: "Bloodiest Battles of the 20th Century: Verdun (1916)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/battles.htm
+    accessed: "2026-10-22"
+reviewed: false

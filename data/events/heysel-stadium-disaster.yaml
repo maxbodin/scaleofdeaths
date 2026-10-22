@@ -1,0 +1,33 @@
+id: heysel-stadium-disaster
+title:
+  en: Heysel Stadium disaster
+  fr: Drame du Heysel
+description:
+  en: >-
+    About an hour before the European Cup final between Liverpool and Juventus at the Heysel Stadium in Brussels on 29 May 1985, Liverpool supporters broke through a flimsy fence into a supposedly neutral section filled mostly with Juventus fans. People fleeing the attack were pressed against a wall of the poorly maintained stadium, which collapsed, and many were crushed. English clubs were then banned from European competition for five years, and 14 Liverpool fans and a Belgian police captain were convicted of manslaughter.
+  fr: >-
+    Environ une heure avant la finale de la Coupe des clubs champions entre Liverpool et la Juventus au stade du Heysel, à Bruxelles, le 29 mai 1985, des supporters de Liverpool franchissent une clôture sommaire et chargent une tribune censée être neutre, occupée surtout par des supporters de la Juventus. En fuyant, ceux-ci sont écrasés contre un mur du stade vétuste, qui s’effondre. Les clubs anglais sont ensuite exclus des coupes d’Europe pendant cinq ans, et 14 supporters de Liverpool et un capitaine de police belge sont condamnés pour homicide involontaire.
+categories: [accident]
+kind: event
+start: "1985-05-29"
+deaths:
+  best: 39
+  note:
+    en: Toll given by Wikipedia, UEFA and the BBC; about 600 people were injured. According to Wikipedia, 32 of the dead were Italian (including two minors), four Belgian, two French and one from Northern Ireland.
+    fr: Bilan donné par Wikipédia, l’UEFA et la BBC ; environ 600 personnes ont été blessées. Selon Wikipédia, 32 des morts étaient italiens (dont deux mineurs), quatre belges, deux français et un nord-irlandais.
+countries:
+  - { code: BE, deaths: 39 }
+sources:
+  - title: Heysel Stadium disaster
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Heysel_Stadium_disaster
+    accessed: "2026-10-22"
+  - title: Olsson urges anti-racism action (archived)
+    publisher: UEFA
+    url: https://web.archive.org/web/20090827030656/http://www.uefa.com/uefa/Keytopics/kind=2/newsId=300034.html
+    accessed: "2026-10-22"
+  - title: Mixed reactions to Heysel homage (archived)
+    publisher: BBC Sport
+    url: https://web.archive.org/web/20090421153035/http://news.bbc.co.uk/sport1/hi/football/europe/4409501.stm
+    accessed: "2026-10-22"
+reviewed: false

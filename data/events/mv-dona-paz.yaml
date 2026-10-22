@@ -1,0 +1,34 @@
+id: mv-dona-paz
+title:
+  en: Sinking of MV Doña Paz
+  fr: Naufrage du Doña Paz
+description:
+  en: >-
+    On the night of 20 December 1987 the passenger ferry MV Doña Paz, sailing from Tacloban on Leyte to Manila, collided with the oil tanker MT Vector in the Tablas Strait, Philippines. The tanker's cargo of gasoline and oil caught fire, the flames spread to the ferry and the sea around it, and both ships sank within hours. Registered for 1,518 passengers, the ferry was carrying almost three times that number before Christmas, most of them not on the manifest. Only about 25 people survived, making it the deadliest peacetime shipwreck.
+  fr: >-
+    Dans la nuit du 20 décembre 1987, le ferry Doña Paz, parti de Tacloban (Leyte) pour Manille, entre en collision avec le pétrolier Vector dans le détroit de Tablas, aux Philippines. L’essence et le pétrole transportés par le pétrolier s’enflamment, le feu gagne le ferry et la mer alentour, et les deux navires coulent en quelques heures. Autorisé à transporter 1 518 passagers, le ferry en embarquait près de trois fois plus à l’approche de Noël, la plupart absents du manifeste. Seules 25 personnes environ survivent : c’est le pire naufrage en temps de paix.
+categories: [accident]
+kind: event
+start: "1987-12-20"
+deaths:
+  best: 4385
+  low: 4363
+  note:
+    en: Passengers and crew of both ships. Best is the total of a 1999 Philippine government report (Guinness World Records), based on court records and more than 4,100 compensation claims, which estimated 4,342 passengers on the ferry; it includes 11 crew of the Vector. Low is the estimate given in the lead of the Wikipedia article. The official manifest listed only 1,583 passengers and 58 crew, as many passengers bought tickets on board or travelled free and were not recorded.
+    fr: Passagers et équipages des deux navires. L’estimation centrale est le total d’un rapport du gouvernement philippin de 1999 (Guinness World Records), fondé sur les archives judiciaires et plus de 4 100 demandes d’indemnisation, qui estimait à 4 342 le nombre de passagers du ferry ; il inclut 11 membres d’équipage du Vector. La borne basse est l’estimation donnée en introduction de l’article de Wikipédia. Le manifeste officiel ne comptait que 1 583 passagers et 58 membres d’équipage, car de nombreux passagers achetaient leur billet à bord ou voyageaient gratuitement sans être enregistrés.
+countries:
+  - { code: PH, deaths: 4385 }
+sources:
+  - title: MV Doña Paz
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/MV_Do%C3%B1a_Paz
+    accessed: "2026-10-22"
+  - title: Deadliest maritime disaster (peacetime)
+    publisher: Guinness World Records
+    url: https://www.guinnessworldrecords.com/world-records/772666-deadliest-maritime-disaster-peacetime
+    accessed: "2026-10-22"
+  - title: 7 of the World's Deadliest Shipwrecks
+    publisher: Encyclopaedia Britannica
+    url: https://www.britannica.com/list/7-of-the-worlds-deadliest-shipwrecks
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,35 @@
+id: siege-of-mariupol
+title:
+  en: Siege of Mariupol
+  fr: Siège de Marioupol
+description:
+  en: >-
+    Siege and capture of the port city of Mariupol in south-eastern Ukraine by Russian and Donetsk People's Republic forces, from the first days of the full-scale invasion until the surrender of the last Ukrainian defenders at the Azovstal steelworks on 20 May 2022. Encircled residents went without electricity, water, heating and aid for weeks under constant shelling and air strikes, including the bombing of the drama theatre used as a shelter on 16 March. Most of the city's buildings were damaged or destroyed.
+  fr: >-
+    Siège et prise du port de Marioupol, dans le sud-est de l’Ukraine, par les forces russes et celles de la République populaire de Donetsk, des premiers jours de l’invasion à grande échelle jusqu’à la reddition des derniers défenseurs ukrainiens de l’usine Azovstal le 20 mai 2022. Encerclés, les habitants restent des semaines sans électricité, eau, chauffage ni aide sous des bombardements constants, dont celui du théâtre dramatique transformé en abri le 16 mars. La plupart des bâtiments de la ville sont endommagés ou détruits.
+categories: [war]
+kind: event
+partOf: russo-ukrainian-war
+start: "2022-02-24"
+end: "2022-05-20"
+deaths:
+  best: 22000
+  low: 8034
+  high: 25000
+  note:
+    en: >-
+      Mostly civilians; the toll is unknown because Russian forces control the city and many bodies were buried in mass graves or removed with the rubble. Best is the estimate of about 22,000 deaths given by Mariupol's mayor in May 2022 (cited by Human Rights Watch). Low is the estimate by Human Rights Watch, SITU Research and Truth Hounds of at least 8,034 deaths above the peacetime rate between March 2022 and February 2023, based on at least 10,284 burials counted in satellite imagery, which they describe as a minimum. High is the Ukrainian government figure of at least 25,000 civilians killed (November 2022, Wikipedia). By June 2022 the UN had verified 1,348 civilian deaths and said the real number was likely thousands higher. Soldiers are not fully counted: Ukraine reported at least 906 of its soldiers killed and claimed 6,500 Russian soldiers killed, while Russia claimed over 4,000 Ukrainian soldiers killed (Wikipedia).
+    fr: >-
+      Surtout des civils ; le bilan est inconnu car la ville est contrôlée par les forces russes et de nombreux corps ont été enterrés dans des fosses communes ou évacués avec les décombres. L’estimation centrale est celle d’environ 22 000 morts donnée par le maire de Marioupol en mai 2022 (citée par Human Rights Watch). Le bas est l’estimation de Human Rights Watch, SITU Research et Truth Hounds d’au moins 8 034 morts au-delà du taux de mortalité du temps de paix entre mars 2022 et février 2023, fondée sur au moins 10 284 inhumations repérées sur images satellites, présentée comme un minimum. Le haut est le chiffre du gouvernement ukrainien d’au moins 25 000 civils tués (novembre 2022, Wikipédia). En juin 2022, l’ONU avait vérifié 1 348 morts civiles et estimait le nombre réel supérieur de plusieurs milliers. Les militaires ne sont pas entièrement comptés : l’Ukraine a fait état d’au moins 906 soldats ukrainiens et revendiqué 6 500 soldats russes tués, la Russie de plus de 4 000 soldats ukrainiens tués (Wikipédia).
+countries:
+  - { code: UA, deaths: 22000 }
+sources:
+  - title: Siege of Mariupol
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Siege_of_Mariupol
+    accessed: "2026-10-22"
+  - title: '"Our City Was Gone": Russia''s Devastation of Mariupol, Ukraine'
+    publisher: Human Rights Watch
+    url: https://www.hrw.org/feature/russia-ukraine-war-mariupol/report
+    accessed: "2026-10-22"
+reviewed: false

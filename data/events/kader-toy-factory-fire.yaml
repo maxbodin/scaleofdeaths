@@ -1,0 +1,29 @@
+id: kader-toy-factory-fire
+title:
+  en: Kader toy factory fire
+  fr: Incendie de l’usine de jouets Kader
+description:
+  en: >-
+    At about 16:00 on 10 May 1993 a fire broke out in the packing and storage area of the Kader Industrial toy factory in Sam Phran district, Nakhon Pathom province, Thailand, which made stuffed toys and dolls for export. Workers on the upper floors were told it was minor and to keep working, and no alarm sounded. Fire exits shown on the plans had never been built, ground-floor doors were locked, and the unprotected steel structure soon collapsed; many workers jumped from upper windows. It is considered the deadliest factory fire in history.
+  fr: >-
+    Vers 16 h, le 10 mai 1993, un incendie se déclare dans la zone d’emballage et de stockage de l’usine de jouets Kader Industrial, dans le district de Sam Phran (province de Nakhon Pathom, Thaïlande), qui fabriquait peluches et poupées pour l’export. On dit aux ouvriers des étages que le feu est sans gravité et de continuer à travailler, et aucune alarme ne sonne. Les sorties de secours prévues n’ont jamais été construites, les portes du rez-de-chaussée sont verrouillées et la structure métallique s’effondre vite ; beaucoup sautent par les fenêtres.
+categories: [accident]
+kind: event
+start: "1993-05-10"
+deaths:
+  best: 188
+  note:
+    en: Workers killed, the toll given by Wikipedia and the ILO Encyclopaedia of Occupational Health and Safety; 469 people were injured. According to Wikipedia, 174 of the dead were women and teenage girls, most of them from rural families.
+    fr: Ouvriers tués, bilan donné par Wikipédia et l’Encyclopédie de sécurité et de santé au travail de l’OIT ; 469 personnes ont été blessées. Selon Wikipédia, 174 des victimes étaient des femmes et des adolescentes, pour la plupart issues de familles rurales.
+countries:
+  - { code: TH, deaths: 188 }
+sources:
+  - title: Kader Toy Factory fire
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Kader_Toy_Factory_fire
+    accessed: "2026-10-22"
+  - title: "Case Study: The Kader Toy Factory Fire (archived copy)"
+    publisher: ILO Encyclopaedia of Occupational Health and Safety
+    url: https://web.archive.org/web/20231216022647/https://iloencyclopaedia.org/part-vi-16255/disasters-natural-and-technological/item/374-case-study-the-kader-toy-factory-fire
+    accessed: "2026-10-22"
+reviewed: false

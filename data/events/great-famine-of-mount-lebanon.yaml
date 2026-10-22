@@ -1,0 +1,36 @@
+id: great-famine-of-mount-lebanon
+title:
+  en: Great Famine of Mount Lebanon
+  fr: Grande famine du Mont-Liban
+description:
+  en: >-
+    Mass starvation in the semi-autonomous Ottoman district of Mount Lebanon during the First World War. The Allied blockade of the eastern Mediterranean ruined the silk economy, Ottoman authorities requisitioned food for the army and restricted supplies to the mountain, and swarms of locusts destroyed the remaining crops in 1915. Most victims were Maronite Christians; there were reports of bodies in the streets and of cannibalism, and soup kitchens could not relieve the starving population.
+  fr: >-
+    Famine de masse dans le Mont-Liban, district ottoman semi-autonome, pendant la Première Guerre mondiale. Le blocus allié de la Méditerranée orientale ruine l’économie de la soie, les autorités ottomanes réquisitionnent les vivres pour l’armée et restreignent l’approvisionnement de la montagne, et des nuées de criquets détruisent les dernières récoltes en 1915. La plupart des victimes sont des chrétiens maronites ; on rapporte des cadavres dans les rues et des cas de cannibalisme, et les soupes populaires ne suffisent pas à soulager la population.
+categories: [famine]
+kind: event
+start: "1915"
+end: "1918"
+deaths:
+  best: 200000
+  low: 100000
+  note:
+    en: Deaths from starvation and related disease. Best is the about 200,000 deaths given by Wikipedia's article and the BBC, out of a population of about 400,000. Low is the approximately 100,000 deaths from famine in Lebanon cited in Wikipedia's First World War article (Saadi, 2009).
+    fr: Morts de faim et des maladies associées. L’estimation centrale est le chiffre d’environ 200 000 morts de l’article de Wikipédia et de la BBC, pour une population d’environ 400 000 habitants. Le bas correspond aux quelque 100 000 morts de la famine au Liban cités par l’article de Wikipédia sur la Première Guerre mondiale (Saadi, 2009).
+countries:
+  - { code: LB, deaths: 200000 }
+partOf: first-world-war
+sources:
+  - title: Great Famine of Mount Lebanon
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Great_Famine_of_Mount_Lebanon
+    accessed: "2026-10-22"
+  - title: World War I
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/World_War_I
+    accessed: "2026-10-22"
+  - title: Six unexpected WW1 battlegrounds
+    publisher: BBC News
+    url: https://www.bbc.com/news/magazine-30098000
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,36 @@
+id: colombia-earthquake-2026
+title:
+  en: 2026 Colombia earthquake
+  fr: Séisme de 2026 en Colombie
+description:
+  en: >-
+    On 10 August 2026, a magnitude 7.4 to 7.5 earthquake struck at a depth of about 108 km beneath San José del Palmar, in Colombia's Chocó department, and was felt across much of the country and in Ecuador and Panama. It caused heavy damage in Cali, Pereira, Manizales, Armenia, Quibdó and Buenaventura, destroying more than 36,000 homes and collapsing 743 buildings. Most deaths were in Valle del Cauca and Risaralda. It was Colombia's deadliest earthquake since 1999.
+  fr: >-
+    Le 10 août 2026, un séisme de magnitude 7,4 à 7,5 s’est produit à environ 108 km de profondeur sous San José del Palmar, dans le département colombien du Chocó, et a été ressenti dans une grande partie du pays ainsi qu’en Équateur et au Panama. Il a gravement endommagé Cali, Pereira, Manizales, Armenia, Quibdó et Buenaventura, détruisant plus de 36 000 logements et faisant s’effondrer 743 bâtiments. La plupart des morts se trouvaient dans le Valle del Cauca et le Risaralda. C’est le séisme le plus meurtrier en Colombie depuis 1999.
+categories: [natural-disaster]
+kind: event
+start: "2026-08-10"
+deaths:
+  best: 335
+  low: 331
+  note:
+    en: >-
+      Best is the official toll of 335 deaths reported by EFE in mid-September 2026 and used by Wikipedia. Low is the government's one-month balance (9 September 2026): 331 dead, 4,505 injured and 111 missing. The missing are not counted. Victims included a Chilean child and a Colombian-Spanish citizen.
+    fr: >-
+      L’estimation centrale est le bilan officiel de 335 morts rapporté par l’agence EFE mi-septembre 2026 et repris par Wikipédia. La borne basse est le bilan gouvernemental à un mois (9 septembre 2026) : 331 morts, 4 505 blessés et 111 disparus. Les disparus ne sont pas comptés. Parmi les victimes figurent un enfant chilien et un ressortissant hispano-colombien.
+countries:
+  - { code: CO, deaths: 335 }
+sources:
+  - title: 2026 Colombia earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2026_Colombia_earthquake
+    accessed: "2026-10-22"
+  - title: "A un mes del terremoto, se reportan 331 muertos y 111 desaparecidos"
+    publisher: Canal 1
+    url: https://canal1.com.co/noticias/a-un-mes-del-terremoto-se-reportan-331-muertos-y-111-desaparecidos/
+    accessed: "2026-10-22"
+  - title: La ONU estima que terremoto en Colombia dejó daños por 14 mil millones de dólares
+    publisher: La Prensa de Lara (EFE)
+    url: https://laprensadelara.com/mundo/onu-terremoto-colombia-14-mil-millones/
+    accessed: "2026-10-22"
+reviewed: false

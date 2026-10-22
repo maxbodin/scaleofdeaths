@@ -1,0 +1,39 @@
+id: sinking-of-the-titanic
+title:
+  en: Sinking of the Titanic
+  fr: Naufrage du Titanic
+description:
+  en: >-
+    On her maiden voyage from Southampton to New York, the British liner RMS Titanic, the largest ship in service at the time, struck an iceberg in the North Atlantic at 23:40 on 14 April 1912 and sank two hours and forty minutes later. Her lifeboats could hold barely half of the more than 2,200 people on board, and almost all those who ended up in the freezing water died within minutes. The inquiries that followed led to the first International Convention for the Safety of Life at Sea (SOLAS) in 1914.
+  fr: >-
+    Lors de son voyage inaugural entre Southampton et New York, le paquebot britannique RMS Titanic, le plus grand navire en service à l’époque, heurte un iceberg dans l’Atlantique Nord le 14 avril 1912 à 23 h 40 et sombre deux heures et quarante minutes plus tard. Ses canots ne peuvent accueillir qu’à peine la moitié des plus de 2 200 personnes à bord, et presque tous ceux qui se retrouvent dans l’eau glacée meurent en quelques minutes. Les enquêtes qui suivent aboutissent en 1914 à la première convention internationale pour la sauvegarde de la vie humaine en mer (SOLAS).
+categories: [accident]
+kind: event
+start: "1912-04-15"
+deaths:
+  best: 1500
+  low: 1490
+  high: 1635
+  note:
+    en: Passengers and crew. Best is the figure of about 1,500 deaths generally accepted for the disaster and given by Britannica. Low and high are the range of 1,490 to 1,635 given by Wikipedia; 1,490 matches the British Wreck Commissioner's inquiry, which counted 711 saved out of 2,201 on board. Counts differ because of confusion over the passenger list, last-minute cancellations and passengers travelling under aliases who were counted twice.
+    fr: Passagers et équipage. L’estimation centrale est le chiffre d’environ 1 500 morts généralement admis et donné par Britannica. Les bornes correspondent à la fourchette de 1 490 à 1 635 morts donnée par Wikipédia ; 1 490 correspond à l’enquête britannique, qui comptait 711 rescapés sur 2 201 personnes à bord. Les décomptes divergent à cause de la confusion des listes de passagers, des annulations de dernière minute et de passagers voyageant sous un faux nom, comptés deux fois.
+countries:
+  - { code: GB }
+sources:
+  - title: Sinking of the Titanic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Sinking_of_the_Titanic
+    accessed: "2026-10-22"
+  - title: Titanic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Titanic
+    accessed: "2026-10-22"
+  - title: Titanic
+    publisher: Encyclopaedia Britannica
+    url: https://www.britannica.com/topic/Titanic
+    accessed: "2026-10-22"
+  - title: "British Wreck Commissioner's Inquiry, Report: Account of the Saving and Rescue of those who Survived"
+    publisher: Titanic Inquiry Project
+    url: https://www.titanicinquiry.org/BOTInq/BOTReport/botRepSaved.php
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,37 @@
+id: cardiovascular-deaths
+title:
+  en: Deaths from cardiovascular diseases per year
+  fr: Décès dus aux maladies cardiovasculaires par an
+description:
+  en: >-
+    People who died from cardiovascular diseases worldwide in one year, as estimated by the World Health Organization. These disorders of the heart and blood vessels, including coronary heart disease, stroke, rheumatic and congenital heart disease, are the world's leading cause of death, accounting for about a third of all deaths; heart attacks and strokes cause 85% of them. Main risk factors are unhealthy diet, physical inactivity, tobacco, harmful alcohol use and air pollution, and over three quarters of the deaths occur in low- and middle-income countries.
+  fr: >-
+    Personnes mortes de maladies cardiovasculaires dans le monde en un an, selon l’estimation de l’Organisation mondiale de la santé. Ces troubles du cœur et des vaisseaux, dont les cardiopathies coronariennes, les AVC et les cardiopathies rhumatismales et congénitales, sont la première cause de mortalité, avec environ un tiers des décès ; infarctus et AVC en causent 85 %. Les principaux facteurs de risque sont la mauvaise alimentation, la sédentarité, le tabac, l’alcool et la pollution de l’air, et plus des trois quarts des décès surviennent dans des pays à revenu faible ou intermédiaire.
+categories: [annual]
+kind: endemic-total
+start: "2022"
+end: "2022"
+deaths:
+  best: 19800000
+  note:
+    en: >-
+      WHO cardiovascular diseases fact sheet: an estimated 19.8 million people died from cardiovascular diseases in 2022, about 32% of all deaths. The Global Burden of Disease almanac for 2022 (Journal of the American College of Cardiology, 2023) gives the main components: 9.24 million deaths from ischaemic heart disease, 3.54 million from ischaemic stroke and 3.43 million from intracerebral haemorrhage. IHME's release on the same study confirms that global CVD deaths rose from 12.4 million in 1990 to 19.8 million in 2022. No range is given for the total. No per-country figures were found for 2022; China and India, the two most populous countries, are listed without numbers.
+    fr: >-
+      Fiche de l’OMS sur les maladies cardiovasculaires : environ 19,8 millions de personnes en sont mortes en 2022, soit environ 32 % de tous les décès. L’almanach Global Burden of Disease pour 2022 (Journal of the American College of Cardiology, 2023) en donne les principales composantes : 9,24 millions de décès par cardiopathie ischémique, 3,54 millions par AVC ischémique et 3,43 millions par hémorragie intracérébrale. Le communiqué de l’IHME sur la même étude confirme que les décès cardiovasculaires sont passés de 12,4 millions en 1990 à 19,8 millions en 2022. Aucune fourchette n’est donnée pour le total. Aucun chiffre par pays n’a été trouvé pour 2022 ; la Chine et l’Inde, les deux pays les plus peuplés, sont listées sans nombre.
+countries:
+  - { code: CN }
+  - { code: IN }
+sources:
+  - title: Cardiovascular diseases (CVDs) fact sheet
+    publisher: World Health Organization
+    url: https://www.who.int/news-room/fact-sheets/detail/cardiovascular-diseases-(cvds)
+    accessed: "2026-10-22"
+  - title: "Global Burden of Cardiovascular Diseases and Risks, 1990-2022 (Mensah et al.)"
+    publisher: Journal of the American College of Cardiology (PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7615984/
+    accessed: "2026-10-22"
+  - title: New study reveals latest data on global burden of cardiovascular disease
+    publisher: Institute for Health Metrics and Evaluation
+    url: https://www.healthdata.org/news-events/newsroom/news-releases/new-study-reveals-latest-data-global-burden-cardiovascular
+    accessed: "2026-10-22"
+reviewed: false

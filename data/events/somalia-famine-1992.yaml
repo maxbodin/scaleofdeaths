@@ -1,0 +1,41 @@
+id: somalia-famine-1992
+title:
+  en: 1992 famine in Somalia
+  fr: Famine de 1992 en Somalie
+description:
+  en: >-
+    Famine in southern Somalia during the civil war, caused by severe drought and by fighting between rival factions in the fertile farmland between the Jubba and Shebelle rivers. Riverine farmers and displaced people were worst hit, especially in the Bay region around Baidoa, called the City of Death, while pastoralists were largely spared. The Red Cross led the relief effort, and the UN operation UNOSOM I and the US-led UNITAF intervention helped bring the famine to an end by early 1993.
+  fr: >-
+    Famine dans le sud de la Somalie pendant la guerre civile, causée par une forte sécheresse et par les combats entre factions rivales dans les terres fertiles entre les fleuves Jubba et Shebelle. Les cultivateurs des vallées et les déplacés ont été les plus touchés, surtout dans la région de Bay autour de Baidoa, surnommée « la ville de la mort », tandis que les éleveurs étaient largement épargnés. La Croix-Rouge a mené les secours, et l’opération de l’ONU ONUSOM I puis l’intervention UNITAF dirigée par les États-Unis ont aidé à mettre fin à la famine début 1993.
+categories: [famine]
+kind: event
+start: "1991"
+end: "1992"
+deaths:
+  best: 240000
+  low: 200000
+  high: 300000
+  note:
+    en: "Deaths from starvation and disease. Best: 240,000, the World Peace Foundation estimate. Low: 200,000 and high: 300,000, the range given by Wikipedia; Ó Gráda gives 300,000 and the BBC cites an estimated 220,000. International aid is estimated to have saved about 100,000 lives."
+    fr: "Morts de faim et de maladie. Valeur centrale : 240 000, estimation de la World Peace Foundation. Bas : 200 000 et haut : 300 000, fourchette donnée par Wikipédia ; Ó Gráda avance 300 000 et la BBC cite une estimation de 220 000. L’aide internationale aurait sauvé environ 100 000 vies."
+countries:
+  - { code: SO, deaths: 240000 }
+related: [somali-civil-war]
+sources:
+  - title: 1992 famine in Somalia
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1992_famine_in_Somalia
+    accessed: "2026-10-22"
+  - title: Famines and the deaths in them
+    publisher: Our World in Data (World Peace Foundation data)
+    url: https://ourworldindata.org/grapher/famines-and-the-deaths-in-them
+    accessed: "2026-10-22"
+  - title: "Somalia famine 'killed 260,000 people'"
+    publisher: BBC News
+    url: https://www.bbc.com/news/world-africa-22380352
+    accessed: "2026-10-22"
+  - title: Making Famine History (Cormac Ó Gráda)
+    publisher: Journal of Economic Literature (UCD Research Repository)
+    url: https://researchrepository.ucd.ie/server/api/core/bitstreams/f57a2154-08a1-44a8-b865-75d1d51a4fcb/content
+    accessed: "2026-10-22"
+reviewed: false

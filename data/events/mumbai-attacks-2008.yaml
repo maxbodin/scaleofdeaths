@@ -1,0 +1,31 @@
+id: mumbai-attacks-2008
+title:
+  en: 2008 Mumbai attacks
+  fr: Attentats de novembre 2008 à Bombay
+description:
+  en: >-
+    Coordinated shooting and bombing attacks across Mumbai, India, by ten gunmen of the Pakistan-based Islamist group Lashkar-e-Taiba, who arrived by sea. They attacked the Chhatrapati Shivaji Terminus railway station, the Leopold Cafe, Cama Hospital, the Nariman House Jewish centre and the Taj Mahal Palace and Oberoi Trident hotels, where sieges lasted until 29 November. Nine attackers were killed by Indian security forces; the sole survivor, Ajmal Kasab, was convicted and executed in 2012.
+  fr: >-
+    Fusillades et attentats à l’explosif coordonnés dans Bombay (Mumbai), en Inde, par dix hommes armés du groupe islamiste pakistanais Lashkar-e-Taiba, arrivés par la mer. Ils attaquèrent la gare Chhatrapati Shivaji, le Leopold Cafe, l’hôpital Cama, le centre juif Nariman House et les hôtels Taj Mahal Palace et Oberoi Trident, où les sièges durèrent jusqu’au 29 novembre. Neuf assaillants furent tués par les forces de sécurité indiennes ; le seul survivant, Ajmal Kasab, fut condamné et exécuté en 2012.
+categories: [genocide]
+kind: event
+start: "2008-11-26"
+end: "2008-11-29"
+deaths:
+  best: 166
+  low: 164
+  note:
+    en: People killed by the attackers, including 22 security personnel and 26 foreign nationals from 14 countries (Wikipedia), not counting the nine attackers killed (175 deaths in total, per Wikipedia). The figure of 166 is also the one given by All India Radio citing the National Investigation Agency case. Low is the lower end of the 164 to 166 civilians and security personnel killed given by Wikipedia.
+    fr: Personnes tuées par les assaillants, dont 22 membres des forces de sécurité et 26 étrangers de 14 pays (Wikipédia), sans compter les neuf assaillants tués (175 morts au total selon Wikipédia). Le chiffre de 166 est aussi celui donné par All India Radio à propos de l’enquête de l’Agence nationale d’investigation. Le bas est la borne basse des 164 à 166 civils et membres des forces de sécurité tués selon Wikipédia.
+countries:
+  - { code: IN, deaths: 166 }
+sources:
+  - title: 2008 Mumbai attacks
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2008_Mumbai_attacks
+    accessed: "2026-10-22"
+  - title: 26/11 Mumbai terror attack key accused Tahawwur Rana remanded to NIA custody for 18 days
+    publisher: All India Radio (News on AIR)
+    url: https://newsonair.gov.in/26-11-mumbai-terror-attack-mastermind-tahawwur-rana-successfully-extradited-from-us-arrested-nia/
+    accessed: "2026-10-22"
+reviewed: false

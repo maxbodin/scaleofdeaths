@@ -1,0 +1,32 @@
+id: plague-of-athens
+title:
+  en: Plague of Athens
+  fr: Peste d’Athènes
+description:
+  en: >-
+    Epidemic that struck Athens in 430 BC, in the second year of the Peloponnesian War, when the population of Attica was crowded inside the city walls. It returned in 429 and in the winter of 427-426 BC. The historian Thucydides, who survived it, described its symptoms in detail. Its cause is still debated: typhoid fever, typhus and viral haemorrhagic fever are among some 30 candidates. The statesman Pericles reportedly died of it.
+  fr: >-
+    Épidémie qui frappa Athènes en 430 av. J.-C., deuxième année de la guerre du Péloponnèse, alors que la population de l’Attique s’entassait derrière les murs de la ville. Elle revint en 429 puis à l’hiver 427-426 av. J.-C. L’historien Thucydide, qui y survécut, en a décrit les symptômes en détail. Sa cause reste débattue : fièvre typhoïde, typhus ou fièvre hémorragique virale figurent parmi une trentaine d’hypothèses. Périclès en serait mort.
+categories: [epidemic]
+kind: event
+start: "-0430"
+end: "-0426"
+deaths:
+  best: 75000
+  low: 75000
+  high: 100000
+  note:
+    en: Deaths in Athens during the outbreaks of 430-426 BC, about a quarter of the population. The sources (Littman 2009, cited by Wikipedia; Papadimitrakis et al. 2025) only give a range of 75,000 to 100,000, so best is its lower bound. Deaths elsewhere in the eastern Mediterranean, mentioned by Thucydides, are not counted.
+    fr: Morts à Athènes lors des vagues de 430-426 av. J.-C., environ un quart de la population. Les sources (Littman 2009, citée par Wikipédia ; Papadimitrakis et al. 2025) ne donnent qu’une fourchette de 75 000 à 100 000 ; l’estimation retenue en est la borne basse. Les morts ailleurs en Méditerranée orientale, évoquées par Thucydide, ne sont pas comptées.
+countries:
+  - { code: GR, deaths: 75000 }
+sources:
+  - title: Plague of Athens
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Plague_of_Athens
+    accessed: "2026-10-22"
+  - title: "The Plague of Athens: Investigating the Enigmatic Epidemic of Ancient Greece"
+    publisher: Acta medico-historica Adriatica
+    url: https://ojs.srce.hr/amha/article/view/30214
+    accessed: "2026-10-22"
+reviewed: false

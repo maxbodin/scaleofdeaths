@@ -1,0 +1,43 @@
+id: valdivia-earthquake-1960
+title:
+  en: 1960 Valdivia earthquake
+  fr: Séisme de 1960 à Valdivia
+description:
+  en: >-
+    On the afternoon of 22 May 1960 a magnitude 9.4 to 9.6 earthquake, the most powerful ever recorded, struck southern Chile and devastated the city of Valdivia. Local tsunamis up to 25 metres high battered the Chilean coast, and the main tsunami crossed the Pacific, devastating Hilo in Hawaii and, about a day later, coastal towns in Japan; it also caused deaths in the Philippines. Strong foreshocks had made the population wary, and the Puyehue volcano erupted two days later.
+  fr: >-
+    L’après-midi du 22 mai 1960, un séisme de magnitude 9,4 à 9,6, le plus puissant jamais enregistré, a frappé le sud du Chili et dévasté la ville de Valdivia. Des tsunamis locaux atteignant 25 mètres ont ravagé la côte chilienne, et le tsunami principal a traversé le Pacifique, dévastant Hilo, à Hawaï, puis, environ un jour plus tard, des villes côtières du Japon ; il a aussi fait des morts aux Philippines. De fortes secousses précurseurs avaient rendu la population méfiante, et le volcan Puyehue est entré en éruption deux jours plus tard.
+categories: [natural-disaster]
+kind: event
+start: "1960-05-22"
+deaths:
+  best: 1655
+  low: 1000
+  high: 6000
+  note:
+    en: Earthquake and tsunami deaths around the Pacific. Best is the USGS total, which includes the tsunami deaths outside Chile; NOAA NCEI retains 2,226. Estimates range from about 1,000 to 6,000 (NCEI cites 490 to 5,700), and USGS notes that early reports were greatly overestimated. Per country, about 1,000 in Chile (one estimate cited by NCEI), 138 in Japan (185 dead or missing), 61 in Hawaii, 32 dead or missing in the Philippines, and 2 in Argentina, killed by a wave on Lake Nahuel Huapi.
+    fr: Morts du séisme et du tsunami dans le Pacifique. L’estimation centrale est le total de l’USGS, qui inclut les morts du tsunami hors du Chili ; la NCEI de la NOAA retient 2 226. Les estimations vont d’environ 1 000 à 6 000 (la NCEI cite de 490 à 5 700), et l’USGS note que les premiers bilans étaient très exagérés. Par pays, environ 1 000 au Chili (une estimation citée par la NCEI), 138 au Japon (185 morts ou disparus), 61 à Hawaï, 32 morts ou disparus aux Philippines et 2 en Argentine, tués par une vague sur le lac Nahuel Huapi.
+countries:
+  - { code: CL, deaths: 1000 }
+  - { code: JP, deaths: 138 }
+  - { code: US, deaths: 61 }
+  - { code: PH, deaths: 32 }
+  - { code: AR, deaths: 2 }
+sources:
+  - title: 1960 Valdivia earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1960_Valdivia_earthquake
+    accessed: "2026-10-22"
+  - title: "Historic Earthquakes: Chile 1960 May 22, The Largest Earthquake in the World (archived)"
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20161229181201/http://earthquake.usgs.gov/earthquakes/world/events/1960_05_22.php
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Puerto Montt, Valdivia, event 4227"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/4227
+    accessed: "2026-10-22"
+  - title: "Global Historical Tsunami Database: Southern Chile, event 1902"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/tsunamis/events/1902
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,32 @@
+id: siege-of-sarajevo
+title:
+  en: Siege of Sarajevo
+  fr: Siège de Sarajevo
+description:
+  en: >-
+    Siege of the Bosnian capital by the Yugoslav People's Army and then the Army of Republika Srpska, which encircled the city from the surrounding hills and subjected it to daily shelling and sniper fire for nearly four years, the longest siege of a capital in modern history. Civilians queuing for bread and water or crossing streets were frequent targets, as in the Markale market massacres. The siege ended after NATO air strikes and the Dayton Agreement. Several Bosnian Serb leaders were later convicted for it by the UN tribunal.
+  fr: >-
+    Siège de la capitale bosnienne par l’Armée populaire yougoslave puis par l’armée de la Republika Srpska, qui encerclent la ville depuis les collines et la soumettent près de quatre ans à des bombardements et tirs de snipers quotidiens, le plus long siège d’une capitale de l’histoire moderne. Les civils faisant la queue pour le pain et l’eau sont des cibles fréquentes, comme lors des massacres du marché de Markale. Le siège prend fin après les frappes de l’OTAN et les accords de Dayton. Plusieurs dirigeants serbes de Bosnie ont été condamnés pour ce siège par le tribunal de l’ONU.
+categories: [war]
+kind: event
+start: "1992-04-05"
+end: "1996-02-29"
+deaths:
+  best: 13952
+  low: 10000
+  note:
+    en: "Soldiers and civilians killed during the siege. Best: 13,952 dead, the count of the Research and Documentation Center in Sarajevo (9,429 Bosniaks, 3,573 Serbs, 810 Croats and 140 others), including 5,434 civilians (via Wikipedia). Low: about 10,000 killed, the figure used by Al Jazeera. Around 56,000 people were wounded, who are not counted."
+    fr: "Soldats et civils tués pendant le siège. Estimation centrale : 13 952 morts, décompte du Centre de recherche et de documentation de Sarajevo (9 429 Bosniaques, 3 573 Serbes, 810 Croates et 140 autres), dont 5 434 civils (via Wikipédia). Bas : environ 10 000 tués, chiffre retenu par Al Jazeera. Les quelque 56 000 blessés ne sont pas comptés."
+countries:
+  - { code: BA, deaths: 13952 }
+partOf: bosnian-war
+sources:
+  - title: Siege of Sarajevo
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Siege_of_Sarajevo
+    accessed: "2026-10-22"
+  - title: Convicted Bosnian Serb war criminal Ratko Mladic dies
+    publisher: Al Jazeera
+    url: https://www.aljazeera.com/news/2026/8/27/bosnian-serb-general-ratko-mladic-has-died-un-official-says
+    accessed: "2026-10-22"
+reviewed: false

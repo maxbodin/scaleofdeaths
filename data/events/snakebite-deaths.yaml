@@ -1,0 +1,39 @@
+id: snakebite-deaths
+title:
+  en: Deaths from snakebites per year
+  fr: Décès dus aux morsures de serpent par an
+description:
+  en: >-
+    People killed by venomous snakebites worldwide in one year, as estimated by the Global Burden of Disease study (IHME) from verbal autopsy surveys and death registration data in 204 countries. Most deaths occur among rural people in South Asia, which accounts for about 86% of the total, and in sub-Saharan Africa, often far from antivenom and hospital care. WHO lists snakebite envenoming as a high-priority neglected tropical disease and aims to halve its deaths by 2030; many deaths are never reported to health authorities.
+  fr: >-
+    Personnes tuées par des morsures de serpents venimeux dans le monde en un an, selon l’étude Global Burden of Disease (IHME), fondée sur des autopsies verbales et les registres de décès de 204 pays. La plupart des décès touchent des populations rurales d’Asie du Sud, qui concentre environ 86 % du total, et d’Afrique subsaharienne, souvent loin des antivenins et des hôpitaux. L’OMS classe l’envenimation par morsure de serpent parmi les maladies tropicales négligées prioritaires et vise à diviser ses décès par deux d’ici 2030 ; beaucoup de morts ne sont jamais déclarées.
+categories: [annual, natural-disaster]
+kind: endemic-total
+start: "2019"
+end: "2019"
+deaths:
+  best: 63400
+  low: 38900
+  high: 78600
+  note:
+    en: >-
+      GBD 2019 Snakebite Envenomation Collaborators (Nature Communications, 2022): 63,400 deaths in 2019, with a 95% uncertainty interval of 38,900 to 78,600; 2019 is the most recent year this study covers. Per-country figures are the study's central estimates for 2019 (India 51,100, Pakistan 2,070, Nigeria 1,460, DR Congo 545, Ethiopia 499, Kenya 349). The WHO fact sheet gives a wider range of 81,410 to 137,880 deaths each year, without a reference year.
+    fr: >-
+      GBD 2019 Snakebite Envenomation Collaborators (Nature Communications, 2022) : 63 400 décès en 2019, avec un intervalle d’incertitude à 95 % de 38 900 à 78 600 ; 2019 est la dernière année couverte par cette étude. Les chiffres par pays sont les estimations centrales de l’étude pour 2019 (Inde 51 100, Pakistan 2 070, Nigeria 1 460, RD Congo 545, Éthiopie 499, Kenya 349). La fiche de l’OMS donne une fourchette plus large de 81 410 à 137 880 décès par an, sans année de référence.
+countries:
+  - { code: IN, deaths: 51100 }
+  - { code: PK, deaths: 2070 }
+  - { code: NG, deaths: 1460 }
+  - { code: CD, deaths: 545 }
+  - { code: ET, deaths: 499 }
+  - { code: KE, deaths: 349 }
+sources:
+  - title: Global mortality of snakebite envenoming between 1990 and 2019 (GBD 2019 Snakebite Envenomation Collaborators, 2022)
+    publisher: Nature Communications
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9596405/
+    accessed: "2026-10-22"
+  - title: Snakebite envenoming fact sheet
+    publisher: World Health Organization
+    url: https://www.who.int/news-room/fact-sheets/detail/snakebite-envenoming
+    accessed: "2026-10-22"
+reviewed: false

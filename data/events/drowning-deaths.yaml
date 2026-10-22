@@ -1,0 +1,46 @@
+id: drowning-deaths
+title:
+  en: Deaths from drowning per year
+  fr: Décès par noyade par an
+description:
+  en: >-
+    People who died from accidental drowning worldwide in one year, as estimated by the World Health Organization in its first Global status report on drowning prevention (2024), based on its Global Health Estimates. The count covers unintentional drowning in bathtubs, pools and natural water; drownings in floods, boat accidents, suicides and homicides are not included. Children under 5 account for about a quarter of deaths, and 92% occur in low- and middle-income countries.
+  fr: >-
+    Personnes mortes par noyade accidentelle dans le monde en un an, selon l’estimation de l’Organisation mondiale de la santé dans son premier rapport de situation mondial sur la prévention des noyades (2024), fondé sur ses estimations sanitaires mondiales. Sont comptées les noyades involontaires dans les baignoires, les piscines et les eaux naturelles ; les noyades dues aux inondations, aux accidents de bateau, aux suicides et aux homicides sont exclues. Les enfants de moins de 5 ans représentent environ un quart des morts, et 92 % surviennent dans des pays à revenu faible ou intermédiaire.
+categories: [annual, accident]
+kind: endemic-total
+start: "2021"
+end: "2021"
+deaths:
+  best: 300000
+  note:
+    en: >-
+      WHO Global status report on drowning prevention 2024: 300,000 drowning deaths in 2021, the most recent year it covers (down from 375,000 in 2000). WHO counts ICD codes W65 to W74 only, so drownings in floods (X38), watercraft accidents (V90, V92), suicides, homicides and undetermined cases are excluded, as are migrant deaths at sea; the true number of people who drown is therefore higher. No range is published. Per-country figures are the report's WHO estimates for 2021 for the ten countries with the most deaths among the country profiles in the report (rounded by WHO; not every country has a profile).
+    fr: >-
+      Rapport de situation mondial de l’OMS sur la prévention des noyades 2024 : 300 000 décès par noyade en 2021, dernière année couverte (contre 375 000 en 2000). L’OMS ne compte que les codes CIM W65 à W74 : les noyades lors d’inondations (X38), d’accidents de bateau (V90, V92), les suicides, homicides et cas d’intention indéterminée sont exclus, de même que les morts de migrants en mer ; le nombre réel de noyés est donc plus élevé. Aucune fourchette n’est publiée. Les chiffres par pays sont les estimations de l’OMS pour 2021, arrondies, pour les dix pays les plus touchés parmi les profils de pays du rapport (tous les pays n’en ont pas).
+countries:
+  - { code: CN, deaths: 57000 }
+  - { code: IN, deaths: 55000 }
+  - { code: PK, deaths: 23000 }
+  - { code: NG, deaths: 14000 }
+  - { code: BD, deaths: 9600 }
+  - { code: VN, deaths: 7700 }
+  - { code: JP, deaths: 7300 }
+  - { code: PH, deaths: 6700 }
+  - { code: TH, deaths: 6500 }
+  - { code: US, deaths: 4500 }
+related: [migrant-deaths]
+sources:
+  - title: Global status report on drowning prevention 2024
+    publisher: World Health Organization (IRIS)
+    url: https://iris.who.int/items/54778400-058b-481e-8bb7-948cec0c6e35
+    accessed: "2026-10-22"
+  - title: Global status report on drowning prevention 2024 (full report PDF, with country profiles)
+    publisher: World Health Organization (copy hosted by The Hindu)
+    url: https://www.thehindu.com/news/national/68984657-WHO_Global-Status_Drowning-prevention_LowRes_121224_OD.pdf
+    accessed: "2026-10-22"
+  - title: Drowning fact sheet
+    publisher: World Health Organization
+    url: https://www.who.int/news-room/fact-sheets/detail/drowning
+    accessed: "2026-10-22"
+reviewed: false

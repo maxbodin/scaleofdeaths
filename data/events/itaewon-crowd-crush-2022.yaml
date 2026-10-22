@@ -1,0 +1,34 @@
+id: itaewon-crowd-crush-2022
+title:
+  en: Itaewon crowd crush
+  fr: Bousculade d’Itaewon
+description:
+  en: >-
+    On the night of 29 October 2022, about 100,000 people celebrating Halloween in the Itaewon nightlife district of Seoul, South Korea, packed into the narrow streets around the Hamilton Hotel. At about 22:15 a crowd crush formed in a sloping alley and dozens of people fell on top of each other. Most of the dead were young adults, and 27 were foreign nationals. It was the deadliest disaster in South Korea since the Sewol ferry sinking in 2014, and investigations blamed police failures and the absence of any crowd control plan.
+  fr: >-
+    Dans la nuit du 29 octobre 2022, environ 100 000 personnes venues fêter Halloween dans le quartier d’Itaewon, à Séoul (Corée du Sud), se pressent dans les ruelles étroites autour de l’hôtel Hamilton. Vers 22 h 15, un mouvement de foule se produit dans une ruelle en pente et des dizaines de personnes s’effondrent les unes sur les autres. La plupart des morts sont de jeunes adultes, dont 27 étrangers. C’est la catastrophe la plus meurtrière en Corée du Sud depuis le naufrage du Sewol en 2014 ; les enquêtes ont mis en cause la police, sans plan de gestion de la foule.
+categories: [accident]
+kind: event
+start: "2022-10-29"
+deaths:
+  best: 159
+  high: 160
+  note:
+    en: 159 is the widely cited official toll (Wikipedia, Korea Herald). It includes two people who died after the night itself, among them a teenage survivor who took his own life in December 2022 and was recognised as a victim. In June 2026 the Interior Ministry also recognised a bar owner who had helped in the rescue and later died, raising the official toll to 160 (high).
+    fr: 159 est le bilan officiel le plus cité (Wikipédia, Korea Herald). Il inclut deux personnes mortes après la nuit du drame, dont un lycéen survivant qui s’est suicidé en décembre 2022 et a été reconnu comme victime. En juin 2026, le ministère de l’Intérieur a aussi reconnu comme victime un patron de bar qui avait participé aux secours et est mort ensuite, portant le bilan officiel à 160 (high).
+countries:
+  - { code: KR, deaths: 159 }
+sources:
+  - title: Seoul Halloween crowd crush
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Seoul_Halloween_crowd_crush
+    accessed: "2026-10-22"
+  - title: 1st official memorial held for Itaewon crowd crush victims
+    publisher: The Korea Herald
+    url: https://www.koreaherald.com/article/10604251
+    accessed: "2026-10-22"
+  - title: Itaewon crowd crush death toll rises to 160 as rescue volunteer recognized as victim
+    publisher: The Herald Business
+    url: https://biz.heraldcorp.com/article/10789390
+    accessed: "2026-10-22"
+reviewed: false

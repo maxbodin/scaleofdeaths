@@ -1,0 +1,34 @@
+id: persian-plague-1772
+title:
+  en: 1772-1773 Persian plague
+  fr: Peste de Perse de 1772-1773
+description:
+  en: >-
+    Bubonic plague epidemic that broke out in Baghdad in the winter of 1772 and spread across Persia and the Persian-controlled lands to the west. It reached Basra in 1773, where it was especially devastating, then moved south along the Persian Gulf to Bushehr and Bahrain, and east as far as Bombay. At its peak about a thousand deaths a day were recorded. The outbreak led to the first quarantine measures in the Persian Gulf region.
+  fr: >-
+    Épidémie de peste bubonique apparue à Bagdad pendant l’hiver 1772, qui se répandit en Perse et dans les territoires sous contrôle perse à l’ouest. Elle atteignit en 1773 Bassorah, où elle fut particulièrement meurtrière, puis longea le golfe Persique vers Bouchehr et Bahreïn, et gagna à l’est jusqu’à Bombay. Au plus fort de l’épidémie, un millier de morts étaient enregistrés chaque jour. Elle entraîna les premières mesures de quarantaine dans la région du golfe.
+categories: [epidemic]
+kind: event
+start: "1772"
+end: "1773"
+deaths:
+  best: 2000000
+  note:
+    en: Deaths in Persia and the Persian-controlled lands to the west, an estimate reported by the review of Hashemi Shahraki, Carniel and Mostafavi (Epidemiology and Health, 2016) and by Wikipedia. More than 250,000 died in Basra alone; the Iraq figure below covers Basra only. No other estimate or range was found.
+    fr: Morts en Perse et dans les territoires sous contrôle perse à l’ouest, estimation rapportée par la revue de Hashemi Shahraki, Carniel et Mostafavi (Epidemiology and Health, 2016) et par Wikipédia. Plus de 250 000 personnes moururent à Bassorah seule ; le chiffre indiqué pour l’Irak ne couvre que Bassorah. Aucune autre estimation ni fourchette n’a été trouvée.
+countries:
+  - { code: IR }
+  - { code: IQ, deaths: 250000 }
+  - { code: BH }
+  - { code: IN }
+related: [black-death]
+sources:
+  - title: 1772-1773 Persian Plague
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1772%E2%80%931773_Persian_Plague
+    accessed: "2026-10-22"
+  - title: "Plague in Iran: its history and current status (Hashemi Shahraki et al., Epidemiology and Health 2016)"
+    publisher: PubMed Central
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5037359/
+    accessed: "2026-10-22"
+reviewed: false

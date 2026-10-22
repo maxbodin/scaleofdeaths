@@ -1,0 +1,33 @@
+id: ikiza-1972
+title:
+  en: Ikiza (1972 Burundi killings)
+  fr: Ikiza (massacres de 1972 au Burundi)
+description:
+  en: >-
+    Mass killings committed in Burundi in 1972 by the Tutsi-dominated army and government of President Michel Micombero, primarily against Hutu, after a Hutu rebellion in the south killed hundreds of Tutsi and Hutu in late April. The repression spread across the country for months and targeted above all educated and elite Hutu, including civil servants, teachers, officers and priests; thousands fled to Zaire and Tanzania. The killings are often characterised as a genocide, and Burundi's Truth and Reconciliation Commission declared them a genocide against the Hutu in 2021.
+  fr: >-
+    Massacres commis au Burundi en 1972 par l’armée et le gouvernement à dominante tutsi du président Michel Micombero, surtout contre les Hutu, après qu’une rébellion hutu dans le sud eut tué des centaines de Tutsi et de Hutu fin avril. La répression s’étendit au pays entier pendant des mois et visa surtout l’élite hutu instruite (fonctionnaires, enseignants, officiers, prêtres) ; des milliers de personnes fuirent au Zaïre et en Tanzanie. Ces massacres sont souvent qualifiés de génocide, et la Commission vérité et réconciliation du Burundi les a reconnus comme génocide contre les Hutu en 2021.
+categories: [genocide]
+kind: event
+start: "1972-04-29"
+end: "1972-08"
+deaths:
+  best: 150000
+  low: 100000
+  high: 300000
+  note:
+    en: People killed in the repression, overwhelmingly Hutu, plus the 800 to 1,200 people killed by the rebels at the start according to missionaries. Best is the figure of around 150,000 victims found by Burundi's Truth and Reconciliation Commission (reported by ACCORD), which is also the upper end of conservative estimates of 100,000 to 150,000 (Wikipedia). High is the 300,000 reached by some estimates, including René Lemarchand's 200,000 to 300,000 Hutu deaths.
+    fr: Personnes tuées lors de la répression, en très grande majorité des Hutu, ainsi que les 800 à 1 200 personnes tuées par les rebelles au début selon des missionnaires. L’estimation centrale est le chiffre d’environ 150 000 victimes établi par la Commission vérité et réconciliation du Burundi (rapporté par ACCORD), qui est aussi le haut des estimations prudentes de 100 000 à 150 000 morts (Wikipédia). La valeur haute est le chiffre de 300 000 atteint par certaines estimations, dont celle de René Lemarchand, 200 000 à 300 000 morts hutu.
+countries:
+  - { code: BI, deaths: 150000 }
+related: [burundian-civil-war, rwandan-genocide]
+sources:
+  - title: Ikiza
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Ikiza
+    accessed: "2026-10-22"
+  - title: Perspectives on the 1972-1973 massacre and post-conflict reconstruction efforts in Burundi
+    publisher: ACCORD, African Journal on Conflict Resolution
+    url: https://www.accord.org.za/ajcr-issues/perspectives-on-the-1972-1973-massacre-and-post-conflict-reconstruction-efforts-in-burundi/
+    accessed: "2026-10-22"
+reviewed: false

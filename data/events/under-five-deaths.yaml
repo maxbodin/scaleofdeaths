@@ -1,0 +1,44 @@
+id: under-five-deaths
+title:
+  en: Deaths of children under 5 per year
+  fr: Décès d’enfants de moins de 5 ans par an
+description:
+  en: >-
+    Children who died before their fifth birthday worldwide in one year, as estimated by UNICEF and WHO with the UN Inter-agency Group for Child Mortality Estimation (UN IGME). Leading causes are infectious diseases such as pneumonia, diarrhoea and malaria, along with complications of premature birth and of labour and delivery. Nearly half of these deaths occurred in fragile and conflict-affected settings. One child in 27 died before age 5, against 1 in 11 in 1990, but progress has slowed since 2015.
+  fr: >-
+    Enfants morts avant leur cinquième anniversaire dans le monde en un an, selon l’estimation de l’UNICEF et de l’OMS avec le groupe inter-agences des Nations unies pour l’estimation de la mortalité infantile (UN IGME). Les principales causes sont les maladies infectieuses comme la pneumonie, la diarrhée et le paludisme, ainsi que les complications de la prématurité et de l’accouchement. Près de la moitié de ces décès ont lieu dans des contextes fragiles ou de conflit. Un enfant sur 27 meurt avant 5 ans, contre 1 sur 11 en 1990.
+categories: [annual]
+kind: endemic-total
+start: "2024"
+end: "2024"
+deaths:
+  best: 4900000
+  low: 4688733
+  high: 5209732
+  note:
+    en: >-
+      UNICEF data on child survival (updated March 2026): 4.9 million children died before reaching age 5 in 2024, about 13,300 a day. The range is the uncertainty interval of the underlying UN IGME estimate (4,857,797) as published in WHO's Global Health Observatory. These deaths include newborns and overlap with deaths counted under specific causes such as malaria, measles and diarrhoeal diseases. Per-country figures are the UN IGME central estimates for 2024 for the ten countries with the most under-five deaths.
+    fr: >-
+      UNICEF, données sur la survie de l’enfant (mises à jour en mars 2026) : 4,9 millions d’enfants sont morts avant l’âge de 5 ans en 2024, soit environ 13 300 par jour. La fourchette est l’intervalle d’incertitude de l’estimation UN IGME sous-jacente (4 857 797) publiée dans l’Observatoire mondial de la santé de l’OMS. Ces décès incluent les nouveau-nés et recoupent ceux comptés par cause, comme le paludisme, la rougeole ou les maladies diarrhéiques. Les chiffres par pays sont les estimations centrales UN IGME pour 2024 pour les dix pays les plus touchés.
+countries:
+  - { code: NG, deaths: 855676 }
+  - { code: IN, deaths: 615030 }
+  - { code: CD, deaths: 385039 }
+  - { code: PK, deaths: 381586 }
+  - { code: ET, deaths: 181228 }
+  - { code: NE, deaths: 118445 }
+  - { code: BD, deaths: 105414 }
+  - { code: SD, deaths: 101879 }
+  - { code: TZ, deaths: 86317 }
+  - { code: UG, deaths: 82589 }
+related: [malaria-deaths-annual, measles-deaths-annual, diarrhoeal-disease-deaths]
+sources:
+  - title: Under-five mortality
+    publisher: UNICEF Data
+    url: https://data.unicef.org/topic/child-survival/under-five-mortality/
+    accessed: "2026-10-22"
+  - title: "Global Health Observatory: number of under-five deaths (CM_01), 2024"
+    publisher: World Health Organization (UN IGME data)
+    url: https://ghoapi.azureedge.net/api/CM_01?$filter=TimeDim%20eq%202024%20and%20Dim1%20eq%20'SEX_BTSX'%20and%20Dim3%20eq%20'WEALTHQUINTILE_TOTL'
+    accessed: "2026-10-22"
+reviewed: false

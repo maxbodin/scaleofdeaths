@@ -1,0 +1,37 @@
+id: second-congo-war
+title:
+  en: Second Congo War
+  fr: Deuxième guerre du Congo
+description:
+  en: >-
+    War in the Democratic Republic of the Congo that drew in the armies of several African states: Rwanda and Uganda backed rebel movements against the government of Laurent-Désiré Kabila, while Angola, Zimbabwe and Namibia supported it. Fighting, massacres, mass displacement and the collapse of health services and food supplies caused one of the deadliest humanitarian crises since 1945. Peace agreements in 2002 led to a transitional government in July 2003, but violence continued in the east.
+  fr: >-
+    Guerre en République démocratique du Congo qui entraîne les armées de plusieurs États africains : le Rwanda et l’Ouganda soutiennent des mouvements rebelles contre le gouvernement de Laurent-Désiré Kabila, tandis que l’Angola, le Zimbabwe et la Namibie le défendent. Combats, massacres, déplacements massifs et effondrement des services de santé et de l’approvisionnement provoquent l’une des crises humanitaires les plus meurtrières depuis 1945. Les accords de paix de 2002 mènent à un gouvernement de transition en juillet 2003, mais les violences continuent dans l’est.
+categories: [war]
+kind: event
+start: "1998-08-02"
+end: "2003-07-18"
+deaths:
+  best: 3900000
+  low: 860000
+  high: 5400000
+  note:
+    en: Excess deaths, that is deaths above the pre-war level, mostly from malaria, diarrhoea, pneumonia and malnutrition; the International Rescue Committee (IRC) found that less than 10% of deaths were due to violence, and Wikipedia cites over 350,000 violent deaths for 1998-2001. Best is the IRC estimate of 3.9 million deaths from 1998 to 2004 (its first four surveys, 2000-2004), which covers the war and its immediate aftermath. High is the IRC estimate of 5.4 million excess deaths from August 1998 to April 2007, the most cited figure, 2.1 million of which occurred after the formal end of the war. Low reflects the Human Security Report Project (2010), which argued that the IRC used too low a baseline mortality rate; it rejected the 1998-2001 surveys and revised the 2001-2007 figure to about 860,000 excess deaths (Wikipedia; the BBC reported the dispute).
+    fr: Surmortalité, c’est-à-dire les morts au-delà du niveau d’avant-guerre, surtout dues au paludisme, aux diarrhées, aux pneumonies et à la malnutrition ; l’International Rescue Committee (IRC) estime que moins de 10 % des morts sont dues à la violence, et Wikipédia cite plus de 350 000 morts violentes pour 1998-2001. L’estimation centrale est celle de l’IRC de 3,9 millions de morts de 1998 à 2004 (ses quatre premières enquêtes, 2000-2004), qui couvre la guerre et ses suites immédiates. Le haut est l’estimation de l’IRC de 5,4 millions de morts en excès d’août 1998 à avril 2007, le chiffre le plus cité, dont 2,1 millions après la fin officielle de la guerre. Le bas reflète le Human Security Report Project (2010), qui jugeait trop bas le taux de mortalité de référence de l’IRC ; il écartait les enquêtes de 1998-2001 et ramenait le chiffre de 2001-2007 à environ 860 000 morts en excès (Wikipédia ; la BBC a rendu compte de cette controverse).
+countries:
+  - { code: CD, deaths: 3900000 }
+related: [first-congo-war]
+sources:
+  - title: Second Congo War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Second_Congo_War
+    accessed: "2026-10-22"
+  - title: "Mortality in the Democratic Republic of Congo: An ongoing crisis"
+    publisher: International Rescue Committee
+    url: https://www.rescue.org/report/mortality-democratic-republic-congo-ongoing-crisis
+    accessed: "2026-10-22"
+  - title: "DR Congo war deaths 'exaggerated'"
+    publisher: BBC News
+    url: https://news.bbc.co.uk/2/hi/africa/8471147.stm
+    accessed: "2026-10-22"
+reviewed: false

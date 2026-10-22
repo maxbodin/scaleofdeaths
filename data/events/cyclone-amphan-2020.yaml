@@ -1,0 +1,42 @@
+id: cyclone-amphan-2020
+title:
+  en: Cyclone Amphan
+  fr: Cyclone Amphan
+description:
+  en: >-
+    Cyclone Amphan formed in the Bay of Bengal on 16 May 2020 and became a super cyclonic storm on 18 May. It made landfall near Bakkhali in West Bengal, India, on 20 May, the strongest cyclone to strike the Ganges Delta since 1999, then crossed into Bangladesh. More than 4 million people were evacuated, in the middle of the COVID-19 pandemic. Winds uprooted trees and power lines in Kolkata and storm surges breached embankments in the Sundarbans; most deaths were from electrocution or collapsing homes.
+  fr: >-
+    Le cyclone Amphan s’est formé dans le golfe du Bengale le 16 mai 2020 et est devenu une super tempête cyclonique le 18 mai. Il a touché terre près de Bakkhali, au Bengale-Occidental (Inde), le 20 mai, le plus puissant cyclone à frapper le delta du Gange depuis 1999, puis a gagné le Bangladesh. Plus de 4 millions de personnes ont été évacuées, en pleine pandémie de COVID-19. Les vents ont arraché arbres et lignes électriques à Calcutta et les ondes de tempête ont rompu des digues dans les Sundarbans ; la plupart des morts ont été électrocutés ou écrasés par l’effondrement de maisons.
+categories: [natural-disaster]
+kind: event
+start: "2020-05-16"
+end: "2020-05-21"
+deaths:
+  best: 133
+  note:
+    en: >-
+      Total and per-country figures from Wikipedia's table: India 103, Bangladesh 26 and Sri Lanka 4 (deaths from heavy rain as the storm formed). Official Indian state tolls add up to slightly less: 98 in West Bengal (Chief Minister, 29 May 2020) and 4 in Odisha (Red Cross). The Red Cross final report for Bangladesh confirms 26 deaths.
+    fr: >-
+      Total et chiffres par pays tirés du tableau de Wikipédia : Inde 103, Bangladesh 26 et Sri Lanka 4 (morts des fortes pluies lors de la formation de la tempête). Les bilans officiels des États indiens donnent un peu moins : 98 au Bengale-Occidental (ministre en chef, 29 mai 2020) et 4 en Odisha (Croix-Rouge). Le rapport final de la Croix-Rouge pour le Bangladesh confirme 26 morts.
+countries:
+  - { code: IN, deaths: 103 }
+  - { code: BD, deaths: 26 }
+  - { code: LK, deaths: 4 }
+sources:
+  - title: Cyclone Amphan
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Cyclone_Amphan
+    accessed: "2026-10-22"
+  - title: "Death toll due to Cyclone Amphan in West Bengal now 98: CM Mamata Banerjee"
+    publisher: The New Indian Express (PTI)
+    url: https://www.newindianexpress.com/india/2020/May/29/death-toll-due-to-cyclone-amphan-in-west-bengal-now-98-cm-mamata-banerjee-2149691.html
+    accessed: "2026-10-22"
+  - title: "India: Cyclone Amphan, DREF Final Report (MDRIN025)"
+    publisher: International Federation of Red Cross and Red Crescent Societies (IFRC)
+    url: https://adore.ifrc.org/Download.aspx?FileId=389105
+    accessed: "2026-10-22"
+  - title: "Bangladesh: Cyclone Amphan, Emergency Appeal Final Report (MDRBD024)"
+    publisher: International Federation of Red Cross and Red Crescent Societies (IFRC)
+    url: https://adore.ifrc.org/Download.aspx?FileId=469368
+    accessed: "2026-10-22"
+reviewed: false

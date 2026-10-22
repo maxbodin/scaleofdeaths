@@ -1,0 +1,33 @@
+id: cyclone-nargis-2008
+title:
+  en: Cyclone Nargis
+  fr: Cyclone Nargis
+description:
+  en: >-
+    Cyclone Nargis made landfall in Myanmar on 2 May 2008 and crossed the densely populated Irrawaddy delta, where its storm surge pushed 40 km inland, before passing near Yangon. Whole villages were swept away, especially in Labutta and Bogale townships, and 2 to 3 million people were left homeless. The military government at first resisted large-scale international aid, delaying relief for the survivors. It was probably the worst disaster in Myanmar's history.
+  fr: >-
+    Le cyclone Nargis a touché terre au Myanmar le 2 mai 2008 et traversé le delta très peuplé de l’Irrawaddy, où son onde de tempête a pénétré à 40 km à l’intérieur des terres, avant de passer près de Rangoun. Des villages entiers ont été emportés, en particulier dans les cantons de Labutta et de Bogale, et 2 à 3 millions de personnes se sont retrouvées sans abri. La junte militaire a d’abord refusé une aide internationale de grande ampleur, retardant les secours. C’est sans doute la pire catastrophe de l’histoire du Myanmar.
+categories: [natural-disaster]
+kind: event
+start: "2008-04-27"
+end: "2008-05-03"
+deaths:
+  best: 138373
+  low: 84537
+  note:
+    en: >-
+      84,537 confirmed dead and 53,836 missing, presumed dead, according to the Post-Nargis Joint Assessment by the Myanmar government, ASEAN and the United Nations (Wikipedia; OCHA reports over 84,530 dead and 53,836 missing). Best counts both; low counts confirmed deaths only.
+    fr: >-
+      84 537 morts confirmés et 53 836 disparus présumés morts selon l’évaluation conjointe post-Nargis du gouvernement du Myanmar, de l’ASEAN et des Nations unies (Wikipédia ; l’OCHA fait état de plus de 84 530 morts et de 53 836 disparus). L’estimation centrale compte les deux ; l’estimation basse ne compte que les morts confirmés.
+countries:
+  - { code: MM, deaths: 138373 }
+sources:
+  - title: Cyclone Nargis
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Cyclone_Nargis
+    accessed: "2026-10-22"
+  - title: "Myanmar: Cyclone Nargis OCHA Situation Report No. 41"
+    publisher: UN Office for the Coordination of Humanitarian Affairs
+    url: https://www.unocha.org/publications/report/myanmar/myanmar-cyclone-nargis-ocha-situation-report-no-41
+    accessed: "2026-10-22"
+reviewed: false

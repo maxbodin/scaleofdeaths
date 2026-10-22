@@ -1,0 +1,33 @@
+id: dutch-famine-1944
+title:
+  en: Dutch famine of 1944-1945 (Hunger Winter)
+  fr: Famine néerlandaise de 1944-1945 (Hiver de la faim)
+description:
+  en: >-
+    Famine in the German-occupied western Netherlands in the last winter of the war. After the failure of the Allied Operation Market Garden in September 1944, a national railway strike called by the Dutch government in exile and a German embargo on food transport, followed by a harsh winter, cut supplies to the cities of the west; rations fell to starvation levels. About 4.3 million people were affected and most of the dead were elderly. Food from Sweden, Switzerland and the Red Cross, Allied airdrops from 29 April 1945 and the German surrender ended the famine.
+  fr: >-
+    Famine dans l’ouest des Pays-Bas occupés pendant le dernier hiver de la guerre. Après l’échec de l’opération alliée Market Garden en septembre 1944, une grève ferroviaire lancée par le gouvernement en exil, un embargo allemand sur les vivres puis un hiver rigoureux coupent l’approvisionnement des villes de l’ouest ; les rations tombent à un niveau de famine. Environ 4,3 millions de personnes sont touchées et la plupart des morts sont des personnes âgées. L’aide suédoise, suisse et de la Croix-Rouge, les largages alliés à partir du 29 avril 1945 et la capitulation allemande y mettent fin.
+categories: [famine]
+kind: event
+partOf: second-world-war
+start: "1944-09"
+end: "1945-05"
+deaths:
+  best: 20000
+  low: 16000
+  high: 22000
+  note:
+    en: Deaths attributed to the famine in the western Netherlands, directly or through cold and disease worsened by hunger. Best is the about 20,000 that Wikipedia attributes to historian Ingrid de Zwarte, who also counts 35,000 excess deaths in the western provinces from September 1944 to July 1945, not all of them due to the famine. High is Loe de Jong's "more than 22,000" direct and indirect victims (1981), a conclusion that de Zwarte's 2019 research also reaches according to the NIOD Institute for War, Holocaust and Genocide Studies. Low is G.M.T. Trienekens's 16,000 extra deaths in the western cities in the first half of 1945, about half of them recorded as due to hunger or cold. An older estimate of 10,000 (Stein and colleagues, cited by Stephen Devereux) is not used.
+    fr: Morts attribuées à la famine dans l’ouest des Pays-Bas, directement ou par le froid et les maladies aggravées par la faim. L’estimation centrale est celle d’environ 20 000 morts que Wikipédia attribue à l’historienne Ingrid de Zwarte, qui compte aussi 35 000 morts en excès dans les provinces de l’ouest de septembre 1944 à juillet 1945, pas toutes dues à la famine. Le haut de la fourchette est le chiffre de Loe de Jong, « plus de 22 000 » victimes directes et indirectes (1981), conclusion à laquelle aboutissent aussi les recherches de de Zwarte publiées en 2019 selon le NIOD (Institut pour l’étude de la guerre, de l’Holocauste et des génocides). Le bas est le chiffre de G.M.T. Trienekens, 16 000 morts supplémentaires dans les villes de l’ouest au premier semestre 1945, dont environ la moitié attribuées à la faim ou au froid. Une estimation plus ancienne de 10 000 (Stein et ses collègues, cités par Stephen Devereux) n’est pas retenue.
+countries:
+  - { code: NL, deaths: 20000 }
+sources:
+  - title: Dutch famine of 1944-1945
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Dutch_famine_of_1944%E2%80%931945
+    accessed: "2026-10-22"
+  - title: Slachtoffers Hongerwinter (in cijfers) (archived)
+    publisher: NIOD Institute for War, Holocaust and Genocide Studies
+    url: https://web.archive.org/web/20260710082938/https://www.niod.nl/veelgestelde-vragen/slachtoffers-hongerwinter-in-cijfers/
+    accessed: "2026-10-22"
+reviewed: false

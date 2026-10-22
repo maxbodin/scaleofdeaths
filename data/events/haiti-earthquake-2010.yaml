@@ -1,0 +1,44 @@
+id: haiti-earthquake-2010
+title:
+  en: 2010 Haiti earthquake
+  fr: Séisme de 2010 en Haïti
+description:
+  en: >-
+    At 16:53 on 12 January 2010 a shallow magnitude 7.0 earthquake struck near Léogâne, about 25 km west of Port-au-Prince, in the most densely populated part of Haiti. Much of the capital was destroyed, including the National Palace, the cathedral and the headquarters of the UN stabilization mission, whose chief was killed. The government estimated that 250,000 homes and 30,000 commercial buildings collapsed or were severely damaged, and about 1.3 million people were displaced. Poverty and poor housing worsened the toll.
+  fr: >-
+    Le 12 janvier 2010 à 16 h 53, un séisme superficiel de magnitude 7,0 a frappé près de Léogâne, à environ 25 km à l’ouest de Port-au-Prince, dans la région la plus peuplée d’Haïti. Une grande partie de la capitale a été détruite, dont le Palais national, la cathédrale et le siège de la mission de stabilisation de l’ONU, dont le chef a été tué. Selon le gouvernement, 250 000 logements et 30 000 bâtiments commerciaux se sont effondrés ou ont été gravement endommagés, et environ 1,3 million de personnes ont été déplacées. La pauvreté et la précarité des logements ont alourdi le bilan.
+categories: [natural-disaster]
+kind: event
+start: "2010-01-12"
+deaths:
+  best: 160000
+  low: 46000
+  high: 316000
+  note:
+    en: The toll is highly contested and no reliable count exists; many bodies were buried in mass graves without being counted. Best is the estimate of about 160,000 from a 2010 University of Michigan household survey published in Medicine, Conflict and Survival (158,000 according to the Columbia Journalism Review), the top of the 100,000 to 160,000 range given by Wikipedia. The Haitian government first gave 230,000, then 316,000 on the first anniversary without explanation (high, also used by USGS and NOAA NCEI); critics suspect it was inflated. Radio Netherlands estimated about 92,000, and an unpublished survey commissioned by USAID gave 46,000 to 85,000 (low).
+    fr: Le bilan est très contesté et aucun décompte fiable n’existe ; de nombreux corps ont été enterrés dans des fosses communes sans être comptés. L’estimation centrale est celle d’environ 160 000 issue d’une enquête auprès des ménages de l’université du Michigan publiée en 2010 dans Medicine, Conflict and Survival (158 000 selon la Columbia Journalism Review), haut de la fourchette de 100 000 à 160 000 donnée par Wikipédia. Le gouvernement haïtien a d’abord annoncé 230 000, puis 316 000 au premier anniversaire, sans explication (haut de la fourchette, repris par l’USGS et la NCEI de la NOAA) ; ses détracteurs le jugent gonflé. Radio Netherlands estimait environ 92 000, et une enquête non publiée commandée par l’USAID donnait de 46 000 à 85 000 (bas de la fourchette).
+countries:
+  - { code: HT, deaths: 160000 }
+related: [haiti-cholera-outbreak]
+sources:
+  - title: 2010 Haiti earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2010_Haiti_earthquake
+    accessed: "2026-10-22"
+  - title: Two Years Later, Haitian Earthquake Death Toll in Dispute (archived)
+    publisher: Columbia Journalism Review
+    url: https://web.archive.org/web/20160130060859/http://www.cjr.org/behind_the_news/one_year_later_haitian_earthqu.php?page=all
+    accessed: "2026-10-22"
+  - title: Report challenges Haiti earthquake death toll
+    publisher: BBC News
+    url: https://www.bbc.co.uk/news/world-us-canada-13606720
+    accessed: "2026-10-22"
+  - title: Earthquakes with 1,000 or More Deaths 1900-2014 (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20170118110610/http://earthquake.usgs.gov/earthquakes/world/world_deaths.php
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Port-au-Prince, event 8732"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/8732
+    accessed: "2026-10-22"
+reviewed: false

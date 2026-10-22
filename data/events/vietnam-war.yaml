@@ -1,0 +1,55 @@
+id: vietnam-war
+title:
+  en: Vietnam War
+  fr: Guerre du Viêt Nam
+description:
+  en: >-
+    War between communist North Vietnam and the Viet Cong on one side and South Vietnam and its allies, chiefly the United States, on the other. Insurgency in the South grew into full-scale war after 1965, when large US combat forces arrived. Civilians died in ground fighting, massacres by both sides, assassinations and intense bombing of North and South Vietnam, and the war spilled into Laos and Cambodia. US forces withdrew in 1973; the war ended with the fall of Saigon on 30 April 1975 and the reunification of Vietnam under communist rule.
+  fr: >-
+    Guerre opposant le Viêt Nam du Nord communiste et le Viet Cong au Viêt Nam du Sud et à ses alliés, au premier rang desquels les États-Unis. L’insurrection dans le Sud devient une guerre ouverte après l’arrivée de troupes de combat américaines en 1965. Les civils meurent dans les combats, les massacres commis par les deux camps, les assassinats et les bombardements massifs du Nord et du Sud, et la guerre déborde au Laos et au Cambodge. Les troupes américaines se retirent en 1973 ; la guerre s’achève par la chute de Saïgon le 30 avril 1975 et la réunification du pays sous un régime communiste.
+categories: [war]
+kind: event
+start: "1955-11-01"
+end: "1975-04-30"
+deaths:
+  best: 3000000
+  low: 966000
+  high: 3400000
+  note:
+    en: Military and civilian deaths, mainly in Vietnam; deaths in the Cambodian and Laotian civil wars are counted separately, although some of the totals below include them. Estimates differ widely depending on the period covered and the method. Best is Matthew White's median of published totals for the whole conflict (Necrometrics), consistent with the Vietnamese government's 1995 figures of 1.1 million communist military dead and 2 million civilian dead. Low is the lowest estimate of Vietnamese deaths on Wikipedia (966,000); high is the 3.4 million obtained on Wikipedia by adding about 300,000 South Vietnamese and allied military dead to the Vietnamese government's figures. A 2008 BMJ survey study found 3.8 million violent war deaths in Vietnam from 1955 to 2002, a longer period. Per-country figures are military deaths by nationality, except Vietnam (low end of the 966,000 to 3,010,000 range of Vietnamese military and civilian deaths).
+    fr: Morts militaires et civiles, surtout au Viêt Nam ; les morts des guerres civiles cambodgienne et laotienne sont comptées à part, même si certains des totaux ci-dessous les incluent. Les estimations varient beaucoup selon la période couverte et la méthode. L’estimation centrale est la médiane des totaux publiés pour l’ensemble du conflit établie par Matthew White (Necrometrics), cohérente avec les chiffres publiés en 1995 par le gouvernement vietnamien (1,1 million de militaires communistes et 2 millions de civils tués). Le bas est l’estimation la plus basse des morts vietnamiennes citée par Wikipédia (966 000) ; le haut correspond aux 3,4 millions obtenus par Wikipédia en ajoutant environ 300 000 militaires sud-vietnamiens et alliés aux chiffres vietnamiens. Une étude du BMJ de 2008, fondée sur des enquêtes, compte 3,8 millions de morts violentes de guerre au Viêt Nam de 1955 à 2002, une période plus longue. Les chiffres par pays sont des morts militaires par nationalité, sauf pour le Viêt Nam (bas de la fourchette de 966 000 à 3 010 000 morts vietnamiennes, militaires et civiles).
+countries:
+  - { code: VN, deaths: 966000 }
+  - { code: US, deaths: 58220 }
+  - { code: KR, deaths: 5099 }
+  - { code: CN, deaths: 1100 }
+  - { code: AU, deaths: 526 }
+  - { code: TH, deaths: 351 }
+  - { code: NZ, deaths: 37 }
+  - { code: TW, deaths: 25 }
+  - { code: SU, name: { en: Soviet Union, fr: Union soviétique }, deaths: 16 }
+  - { code: KP, deaths: 14 }
+  - { code: PH, deaths: 9 }
+related: [first-indochina-war, cambodian-civil-war, laotian-civil-war]
+sources:
+  - title: Vietnam War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Vietnam_War
+    accessed: "2026-10-22"
+  - title: Vietnam War casualties
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Vietnam_War_casualties
+    accessed: "2026-10-22"
+  - title: "Death Tolls for the Major Wars and Atrocities of the Twentieth Century: Second Indochina War"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c1m.htm
+    accessed: "2026-10-22"
+  - title: Vietnam War U.S. Military Fatal Casualty Statistics
+    publisher: US National Archives
+    url: https://www.archives.gov/research/military/vietnam-war/casualty-statistics
+    accessed: "2026-10-22"
+  - title: "Fifty years of violent war deaths from Vietnam to Bosnia: analysis of data from the world health survey programme (Obermeyer, Murray and Gakidou, 2008)"
+    publisher: BMJ (via PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC2440905/
+    accessed: "2026-10-22"
+reviewed: false

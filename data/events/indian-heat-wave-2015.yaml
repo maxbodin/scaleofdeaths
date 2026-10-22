@@ -1,0 +1,37 @@
+id: indian-heat-wave-2015
+title:
+  en: 2015 Indian heat wave
+  fr: Canicule de 2015 en Inde
+description:
+  en: >-
+    In May 2015, before the delayed monsoon, a severe heat wave struck India. Daytime temperatures in the affected areas stayed between 40 and 45 °C in late May, nearing 48 °C in places, and power cuts hit several cities. The southern states of Andhra Pradesh and Telangana suffered by far the most deaths; deaths were also reported in Odisha, West Bengal and other states. It was India's deadliest heat wave since 1979.
+  fr: >-
+    En mai 2015, avant une mousson tardive, une forte canicule a frappé l’Inde. Fin mai, les températures diurnes sont restées entre 40 et 45 °C dans les zones touchées, approchant 48 °C par endroits, et des coupures de courant ont touché plusieurs villes. Les États méridionaux de l’Andhra Pradesh et du Telangana ont de loin compté le plus de morts ; des décès ont aussi été signalés en Odisha, au Bengale-Occidental et ailleurs. Ce fut la canicule la plus meurtrière en Inde depuis 1979.
+categories: [natural-disaster]
+kind: event
+start: "2015-05"
+end: "2015-06"
+deaths:
+  best: 2040
+  high: 2500
+  note:
+    en: >-
+      Best is the 2,040 heat wave deaths for 2015 recorded by India's National Disaster Management Authority (NDMA), the later official figure. High is the 2,500 deaths cited by the Earth Sciences Minister on 2 June 2015 (Reuters) and used by Wikipedia, built from running state tallies (1,735 in Andhra Pradesh and 585 in Telangana as of 3 June). Both count only deaths reported as heat-related, not excess mortality.
+    fr: >-
+      L’estimation centrale correspond aux 2 040 morts de la canicule recensés pour 2015 par l’Autorité nationale de gestion des catastrophes (NDMA), chiffre officiel ultérieur. La borne haute est le bilan de 2 500 morts cité par le ministre des Sciences de la Terre le 2 juin 2015 (Reuters) et repris par Wikipédia, issu des décomptes des États (1 735 en Andhra Pradesh et 585 au Telangana au 3 juin). Ces chiffres ne comptent que les décès déclarés liés à la chaleur, non la surmortalité.
+countries:
+  - { code: IN, deaths: 2040 }
+sources:
+  - title: 2015 Indian heat wave
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2015_Indian_heat_wave
+    accessed: "2026-10-22"
+  - title: India minister blames climate change for deadly heatwave, weak monsoon
+    publisher: Reuters (Internet Archive copy)
+    url: https://web.archive.org/web/20160108053155/http://uk.reuters.com/article/us-india-climate-change-idUKKBN0OI1EI20150602
+    accessed: "2026-10-22"
+  - title: "Expanding Heat Resilience Across India: Heat Action Plan Highlights"
+    publisher: Natural Resources Defense Council (NRDC)
+    url: https://www.nrdc.org/sites/default/files/india-heat-resilient-cities-ib.pdf
+    accessed: "2026-10-22"
+reviewed: false

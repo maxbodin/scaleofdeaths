@@ -1,0 +1,37 @@
+id: nepal-tibet-floods-2026
+title:
+  en: 2026 Nepal-Tibet floods
+  fr: Crues de 2026 au Népal et au Tibet
+description:
+  en: >-
+    On the morning of 26 August 2026, a huge rock and ice avalanche in the Langtang Himalaya, initially reported as a glacier collapse, set off flash floods and debris flows down the rivers on the China-Nepal border. Although no rain was reported that morning, the torrent destroyed the Gyirong Port crossing in Tibet and dozens of settlements along 72 km of the Trishuli River in Nepal. Bodies were carried 250 km into India, and hundreds of foreign tourists and pilgrims were among the missing.
+  fr: >-
+    Le matin du 26 août 2026, une énorme avalanche de roche et de glace dans l’Himalaya du Langtang, d’abord signalée comme un effondrement de glacier, a déclenché crues soudaines et laves torrentielles le long des rivières de la frontière sino-népalaise. Alors qu’aucune pluie n’était signalée ce matin-là, le torrent a détruit le poste-frontière de Gyirong, au Tibet, et des dizaines de localités sur 72 km de la Trishuli, au Népal. Des corps ont été emportés à 250 km, jusqu’en Inde, et des centaines de touristes et pèlerins étrangers figurent parmi les disparus.
+categories: [natural-disaster]
+kind: event
+start: "2026-08-26"
+deaths:
+  best: 7000
+  low: 1498
+  note:
+    en: >-
+      Low is the confirmed toll: 1,455 deaths in Nepal when search and rescue ended in early October 2026 (Reuters, via Wikipedia) and 43 in Tibet (Chinese state media, via AFP). A further 5,285 people were missing in Nepal and 519 in Tibet. Best is the estimate of Nepali Times that the total toll, counting the missing, will likely exceed 7,000. Per-country figures are confirmed deaths only.
+    fr: >-
+      La borne basse est le bilan confirmé : 1 455 morts au Népal à la fin des recherches début octobre 2026 (Reuters, via Wikipédia) et 43 au Tibet (médias d’État chinois, via l’AFP). Il restait 5 285 disparus au Népal et 519 au Tibet. L’estimation centrale reprend le Nepali Times, pour qui le bilan total, disparus compris, dépassera probablement 7 000 morts. Les chiffres par pays ne comptent que les morts confirmés.
+countries:
+  - { code: NP, deaths: 1455 }
+  - { code: CN, deaths: 43 }
+sources:
+  - title: 2026 Nepal-Tibet floods
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2026_Nepal%E2%80%93Tibet_floods
+    accessed: "2026-10-22"
+  - title: When is a dead person really dead?
+    publisher: Nepali Times
+    url: https://nepalitimes.com/when-is-a-dead-person-really-dead
+    accessed: "2026-10-22"
+  - title: Nepal raises flood missing toll by nearly 1,000 people to 6,150
+    publisher: Courthouse News Service (Agence France-Presse)
+    url: https://www.courthousenews.com/nepal-raises-flood-missing-toll-by-nearly-1000-people-to-6150/
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,39 @@
+id: dasht-e-bayaz-earthquake-1968
+title:
+  en: 1968 Dasht-e Bayaz earthquake
+  fr: Séisme de 1968 à Dasht-e Bayaz
+description:
+  en: >-
+    At 14:17 on 31 August 1968 a magnitude 7.1 earthquake struck the sparsely populated Khorasan region of north-eastern Iran, rupturing the Dasht-e Bayaz fault over about 80 km. Five villages were totally destroyed, including Dasht-e Bayaz, where most of the inhabitants died, and more than 175 villages were damaged. Most houses were adobe with heavy arched roofs that fell on the people inside. A strong aftershock the next day destroyed the town of Ferdows.
+  fr: >-
+    Le 31 août 1968 à 14 h 17, un séisme de magnitude 7,1 a frappé le Khorassan, région peu peuplée du nord-est de l’Iran, rompant la faille de Dasht-e Bayaz sur environ 80 km. Cinq villages ont été entièrement détruits, dont Dasht-e Bayaz, où la plupart des habitants ont péri, et plus de 175 villages ont été endommagés. La plupart des maisons étaient en adobe avec de lourds toits voûtés qui se sont effondrés sur leurs occupants. Une forte réplique le lendemain a détruit la ville de Ferdows.
+categories: [natural-disaster]
+kind: event
+start: "1968-08-31"
+deaths:
+  best: 12000
+  low: 10488
+  high: 20000
+  note:
+    en: Best is the USGS figure for the main shock. Official statistics published on 3 September 1968 gave 10,488 dead (low) and several thousand missing; a catalogue cited by NOAA NCEI gives 12,000 to 20,000 (high). The aftershock of 1 September killed at least 700 more in Ferdows (1,000 in some catalogues), and the Wikipedia article gives 15,900 for both earthquakes together; sources do not make clear which totals include Ferdows.
+    fr: L’estimation centrale est le chiffre de l’USGS pour la secousse principale. Les statistiques officielles publiées le 3 septembre 1968 donnaient 10 488 morts (bas de la fourchette) et plusieurs milliers de disparus ; un catalogue cité par la NCEI de la NOAA donne de 12 000 à 20 000 (haut de la fourchette). La réplique du 1er septembre a fait au moins 700 morts de plus à Ferdows (1 000 selon certains catalogues), et l’article de Wikipédia donne 15 900 pour les deux séismes ; les sources ne précisent pas quels totaux incluent Ferdows.
+countries:
+  - { code: IR, deaths: 12000 }
+sources:
+  - title: 1968 Dasht-e Bayaz and Ferdows earthquakes
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1968_Dasht-e_Bayaz_and_Ferdows_earthquakes
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Dasht-e-Bayaz, event 4456"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/4456
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Ferdows, event 4459"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/4459
+    accessed: "2026-10-22"
+  - title: Earthquakes with 1,000 or More Deaths 1900-2014 (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20170118110610/http://earthquake.usgs.gov/earthquakes/world/world_deaths.php
+    accessed: "2026-10-22"
+reviewed: false

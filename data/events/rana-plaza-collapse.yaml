@@ -1,0 +1,30 @@
+id: rana-plaza-collapse
+title:
+  en: Rana Plaza collapse
+  fr: Effondrement du Rana Plaza
+description:
+  en: >-
+    At 9:00 on 24 April 2013 the Rana Plaza building in Savar, near Dhaka, Bangladesh, collapsed. Built without proper permits on a former pond, with upper floors added without supporting walls, it housed five garment factories, a bank and shops. Large cracks had appeared the day before; the shops and bank closed, but the factory owners ignored the warnings and workers returned the next morning. About 2,500 injured people were pulled from the ruins during a 19-day search. It is the deadliest garment-factory disaster in history.
+  fr: >-
+    Le 24 avril 2013 à 9 h, l’immeuble Rana Plaza s’effondre à Savar, près de Dacca, au Bangladesh. Construit sans permis en règle sur un ancien étang, avec des étages ajoutés sans murs porteurs, il abritait cinq ateliers de confection, une banque et des boutiques. De larges fissures étaient apparues la veille ; les boutiques et la banque ont fermé, mais les patrons des ateliers ont ignoré l’alerte et les ouvriers ont repris le travail le lendemain. Environ 2 500 blessés sont extraits des décombres en 19 jours de recherches. C’est la pire catastrophe de l’histoire de l’industrie textile.
+categories: [accident]
+kind: event
+start: "2013-04-24"
+deaths:
+  best: 1134
+  low: 1132
+  note:
+    en: Best is the confirmed toll of 1,134 at the end of the search on 13 May 2013, given by Wikipedia. Low is the "at least 1,132" given by the International Labour Organization. Most of the dead were garment workers.
+    fr: L’estimation centrale est le bilan confirmé de 1 134 morts à la fin des recherches, le 13 mai 2013, donné par Wikipédia. La borne basse correspond aux « au moins 1 132 » morts indiqués par l’Organisation internationale du travail. La plupart des victimes étaient des ouvriers du textile.
+countries:
+  - { code: BD, deaths: 1134 }
+sources:
+  - title: Rana Plaza collapse
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Rana_Plaza_collapse
+    accessed: "2026-10-22"
+  - title: "Employment injury insurance in Bangladesh: bridging social security in cases of tragedy"
+    publisher: International Labour Organization
+    url: https://www.ilo.org/resource/statement/employment-injury-insurance-bangladesh-bridging-social-security-cases
+    accessed: "2026-10-22"
+reviewed: false

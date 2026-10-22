@@ -1,0 +1,37 @@
+id: russia-cholera-epidemic-1847
+title:
+  en: 1847-1859 Russian cholera epidemic
+  fr: Épidémie de choléra de 1847-1859 en Russie
+description:
+  en: >-
+    Cholera epidemic in the Russian Empire during the third cholera pandemic. After reaching Persia in 1846, the disease was carried to the shores of the Caspian Sea in 1847 and entered Russia by two routes, from the Black Sea and the Sea of Azov and from Turkey, the Danube and Odessa, and by the end of 1847 covered all of southern Russia. It reached Moscow in May 1848 and St Petersburg in June; 1848 was the worst cholera year in Russia's history. From Russia it spread to Germany and on to Britain and France. Outbreaks recurred in Russia, notably during the Crimean War, until 1859.
+  fr: >-
+    Épidémie de choléra dans l’Empire russe pendant la troisième pandémie de choléra. Arrivée en Perse en 1846, la maladie a atteint les rives de la Caspienne en 1847 et est entrée en Russie par deux voies, la mer Noire et la mer d’Azov d’une part, la Turquie, le Danube et Odessa d’autre part, et couvrait tout le sud du pays fin 1847. Elle a atteint Moscou en mai 1848 et Saint-Pétersbourg en juin ; 1848 fut la pire année de choléra de l’histoire russe. De Russie, elle a gagné l’Allemagne, la Grande-Bretagne et la France. Elle a resurgi, notamment pendant la guerre de Crimée, jusqu’en 1859.
+categories: [epidemic]
+kind: event
+start: "1847"
+end: "1859"
+deaths:
+  best: 1032864
+  note:
+    en: >-
+      Registered deaths. Best is the official total for what the Brockhaus and Efron Encyclopedic Dictionary calls Russia's second cholera epidemic, which lasted 12 years (1847-1859) in European Russia proper: 2,589,833 cases and 1,032,864 deaths. The worst year, 1848, alone counted 1,742,439 cases and 690,150 deaths. Wikipedia, citing the historian Geoffrey Hosking, gives more than one million deaths for 1847-1851 only. Deaths outside European Russia (Caucasus, Siberia, Central Asia) are probably not included.
+    fr: >-
+      Décès enregistrés. L’estimation retenue est le total officiel de ce que le Dictionnaire encyclopédique Brockhaus et Efron appelle la deuxième épidémie de choléra en Russie, qui a duré 12 ans (1847-1859) en Russie d’Europe proprement dite : 2 589 833 cas et 1 032 864 morts. La pire année, 1848, compte à elle seule 1 742 439 cas et 690 150 morts. Wikipédia, d’après l’historien Geoffrey Hosking, donne plus d’un million de morts pour la seule période 1847-1851. Les morts hors de Russie d’Europe (Caucase, Sibérie, Asie centrale) ne sont sans doute pas comptés.
+countries:
+  - { name: { en: Russian Empire, fr: Empire russe }, deaths: 1032864 }
+related: [spain-cholera-epidemic-1854, india-cholera-epidemic-1891]
+sources:
+  - title: 1846-1860 cholera pandemic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1846%E2%80%931860_cholera_pandemic
+    accessed: "2026-10-22"
+  - title: Холера (Cholera)
+    publisher: Brockhaus and Efron Encyclopedic Dictionary (via Wikisource)
+    url: https://ru.wikisource.org/wiki/%D0%AD%D0%A1%D0%91%D0%95/%D0%A5%D0%BE%D0%BB%D0%B5%D1%80%D0%B0
+    accessed: "2026-10-22"
+  - title: Cholera (1911 Encyclopaedia Britannica)
+    publisher: Encyclopaedia Britannica, 11th edition (via Wikisource)
+    url: https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Cholera
+    accessed: "2026-10-22"
+reviewed: false

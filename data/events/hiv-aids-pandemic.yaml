@@ -1,0 +1,47 @@
+id: hiv-aids-pandemic
+title:
+  en: HIV/AIDS pandemic
+  fr: Pandémie de VIH/sida
+description:
+  en: >-
+    Global pandemic of HIV, the virus that causes AIDS. HIV passed from other primates to humans in west-central Africa in the early 20th century, and AIDS was first recognised by the US CDC in 1981. Spread mainly through sex, shared needles and from mother to child, it has hit sub-Saharan Africa hardest. Annual AIDS-related deaths peaked in 2004; antiretroviral therapy, which lets people with HIV live a normal lifespan, has since cut them by nearly three quarters.
+  fr: >-
+    Pandémie mondiale de VIH, le virus responsable du sida. Le VIH est passé d’autres primates à l’humain dans le centre-ouest de l’Afrique au début du XXe siècle, et le sida a été identifié par les CDC américains en 1981. Transmis surtout par voie sexuelle, par le partage de seringues et de la mère à l’enfant, il frappe d’abord l’Afrique subsaharienne. Les décès annuels liés au sida ont culminé en 2004 ; les antirétroviraux, qui permettent aux personnes séropositives de vivre normalement, les ont depuis réduits de près des trois quarts.
+categories: [epidemic]
+kind: event
+start: "1981"
+ongoing: true
+asOf: "2025-12-31"
+deaths:
+  best: 44200000
+  low: 33800000
+  high: 61100000
+  note:
+    en: >-
+      Cumulative AIDS-related deaths worldwide since the start of the epidemic, as estimated by UNAIDS at the end of 2025: 44.2 million, with an uncertainty range of 33.8 to 61.1 million. Deaths of people living with HIV from unrelated causes are not counted. UNAIDS publishes yearly deaths by country but no cumulative totals per country, so no per-country figures are given; the countries listed are those Wikipedia's epidemiology article singles out (highest adult prevalence in Eswatini, South Africa and Botswana; Nigeria for its large number of infections), plus the United States, where AIDS was first recognised. Deaths occurred in every region.
+    fr: >-
+      Décès cumulés liés au sida dans le monde depuis le début de l’épidémie, selon l’estimation de l’ONUSIDA à la fin de 2025 : 44,2 millions, avec une fourchette d’incertitude de 33,8 à 61,1 millions. Les décès de personnes séropositives dus à d’autres causes ne sont pas comptés. L’ONUSIDA publie des décès annuels par pays mais pas de totaux cumulés par pays : aucun chiffre par pays n’est donc donné ; les pays listés sont ceux que cite l’article de Wikipédia sur l’épidémiologie (plus forte prévalence adulte en Eswatini, en Afrique du Sud et au Botswana ; Nigeria pour son grand nombre d’infections), plus les États-Unis, où le sida a été identifié. Des décès ont eu lieu dans toutes les régions.
+countries:
+  - { code: ZA }
+  - { code: NG }
+  - { code: SZ }
+  - { code: BW }
+  - { code: US }
+sources:
+  - title: HIV/AIDS
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/HIV/AIDS
+    accessed: "2026-10-22"
+  - title: Epidemiology of HIV/AIDS
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Epidemiology_of_HIV/AIDS
+    accessed: "2026-10-22"
+  - title: Global HIV and AIDS statistics, fact sheet
+    publisher: UNAIDS
+    url: https://www.unaids.org/en/resources/fact-sheet
+    accessed: "2026-10-22"
+  - title: "Fact sheet 2026: global HIV statistics (PDF)"
+    publisher: UNAIDS
+    url: https://www.unaids.org/sites/default/files/2026-07/2026_UNAIDS_Global_HIV_Factsheet_en.pdf
+    accessed: "2026-10-22"
+reviewed: false

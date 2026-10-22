@@ -1,0 +1,35 @@
+id: odisha-cyclone-1999
+title:
+  en: 1999 Odisha cyclone
+  fr: Cyclone de 1999 en Odisha
+description:
+  en: >-
+    The 1999 Odisha super cyclone, the strongest tropical cyclone recorded in the North Indian Ocean by pressure, made landfall in the Indian state of Odisha (then Orissa) on 29 October 1999 with winds of about 260 km/h. Its storm surge flooded the coastal districts, above all Jagatsinghpur, where most of the deaths occurred, and torrential rain caused widespread flooding. About 1.6 million homes were damaged and 12.9 million people were affected. Its outer bands also caused deaths in Myanmar and Bangladesh.
+  fr: >-
+    Le super cyclone d’Odisha de 1999, le plus puissant jamais mesuré dans le nord de l’océan Indien par sa pression, a touché terre dans l’État indien d’Odisha (alors Orissa) le 29 octobre 1999, avec des vents d’environ 260 km/h. Son onde de tempête a inondé les districts côtiers, surtout celui de Jagatsinghpur, où se sont produits la plupart des décès, et des pluies torrentielles ont provoqué de vastes inondations. Environ 1,6 million d’habitations ont été endommagées et 12,9 millions de personnes touchées. Ses bandes périphériques ont aussi fait des victimes au Myanmar et au Bangladesh.
+categories: [natural-disaster]
+kind: event
+start: "1999-10-25"
+end: "1999-11-04"
+deaths:
+  best: 9885
+  high: 10915
+  note:
+    en: >-
+      Best is the official toll of 9,885 deaths in Odisha reported by the state government (UN situation report of 2 December 1999, 8,119 of them in Jagatsinghpur); the India Meteorological Department gives 9,887 (Wikipedia). High is the 10,915 deaths in the EM-DAT disaster database (cited by Wikipedia); unofficial estimates of up to 30,000 are not used. Wikipedia also reports 10 deaths in Myanmar and 2 in Bangladesh.
+    fr: >-
+      L’estimation centrale est le bilan officiel de 9 885 morts en Odisha publié par le gouvernement de l’État (rapport de situation de l’ONU du 2 décembre 1999, dont 8 119 à Jagatsinghpur) ; le service météorologique indien donne 9 887 (Wikipédia). L’estimation haute correspond aux 10 915 morts de la base de données EM-DAT (citée par Wikipédia) ; les estimations officieuses allant jusqu’à 30 000 ne sont pas retenues. Wikipédia signale aussi 10 morts au Myanmar et 2 au Bangladesh.
+countries:
+  - { code: IN, deaths: 9885 }
+  - { code: MM, deaths: 10 }
+  - { code: BD, deaths: 2 }
+sources:
+  - title: 1999 Odisha cyclone
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1999_Odisha_cyclone
+    accessed: "2026-10-22"
+  - title: Orissa Super Cyclone Situation Report 9
+    publisher: ReliefWeb (UN Disaster Management Team, India)
+    url: https://reliefweb.int/report/india/orissa-super-cyclone-situation-report-9
+    accessed: "2026-10-22"
+reviewed: false

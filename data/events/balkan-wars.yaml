@@ -1,0 +1,44 @@
+id: balkan-wars
+title:
+  en: Balkan Wars
+  fr: Guerres balkaniques
+description:
+  en: >-
+    Two wars in south-eastern Europe. In the First Balkan War (1912-1913), the Balkan League of Bulgaria, Serbia, Greece and Montenegro seized almost all of the Ottoman Empire's remaining European territory. In the Second (1913), Bulgaria, dissatisfied with the division of Macedonia, attacked Serbia and Greece and was defeated by them together with Romania and the Ottoman Empire. Cholera, dysentery and typhus killed many soldiers, and civilians, especially Muslims in the conquered regions, suffered massacres and expulsions.
+  fr: >-
+    Deux guerres dans le sud-est de l’Europe. Lors de la première guerre balkanique (1912-1913), la Ligue balkanique formée par la Bulgarie, la Serbie, la Grèce et le Monténégro s’empare de presque tous les territoires européens restants de l’Empire ottoman. Lors de la seconde (1913), la Bulgarie, mécontente du partage de la Macédoine, attaque la Serbie et la Grèce et est battue par elles, avec la Roumanie et l’Empire ottoman. Le choléra, la dysenterie et le typhus tuent de nombreux soldats, et les civils, surtout musulmans dans les régions conquises, subissent massacres et expulsions.
+categories: [war]
+kind: event
+start: "1912-10-08"
+end: "1913-08-10"
+deaths:
+  best: 140000
+  low: 129500
+  high: 224000
+  note:
+    en: "Military deaths in both wars. Best: 140,000, Matthew White's estimate (Necrometrics), close to the 142,500 battle deaths of Singer and Small (Correlates of War project). Low: 129,500 (Clodfelter). High: 224,000, Boris Urlanis's total of 122,000 killed, 82,000 dead of disease and 20,000 dead of wounds (all via Necrometrics). Civilian deaths from massacres, expulsions and epidemics are not counted, so the full toll is higher. Bulgaria: 53,825 soldiers killed or died in both wars (Clodfelter); other countries' figures are only given separately for each war."
+    fr: "Morts militaires des deux guerres. Estimation centrale : 140 000, estimation de Matthew White (Necrometrics), proche des 142 500 morts au combat de Singer et Small (projet Correlates of War). Bas : 129 500 (Clodfelter). Haut : 224 000, total de Boris Urlanis de 122 000 tués, 82 000 morts de maladie et 20 000 morts de blessures (tous via Necrometrics). Les morts civiles dues aux massacres, aux expulsions et aux épidémies ne sont pas comptées, si bien que le bilan complet est plus élevé. Bulgarie : 53 825 soldats tués ou morts dans les deux guerres (Clodfelter) ; pour les autres pays, les chiffres ne sont donnés que guerre par guerre."
+countries:
+  - { code: BG, deaths: 53825 }
+  - { code: RS }
+  - { code: GR }
+  - { code: TR }
+  - { code: MK }
+  - { code: AL }
+  - { code: ME }
+  - { code: RO }
+related: [first-world-war]
+sources:
+  - title: Balkan Wars
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Balkan_Wars
+    accessed: "2026-10-22"
+  - title: Inter-State War Data, v4.0 (wars 100 and 103, First and Second Balkan)
+    publisher: Correlates of War Project
+    url: https://correlatesofwar.org/wp-content/uploads/Inter-StateWarData_v4.0.csv
+    accessed: "2026-10-22"
+  - title: Twentieth Century Atlas - Death Tolls (100,000 to 300,000)
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c100k.htm
+    accessed: "2026-10-22"
+reviewed: false

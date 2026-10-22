@@ -1,0 +1,34 @@
+id: yellow-river-flood-1887
+title:
+  en: 1887 Yellow River flood
+  fr: Crue du fleuve Jaune de 1887
+description:
+  en: >-
+    In late September 1887, after days of heavy rain, the Yellow River broke through its dikes in Henan province, probably at Huayuankou near Zhengzhou. Because silt deposits had raised the river bed above the surrounding plain, the water spread quickly across northern China, flooding some 130,000 square kilometres of farmland, villages and towns and leaving about two million people homeless. Disease and the lack of food after the flood claimed about as many lives as the flood itself.
+  fr: >-
+    Fin septembre 1887, après plusieurs jours de fortes pluies, le fleuve Jaune a rompu ses digues dans la province du Henan, probablement à Huayuankou près de Zhengzhou. Comme son lit, exhaussé par les dépôts de limon, dominait la plaine environnante, les eaux se sont rapidement répandues dans le nord de la Chine, inondant quelque 130 000 km² de terres agricoles, de villages et de villes et laissant environ deux millions de sans-abri. Les épidémies et le manque de nourriture ont ensuite fait à peu près autant de victimes que la crue elle-même.
+categories: [natural-disaster]
+kind: event
+start: "1887-09"
+deaths:
+  best: 930000
+  low: 900000
+  high: 2000000
+  note:
+    en: >-
+      Best is the "at least 930,000" deaths given by Wikipedia (citing Tang and Li, 1995). The lowest estimates are about 900,000 (Gunn's Encyclopedia of Disasters gives 900,500) and the highest about 2 million (PBS NOVA: "nearly two million"). Includes deaths from the epidemics and food shortages after the flood.
+    fr: >-
+      L’estimation centrale est le chiffre d’« au moins 930 000 » morts donné par Wikipédia (citant Tang et Li, 1995). Les estimations les plus basses sont d’environ 900 000 (l’Encyclopedia of Disasters de Gunn donne 900 500) et les plus hautes d’environ 2 millions (PBS NOVA : « près de deux millions »). Comprend les morts dues aux épidémies et aux pénuries alimentaires après la crue.
+countries:
+  - { code: CN, deaths: 930000 }
+related: [yellow-river-flood-1938]
+sources:
+  - title: 1887 Yellow River flood
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1887_Yellow_River_flood
+    accessed: "2026-10-22"
+  - title: "Flood!: Dealing with the Deluge"
+    publisher: PBS NOVA
+    url: https://www.pbs.org/wgbh/nova/flood/deluge.html
+    accessed: "2026-10-22"
+reviewed: false

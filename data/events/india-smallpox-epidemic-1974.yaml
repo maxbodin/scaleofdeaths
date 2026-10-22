@@ -1,0 +1,33 @@
+id: india-smallpox-epidemic-1974
+title:
+  en: 1974 smallpox epidemic in India
+  fr: Épidémie de variole de 1974 en Inde
+description:
+  en: >-
+    Smallpox epidemic in India during the final phase of the global eradication campaign. After transmission had been reduced in most of the country in 1973, it persisted in Bihar, Uttar Pradesh and West Bengal, where poverty and poor transport hampered vaccination; Bihar and Uttar Pradesh accounted for about three quarters of the world's smallpox cases in 1974. India and the World Health Organization intensified a house-by-house search-and-containment strategy. The monsoon and containment brought cases down; India's last case was reported in 1975.
+  fr: >-
+    Épidémie de variole en Inde pendant la phase finale de la campagne mondiale d’éradication. Après un recul de la transmission dans la majeure partie du pays en 1973, la maladie persistait au Bihar, en Uttar Pradesh et au Bengale-Occidental, où la pauvreté et le manque de transports gênaient la vaccination ; Bihar et Uttar Pradesh concentraient environ les trois quarts des cas mondiaux en 1974. L’Inde et l’OMS ont intensifié la stratégie de dépistage et d’endiguement, maison par maison. La mousson et l’endiguement ont fait reculer l’épidémie ; le dernier cas indien date de 1975.
+categories: [epidemic]
+kind: event
+start: "1974"
+end: "1974"
+deaths:
+  best: 31000
+  note:
+    en: >-
+      Reported deaths. Best is the 31,000 smallpox deaths among 188,000 cases reported in India in 1974, given by Lahariya (Indian Journal of Medical Research, 2014) and Wikipedia. Wikipedia's list of epidemics gives 15,000, citing a University College London history website that could not be opened, so it is not used as a range. These deaths are part of the 20th-century smallpox toll counted in a separate event.
+    fr: >-
+      Décès déclarés. L’estimation retenue est celle de 31 000 morts de la variole sur 188 000 cas signalés en Inde en 1974, donnée par Lahariya (Indian Journal of Medical Research, 2014) et Wikipédia. La liste des épidémies de Wikipédia donne 15 000 morts, d’après un site d’histoire de l’University College London qui n’a pas pu être consulté ; ce chiffre n’est donc pas retenu. Ces morts font partie du bilan de la variole au XXe siècle, compté dans un autre événement.
+countries:
+  - { code: IN, deaths: 31000 }
+related: [smallpox-20th-century]
+sources:
+  - title: 1974 smallpox epidemic in India
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1974_smallpox_epidemic_in_India
+    accessed: "2026-10-22"
+  - title: "A brief history of vaccines & vaccination in India"
+    publisher: Indian Journal of Medical Research (via PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4078488/
+    accessed: "2026-10-22"
+reviewed: false

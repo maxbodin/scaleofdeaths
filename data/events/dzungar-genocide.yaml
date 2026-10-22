@@ -1,0 +1,31 @@
+id: dzungar-genocide
+title:
+  en: Dzungar genocide
+  fr: Génocide des Dzoungars
+description:
+  en: >-
+    Mass extermination of the Dzungars, a confederation of Oirat Mongol tribes, by the armies of the Qing dynasty during the conquest of Dzungaria, in today's northern Xinjiang, under the Qianlong Emperor. After the Dzungar leader Amursana rebelled against Qing rule, the emperor issued edicts calling for the Dzungars' extermination. Massacres combined with a smallpox epidemic destroyed most of the population; survivors were enslaved or fled to Russia and the Kazakh lands, and the region was resettled by other peoples.
+  fr: >-
+    Extermination massive des Dzoungars, confédération de tribus mongoles oïrates, par les armées de la dynastie Qing lors de la conquête de la Dzoungarie, dans le nord de l’actuel Xinjiang, sous l’empereur Qianlong. Après la révolte du chef dzoungar Amoursana contre la domination Qing, l’empereur ordonna par édits l’extermination des Dzoungars. Les massacres, conjugués à une épidémie de variole, anéantirent l’essentiel de la population ; les survivants furent réduits en esclavage ou s’enfuirent en Russie et chez les Kazakhs, et la région fut repeuplée par d’autres peuples.
+categories: [genocide]
+kind: event
+start: "1755"
+end: "1758"
+deaths:
+  best: 420000
+  high: 600000
+  note:
+    en: Dzungars killed by Qing troops or who died of smallpox during and after the conquest. Best is the lower end of the 420,000 to 480,000 deaths (70 to 80% of the population) estimated by some scholars, cited by Wikipedia; it matches the estimates of Owen Lattimore and Peter Perdue, who both put deaths at 70% of a population of about 600,000 (Encyclopedia of Genocide and Crimes Against Humanity), differing only on the shares of massacre and smallpox. High is the alternative estimate of 600,000 deaths given by Wikipedia; one estimate reaches 800,000.
+    fr: Dzoungars tués par les troupes Qing ou morts de la variole pendant et après la conquête. L’estimation centrale est le bas de la fourchette de 420 000 à 480 000 morts (70 à 80 % de la population) estimée par certains chercheurs, citée par Wikipédia ; elle correspond aux estimations d’Owen Lattimore et de Peter Perdue, qui situent tous deux les morts à 70 % d’une population d’environ 600 000 personnes (Encyclopedia of Genocide and Crimes Against Humanity), avec une part différente pour les massacres et la variole. La valeur haute est l’autre estimation, 600 000 morts, donnée par Wikipédia ; une estimation atteint 800 000.
+countries:
+  - { code: CN, deaths: 420000 }
+sources:
+  - title: Dzungar genocide
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Dzungar_genocide
+    accessed: "2026-10-22"
+  - title: Zunghars (Encyclopedia of Genocide and Crimes Against Humanity)
+    publisher: Encyclopedia.com
+    url: https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/zunghars
+    accessed: "2026-10-22"
+reviewed: false

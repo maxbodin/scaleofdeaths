@@ -1,0 +1,40 @@
+id: gulf-war
+title:
+  en: Gulf War
+  fr: Guerre du Golfe
+description:
+  en: >-
+    War that followed Iraq's invasion and annexation of Kuwait in August 1990. A US-led coalition authorised by the UN Security Council launched an air campaign in January 1991, then a ground offensive at the end of February that expelled Iraqi forces from Kuwait in about 100 hours. Most of the dead were Iraqi soldiers, killed by air strikes and in ground combat; Iraqi and Kuwaiti civilians and coalition troops were also killed.
+  fr: >-
+    Guerre déclenchée par l’invasion et l’annexion du Koweït par l’Irak en août 1990. Une coalition menée par les États-Unis, mandatée par le Conseil de sécurité de l’ONU, lance une campagne aérienne en janvier 1991, puis une offensive terrestre fin février qui chasse les forces irakiennes du Koweït en une centaine d’heures. La plupart des morts sont des soldats irakiens, tués par les frappes aériennes et lors des combats au sol ; des civils irakiens et koweïtiens et des soldats de la coalition ont aussi été tués.
+categories: [war]
+kind: event
+start: "1990-08-02"
+end: "1991-02-28"
+deaths:
+  best: 30000
+  low: 20000
+  high: 50000
+  note:
+    en: Direct war deaths from August 1990 to February 1991, excluding the 1991 Iraqi uprisings and later deaths from disease and sanctions. No authoritative total exists. Best is the death toll given by the British government (War Annual 6, 1994), as compiled by Necrometrics. The range follows estimates of Iraqi military deaths, which make up most of the toll, from 20,000 (low end of the Project on Defense Alternatives estimate of 20,000 to 26,000) to 50,000 (Bourque, cited by Wikipedia); early post-war estimates of 100,000 or more were later revised down. Other deaths include about 3,664 Iraqi civilians (Project on Defense Alternatives), over 1,000 Kuwaiti civilians and 292 coalition personnel (Wikipedia).
+    fr: Morts directes de la guerre d’août 1990 à février 1991, hors soulèvements irakiens de 1991 et morts ultérieures dues aux maladies et aux sanctions. Il n’existe pas de bilan de référence. L’estimation centrale est le bilan avancé par le gouvernement britannique (War Annual 6, 1994), tel que compilé par Necrometrics. La fourchette suit les estimations des morts militaires irakiennes, qui forment l’essentiel du bilan, de 20 000 (bas de l’estimation de 20 000 à 26 000 du Project on Defense Alternatives) à 50 000 (Bourque, cité par Wikipédia) ; les premières estimations d’après-guerre, de 100 000 morts ou plus, ont depuis été revues à la baisse. Parmi les autres morts figurent environ 3 664 civils irakiens (Project on Defense Alternatives), plus de 1 000 civils koweïtiens et 292 militaires de la coalition (Wikipédia).
+countries:
+  - { code: IQ }
+  - { code: KW }
+  - { code: SA }
+  - { code: IL }
+related: [iraq-war]
+sources:
+  - title: Gulf War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Gulf_War
+    accessed: "2026-10-22"
+  - title: "The Wages of War, Appendix 2: Iraqi Combatant and Noncombatant Fatalities in the 1991 Gulf War"
+    publisher: Project on Defense Alternatives
+    url: https://www.comw.org/pda/0310rm8ap2.html
+    accessed: "2026-10-22"
+  - title: "Minor Atrocities of the Twentieth Century: Gulf War (1990-91)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/warstat6.htm
+    accessed: "2026-10-22"
+reviewed: false

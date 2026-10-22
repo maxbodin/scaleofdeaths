@@ -1,0 +1,32 @@
+id: srebrenica-massacre
+title:
+  en: Srebrenica massacre
+  fr: Massacre de Srebrenica
+description:
+  en: >-
+    In July 1995, Bosnian Serb forces under Ratko Mladić overran Srebrenica, a UN-declared safe area in eastern Bosnia. Women, children and the elderly were expelled, while men and boys were separated or captured as they fled through the forests, then executed over several days and buried in mass graves, which were later dug up and moved to hide the crimes. The International Criminal Tribunal for the former Yugoslavia and the International Court of Justice ruled the killings a genocide.
+  fr: >-
+    En juillet 1995, les forces serbes de Bosnie commandées par Ratko Mladić s’emparent de Srebrenica, zone de sécurité de l’ONU dans l’est de la Bosnie. Les femmes, les enfants et les personnes âgées sont expulsés, tandis que les hommes et les garçons, séparés de leurs familles ou capturés en fuyant à travers les forêts, sont exécutés en quelques jours et enterrés dans des fosses communes, ensuite rouvertes pour dissimuler les crimes. Le Tribunal pénal international pour l’ex-Yougoslavie et la Cour internationale de justice ont qualifié ces tueries de génocide.
+categories: [genocide]
+kind: event
+partOf: bosnian-war
+start: "1995-07-11"
+end: "1995-07-22"
+deaths:
+  best: 8372
+  low: 8000
+  note:
+    en: Bosniak men and boys killed in and around Srebrenica. Best is the list of 8,372 names of people missing or killed in the massacre (Wikipedia); the UN refers to more than 8,000 victims, and the International Commission on Missing Persons estimates just over 8,000 deaths. Nearly 7,000 victims had been identified by DNA analysis of remains from mass graves by 2020.
+    fr: Hommes et garçons bosniaques tués à Srebrenica et dans ses environs. L’estimation centrale est la liste de 8 372 noms de personnes disparues ou tuées lors du massacre (Wikipédia) ; l’ONU parle de plus de 8 000 victimes et la Commission internationale pour les personnes disparues estime le nombre de morts à un peu plus de 8 000. Près de 7 000 victimes avaient été identifiées en 2020 par l’analyse ADN des restes exhumés des fosses communes.
+countries:
+  - { code: BA, deaths: 8372 }
+sources:
+  - title: Srebrenica massacre
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Srebrenica_massacre
+    accessed: "2026-10-22"
+  - title: "Remembering the Srebrenica genocide: 'Fear is all that kept me moving'"
+    publisher: UN News
+    url: https://news.un.org/en/story/2026/07/1167909
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,44 @@
+id: malaria-deaths-annual
+title:
+  en: Deaths from malaria per year
+  fr: Décès dus au paludisme par an
+description:
+  en: >-
+    People who died from malaria worldwide in one year, as estimated by the World Health Organization in its World malaria report. Malaria is caused by Plasmodium parasites spread by the bites of infected Anopheles mosquitoes; untreated P. falciparum malaria can kill within 24 hours. There were an estimated 282 million cases that year in 80 countries. The WHO African Region carries about 95% of cases and deaths, and children under 5 account for about three quarters of deaths there; Nigeria alone accounts for almost a third of the Region's deaths.
+  fr: >-
+    Personnes mortes du paludisme dans le monde en un an, selon le Rapport sur le paludisme dans le monde de l’OMS. Le paludisme est causé par des parasites Plasmodium transmis par les piqûres de moustiques anophèles infectés ; non traité, le paludisme à P. falciparum peut tuer en 24 heures. On comptait cette année-là environ 282 millions de cas dans 80 pays. La région africaine de l’OMS concentre environ 95 % des cas et des décès, dont environ les trois quarts chez les enfants de moins de 5 ans ; le Nigeria compte à lui seul près d’un tiers des morts de la région.
+categories: [annual, epidemic]
+kind: endemic-total
+start: "2024"
+end: "2024"
+deaths:
+  best: 610000
+  low: 561000
+  high: 738000
+  note:
+    en: >-
+      WHO malaria fact sheet (World malaria report): an estimated 610,000 malaria deaths in 2024, up from 598,000 in 2023. The range of 561,000 to 738,000 is the uncertainty interval of WHO's estimate (609,930) in the Global Health Observatory. Per-country figures are WHO's central estimates for 2024 for the ten countries with the most deaths, all in Africa.
+    fr: >-
+      Fiche de l’OMS sur le paludisme (Rapport sur le paludisme dans le monde) : environ 610 000 décès en 2024, contre 598 000 en 2023. La fourchette de 561 000 à 738 000 est l’intervalle d’incertitude de l’estimation de l’OMS (609 930) dans l’Observatoire mondial de la santé. Les chiffres par pays sont les estimations centrales de l’OMS pour 2024 pour les dix pays les plus touchés, tous en Afrique.
+countries:
+  - { code: NG, deaths: 184933 }
+  - { code: CD, deaths: 67676 }
+  - { code: NE, deaths: 35478 }
+  - { code: TZ, deaths: 26062 }
+  - { code: ET, deaths: 22360 }
+  - { code: MG, deaths: 20903 }
+  - { code: MZ, deaths: 17946 }
+  - { code: AO, deaths: 16385 }
+  - { code: UG, deaths: 16204 }
+  - { code: BF, deaths: 16184 }
+related: [malaria, dengue-epidemic-2024]
+sources:
+  - title: Malaria fact sheet
+    publisher: World Health Organization
+    url: https://www.who.int/news-room/fact-sheets/detail/malaria
+    accessed: "2026-10-22"
+  - title: "Global Health Observatory: estimated number of malaria deaths (MALARIA_EST_DEATHS), 2024"
+    publisher: World Health Organization
+    url: https://ghoapi.azureedge.net/api/MALARIA_EST_DEATHS?$filter=TimeDim%20eq%202024
+    accessed: "2026-10-22"
+reviewed: false

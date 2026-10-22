@@ -1,0 +1,33 @@
+id: conflict-deaths-annual
+title:
+  en: Deaths from organized violence per year
+  fr: Décès dus à la violence organisée par an
+description:
+  en: >-
+    People killed in organized violence worldwide in one year, as recorded by the Uppsala Conflict Data Program (UCDP): battle deaths in armed conflicts involving states, fighting between non-state groups such as drug cartels, and one-sided violence by armed groups or governments against civilians. 2025 saw a record 65 conflicts involving states and eight conflicts between states, the most since 1946. The war between Russia and Ukraine was the deadliest, and massacres of civilians in Sudan, notably after the fall of El Fasher in Darfur, drove one-sided violence to its highest level since 1994.
+  fr: >-
+    Personnes tuées dans des violences organisées dans le monde en un an, selon l’Uppsala Conflict Data Program (UCDP) : morts au combat dans les conflits impliquant des États, affrontements entre groupes non étatiques comme les cartels, et violences contre des civils. 2025 a compté un record de 65 conflits impliquant des États, dont huit entre États, le plus depuis 1946. La guerre entre la Russie et l’Ukraine a été la plus meurtrière, et les massacres de civils au Soudan, notamment après la chute d’El-Fasher au Darfour, ont porté la violence unilatérale à son plus haut niveau depuis 1994.
+categories: [annual, war]
+kind: endemic-total
+start: "2025"
+end: "2025"
+deaths:
+  best: 244600
+  note:
+    en: >-
+      UCDP (Uppsala University press release of 9 June 2026, presenting Davies, Pettersson and Öberg in the Journal of Peace Research): around 244,600 people were killed in organized violence in 2025, the second deadliest year since 1994; this includes about 76,500 deaths from one-sided violence against civilians and about 14,500 in non-state conflicts, the rest being battle-related deaths in state-based conflicts. No range is given. Countries listed are where the conflicts UCDP names as deadliest took place: at least 94,700 deaths in the Russia-Ukraine war (62% of battle-related deaths), the Israel-Hamas war (Gaza), Sudan and cartel violence in Mexico; no per-country totals are given.
+    fr: >-
+      UCDP (communiqué de l’université d’Uppsala du 9 juin 2026, présentant Davies, Pettersson et Öberg dans le Journal of Peace Research) : environ 244 600 personnes ont été tuées dans des violences organisées en 2025, deuxième année la plus meurtrière depuis 1994 ; dont environ 76 500 morts de violences unilatérales contre des civils et 14 500 dans des conflits non étatiques, le reste étant des morts au combat dans des conflits impliquant des États. Aucune fourchette n’est donnée. Les pays listés sont ceux des conflits que l’UCDP désigne comme les plus meurtriers : au moins 94 700 morts dans la guerre russo-ukrainienne (62 % des morts au combat), la guerre Israël-Hamas (Gaza), le Soudan et la violence des cartels au Mexique ; aucun total par pays n’est donné.
+countries:
+  - { code: UA }
+  - { code: RU }
+  - { code: PS }
+  - { code: SD }
+  - { code: MX }
+related: [russo-ukrainian-war, gaza-war, sudanese-civil-war-2023, terrorism-deaths]
+sources:
+  - title: "UCDP: record number of conflicts between states"
+    publisher: Uppsala University (Uppsala Conflict Data Program)
+    url: https://www.uu.se/en/press/press-releases/2026/2026-06-09-ucdp-record-number-of-conflicts-between-states
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,36 @@
+id: great-hurricane-1780
+title:
+  en: Great Hurricane of 1780
+  fr: Grand ouragan de 1780
+description:
+  en: >-
+    The deadliest Atlantic hurricane on record crossed the Lesser Antilles from 10 to 16 October 1780, in the midst of the American Revolutionary War. After devastating Barbados, it struck Saint Lucia, Martinique and Sint Eustatius: a storm surge destroyed every house in Saint-Pierre, Martinique, and only two houses were left standing in Castries, Saint Lucia. It then passed near Puerto Rico and Hispaniola. The storm caused heavy losses to the British fleet in the region and wrecked many ships.
+  fr: >-
+    L’ouragan le plus meurtrier jamais enregistré dans l’Atlantique a traversé les Petites Antilles du 10 au 16 octobre 1780, en pleine guerre d’indépendance américaine. Après avoir dévasté la Barbade, il a frappé Sainte-Lucie, la Martinique et Saint-Eustache : une onde de tempête a détruit toutes les maisons de Saint-Pierre, en Martinique, et seules deux maisons sont restées debout à Castries, à Sainte-Lucie. Il est ensuite passé près de Porto Rico et d’Hispaniola, infligeant de lourdes pertes à la flotte britannique et faisant sombrer de nombreux navires.
+categories: [natural-disaster]
+kind: event
+start: "1780-10-10"
+end: "1780-10-16"
+deaths:
+  best: 22000
+  high: 28500
+  note:
+    en: >-
+      Best is the 22,000 deaths listed by the NOAA National Hurricane Center, whose sources range from more than 20,000 to more than 22,000; Wikipedia gives estimates from 22,000 to about 28,500. Island figures are from Wikipedia: about 9,000 deaths on Martinique, 6,000 on Saint Lucia and 4,500 on Barbados. Deaths on Sint Eustatius and at sea are not broken down.
+    fr: >-
+      L’estimation centrale est le chiffre de 22 000 morts retenu par le National Hurricane Center de la NOAA, dont les sources vont de plus de 20 000 à plus de 22 000 ; Wikipédia donne des estimations de 22 000 à environ 28 500. Les chiffres par île viennent de Wikipédia : environ 9 000 morts en Martinique, 6 000 à Sainte-Lucie et 4 500 à la Barbade. Les morts de Saint-Eustache et en mer ne sont pas détaillées.
+countries:
+  - { code: MQ, deaths: 9000 }
+  - { code: LC, deaths: 6000 }
+  - { code: BB, deaths: 4500 }
+  - { code: BQ }
+sources:
+  - title: Great Hurricane of 1780
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Great_Hurricane_of_1780
+    accessed: "2026-10-22"
+  - title: "The Deadliest Atlantic Tropical Cyclones, 1492-1996: Appendix 1"
+    publisher: NOAA National Hurricane Center
+    url: https://www.nhc.noaa.gov/pastdeadlyapp1.shtml
+    accessed: "2026-10-22"
+reviewed: false

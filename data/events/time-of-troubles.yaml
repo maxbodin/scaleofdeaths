@@ -1,0 +1,31 @@
+id: time-of-troubles
+title:
+  en: Time of Troubles
+  fr: Temps des troubles
+description:
+  en: >-
+    Period of crisis in Russia between the end of the Rurikid dynasty in 1598 and the election of Michael Romanov as tsar in 1613. A devastating famine in 1601-1603 was followed by pretenders claiming to be the murdered Tsarevich Dmitry, peasant and Cossack uprisings such as Bolotnikov's, civil war and invasions by Poland-Lithuania, which occupied Moscow in 1610-1612, and Sweden. A militia raised by Kuzma Minin and Prince Dmitry Pozharsky drove the Poles out of Moscow in 1612.
+  fr: >-
+    Période de crise en Russie entre la fin de la dynastie des Riourikides en 1598 et l’élection de Michel Romanov comme tsar en 1613. À une terrible famine en 1601-1603 succèdent des imposteurs se présentant comme le tsarévitch Dmitri assassiné, des soulèvements paysans et cosaques comme celui de Bolotnikov, une guerre civile et les invasions de la Pologne-Lituanie, qui occupe Moscou en 1610-1612, et de la Suède. Une milice levée par Kouzma Minine et le prince Dmitri Pojarski chasse les Polonais de Moscou en 1612.
+categories: [war]
+kind: event
+start: "1598"
+end: "1613"
+deaths:
+  best: 1000000
+  high: 1200000
+  note:
+    en: "Deaths caused by the conflict. Range: 1 to 1.2 million (Peter Turchin and Sergey Nefedov, and Yuri Alekseev, via Wikipedia); as no source found gives a central estimate, best is the low end. The famine of 1601-1603, which killed almost a third of the population, is not counted here, but it is unclear whether the range includes part of it. Broader figures mix both: G. Cooper (New Cambridge Modern History) wrote that the Troubles cost some 2.5 million lives, and Duffy and Ricci estimate a fall in population from 14 to 9 million (via Necrometrics)."
+    fr: "Morts causées par le conflit. Fourchette : 1 à 1,2 million (Peter Turchin et Sergueï Nefedov, et Iouri Alekseïev, via Wikipédia) ; aucune source trouvée ne donnant d’estimation centrale, celle-ci correspond au bas de la fourchette. La famine de 1601-1603, qui a tué près d’un tiers de la population, n’est pas comptée ici, mais on ignore si la fourchette en inclut une partie. Des chiffres plus larges mêlent les deux : G. Cooper (New Cambridge Modern History) écrit que les Troubles ont coûté quelque 2,5 millions de vies, et Duffy et Ricci estiment une chute de la population de 14 à 9 millions (via Necrometrics)."
+countries:
+  - { code: RU, deaths: 1000000 }
+sources:
+  - title: Time of Troubles
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Time_of_Troubles
+    accessed: "2026-10-22"
+  - title: Selected Death Tolls for Wars, Massacres and Atrocities Before the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/pre1700a.htm
+    accessed: "2026-10-22"
+reviewed: false

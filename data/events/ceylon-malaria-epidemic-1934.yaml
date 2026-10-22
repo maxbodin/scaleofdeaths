@@ -1,0 +1,38 @@
+id: ceylon-malaria-epidemic-1934
+title:
+  en: 1934-1935 Ceylon malaria epidemic
+  fr: Épidémie de paludisme de 1934-1935 à Ceylan
+description:
+  en: >-
+    Malaria epidemic in British Ceylon (now Sri Lanka), the most devastating recorded by the island's Anti-Malaria Campaign. After the failure of the monsoon rains, a drought brought crop failure and hunger to villages already hit by the Great Depression. In October 1934 malaria broke out suddenly in the Kurunegala and Kegalla districts and spread to Colombo, Kandy and the Central Province, reaching a peak in early 1935. Infants and young children died in great numbers. It was the first major crisis faced by the newly elected State Council of Ceylon.
+  fr: >-
+    Épidémie de paludisme à Ceylan britannique (actuel Sri Lanka), la plus dévastatrice enregistrée par la campagne antipaludique de l’île. Après l’échec de la mousson, la sécheresse a provoqué mauvaises récoltes et faim dans des villages déjà frappés par la Grande Dépression. En octobre 1934, le paludisme a éclaté brutalement dans les districts de Kurunegala et Kegalla, puis s’est étendu à Colombo, Kandy et la Province centrale, avec un pic début 1935. Les nourrissons et les jeunes enfants ont été les plus touchés.
+categories: [epidemic]
+kind: event
+start: "1934-10"
+end: "1935-12"
+deaths:
+  best: 80000
+  high: 100000
+  note:
+    en: >-
+      Best is the approximately 80,000 deaths given by Wijesundere and Ramasamy (Frontiers in Public Health, 2017), also used by Wikipedia ("80,000 excess deaths"). High is the historian Eric Meyer's estimate of about 100,000 excess deaths, derived from the 254,968 deaths registered from September 1934 to December 1935, 68% above previous years; this excess also includes deaths from hunger and other causes during the drought and food shortage.
+    fr: >-
+      L’estimation retenue est celle d’environ 80 000 morts de Wijesundere et Ramasamy (Frontiers in Public Health, 2017), reprise par Wikipédia (80 000 décès en excès). La valeur haute est l’estimation de l’historien Eric Meyer d’environ 100 000 décès en excès, tirée des 254 968 décès enregistrés de septembre 1934 à décembre 1935, 68 % de plus que les années précédentes ; cet excès inclut aussi des morts de faim et d’autres causes pendant la sécheresse et la pénurie alimentaire.
+countries:
+  - { code: LK, deaths: 80000 }
+sources:
+  - title: 1934-35 malaria outbreak in Ceylon
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1934-35_malaria_outbreak_in_Ceylon
+    accessed: "2026-10-22"
+  - title: "Analysis of Historical Trends and Recent Elimination of Malaria from Sri Lanka and Its Applicability for Malaria Control in Other Countries (Wijesundere and Ramasamy, Frontiers in Public Health, 2017)"
+    publisher: PubMed Central
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5581355/
+    accessed: "2026-10-22"
+  - title: "The 1934-1935 Malaria Epidemic in Sri Lanka (Eric Meyer)"
+    publisher: SLKDIASPO, Hypotheses
+    url: https://slkdiaspo.hypotheses.org/1251
+    accessed: "2026-10-22"
+related: [malaria]
+reviewed: false

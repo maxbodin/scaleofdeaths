@@ -1,0 +1,39 @@
+id: taiping-rebellion
+title:
+  en: Taiping Rebellion
+  fr: Révolte des Taiping
+description:
+  en: >-
+    Civil war in southern and central China between the Qing dynasty and the Taiping Heavenly Kingdom, founded by Hong Xiuquan, who believed he was the younger brother of Jesus Christ. The Taiping captured Nanjing and controlled much of the Yangtze valley until Qing forces, with Western help, took the city in 1864. It was the deadliest civil war in history; most victims died of famine and epidemics, alongside massacres by both sides.
+  fr: >-
+    Guerre civile dans le sud et le centre de la Chine entre la dynastie Qing et le Royaume céleste des Taiping, fondé par Hong Xiuquan, qui se disait le frère cadet de Jésus-Christ. Les Taiping prennent Nankin et contrôlent une grande partie de la vallée du Yangzi jusqu’à la prise de la ville par les forces Qing, aidées par les Occidentaux, en 1864. Ce fut la guerre civile la plus meurtrière de l’histoire ; la plupart des victimes sont mortes de famine et d’épidémies, en plus des massacres commis par les deux camps.
+categories: [war]
+kind: event
+start: "1850-12"
+end: "1864-08"
+deaths:
+  best: 20000000
+  high: 70000000
+  note:
+    en: Military and civilian deaths, mostly from famine and disease. Wikipedia says the most widely cited estimates are 20 to 30 million; best is the 20 million given as a single figure by the Asia Pacific Foundation of Canada and by the sources compiled by Necrometrics (including Britannica and Spence). High is the top of the 20 to 70 million range on Wikipedia's list of wars; some claims reach 100 million, but without a reliable census all figures are speculative.
+    fr: Morts militaires et civiles, surtout de famine et de maladies. Wikipédia indique que les estimations les plus citées vont de 20 à 30 millions ; l’estimation centrale est le chiffre unique de 20 millions donné par la Fondation Asie Pacifique du Canada et par les sources compilées par Necrometrics (dont Britannica et Spence). Le haut est le sommet de la fourchette de 20 à 70 millions de la liste des guerres de Wikipédia ; certaines affirmations atteignent 100 millions, mais faute de recensement fiable tous les chiffres restent spéculatifs.
+countries:
+  - { code: CN, deaths: 20000000 }
+sources:
+  - title: Taiping Rebellion
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Taiping_Rebellion
+    accessed: "2026-10-22"
+  - title: List of wars by death toll
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_wars_by_death_toll
+    accessed: "2026-10-22"
+  - title: "Statistics of Wars, Oppressions and Atrocities of the Nineteenth Century: Taiping Rebellion (1850-64)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/wars19c.htm
+    accessed: "2026-10-22"
+  - title: "Chinese Migrations: Background Reading"
+    publisher: Asia Pacific Foundation of Canada
+    url: https://asiapacificcurriculum.ca/index.php/system/files/2019-10/Chinese%20Migrations%20-%20Background%20Reading%20-%20%20Fall%202019_0.pdf
+    accessed: "2026-10-22"
+reviewed: false

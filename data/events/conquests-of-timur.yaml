@@ -1,0 +1,50 @@
+id: conquests-of-timur
+title:
+  en: Conquests of Timur
+  fr: Conquêtes de Tamerlan
+description:
+  en: >-
+    Campaigns of Timur (Tamerlane), a Turco-Mongol ruler based in Samarkand, who conquered or raided Iran, Iraq, the Caucasus, the Golden Horde, northern India, Syria and Anatolia between 1370 and his death in 1405. His armies were notorious for sacking cities and massacring their inhabitants, including at Isfahan, Delhi, Damascus and Baghdad, where towers of skulls were built. He defeated the Ottoman sultan Bayezid I at Ankara in 1402 and died while preparing to invade Ming China.
+  fr: >-
+    Campagnes de Timur (Tamerlan), souverain turco-mongol établi à Samarcande, qui conquiert ou ravage l’Iran, l’Irak, le Caucase, la Horde d’or, le nord de l’Inde, la Syrie et l’Anatolie entre 1370 et sa mort en 1405. Ses armées sont tristement célèbres pour le sac des villes et le massacre de leurs habitants, notamment à Ispahan, Delhi, Damas et Bagdad, où des tours de crânes sont élevées. Il bat le sultan ottoman Bayezid Ier à Ankara en 1402 et meurt en préparant l’invasion de la Chine des Ming.
+categories: [war]
+kind: event
+start: "1370"
+end: "1405"
+deaths:
+  best: 17000000
+  low: 7000000
+  high: 20000000
+  note:
+    en: "Very rough totals for all deaths caused by Timur's campaigns, from massacres, battles, famine and destruction. They come mostly from press articles and older works compiled by Matthew White (Necrometrics), not from demographic studies, and medieval chroniclers' figures for individual massacres are often exaggerated. Best: 17 million, the figure most often repeated (New York Times, Associated Press, Chicago Tribune). Low: 7 million (Los Angeles Times, 1994). High: up to 20 million (Christian Science Monitor, 1997). Wikipedia's list of wars by death toll gives 7 to 17 million."
+    fr: "Totaux très approximatifs de l’ensemble des morts causées par les campagnes de Timur, par les massacres, les batailles, la famine et les destructions. Ils viennent surtout d’articles de presse et d’ouvrages anciens réunis par Matthew White (Necrometrics), et non d’études démographiques, et les chiffres des chroniqueurs médiévaux pour chaque massacre sont souvent exagérés. Estimation centrale : 17 millions, le chiffre le plus souvent repris (New York Times, Associated Press, Chicago Tribune). Bas : 7 millions (Los Angeles Times, 1994). Haut : jusqu’à 20 millions (Christian Science Monitor, 1997). La liste des guerres par nombre de morts de Wikipédia donne 7 à 17 millions."
+countries:
+  - { code: UZ }
+  - { code: IR }
+  - { code: IQ }
+  - { code: SY }
+  - { code: TR }
+  - { code: IN }
+  - { code: PK }
+  - { code: AF }
+  - { code: TM }
+  - { code: KZ }
+  - { code: RU }
+  - { code: GE }
+  - { code: AZ }
+  - { code: AM }
+related: [mongol-invasions-and-conquests]
+sources:
+  - title: Timur
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Timur
+    accessed: "2026-10-22"
+  - title: List of wars by death toll
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_wars_by_death_toll
+    accessed: "2026-10-22"
+  - title: Selected Death Tolls for Wars, Massacres and Atrocities Before the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/pre1700a.htm
+    accessed: "2026-10-22"
+reviewed: false

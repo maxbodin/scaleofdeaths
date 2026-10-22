@@ -1,0 +1,29 @@
+id: sinking-of-mv-sewol
+title:
+  en: Sinking of MV Sewol
+  fr: Naufrage du Sewol
+description:
+  en: >-
+    On the morning of 16 April 2014 the ferry MV Sewol, sailing from Incheon to Jeju, capsized and sank off Jindo, South Korea, after a sharp turn; overloading and badly secured cargo contributed to the sinking. As the ship listed, passengers were repeatedly told over the intercom to stay put, while the captain and most of the crew left the ship. Most of the dead were students from Danwon High School in Ansan on a school trip. The response of the coast guard and the government caused national outrage, and the captain was later convicted of murder.
+  fr: >-
+    Le matin du 16 avril 2014, le ferry Sewol, parti d’Incheon pour Jeju, chavire et coule au large de Jindo, en Corée du Sud, après un brusque virage ; la surcharge et une cargaison mal arrimée ont contribué au naufrage. Tandis que le navire gîte, les haut-parleurs ordonnent à plusieurs reprises aux passagers de rester sur place, pendant que le capitaine et la plupart de l’équipage quittent le bord. La plupart des morts sont des lycéens de Danwon, à Ansan, en voyage scolaire. La gestion du drame par les garde-côtes et le gouvernement suscite l’indignation ; le capitaine est condamné pour meurtre.
+categories: [accident]
+kind: event
+start: "2014-04-16"
+deaths:
+  best: 304
+  note:
+    en: People on board who died, including 5 whose bodies were never found, out of 476 passengers and crew, the toll given by Wikipedia and the BBC. They include 250 students and 11 teachers of Danwon High School. Wikipedia also lists 7 people (2 rescue divers and 5 emergency workers) who died during the rescue and recovery operations, not counted here.
+    fr: Personnes à bord mortes dans le naufrage, dont 5 dont le corps n’a jamais été retrouvé, sur 476 passagers et membres d’équipage, bilan donné par Wikipédia et la BBC. Parmi elles, 250 élèves et 11 enseignants du lycée Danwon. Wikipédia mentionne aussi 7 personnes (2 plongeurs et 5 secouristes) mortes pendant les opérations de sauvetage et de récupération, non comptées ici.
+countries:
+  - { code: KR, deaths: 304 }
+sources:
+  - title: Sinking of MV Sewol
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Sinking_of_MV_Sewol
+    accessed: "2026-10-22"
+  - title: Sewol disaster ferry raised in South Korea after three years
+    publisher: BBC News
+    url: https://www.bbc.com/news/world-asia-39361944
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,33 @@
+id: mexican-war-of-independence
+title:
+  en: Mexican War of Independence
+  fr: Guerre d’indépendance du Mexique
+description:
+  en: >-
+    Armed struggle that ended Spanish rule in New Spain. It began in September 1810 with Father Miguel Hidalgo's call to revolt, which raised a huge peasant army; after Hidalgo's capture and execution, José María Morelos led the insurgency until his own death in 1815, and guerrilla resistance continued. Independence was finally achieved in 1821 through the alliance of the royalist officer Agustín de Iturbide and the insurgent Vicente Guerrero. Massacres, reprisals, epidemics and the disruption of farming and mining caused heavy losses.
+  fr: >-
+    Lutte armée qui met fin à la domination espagnole en Nouvelle-Espagne. Elle commence en septembre 1810 avec l’appel à la révolte du curé Miguel Hidalgo, qui soulève une immense armée paysanne ; après la capture et l’exécution d’Hidalgo, José María Morelos dirige l’insurrection jusqu’à sa propre mort en 1815, et la guérilla se poursuit. L’indépendance est finalement obtenue en 1821 grâce à l’alliance de l’officier royaliste Agustín de Iturbide et de l’insurgé Vicente Guerrero. Massacres, représailles, épidémies et désorganisation de l’agriculture et des mines font de lourdes pertes.
+categories: [war]
+kind: event
+start: "1810-09-16"
+end: "1821-09-27"
+deaths:
+  best: 425000
+  low: 250000
+  high: 600000
+  note:
+    en: "Military and civilian deaths. Best: 425,000, Matthew White's estimate (Necrometrics), between Clodfelter's 400,000 to 500,000 violent deaths of Mexicans and Spaniards. Low: 250,000 and high: 600,000, the extremes of the estimates compiled by Necrometrics (William Scheina gives 250,000 to 500,000; Juan González gives 600,000) and of Wikipedia's 250,000 to 600,000. This war is part of the Spanish American wars of independence, whose total counts 600,000 deaths for New Spain."
+    fr: "Morts militaires et civiles. Estimation centrale : 425 000, estimation de Matthew White (Necrometrics), entre les 400 000 à 500 000 morts violentes de Mexicains et d’Espagnols selon Clodfelter. Bas : 250 000 et haut : 600 000, extrêmes des estimations réunies par Necrometrics (William Scheina donne 250 000 à 500 000 ; Juan González, 600 000) et de la fourchette de 250 000 à 600 000 de Wikipédia. Cette guerre fait partie des guerres d’indépendance de l’Amérique espagnole, dont le total compte 600 000 morts pour la Nouvelle-Espagne."
+countries:
+  - { code: MX, deaths: 425000 }
+partOf: spanish-american-wars-of-independence
+sources:
+  - title: Mexican War of Independence
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Mexican_War_of_Independence
+    accessed: "2026-10-22"
+  - title: Statistics of Wars, Oppressions and Atrocities of the Nineteenth Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/wars19c.htm
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,37 @@
+id: iceland-smallpox-epidemic-1707
+title:
+  en: 1707-1709 Iceland smallpox epidemic
+  fr: Épidémie de variole de 1707-1709 en Islande
+description:
+  en: >-
+    Smallpox epidemic in Iceland, then a dependency of Denmark, known in Icelandic as Stórabóla ("the great pox"). It arrived in 1707 on a merchant ship from Denmark at Eyrarbakki; contemporary accounts blamed the clothing of an Icelandic student, Gísli Bjarnason, who had died of smallpox, sent home to his family. Smallpox had not swept the whole island since 1670-1672, so in most regions only the oldest generation was immune, and it mostly killed people born after that outbreak. It spread to most regions in 1708 and reached remote East Iceland in 1709.
+  fr: >-
+    Épidémie de variole en Islande, alors dépendance du Danemark, appelée Stórabóla (« la grande vérole ») en islandais. Elle est arrivée en 1707 par un navire marchand venu du Danemark à Eyrarbakki ; selon les récits de l’époque, par les vêtements d’un étudiant islandais, Gísli Bjarnason, mort de la variole, renvoyés à sa famille. La variole n’avait plus balayé toute l’île depuis 1670-1672 : seuls les plus âgés étaient immunisés, et elle a surtout tué les personnes nées après. Elle a gagné la plupart des régions en 1708 et l’est isolé en 1709.
+categories: [epidemic]
+kind: event
+start: "1707"
+end: "1709"
+deaths:
+  best: 18000
+  low: 12000
+  note:
+    en: >-
+      Estimates. Best is the most commonly cited figure of about 18,000 deaths, a third of the population, given by the University of Iceland's Vísindavefurinn (after the Icelandic Encyclopaedia) and by Hays's Epidemics and Pandemics (via Wikipedia's list of epidemics). Wikipedia's article on the epidemic gives 12,000 to 18,000 deaths, close to a quarter of the population, with 12,000 in its infobox (used as low).
+    fr: >-
+      Estimations. L’estimation retenue est le chiffre le plus cité, environ 18 000 morts, un tiers de la population, donné par le Vísindavefurinn de l’université d’Islande (d’après l’encyclopédie islandaise) et par l’ouvrage de Hays (via la liste des épidémies de Wikipédia). L’article de Wikipédia sur l’épidémie donne 12 000 à 18 000 morts, près d’un quart de la population, avec 12 000 dans son infobox (bas de la fourchette).
+countries:
+  - { code: IS, deaths: 18000 }
+sources:
+  - title: 1707-08 Iceland smallpox epidemic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1707%E2%80%9308_Iceland_smallpox_epidemic
+    accessed: "2026-10-22"
+  - title: List of epidemics and pandemics
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_epidemics_and_pandemics
+    accessed: "2026-10-22"
+  - title: Hvað er bóla?
+    publisher: Vísindavefurinn, University of Iceland
+    url: https://www.visindavefur.is/svar.php?id=7088
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,32 @@
+id: yangtze-flood-1935
+title:
+  en: 1935 Yangtze flood
+  fr: Crue du Yangzi de 1935
+description:
+  en: >-
+    In early July 1935 an exceptional rainstorm, remembered in China as the "357" storm, poured several hundred millimetres of rain over the middle Yangtze basin in five days. The Li, Qing and Han rivers and the Yangtze itself overflowed, flooding large parts of Hubei and Hunan provinces, where more than 10 million people were affected. The lower Han valley was turned into a vast lake. Survivors then faced displacement, food shortages and famine.
+  fr: >-
+    Début juillet 1935, un orage exceptionnel, resté en Chine sous le nom de « pluie du 357 », a déversé plusieurs centaines de millimètres de pluie sur le bassin moyen du Yangzi en cinq jours. Le Li, le Qing, la Han et le Yangzi lui-même ont débordé, inondant une grande partie des provinces du Hubei et du Hunan, où plus de 10 millions de personnes ont été sinistrées. La basse vallée de la Han s’est transformée en un immense lac. Les survivants ont ensuite subi déplacements, pénuries alimentaires et famine.
+categories: [natural-disaster]
+kind: event
+start: "1935-07"
+deaths:
+  best: 145000
+  low: 100000
+  note:
+    en: >-
+      Best is the 145,000 deaths given by Wikipedia, citing the SAGE Encyclopedia of Disaster Relief. Low is the "more than 100,000" people drowned in Hubei and Hunan according to post-flood surveys, as summarised in a paper by Zhang Chunrui in the Chinese journal Hydrology; later deaths from famine and disease are poorly documented.
+    fr: >-
+      L’estimation centrale est le chiffre de 145 000 morts donné par Wikipédia, d’après la SAGE Encyclopedia of Disaster Relief. L’estimation basse correspond aux « plus de 100 000 » noyés du Hubei et du Hunan selon les enquêtes menées après la crue, résumées par Zhang Chunrui dans la revue chinoise Hydrologie ; les morts ultérieures dues à la famine et aux maladies sont mal documentées.
+countries:
+  - { code: CN, deaths: 145000 }
+sources:
+  - title: 1935 Yangtze flood
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1935_Yangtze_flood
+    accessed: "2026-10-22"
+  - title: 长江1935年7月上旬洪水简介 (The Yangtze flood of early July 1935), abstract
+    publisher: 水文 (Hydrology), via Zhangqiao Keyan
+    url: https://www.zhangqiaokeyan.com/academic-journal-cn_journal-china-hydrology_thesis/02012110163844.html
+    accessed: "2026-10-22"
+reviewed: false

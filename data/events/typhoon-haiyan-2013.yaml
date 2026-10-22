@@ -1,0 +1,35 @@
+id: typhoon-haiyan-2013
+title:
+  en: Typhoon Haiyan
+  fr: Typhon Haiyan
+description:
+  en: >-
+    Typhoon Haiyan, known in the Philippines as Yolanda, is among the most intense tropical cyclones ever recorded. It made landfall at Guiuan, Eastern Samar, at peak strength on 8 November 2013 and crossed the central Philippines. A storm surge of more than 5 metres devastated Tacloban and other coastal towns of Leyte and Samar, and some 16 million people were affected. Haiyan then crossed the South China Sea and struck northern Vietnam and southern China, and also caused deaths in Taiwan.
+  fr: >-
+    Le typhon Haiyan, appelé Yolanda aux Philippines, est l’un des cyclones tropicaux les plus intenses jamais observés. Il a touché terre à Guiuan, dans le Samar oriental, à son intensité maximale le 8 novembre 2013, puis a traversé le centre des Philippines. Une onde de tempête de plus de 5 mètres a dévasté Tacloban et d’autres villes côtières de Leyte et de Samar ; quelque 16 millions de personnes ont été touchées. Haiyan a ensuite traversé la mer de Chine méridionale, frappé le nord du Viêt Nam et le sud de la Chine, et fait aussi des victimes à Taïwan.
+categories: [natural-disaster]
+kind: event
+start: "2013-11-03"
+end: "2013-11-11"
+deaths:
+  best: 6352
+  note:
+    en: >-
+      Confirmed deaths: 6,300 in the Philippines according to the National Disaster Risk Reduction and Management Council (also cited by WHO), 14 in Vietnam, 30 in mainland China and 8 in Taiwan (Wikipedia). About 1,071 people remained missing and are not included. Early unofficial estimates of 10,000 or more deaths were not borne out by the official count.
+    fr: >-
+      Morts confirmés : 6 300 aux Philippines selon le Conseil national de réduction et de gestion des risques de catastrophe (chiffre repris par l’OMS), 14 au Viêt Nam, 30 en Chine continentale et 8 à Taïwan (Wikipédia). Environ 1 071 personnes sont restées disparues et ne sont pas comptées. Les premières estimations officieuses de 10 000 morts ou plus n’ont pas été confirmées par le bilan officiel.
+countries:
+  - { code: PH, deaths: 6300 }
+  - { code: CN, deaths: 30 }
+  - { code: VN, deaths: 14 }
+  - { code: TW, deaths: 8 }
+sources:
+  - title: Typhoon Haiyan
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Typhoon_Haiyan
+    accessed: "2026-10-22"
+  - title: Typhoon Haiyan (Yolanda)
+    publisher: World Health Organization, Western Pacific Region
+    url: https://www.who.int/westernpacific/emergencies/typhoon-haiyan-(yolanda)
+    accessed: "2026-10-22"
+reviewed: false

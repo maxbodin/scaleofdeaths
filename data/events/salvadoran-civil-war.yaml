@@ -1,0 +1,31 @@
+id: salvadoran-civil-war
+title:
+  en: Salvadoran Civil War
+  fr: Guerre civile du Salvador
+description:
+  en: >-
+    Civil war between El Salvador's US-backed, military-led government and the Farabundo Martí National Liberation Front (FMLN), a coalition of leftist guerrillas backed by Cuba, Nicaragua and the Soviet Union. State security forces and death squads kidnapped, tortured and killed many suspected opponents; victims included Archbishop Óscar Romero in 1980 and about 1,000 civilians in the El Mozote massacre of 1981. A UN Truth Commission blamed 85% of the violence on state agents and allied groups and 5% on the FMLN. The war ended with the Chapultepec Peace Accords in January 1992.
+  fr: >-
+    Guerre civile opposant le gouvernement salvadorien, dominé par l’armée et soutenu par les États-Unis, au Front Farabundo Martí de libération nationale (FMLN), coalition de guérillas de gauche appuyée par Cuba, le Nicaragua et l’URSS. Forces de sécurité et escadrons de la mort enlèvent, torturent et tuent de nombreux opposants présumés, dont l’archevêque Óscar Romero (1980) ; le massacre d’El Mozote tue environ 1 000 civils en 1981. Une commission de la vérité de l’ONU impute 85 % des violences à l’État et à ses alliés, 5 % au FMLN. Les accords de Chapultepec y mettent fin en janvier 1992.
+categories: [war]
+kind: event
+start: "1979-10-15"
+end: "1992-01-16"
+deaths:
+  best: 75000
+  note:
+    en: Military and civilian deaths, mostly civilians. Best is the "more than 75,000" people killed between 1979 and 1992 reported by the United Nations (Wikipedia), plus about 8,000 disappeared; the Center for Justice and Accountability gives an estimated 75,000 civilians killed or forcibly disappeared. Wikipedia's infobox breaks the toll down into over 65,161 civilians killed, 10,360 to 15,000 government soldiers and 12,274 to 20,000 guerrillas, and over 5,292 disappeared. No other total is given by the sources consulted, so no range is shown.
+    fr: Morts militaires et civiles, surtout des civils. L’estimation centrale correspond aux « plus de 75 000 » personnes tuées entre 1979 et 1992 selon les Nations unies (Wikipédia), auxquelles s’ajoutent environ 8 000 disparus ; le Center for Justice and Accountability estime à 75 000 le nombre de civils tués ou victimes de disparition forcée. L’infobox de Wikipédia détaille plus de 65 161 civils tués, 10 360 à 15 000 soldats gouvernementaux, 12 274 à 20 000 guérilleros et plus de 5 292 disparus. Les sources consultées ne donnant pas d’autre total, aucune fourchette n’est indiquée.
+countries:
+  - { code: SV, deaths: 75000 }
+related: [guatemalan-civil-war]
+sources:
+  - title: Salvadoran Civil War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Salvadoran_Civil_War
+    accessed: "2026-10-22"
+  - title: El Salvador
+    publisher: Center for Justice and Accountability
+    url: https://cja.org/where-we-work/el-salvador/
+    accessed: "2026-10-22"
+reviewed: false

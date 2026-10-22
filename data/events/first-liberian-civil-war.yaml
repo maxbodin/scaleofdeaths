@@ -1,0 +1,37 @@
+id: first-liberian-civil-war
+title:
+  en: First Liberian Civil War
+  fr: Première guerre civile libérienne
+description:
+  en: >-
+    Civil war that began when Charles Taylor's National Patriotic Front of Liberia (NPFL) invaded from Côte d'Ivoire in December 1989 to overthrow President Samuel Doe, who was captured and killed by a breakaway faction in September 1990. The war splintered into fighting between several armed factions and a West African intervention force (ECOMOG). All parties committed massacres, summary executions and rape and used child soldiers, and much of the population fled. After a series of failed peace deals, the war ended with the 1997 elections, won by Taylor.
+  fr: >-
+    Guerre civile déclenchée en décembre 1989 par l’invasion, depuis la Côte d’Ivoire, du Front national patriotique (NPFL) de Charles Taylor contre le président Samuel Doe, capturé et tué par une faction dissidente en septembre 1990. Le conflit se fragmente entre plusieurs factions armées et une force d’intervention ouest-africaine (ECOMOG). Toutes les parties commettent massacres, exécutions et viols et recrutent des enfants soldats ; une grande partie de la population fuit. Après plusieurs accords de paix avortés, la guerre s’achève avec les élections de 1997, remportées par Taylor.
+categories: [war]
+kind: event
+start: "1989-12-24"
+end: "1997-08-02"
+deaths:
+  best: 150000
+  low: 100000
+  high: 200000
+  note:
+    en: Military and civilian deaths, including deaths from disease and starvation caused by the war. Best is the 150,000 deaths given by Bercovitch and Jackson, Eckhardt, SIPRI and Clodfelter (all for the period up to 1995, as reported in the PRIO Battle Deaths documentation). Low is the 100,000 of Leitenberg and the low end of Brogan's 100,000 to 150,000; high is Clodfelter's "as high as 200,000" dead from all causes by 1997, also the "around 200,000" in Wikipedia's summary. For both Liberian civil wars together (1989-2003), the Center for Justice and Accountability gives 150,000 to 250,000 deaths.
+    fr: Morts militaires et civiles, y compris celles dues aux maladies et à la faim causées par la guerre. L’estimation centrale correspond aux 150 000 morts avancés par Bercovitch et Jackson, Eckhardt, le SIPRI et Clodfelter (tous pour la période allant jusqu’en 1995, d’après la documentation du PRIO sur les morts au combat). Le bas correspond aux 100 000 de Leitenberg et au bas de la fourchette de 100 000 à 150 000 de Brogan ; le haut aux « jusqu’à 200 000 » morts de toutes causes en 1997 selon Clodfelter, également les « environ 200 000 » du résumé de Wikipédia. Pour les deux guerres civiles libériennes réunies (1989-2003), le Center for Justice and Accountability donne 150 000 à 250 000 morts.
+countries:
+  - { code: LR, deaths: 150000 }
+related: [sierra-leone-civil-war]
+sources:
+  - title: First Liberian Civil War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/First_Liberian_Civil_War
+    accessed: "2026-10-22"
+  - title: "The PRIO Battle Deaths Dataset, 1946-2008, Version 3.0: Documentation of Coding Decisions (Lacina), Liberia"
+    publisher: Peace Research Institute Oslo (PRIO)
+    url: https://cdn.cloud.prio.org/files/91648bba-8885-40ce-8a78-fae75c850c55/PRIO%20Battle%20Deaths%20Dataset%2030%20Documentation.pdf
+    accessed: "2026-10-22"
+  - title: Liberia
+    publisher: Center for Justice and Accountability
+    url: https://cja.org/where-we-work/liberia/
+    accessed: "2026-10-22"
+reviewed: false

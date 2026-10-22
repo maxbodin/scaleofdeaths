@@ -1,0 +1,35 @@
+id: north-american-typhus-epidemic-1847
+title:
+  en: 1847 North American typhus epidemic
+  fr: Épidémie de typhus de 1847 en Amérique du Nord
+description:
+  en: >-
+    Typhus epidemic among Irish emigrants fleeing the Great Famine in 1847, carried across the Atlantic in overcrowded, filthy "coffin ships". From May 1847 the quarantine station at Grosse Isle, in the St. Lawrence River, was overwhelmed: dozens of ships waited in line, healthy passengers were kept on board with the sick, and the sick lay in tents or on the ground. The fever spread to Quebec City, Montreal, Kingston, Toronto and Saint John, New Brunswick, and killed caregivers too, including Toronto's first Catholic bishop, Michael Power. Many children were orphaned.
+  fr: >-
+    Épidémie de typhus parmi les émigrants irlandais fuyant la Grande Famine en 1847, entassés dans des « navires-cercueils » sales. Dès mai 1847, la quarantaine de la Grosse-Île, sur le Saint-Laurent, a été débordée : des dizaines de navires attendaient, les passagers sains restaient à bord avec les malades, qui gisaient sous des tentes ou à même le sol. La fièvre a gagné Québec, Montréal, Kingston, Toronto et Saint-Jean (Nouveau-Brunswick), tuant aussi des soignants, dont le premier évêque catholique de Toronto, Michael Power. De nombreux enfants sont devenus orphelins.
+categories: [epidemic]
+kind: event
+start: "1847-05"
+end: "1848"
+deaths:
+  best: 20000
+  low: 17140
+  high: 22000
+  note:
+    en: >-
+      Deaths of emigrants at sea and in Canada, mostly from typhus. Best is the figure of more than 20,000 deaths in 1847-1848 given by Wikipedia. Gallagher (Canadian Catholic Historical Association, 1936) gives the official figures for 1847: 17,140 deaths, of which 6,093 at sea and 11,047 on land in the Province of Canada and New Brunswick (the Canadian figure here), and semi-official estimates of 20,000 to 22,000. Deaths in the United States, such as in New York, are not included.
+    fr: >-
+      Morts d’émigrants en mer et au Canada, surtout du typhus. L’estimation retenue est celle de plus de 20 000 morts en 1847-1848 donnée par Wikipédia. Gallagher (Société canadienne d’histoire de l’Église catholique, 1936) donne les chiffres officiels de 1847 : 17 140 morts, dont 6 093 en mer et 11 047 à terre dans la province du Canada et au Nouveau-Brunswick (chiffre retenu pour le Canada), et des estimations semi-officielles de 20 000 à 22 000. Les morts aux États-Unis, à New York par exemple, ne sont pas comptés.
+countries:
+  - { code: CA, deaths: 11047 }
+related: [great-irish-famine]
+sources:
+  - title: 1847 North American typhus epidemic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1847_North_American_typhus_epidemic
+    accessed: "2026-10-22"
+  - title: The Irish Emigration of 1847 and Its Canadian Consequences (archived page)
+    publisher: Canadian Catholic Historical Association, Report 1935-1936
+    url: https://web.archive.org/web/20151222104640/http://www.umanitoba.ca/colleges/st_pauls/ccha/Back%20Issues/CCHA1935-36/Gallagher.html
+    accessed: "2026-10-22"
+reviewed: false

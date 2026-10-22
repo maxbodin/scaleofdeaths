@@ -1,0 +1,36 @@
+id: siege-of-baghdad-1258
+title:
+  en: Siege of Baghdad (1258)
+  fr: Siège de Bagdad (1258)
+description:
+  en: >-
+    Siege and sack of Baghdad, capital of the Abbasid Caliphate and one of the great cities of the world, by a Mongol army under Hulegu, a grandson of Genghis Khan. Siege engines breached the walls within days, people who left the city hoping to be spared were executed, and after the surrender Mongol troops pillaged the city until 20 February, killing a large part of the population, before Hulegu had the last caliph, al-Musta'sim, put to death. The sack ended the Abbasid Caliphate in Baghdad.
+  fr: >-
+    Siège et sac de Bagdad, capitale du califat abbasside et l’une des plus grandes villes du monde, par une armée mongole menée par Houlagou, petit-fils de Gengis Khan. Les engins de siège percent les murailles en quelques jours, les habitants sortis de la ville dans l’espoir d’être épargnés sont exécutés et, après la reddition, les troupes mongoles pillent la ville jusqu’au 20 février en tuant une grande partie de la population, avant que Houlagou ne fasse mettre à mort le dernier calife, al-Musta’sim. Le sac met fin au califat abbasside de Bagdad.
+categories: [war]
+kind: event
+start: "1258-01-29"
+end: "1258-02-20"
+deaths:
+  best: 200000
+  high: 2000000
+  note:
+    en: "Contested figures; the true toll is unknown and may have been increased by an epidemic among the survivors. Best: about 200,000, the total Hulegu is reported to have given later (Wikipedia). High: 2 million, the top of the 800,000 (Hamdallah Mustawfi) to 2 million range of later Muslim writers; Wikipedia also reports a claim of two million in a letter from Hulegu to Louis IX, which the historian Peter Jackson calls obviously inflated. No lower estimate was found, and none of these figures is a modern count. Iraq: best figure."
+    fr: "Chiffres contestés ; le bilan réel est inconnu et a pu être alourdi par une épidémie parmi les survivants. Estimation centrale : environ 200 000, total que Houlagou aurait avancé par la suite (Wikipédia). Haut : 2 millions, sommet de la fourchette de 800 000 (Hamdallah Mustawfi) à 2 millions des auteurs musulmans postérieurs ; Wikipédia mentionne aussi une revendication de deux millions dans une lettre de Houlagou à Louis IX, que l’historien Peter Jackson juge manifestement exagérée. Aucune estimation plus basse n’a été trouvée, et aucun de ces chiffres n’est un décompte moderne. Irak : estimation centrale."
+countries:
+  - { code: IQ, deaths: 200000 }
+partOf: mongol-invasions-and-conquests
+sources:
+  - title: Siege of Baghdad
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Siege_of_Baghdad
+    accessed: "2026-10-22"
+  - title: Destruction under the Mongol Empire
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Destruction_under_the_Mongol_Empire
+    accessed: "2026-10-22"
+  - title: Abbasid Dynasty
+    publisher: World History Encyclopedia
+    url: https://www.worldhistory.org/Abbasid_Dynasty/
+    accessed: "2026-10-22"
+reviewed: false

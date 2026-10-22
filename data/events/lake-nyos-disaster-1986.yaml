@@ -1,0 +1,32 @@
+id: lake-nyos-disaster-1986
+title:
+  en: Lake Nyos disaster
+  fr: Catastrophe du lac Nyos
+description:
+  en: >-
+    On 21 August 1986 a limnic eruption at Lake Nyos, a crater lake in north-western Cameroon, suddenly released a huge cloud of carbon dioxide that had accumulated in its deep waters. Heavier than air, the gas flowed down into the surrounding valleys and suffocated people and livestock in villages up to 25 km from the lake. It is one of only two limnic eruptions recorded in modern history, and a degassing system has since been installed to reduce the risk of another.
+  fr: >-
+    Le 21 août 1986, une éruption limnique au lac Nyos, un lac de cratère du nord-ouest du Cameroun, a brusquement libéré un énorme nuage de dioxyde de carbone accumulé dans ses eaux profondes. Plus lourd que l’air, le gaz a dévalé les vallées voisines et asphyxié habitants et bétail dans des villages situés jusqu’à 25 km du lac. C’est l’une des deux seules éruptions limniques connues de l’histoire moderne, et un système de dégazage a depuis été installé pour réduire le risque d’une nouvelle catastrophe.
+categories: [natural-disaster]
+kind: event
+start: "1986-08-21"
+deaths:
+  best: 1746
+  low: 1700
+  note:
+    en: >-
+      1,746 deaths according to Wikipedia; NOAA's volcano database records 1,700, used as the low figure. About 3,500 livestock also died.
+    fr: >-
+      1 746 morts selon Wikipédia ; la base de données volcanique de la NOAA en compte 1 700, chiffre retenu comme estimation basse. Environ 3 500 têtes de bétail ont aussi péri.
+countries:
+  - { code: CM, deaths: 1746 }
+sources:
+  - title: Lake Nyos disaster
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Lake_Nyos_disaster
+    accessed: "2026-10-22"
+  - title: "Global Significant Volcanic Eruptions Database: Oku Volcanic Field (Lake Nyos), 1986"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/volcanoes?minYear=1986&maxYear=1986&country=Cameroon
+    accessed: "2026-10-22"
+reviewed: false

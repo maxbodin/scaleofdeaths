@@ -1,0 +1,33 @@
+id: drc-measles-epidemic-2019
+title:
+  en: 2019-2020 measles outbreak in the Democratic Republic of the Congo
+  fr: Épidémie de rougeole de 2019-2020 en République démocratique du Congo
+description:
+  en: >-
+    Measles epidemic that began in the south-east of the Democratic Republic of the Congo and spread to every province; the World Health Organization called it the world's largest and fastest-moving epidemic in 2019. Children under five made up about three quarters of cases and nearly 90% of deaths, in a country where only 57% of children had been vaccinated in 2018. Insecurity, a lack of resources and mistrust slowed mass vaccination campaigns, which were suspended for a time in 2020 because of COVID-19. The government declared the outbreak over in August 2020.
+  fr: >-
+    Épidémie de rougeole partie du sud-est de la République démocratique du Congo et étendue à toutes les provinces ; l’Organisation mondiale de la santé l’a qualifiée de plus vaste et plus rapide du monde en 2019. Les enfants de moins de cinq ans représentaient les trois quarts des cas et près de 90 % des morts, dans un pays où seuls 57 % des enfants étaient vaccinés en 2018. L’insécurité, le manque de moyens et la méfiance ont freiné les campagnes de vaccination, suspendues un temps en 2020 à cause du COVID-19. Le gouvernement a déclaré la fin de l’épidémie en août 2020.
+categories: [epidemic]
+kind: event
+start: "2019"
+end: "2020-08"
+deaths:
+  best: 7018
+  note:
+    en: >-
+      Reported deaths. Best is the final count of 7,018 deaths among 380,766 cases given by Wikipedia when the outbreak was declared over; the health minister announced more than 7,000 deaths (Al Jazeera), and the World Health Organization had recorded 6,362 deaths among more than 335,000 suspected cases by January 2020. The first cases were recorded in June 2018. Measles deaths are often underreported where care is hard to reach.
+    fr: >-
+      Décès déclarés. L’estimation retenue est le bilan final de 7 018 morts sur 380 766 cas donné par Wikipédia à la fin de l’épidémie ; le ministre de la Santé a annoncé plus de 7 000 morts (Al Jazeera), et l’Organisation mondiale de la santé comptait 6 362 morts sur plus de 335 000 cas suspects en janvier 2020. Les premiers cas remontent à juin 2018. Les morts de la rougeole sont souvent sous-déclarées là où l’accès aux soins est difficile.
+countries:
+  - { code: CD, deaths: 7018 }
+related: [kivu-ebola-epidemic-2018]
+sources:
+  - title: 2019-2020 measles outbreak in the Democratic Republic of the Congo
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2019%E2%80%932020_measles_outbreak_in_the_Democratic_Republic_of_the_Congo
+    accessed: "2026-10-22"
+  - title: DRC says deadly measles epidemic 'no longer exists' in country
+    publisher: Al Jazeera
+    url: https://www.aljazeera.com/news/2020/8/25/drc-says-deadly-measles-epidemic-no-longer-exists-in-country
+    accessed: "2026-10-22"
+reviewed: false

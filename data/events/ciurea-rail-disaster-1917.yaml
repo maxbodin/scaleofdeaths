@@ -1,0 +1,31 @@
+id: ciurea-rail-disaster-1917
+title:
+  en: Ciurea rail disaster
+  fr: Catastrophe ferroviaire de Ciurea
+description:
+  en: >-
+    Around 1:00 on 13 January 1917, during the First World War, an overcrowded train from Galați to Iași, carrying refugees fleeing the German advance, soldiers on leave and members of the French military mission, lost its brakes on the descent into Ciurea station, a few kilometres from Iași, Romania. It derailed at high speed and struck a train standing on another track; the wreck caught fire, as did two munitions wagons nearby. Many passengers had travelled on the roofs in freezing weather. The dead were buried in mass graves behind the station.
+  fr: >-
+    Vers 1 h, le 13 janvier 1917, en pleine Première Guerre mondiale, un train bondé reliant Galați à Iași, chargé de réfugiés fuyant l’avancée allemande, de soldats en permission et de membres de la mission militaire française, perd ses freins dans la descente vers la gare de Ciurea, à quelques kilomètres de Iași (Roumanie). Il déraille à grande vitesse et percute un train à l’arrêt sur une autre voie ; l’épave prend feu, ainsi que deux wagons de munitions voisins. Beaucoup voyageaient sur les toits par un froid glacial. Les morts sont enterrés dans des fosses communes derrière la gare.
+categories: [accident]
+kind: event
+start: "1917-01-13"
+deaths:
+  best: 650
+  low: 568
+  high: 1000
+  note:
+    en: The toll is uncertain. Wikipedia reports that most sources give 800 to 1,000 deaths, the top of which is used as high. A study in the Romanian history magazine Historia, based on wartime memoirs, considers these round figures exaggerated; it found only one exact count, 568 dead and 756 injured recorded by the military doctor Vasile Bianu (low), notes that some of the injured died later, and concludes that the toll was around 650 (best).
+    fr: Le bilan est incertain. Selon Wikipédia, la plupart des sources donnent 800 à 1 000 morts, dont le haut sert de borne haute. Une étude de la revue roumaine d’histoire Historia, fondée sur les mémoires de l’époque, juge ces chiffres ronds exagérés ; elle n’a trouvé qu’un décompte précis, 568 morts et 756 blessés relevés par le médecin militaire Vasile Bianu (borne basse), note que certains blessés sont morts ensuite et conclut à un bilan d’environ 650 morts (estimation centrale).
+countries:
+  - { code: RO, deaths: 650 }
+sources:
+  - title: Ciurea rail disaster
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Ciurea_rail_disaster
+    accessed: "2026-10-22"
+  - title: "Cea mai mare catastrofă din istoria Căilor Ferate Române: Accidentul de la Ciurea din 1/13 ianuarie 1917"
+    publisher: Historia
+    url: https://historia.ro/sectiune/general/cea-mai-mare-catastrofa-din-istoria-cailor-ferate-577963.html
+    accessed: "2026-10-22"
+reviewed: false

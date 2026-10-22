@@ -1,0 +1,38 @@
+id: tambora-eruption-1815
+title:
+  en: 1815 eruption of Mount Tambora
+  fr: Éruption du Tambora en 1815
+description:
+  en: >-
+    Mount Tambora, on the island of Sumbawa in present-day Indonesia, began erupting on 5 April 1815 and reached a violent climax on 10 April, the largest eruption of modern times and the most recent confirmed to reach VEI 7. Pyroclastic flows wiped out the villages of the Tambora peninsula and a tsunami struck nearby islands. Thick ash destroyed crops on Sumbawa and Lombok, and famine and disease killed far more people than the eruption itself. The cooling it caused led to the 1816 "Year Without a Summer".
+  fr: >-
+    Le Tambora, sur l’île de Sumbawa, dans l’actuelle Indonésie, est entré en éruption le 5 avril 1815, avec un paroxysme le 10 avril : la plus grande éruption des temps modernes et la plus récente à avoir atteint l’indice d’explosivité 7. Des coulées pyroclastiques ont anéanti les villages de la péninsule de Tambora et un tsunami a frappé les îles voisines. Les cendres ont détruit les cultures de Sumbawa et de Lombok, et la famine et les maladies ont fait bien plus de victimes que l’éruption elle-même. Le refroidissement qui a suivi a causé « l’année sans été » de 1816.
+categories: [natural-disaster]
+kind: event
+start: "1815-04-05"
+end: "1815-07-15"
+deaths:
+  best: 71000
+  low: 60000
+  high: 100000
+  note:
+    en: >-
+      Deaths in Indonesia from the eruption itself (about 11,000) and from the famine and epidemics that followed on Sumbawa, Lombok and Bali. Best is Clive Oppenheimer's estimate of at least 71,000 (Wikipedia). Low is the revised count of Tanguy et al. (1998), 11,000 direct and 49,000 indirect deaths, recorded as 60,000 in NOAA's volcano database. High is historian Anthony Reid's estimate of 100,000 (Wikipedia); in his own article he argues that at least ten times as many people died of hunger and disease as were killed directly. Deaths caused around the world by the cold summer of 1816 are not included.
+    fr: >-
+      Morts en Indonésie dues à l’éruption elle-même (environ 11 000) et à la famine et aux épidémies qui ont suivi à Sumbawa, Lombok et Bali. L’estimation centrale est celle de Clive Oppenheimer, au moins 71 000 morts (Wikipédia). L’estimation basse est le décompte révisé de Tanguy et al. (1998), 11 000 morts directes et 49 000 indirectes, soit 60 000 dans la base de données volcanique de la NOAA. L’estimation haute est celle de l’historien Anthony Reid, 100 000 morts (Wikipédia) ; dans son propre article, il estime qu’au moins dix fois plus de personnes sont mortes de faim et de maladie que de l’éruption directement. Les morts causées dans le monde par l’été froid de 1816 ne sont pas comptées.
+countries:
+  - { code: ID, deaths: 71000 }
+sources:
+  - title: 1815 eruption of Mount Tambora
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1815_eruption_of_Mount_Tambora
+    accessed: "2026-10-22"
+  - title: "Global Significant Volcanic Eruptions Database: Tambora, 1815"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/volcanoes?minYear=1815&maxYear=1815
+    accessed: "2026-10-22"
+  - title: Lessons of Tambora ignored, 200 years on
+    publisher: East Asia Forum
+    url: https://eastasiaforum.org/2015/04/25/lessons-of-tambora-ignored-200-years-on/
+    accessed: "2026-10-22"
+reviewed: false

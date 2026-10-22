@@ -1,0 +1,35 @@
+id: prague-plague-1680
+title:
+  en: Prague plague of 1680
+  fr: Peste de Prague de 1680
+description:
+  en: >-
+    Plague epidemic in Prague, part of the wave that devastated Vienna in 1679. From Vienna the disease reached Moravia and southern Bohemia by the end of 1679, and in the spring of 1680 it struck Prague, then a crowded city of some 60,000 to 80,000 inhabitants, where Emperor Leopold I had just taken refuge. Up to 10,000 people reportedly fled, including doctors. As the cemeteries filled up, a plague burial ground was opened at Olšany, origin of today's Olšany Cemetery. The historian Tomáš Pešina z Čechorodu was among the victims.
+  fr: >-
+    Épidémie de peste à Prague, dans le prolongement de la vague qui ravagea Vienne en 1679. Partie de Vienne, la maladie atteignit la Moravie et le sud de la Bohême fin 1679, puis frappa au printemps 1680 Prague, ville surpeuplée de 60 000 à 80 000 habitants environ, où l’empereur Léopold Ier venait de se réfugier. Jusqu’à 10 000 personnes auraient fui, médecins compris. Les cimetières étant pleins, un cimetière de pestiférés fut ouvert à Olšany, à l’origine de l’actuel cimetière d’Olšany. L’historien Tomáš Pešina z Čechorodu compta parmi les victimes.
+categories: [epidemic]
+kind: event
+start: "1680"
+end: "1680"
+deaths:
+  best: 12000
+  note:
+    en: Deaths in Prague, about 12,000 or almost a third of the population, according to official records (Czech Television; Czech Wikipedia). Encyclopaedia Britannica's figure of 83,000 deaths in Prague in 1681 exceeds the city's population at the time and is not used. The whole epidemic in the Czech lands in 1679-1681 is estimated at up to 100,000 deaths (Czech Wikipedia); deaths outside Prague are not counted here.
+    fr: Morts à Prague, environ 12 000, soit près d’un tiers de la population, selon les registres officiels (Télévision tchèque ; Wikipédia en tchèque). Le chiffre de 83 000 morts à Prague en 1681 donné par l’Encyclopaedia Britannica dépasse la population de la ville à l’époque et n’est pas retenu. L’ensemble de l’épidémie dans les pays tchèques en 1679-1681 aurait fait jusqu’à 100 000 morts (Wikipédia en tchèque) ; les morts hors de Prague ne sont pas comptés ici.
+countries:
+  - { code: CZ, deaths: 12000 }
+related: [black-death, great-plague-of-vienna]
+sources:
+  - title: Morová epidemie v českých zemích (1679-1681)
+    publisher: Wikipedia (Czech)
+    url: https://cs.wikipedia.org/wiki/Morov%C3%A1_epidemie_v_%C4%8Desk%C3%BDch_zem%C3%ADch_(1679%E2%80%931681)
+    accessed: "2026-10-22"
+  - title: "Pandemie v českých zemích. Mezi oběťmi byla i řada umělců, podotýká historik (blog)"
+    publisher: ČT24, Czech Television
+    url: https://ct24.ceskatelevize.cz/clanek/veda/blog-pandemie-v-ceskych-zemich-mezi-obetmi-byla-i-rada-umelcu-podotyka-historik-48894
+    accessed: "2026-10-22"
+  - title: "Plague: History (archived)"
+    publisher: Encyclopaedia Britannica
+    url: https://web.archive.org/web/20200116154728/https://www.britannica.com/science/plague/History
+    accessed: "2026-10-22"
+reviewed: false

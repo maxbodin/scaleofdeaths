@@ -1,0 +1,36 @@
+id: bombing-of-dresden
+title:
+  en: Bombing of Dresden
+  fr: Bombardement de Dresde
+description:
+  en: >-
+    Four raids by 772 heavy bombers of the Royal Air Force and 527 of the US Army Air Forces on the German city of Dresden between 13 and 15 February 1945, which dropped more than 3,900 tons of high-explosive and incendiary bombs. The bombing caused a firestorm that destroyed the city centre; many people died in cellars, suffocated or buried under collapsing buildings. Nazi propaganda spread a falsified toll of 200,000, and inflated figures circulated for decades until a commission of historians appointed by the city published its findings in 2010.
+  fr: >-
+    Quatre raids de 772 bombardiers lourds de la Royal Air Force et de 527 de l’armée de l’air américaine sur la ville allemande de Dresde, du 13 au 15 février 1945, qui larguent plus de 3 900 tonnes de bombes explosives et incendiaires. Le bombardement provoque une tempête de feu qui détruit le centre-ville ; beaucoup meurent dans les caves, asphyxiés ou ensevelis sous les décombres. La propagande nazie diffuse un bilan falsifié de 200 000 morts, et des chiffres gonflés circulent pendant des décennies, jusqu’aux conclusions publiées en 2010 par une commission d’historiens nommée par la ville.
+categories: [war]
+kind: event
+partOf: second-world-war
+start: "1945-02-13"
+end: "1945-02-15"
+deaths:
+  best: 25000
+  low: 22700
+  note:
+    en: People killed in the raids of 13 to 15 February 1945. Best is the "up to 25,000" established by the Dresden Historians' Commission in its 2010 final report, matching the roughly 25,000 dead expected by city authorities in March 1945; low is the commission's lower figure of 22,700 (by 2008 it had confirmed 18,000 deaths). Earlier estimates of 25,000 to 40,000 (Frederick Taylor, 2005) and 35,000 (East Germany) predate the commission; figures of 135,000 to 500,000 come from Nazi propaganda, David Irving's inflated figures or the far right.
+    fr: Personnes tuées lors des raids du 13 au 15 février 1945. L’estimation centrale est le chiffre d’« au plus 25 000 » établi par la commission d’historiens de Dresde dans son rapport final de 2010, qui rejoint les quelque 25 000 morts attendus par les autorités de la ville en mars 1945 ; le bas de la fourchette est le chiffre inférieur de la commission, 22 700 (elle avait confirmé 18 000 morts en 2008). Les estimations antérieures de 25 000 à 40 000 (Frederick Taylor, 2005) et de 35 000 (RDA) précèdent la commission ; les chiffres de 135 000 à 500 000 viennent de la propagande nazie, des chiffres gonflés de David Irving ou de l’extrême droite.
+countries:
+  - { code: DE, deaths: 25000 }
+sources:
+  - title: Bombing of Dresden
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Bombing_of_Dresden
+    accessed: "2026-10-22"
+  - title: "Report: Dresden bombing deaths overestimated"
+    publisher: NBC News (Associated Press)
+    url: https://www.nbcnews.com/id/wbna26977893
+    accessed: "2026-10-22"
+  - title: Up to 25,000 died in Dresden's WWII bombing - report
+    publisher: History News Network
+    url: https://www.historynewsnetwork.org/article/up-to-25000-died-in-dresdens-wwii-bombing---report
+    accessed: "2026-10-22"
+reviewed: false

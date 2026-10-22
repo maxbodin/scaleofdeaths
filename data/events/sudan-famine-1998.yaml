@@ -1,0 +1,34 @@
+id: sudan-famine-1998
+title:
+  en: 1998 Sudan famine
+  fr: Famine de 1998 au Soudan
+description:
+  en: >-
+    Famine in Bahr el Ghazal, now part of South Sudan, during the Second Sudanese Civil War. A drought linked to El Niño was turned into famine by war: attacks on civilians, raids and looting by government-backed militias, by the forces of Kerubino Kuanyin Bol and by the SPLA, mass displacement, and a government ban on relief flights into rebel-held areas in February and March 1998. Some 72,000 famine migrants reached the town of Wau between May and August. A ceasefire in July and a good harvest brought the crisis under control by the end of 1998.
+  fr: >-
+    Famine dans le Bahr el-Ghazal, aujourd’hui au Soudan du Sud, pendant la deuxième guerre civile soudanaise. Une sécheresse liée à El Niño s’est muée en famine à cause de la guerre : attaques contre les civils, raids et pillages des milices soutenues par le gouvernement, des forces de Kerubino Kuanyin Bol et de l’APLS, déplacements massifs, et interdiction par le gouvernement des vols humanitaires vers les zones rebelles en février et mars 1998. Quelque 72 000 affamés ont gagné Wau entre mai et août. Un cessez-le-feu en juillet et une bonne récolte ont jugulé la crise fin 1998.
+categories: [famine]
+kind: event
+start: "1998"
+end: "1998"
+deaths:
+  best: 70000
+  note:
+    en: "Excess deaths, mainly in Bahr el Ghazal. Best: about 70,000, the estimate given by Wikipedia (more than 70,000) and by Ó Gráda (0.07 million for Bahr el Ghazal); no range has been published. Human Rights Watch named war-related human rights abuses by the government, allied militias, the SPLA and Kerubino's forces as the direct cause of the famine."
+    fr: "Surmortalité, surtout dans le Bahr el-Ghazal. Valeur centrale : environ 70 000, estimation donnée par Wikipédia (plus de 70 000) et par Ó Gráda (0,07 million pour le Bahr el-Ghazal) ; aucune fourchette n’a été publiée. Human Rights Watch désigne comme cause directe de la famine les violations des droits humains liées à la guerre commises par le gouvernement, les milices alliées, l’APLS et les forces de Kerubino."
+countries:
+  - { code: SS, deaths: 70000 }
+sources:
+  - title: 1998 Sudan famine
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1998_Sudan_famine
+    accessed: "2026-10-22"
+  - title: "Famine in Sudan, 1998: Bahr El Ghazal and the Famine of 1998"
+    publisher: Human Rights Watch
+    url: https://www.hrw.org/reports/1999/sudan/SUDAWEB2-01.htm
+    accessed: "2026-10-22"
+  - title: Making Famine History (Cormac Ó Gráda)
+    publisher: Journal of Economic Literature (UCD Research Repository)
+    url: https://researchrepository.ucd.ie/server/api/core/bitstreams/f57a2154-08a1-44a8-b865-75d1d51a4fcb/content
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,41 @@
+id: thousand-days-war
+title:
+  en: Thousand Days' War
+  fr: Guerre des Mille Jours
+description:
+  en: >-
+    Civil war in Colombia between the ruling Conservative government and Liberal rebels, fought across much of the country and on the Isthmus of Panama, then a Colombian department. Poorly armed, the Liberals turned to guerrilla warfare after major defeats such as Palonegro in 1900. Fighting, reprisals and disease devastated the country and its economy. The war ended with peace treaties in 1902, one of them signed aboard the US warship Wisconsin, and contributed to the secession of Panama in 1903.
+  fr: >-
+    Guerre civile en Colombie entre le gouvernement conservateur et des rebelles libéraux, livrée dans une grande partie du pays et sur l’isthme de Panama, alors département colombien. Mal armés, les libéraux se replient sur la guérilla après de lourdes défaites comme celle de Palonegro en 1900. Combats, représailles et maladies dévastent le pays et son économie. La guerre prend fin avec des traités de paix en 1902, dont l’un signé à bord du navire de guerre américain Wisconsin, et contribue à la sécession du Panama en 1903.
+categories: [war]
+kind: event
+start: "1899-10-17"
+end: "1902-11-21"
+deaths:
+  best: 100000
+  low: 60000
+  high: 150000
+  note:
+    en: "Military and civilian deaths, including disease. Best: 100,000, the figure of the Correlates of War project (47,000 on the government side and 53,000 on the Liberal side) and of other compilations cited by Necrometrics; the BBC gives around 120,000. Low: 60,000, the low end of the 60,000 to 130,000 of Encyclopaedia Britannica and Encarta (via Necrometrics). High: 150,000, William Eckhardt's estimate (via Necrometrics). Wikipedia gives 100,000 to 180,000, but its upper figure rests on weak sources."
+    fr: "Morts militaires et civiles, y compris de maladie. Estimation centrale : 100 000, chiffre du projet Correlates of War (47 000 côté gouvernemental et 53 000 côté libéral) et d’autres compilations citées par Necrometrics ; la BBC avance environ 120 000. Bas : 60 000, bas de la fourchette de 60 000 à 130 000 de l’Encyclopaedia Britannica et d’Encarta (via Necrometrics). Haut : 150 000, estimation de William Eckhardt (via Necrometrics). Wikipédia donne 100 000 à 180 000, mais son chiffre haut repose sur des sources fragiles."
+countries:
+  - { code: CO }
+  - { code: PA }
+sources:
+  - title: Thousand Days' War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Thousand_Days%27_War
+    accessed: "2026-10-22"
+  - title: Intra-State War Data, v4.1 (war 636, War of the 1000 Days)
+    publisher: Correlates of War Project
+    url: https://correlatesofwar.org/wp-content/uploads/Intra-StateWarData_v4.1.csv
+    accessed: "2026-10-22"
+  - title: "Timeline: Colombia"
+    publisher: BBC News
+    url: https://news.bbc.co.uk/1/hi/world/americas/1212827.stm
+    accessed: "2026-10-22"
+  - title: Twentieth Century Atlas - Death Tolls (100,000 to 300,000)
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c100k.htm
+    accessed: "2026-10-22"
+reviewed: false

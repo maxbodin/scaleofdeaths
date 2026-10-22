@@ -1,0 +1,53 @@
+id: european-heat-wave-2003
+title:
+  en: 2003 European heat wave
+  fr: Canicule européenne de 2003
+description:
+  en: >-
+    The summer of 2003 was the hottest recorded in Europe since at least 1540. A long heat wave combined with drought, peaking in the first half of August, hit western and southern Europe, with a record 47.3 °C at Amareleja, Portugal. Mortality rose sharply in France, Italy, Spain, Germany and Portugal, above all among elderly people and women; in the Paris region deaths doubled during the first half of August. The disaster led to heat-wave prevention plans across Europe.
+  fr: >-
+    L’été 2003 a été le plus chaud enregistré en Europe depuis au moins 1540. Une longue canicule doublée d’une sécheresse, culminant dans la première quinzaine d’août, a frappé l’ouest et le sud de l’Europe, avec un record de 47,3 °C à Amareleja, au Portugal. La mortalité a bondi en France, en Italie, en Espagne, en Allemagne et au Portugal, surtout chez les personnes âgées et les femmes ; en Île-de-France, les décès ont doublé pendant la première quinzaine d’août. La catastrophe a conduit à la mise en place de plans canicule dans toute l’Europe.
+categories: [natural-disaster]
+kind: event
+start: "2003-06"
+end: "2003-09"
+deaths:
+  best: 71449
+  high: 72000
+  note:
+    en: >-
+      Excess deaths from June to September 2003 in 12 European countries compared with 1998-2002, from the EU-funded CANICULE study led by Jean-Marie Robine. Best is the total of the published study (71,449), as quoted by Ballester et al. (2023); the project report gives 71,445 and the per-country figures below (for the United Kingdom, England and Wales only). High is the 72,000 given by Wikipedia (CRED's 2010 disaster review also gives "over 72,000").
+    fr: >-
+      Surmortalité de juin à septembre 2003 dans 12 pays européens par rapport à 1998-2002, selon l’étude CANICULE financée par l’UE et dirigée par Jean-Marie Robine. L’estimation centrale est le total de l’étude publiée (71 449), cité par Ballester et al. (2023) ; le rapport du projet donne 71 445 et les chiffres par pays ci-dessous (pour le Royaume-Uni, Angleterre et pays de Galles seulement). L’estimation haute est le chiffre de 72 000 donné par Wikipédia (la revue des catastrophes 2010 du CRED donne aussi « plus de 72 000 »).
+countries:
+  - { code: IT, deaths: 20089 }
+  - { code: FR, deaths: 19490 }
+  - { code: ES, deaths: 15090 }
+  - { code: DE, deaths: 9355 }
+  - { code: PT, deaths: 2696 }
+  - { code: BE, deaths: 1175 }
+  - { code: CH, deaths: 1039 }
+  - { code: NL, deaths: 965 }
+  - { code: HR, deaths: 788 }
+  - { code: GB, deaths: 301 }
+  - { code: SI, deaths: 289 }
+  - { code: LU, deaths: 166 }
+related: [european-heatwaves-2022]
+sources:
+  - title: 2003 European heatwave
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2003_European_heatwave
+    accessed: "2026-10-22"
+  - title: Report on excess mortality in Europe during summer 2003
+    publisher: European Commission (EU Public Health Programme, CANICULE project)
+    url: https://ec.europa.eu/health/ph_projects/2005/action1/docs/action1_2005_a2_15_en.pdf
+    accessed: "2026-10-22"
+  - title: Heat-related mortality in Europe during the summer of 2022
+    publisher: Nature Medicine (PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10353926/
+    accessed: "2026-10-22"
+  - title: "Annual Disaster Statistical Review 2010: The Numbers and Trends"
+    publisher: Centre for Research on the Epidemiology of Disasters (CRED)
+    url: https://www.cred.be/sites/default/files/ADSR_2010.pdf
+    accessed: "2026-10-22"
+reviewed: false

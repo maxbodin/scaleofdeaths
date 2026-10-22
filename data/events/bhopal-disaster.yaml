@@ -1,0 +1,32 @@
+id: bhopal-disaster
+title:
+  en: Bhopal disaster
+  fr: Catastrophe de Bhopal
+description:
+  en: >-
+    On the night of 2 to 3 December 1984, about 40 tonnes of methyl isocyanate gas leaked from the Union Carbide India Limited pesticide plant in Bhopal, Madhya Pradesh, India. The toxic cloud spread over the crowded neighbourhoods around the plant while residents slept, and most victims died of choking, circulatory collapse or pulmonary oedema. More than half a million people were exposed, many of them with lasting lung, eye and neurological damage. It is often called the worst industrial disaster in history.
+  fr: >-
+    Dans la nuit du 2 au 3 décembre 1984, une quarantaine de tonnes d’isocyanate de méthyle s’échappent de l’usine de pesticides d’Union Carbide India Limited à Bhopal, dans le Madhya Pradesh, en Inde. Le nuage toxique se répand sur les quartiers populaires voisins pendant le sommeil des habitants ; la plupart des victimes meurent par asphyxie, collapsus circulatoire ou œdème pulmonaire. Plus d’un demi-million de personnes sont exposées, et beaucoup gardent des séquelles pulmonaires, oculaires ou neurologiques. On la considère souvent comme la pire catastrophe industrielle de l’histoire.
+categories: [accident]
+kind: event
+start: "1984-12-02"
+end: "1984-12-03"
+deaths:
+  best: 3787
+  low: 2259
+  high: 16000
+  note:
+    en: Best is the 3,787 deaths related to the gas release confirmed by the government of Madhya Pradesh. Low is the official immediate toll of 2,259. High is the more than 16,000 deaths claimed, such as the Sambhavna clinic's estimate of 8,000 deaths in the first weeks and 8,000 more since. A 2005 review in Environmental Health cites estimates of up to 10,000 people killed in the first few days and 15,000 to 20,000 premature deaths over the following two decades, so long-term mortality is probably higher than any official figure.
+    fr: L’estimation centrale correspond aux 3 787 morts liées à la fuite de gaz confirmées par le gouvernement du Madhya Pradesh. La borne basse est le bilan officiel immédiat de 2 259 morts. La borne haute correspond aux plus de 16 000 morts revendiquées, comme l’estimation de la clinique Sambhavna, soit 8 000 morts dans les premières semaines et 8 000 depuis. Une revue publiée en 2005 dans Environmental Health cite des estimations allant jusqu’à 10 000 morts dans les premiers jours et 15 000 à 20 000 décès prématurés au cours des deux décennies suivantes, si bien que la mortalité à long terme dépasse probablement tous les chiffres officiels.
+countries:
+  - { code: IN, deaths: 3787 }
+sources:
+  - title: Bhopal disaster
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Bhopal_disaster
+    accessed: "2026-10-22"
+  - title: "The Bhopal disaster and its aftermath: a review"
+    publisher: Environmental Health (Broughton, 2005), via PubMed Central
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC1142333/
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,32 @@
+id: us-drug-overdose-deaths
+title:
+  en: Deaths from drug overdoses in the United States per year
+  fr: Décès par surdose de drogue aux États-Unis par an
+description:
+  en: >-
+    People who died of drug overdoses in the United States in one year, as counted by the CDC's National Center for Health Statistics from death certificates. Most involve opioids, above all synthetic opioids such as fentanyl; stimulants such as cocaine and methamphetamine are also involved in many deaths. After rising for decades and peaking in 2022, the overdose death rate fell by 26% from 2023 to 2024, the largest drop in at least ten years, with declines in every age, sex and ethnic group and for every type of drug.
+  fr: >-
+    Personnes mortes d’une surdose de drogue aux États-Unis en un an, selon le décompte du National Center for Health Statistics des CDC à partir des certificats de décès. La plupart impliquent des opioïdes, surtout des opioïdes de synthèse comme le fentanyl ; des stimulants comme la cocaïne et la méthamphétamine sont aussi en cause dans de nombreux décès. Après des décennies de hausse et un pic en 2022, le taux de mortalité par surdose a baissé de 26 % entre 2023 et 2024, la plus forte baisse depuis au moins dix ans, dans tous les groupes d’âge, de sexe et d’origine.
+categories: [annual]
+kind: endemic-total
+start: "2024"
+end: "2024"
+deaths:
+  best: 79384
+  note:
+    en: >-
+      NCHS Data Brief No. 549 and CDC FastStats (final 2024 data from the National Vital Statistics System): 79,384 drug overdose deaths in 2024, an age-adjusted rate of 23.1 per 100,000, down from 31.3 in 2023. Of these, 54,045 involved an opioid and 47,735 synthetic opioids other than methadone, such as fentanyl. This is a count from death certificates, so no range is given.
+    fr: >-
+      NCHS Data Brief no 549 et FastStats des CDC (données définitives 2024 du National Vital Statistics System) : 79 384 décès par surdose en 2024, soit un taux standardisé de 23,1 pour 100 000, contre 31,3 en 2023. Parmi eux, 54 045 impliquaient un opioïde et 47 735 des opioïdes de synthèse autres que la méthadone, comme le fentanyl. Il s’agit d’un décompte des certificats de décès, sans fourchette.
+countries:
+  - { code: US, deaths: 79384 }
+sources:
+  - title: Drug Overdose Deaths in the United States, 2023-2024 (NCHS Data Brief No. 549)
+    publisher: Centers for Disease Control and Prevention (NCHS)
+    url: https://www.cdc.gov/nchs/products/databriefs/db549.htm
+    accessed: "2026-10-22"
+  - title: "FastStats: Drug Overdoses"
+    publisher: Centers for Disease Control and Prevention (NCHS)
+    url: https://www.cdc.gov/nchs/fastats/drug-overdoses.htm
+    accessed: "2026-10-22"
+reviewed: false

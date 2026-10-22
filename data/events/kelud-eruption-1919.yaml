@@ -1,0 +1,32 @@
+id: kelud-eruption-1919
+title:
+  en: 1919 eruption of Kelud
+  fr: Éruption du Kelud en 1919
+description:
+  en: >-
+    On 19 May 1919 an eruption of Kelud, a volcano in East Java in the Dutch East Indies (now Indonesia), sent hot lahars, fast-moving flows of mud and volcanic debris, down its slopes and into the surrounding valleys. The lahars destroyed 26 villages and about 40,000 acres of rice fields. The colonial government sent 20,000 soldiers to restore the area. Tunnels were later dug to lower the volcano's crater lake and reduce the danger of lahars.
+  fr: >-
+    Le 19 mai 1919, une éruption du Kelud, volcan de l’est de Java dans les Indes orientales néerlandaises (actuelle Indonésie), a lancé sur ses pentes et dans les vallées voisines des lahars brûlants, coulées rapides de boue et de débris volcaniques. Ils ont détruit 26 villages et environ 16 000 hectares de rizières. Le gouvernement colonial a envoyé 20 000 soldats pour remettre la région en état. Des tunnels ont ensuite été creusés pour abaisser le lac de cratère du volcan et réduire le risque de lahars.
+categories: [natural-disaster]
+kind: event
+start: "1919-05-19"
+deaths:
+  best: 5110
+  low: 5000
+  note:
+    en: >-
+      NOAA's volcano database records 5,110 deaths; low is the estimate of about 5,000 given by Wikipedia. Most victims were killed by the lahars.
+    fr: >-
+      La base de données volcanique de la NOAA compte 5 110 morts ; l’estimation basse est celle d’environ 5 000 donnée par Wikipédia. La plupart des victimes ont été tuées par les lahars.
+countries:
+  - { code: ID, deaths: 5110 }
+sources:
+  - title: Kelud
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Kelud
+    accessed: "2026-10-22"
+  - title: "Global Significant Volcanic Eruptions Database: Kelud, 1919"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/volcanoes?minYear=1919&maxYear=1919&country=Indonesia
+    accessed: "2026-10-22"
+reviewed: false

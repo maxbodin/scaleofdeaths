@@ -1,0 +1,39 @@
+id: iraq-war
+title:
+  en: Iraq War
+  fr: Guerre d’Irak
+description:
+  en: >-
+    War that began with the US-led invasion of Iraq in March 2003, which overthrew Saddam Hussein's government. It was followed by an insurgency against coalition forces and the new Iraqi authorities, and by sectarian violence that peaked in 2006-2007, with car bombs, suicide attacks, death squads, military operations and air strikes. The collapse of infrastructure and health services added indirect deaths. US forces withdrew in December 2011.
+  fr: >-
+    Guerre commencée en mars 2003 par l’invasion de l’Irak menée par les États-Unis, qui renverse le gouvernement de Saddam Hussein. Suivent une insurrection contre les forces de la coalition et les nouvelles autorités irakiennes et des violences confessionnelles culminant en 2006-2007 : voitures piégées, attentats-suicides, escadrons de la mort, opérations militaires et frappes aériennes. L’effondrement des infrastructures et des services de santé s’ajoute aux causes de décès. Les forces américaines se retirent en décembre 2011.
+categories: [war]
+kind: event
+start: "2003-03-20"
+end: "2011-12-18"
+deaths:
+  best: 405000
+  low: 162000
+  high: 1033000
+  note:
+    en: >-
+      Deaths in Iraq; estimates differ widely depending on method and period. Coalition forces lost 4,826 soldiers (Wikipedia). Best is the national household survey published in PLOS Medicine (2013), the only estimate covering the whole war: about 405,000 excess deaths from March 2003 to June 2011 (95% uncertainty interval 48,000 to 751,000), more than 60% of them from violence. Low is the documented toll of Iraq Body Count, 162,000 violent deaths of civilians and combatants to the end of 2011 (including over 114,000 civilians), a count of reported deaths only. Earlier surveys covered shorter periods (Wikipedia): the Iraq Family Health Survey estimated 151,000 violent deaths to June 2006, the Lancet survey 654,965 excess deaths to July 2006, and an Opinion Research Business poll 1,033,000 deaths to August 2007 (high), a figure widely criticised.
+    fr: >-
+      Morts en Irak ; les estimations varient fortement selon la méthode et la période. Les forces de la coalition ont perdu 4 826 soldats (Wikipédia). L’estimation centrale est l’enquête nationale auprès des ménages publiée dans PLOS Medicine (2013), la seule couvrant toute la guerre : environ 405 000 morts en excès de mars 2003 à juin 2011 (intervalle d’incertitude à 95 % de 48 000 à 751 000), dont plus de 60 % dues à la violence. Le bas est le bilan documenté d’Iraq Body Count, 162 000 morts violentes de civils et de combattants jusqu’à fin 2011 (dont plus de 114 000 civils), qui ne compte que les morts signalées. Des enquêtes antérieures couvraient des périodes plus courtes (Wikipédia) : l’Iraq Family Health Survey estimait 151 000 morts violentes jusqu’en juin 2006, l’enquête du Lancet 654 965 morts en excès jusqu’en juillet 2006 et un sondage d’Opinion Research Business 1 033 000 morts jusqu’en août 2007 (le haut), chiffre très critiqué.
+countries:
+  - { code: IQ, deaths: 405000 }
+related: [gulf-war, war-in-afghanistan-2001, war-in-iraq-2013]
+sources:
+  - title: Iraq War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Iraq_War
+    accessed: "2026-10-22"
+  - title: "Mortality in Iraq Associated with the 2003-2011 War and Occupation: Findings from a National Cluster Sample Survey by the University Collaborative Iraq Mortality Study"
+    publisher: PLOS Medicine
+    url: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001533
+    accessed: "2026-10-22"
+  - title: Iraqi deaths from violence 2003-2011
+    publisher: Iraq Body Count
+    url: https://www.iraqbodycount.org/analysis/numbers/2011/
+    accessed: "2026-10-22"
+reviewed: false

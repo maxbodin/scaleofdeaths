@@ -1,0 +1,33 @@
+id: damghan-earthquake-856
+title:
+  en: 856 Damghan earthquake
+  fr: Séisme de 856 à Damghan
+description:
+  en: >-
+    On 22 December 856 an earthquake of estimated magnitude 7.9 struck the province of Qumis in the Abbasid Caliphate, along the southern edge of the eastern Alborz mountains in present-day Iran. Damage extended for about 350 km and almost all villages were ruined; half of Damghan and a third of Bastam collapsed, and the old Parthian capital Hecatompylos (Shahr-e Qumis) was destroyed and later abandoned. Landslides and dried-up springs and qanats disrupted the region's water supplies.
+  fr: >-
+    Le 22 décembre 856, un séisme de magnitude estimée à 7,9 a frappé la province de Qumis, dans le califat abbasside, au pied sud de l’Elbourz oriental, dans l’actuel Iran. Les dégâts se sont étendus sur environ 350 km et presque tous les villages ont été ruinés ; la moitié de Damghan et un tiers de Bastam se sont effondrés, et l’ancienne capitale parthe d’Hécatompyles (Shahr-e Qumis) a été détruite puis abandonnée. Glissements de terrain et tarissement des sources et des qanats ont perturbé l’approvisionnement en eau de la région.
+categories: [natural-disaster]
+kind: event
+start: "0856-12-22"
+deaths:
+  best: 200000
+  note:
+    en: Figure from medieval Arabic and Persian chronicles as compiled in historical earthquake catalogues, used by NOAA NCEI and USGS; 45,096 deaths are recorded for Damghan alone. No other total was found, but the Wikipedia article notes that this toll has been debated, and it cannot be checked.
+    fr: Chiffre issu des chroniques médiévales arabes et persanes, compilé dans les catalogues de séismes historiques et retenu par la NCEI de la NOAA et l’USGS ; 45 096 morts sont recensés pour la seule Damghan. Aucun autre total n’a été trouvé, mais l’article de Wikipédia signale que ce bilan est débattu, et il est invérifiable.
+countries:
+  - { code: IR, deaths: 200000 }
+sources:
+  - title: 856 Damghan earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/856_Damghan_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Damghan, Qumis, event 232"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/232
+    accessed: "2026-10-22"
+  - title: Earthquakes with 50,000 or More Deaths (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20130507101448/http://earthquake.usgs.gov/earthquakes/world/most_destructive.php
+    accessed: "2026-10-22"
+reviewed: false

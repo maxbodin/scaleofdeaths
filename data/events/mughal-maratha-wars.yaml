@@ -1,0 +1,35 @@
+id: mughal-maratha-wars
+title:
+  en: Mughal-Maratha Wars (Deccan wars)
+  fr: Guerres moghol-marathes (guerres du Deccan)
+description:
+  en: >-
+    Wars between the Mughal Empire under Aurangzeb and the Maratha kingdom founded by Shivaji, fought on the Deccan plateau of western and southern India. Aurangzeb moved his court and a huge army to the Deccan, had the Maratha ruler Sambhaji executed in 1689 and besieged hill forts for years, but Maratha mobile warfare continued until his death in 1707. The campaigns stripped the region of its food reserves, and famine and plague followed, notably in 1702-1704.
+  fr: >-
+    Guerres entre l’Empire moghol d’Aurangzeb et le royaume marathe fondé par Shivaji, livrées sur le plateau du Deccan, dans l’ouest et le sud de l’Inde. Aurangzeb transfère sa cour et une immense armée dans le Deccan, fait exécuter le souverain marathe Sambhaji en 1689 et assiège pendant des années des forteresses de montagne, mais la guerre de mouvement des Marathes se poursuit jusqu’à sa mort en 1707. Les campagnes épuisent les réserves de vivres de la région, et la famine et la peste suivent, notamment en 1702-1704.
+categories: [war]
+kind: event
+start: "1681-09-08"
+end: "1707-03-03"
+deaths:
+  best: 4600000
+  high: 5000000
+  note:
+    en: "Military and civilian deaths, mostly from famine and disease. Range: 4.6 to 5 million, from Matthew White's book Atrocitology as cited by Wikipedia's list of wars by death toll; best is the low end. It rests on contemporary estimates by Niccolao Manucci, a Venetian living in India, of about 100,000 deaths a year in Aurangzeb's army and two million civilians starved in 1702-1704 (via Necrometrics); the historian Stanley Wolpert also cites about 100,000 deaths a year. These are rough contemporary figures."
+    fr: "Morts militaires et civiles, surtout de famine et de maladie. Fourchette : 4,6 à 5 millions, d’après le livre Atrocitology de Matthew White cité par la liste des guerres par nombre de morts de Wikipédia ; l’estimation centrale est le bas de la fourchette. Elle repose sur les estimations de Niccolao Manucci, Vénitien vivant en Inde à l’époque, d’environ 100 000 morts par an dans l’armée d’Aurangzeb et de deux millions de civils morts de faim en 1702-1704 (via Necrometrics) ; l’historien Stanley Wolpert cite aussi environ 100 000 morts par an. Ce sont des chiffres d’époque approximatifs."
+countries:
+  - { code: IN, deaths: 4600000 }
+sources:
+  - title: Deccan wars
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Deccan_wars
+    accessed: "2026-10-22"
+  - title: List of wars by death toll
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_wars_by_death_toll
+    accessed: "2026-10-22"
+  - title: Selected Death Tolls for Wars, Massacres and Atrocities Before the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/pre1700a.htm
+    accessed: "2026-10-22"
+reviewed: false

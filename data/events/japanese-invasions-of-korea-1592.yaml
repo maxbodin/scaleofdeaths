@@ -1,0 +1,40 @@
+id: japanese-invasions-of-korea-1592
+title:
+  en: Japanese invasions of Korea (Imjin War)
+  fr: Invasions japonaises de la Corée (guerre d’Imjin)
+description:
+  en: >-
+    Two invasions of Joseon Korea ordered by the Japanese ruler Toyotomi Hideyoshi, in 1592 and 1597, as a first step toward conquering Ming China. Japanese armies quickly overran much of the peninsula, but Korean naval victories under Admiral Yi Sun-sin, guerrilla resistance and Ming Chinese intervention pushed them back to the south coast, and they withdrew after Hideyoshi's death in 1598. Battles, massacres, famine and epidemics devastated Korea, and tens of thousands of Koreans were carried off to Japan as captives.
+  fr: >-
+    Deux invasions de la Corée des Joseon ordonnées par le dirigeant japonais Toyotomi Hideyoshi, en 1592 et 1597, comme première étape vers la conquête de la Chine des Ming. Les armées japonaises envahissent rapidement une grande partie de la péninsule, mais les victoires navales coréennes de l’amiral Yi Sun-sin, la guérilla et l’intervention chinoise les repoussent vers la côte sud, et elles se retirent après la mort de Hideyoshi en 1598. Batailles, massacres, famine et épidémies dévastent la Corée, et des dizaines de milliers de Coréens sont emmenés captifs au Japon.
+categories: [war]
+kind: event
+start: "1592-05-23"
+end: "1598-12-16"
+deaths:
+  best: 1000000
+  low: 250000
+  note:
+    en: "Military and civilian deaths, including famine and disease. Best: about 1 million, the estimate of George H. Jones (1899), given as Korean losses by ThoughtCo and in Wikipedia's infobox. Low: something like a quarter of a million lives, the figure of the 1911 Encyclopaedia Britannica (via Necrometrics). Japan lost over 100,000 troops killed, captured or missing and over 29,000 Chinese soldiers were killed; it is unclear whether the 1 million estimate includes them."
+    fr: "Morts militaires et civiles, y compris de famine et de maladie. Estimation centrale : environ 1 million, estimation de George H. Jones (1899), présentée comme les pertes coréennes par ThoughtCo et dans l’infobox de Wikipédia. Bas : environ un quart de million de vies, chiffre de l’Encyclopaedia Britannica de 1911 (via Necrometrics). Le Japon a perdu plus de 100 000 soldats tués, capturés ou disparus et plus de 29 000 soldats chinois ont été tués ; on ignore si l’estimation de 1 million les inclut."
+countries:
+  - { name: { en: Joseon (Korea), fr: Joseon (Corée) }, deaths: 1000000 }
+  - { code: KR }
+  - { code: KP }
+  - { code: JP }
+  - { code: CN }
+related: [qing-conquest-of-the-ming]
+sources:
+  - title: Imjin War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Imjin_War
+    accessed: "2026-10-22"
+  - title: The Imjin War, 1592-98
+    publisher: ThoughtCo
+    url: https://www.thoughtco.com/the-imjin-war-1592-98-4016849
+    accessed: "2026-10-22"
+  - title: Selected Death Tolls for Wars, Massacres and Atrocities Before the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/pre1700a.htm
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,35 @@
+id: sichuan-earthquake-2008
+title:
+  en: 2008 Sichuan earthquake
+  fr: Séisme de 2008 au Sichuan
+description:
+  en: >-
+    At 14:28 on 12 May 2008 a magnitude 7.9 to 8.3 earthquake struck Sichuan, China, about 80 km west-northwest of Chengdu, rupturing the Longmenshan fault for over 240 km. Towns such as Beichuan, Yingxiu and Dujiangyan were almost completely destroyed, and landslides cut roads and dammed rivers, creating dozens of threatening barrier lakes. Thousands of schoolchildren died when poorly built schools collapsed. At least 4.8 million people were left homeless.
+  fr: >-
+    Le 12 mai 2008 à 14 h 28, un séisme de magnitude 7,9 à 8,3 a frappé le Sichuan, en Chine, à environ 80 km à l’ouest-nord-ouest de Chengdu, rompant la faille de Longmenshan sur plus de 240 km. Des villes comme Beichuan, Yingxiu et Dujiangyan ont été presque entièrement détruites, et des glissements de terrain ont coupé les routes et barré des rivières, formant des dizaines de lacs menaçants. Des milliers d’écoliers sont morts dans l’effondrement d’écoles mal construites. Au moins 4,8 millions de personnes se sont retrouvées sans abri.
+categories: [natural-disaster]
+kind: event
+start: "2008-05-12"
+deaths:
+  best: 87587
+  low: 87499
+  high: 87652
+  note:
+    en: Dead plus missing presumed dead. Chinese officials reported 69,196 known deaths and 18,379 missing. Best is the USGS total of dead and missing; Swiss Re gives 87,499 (low) and NOAA NCEI 87,652 (high). The toll includes 158 relief workers killed by landslides while repairing roads. Almost all deaths were in Sichuan, with some in Gansu, Shaanxi, Chongqing and other provinces.
+    fr: Morts et disparus présumés morts. Les autorités chinoises ont fait état de 69 196 morts recensés et de 18 379 disparus. L’estimation centrale est le total des morts et disparus de l’USGS ; Swiss Re donne 87 499 (bas de la fourchette) et la NCEI de la NOAA 87 652 (haut de la fourchette). Le bilan inclut 158 sauveteurs tués par des glissements de terrain en réparant des routes. Presque tous les morts étaient au Sichuan, quelques-uns au Gansu, au Shaanxi, à Chongqing et dans d’autres provinces.
+countries:
+  - { code: CN, deaths: 87587 }
+sources:
+  - title: 2008 Sichuan earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2008_Sichuan_earthquake
+    accessed: "2026-10-22"
+  - title: Earthquakes with 1,000 or More Deaths 1900-2014 (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20170118110610/http://earthquake.usgs.gov/earthquakes/world/world_deaths.php
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Sichuan Province, event 7843"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/7843
+    accessed: "2026-10-22"
+reviewed: false

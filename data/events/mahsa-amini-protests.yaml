@@ -1,0 +1,33 @@
+id: mahsa-amini-protests
+title:
+  en: Mahsa Amini protests
+  fr: Manifestations après la mort de Mahsa Amini
+description:
+  en: >-
+    Nationwide protests in Iran that followed the death in custody of Mahsa Amini, a 22-year-old Kurdish woman arrested by the morality police for allegedly breaching hijab rules, on 16 September 2022. Under the slogan "Woman, Life, Freedom", women and schoolgirls removed their headscarves in public and protests spread to most provinces. Security forces fired on crowds, notably in Zahedan on "Bloody Friday", 30 September 2022; thousands were arrested and several protesters were later executed. The movement had largely subsided by spring 2023.
+  fr: >-
+    Manifestations dans tout l’Iran après la mort en détention, le 16 septembre 2022, de Mahsa Amini, jeune Kurde de 22 ans arrêtée par la police des mœurs pour un port du voile jugé non conforme. Au cri de « Femme, vie, liberté », des femmes et des lycéennes retirent leur foulard en public et la contestation gagne la plupart des provinces. Les forces de sécurité tirent sur la foule, notamment à Zahedan lors du « vendredi sanglant » du 30 septembre 2022 ; des milliers de personnes sont arrêtées et plusieurs manifestants exécutés. Le mouvement s’essouffle au printemps 2023.
+categories: [genocide]
+kind: event
+start: "2022-09-16"
+end: "2023"
+deaths:
+  best: 551
+  low: 200
+  note:
+    en: >-
+      Protesters and bystanders killed. Best is the figure of 551 deaths, including at least 49 women and 68 children, in 26 of Iran's 31 provinces, that the UN fact-finding mission on Iran called credible in March 2024 (UN News); it matches the count of the Norway-based group Iran Human Rights as of 15 September 2023 (Wikipedia). Low is the toll of 200 deaths given by an Iranian state security body in December 2022 (Wikipedia). The Iranian government said 54 members of the security forces were killed (UN News); they and protesters executed after trials are not included in best.
+    fr: >-
+      Manifestants et passants tués. L’estimation centrale est le chiffre de 551 morts, dont au moins 49 femmes et 68 enfants, dans 26 des 31 provinces d’Iran, jugé crédible par la mission d’établissement des faits de l’ONU sur l’Iran en mars 2024 (ONU Info) ; il correspond au décompte de l’ONG norvégienne Iran Human Rights au 15 septembre 2023 (Wikipédia). Le bas est le bilan de 200 morts donné par un organe sécuritaire de l’État iranien en décembre 2022 (Wikipédia). Le gouvernement iranien a fait état de 54 membres des forces de sécurité tués (ONU Info) ; ceux-ci et les manifestants exécutés après leur procès ne sont pas comptés dans l’estimation centrale.
+countries:
+  - { code: IR, deaths: 551 }
+sources:
+  - title: Mahsa Amini protests
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Mahsa_Amini_protests
+    accessed: "2026-10-22"
+  - title: "Iran: Repression continues two years after nationwide protests"
+    publisher: UN News
+    url: https://news.un.org/en/story/2024/03/1147681
+    accessed: "2026-10-22"
+reviewed: false

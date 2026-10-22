@@ -1,0 +1,31 @@
+id: texas-city-disaster
+title:
+  en: Texas City disaster
+  fr: Catastrophe de Texas City
+description:
+  en: >-
+    On the morning of 16 April 1947 a fire aboard the French-registered ship Grandcamp, docked at Texas City on Galveston Bay, Texas, detonated her cargo of about 2,100 tonnes of ammonium nitrate. The blast destroyed the docks and the nearby Monsanto chemical plant, killed all but one member of the city's volunteer fire department and started fires in oil and chemical tanks across the port. A second ship loaded with ammonium nitrate, the High Flyer, exploded early the next morning. It is the deadliest industrial accident in United States history.
+  fr: >-
+    Le matin du 16 avril 1947, un incendie à bord du Grandcamp, navire sous pavillon français amarré à Texas City, dans la baie de Galveston (Texas), fait exploser sa cargaison d’environ 2 100 tonnes de nitrate d’ammonium. L’explosion détruit les quais et l’usine chimique voisine de Monsanto, tue tous les pompiers volontaires de la ville sauf un et embrase les réservoirs de pétrole et de produits chimiques du port. Un second navire chargé de nitrate d’ammonium, le High Flyer, explose tôt le lendemain. C’est l’accident industriel le plus meurtrier de l’histoire des États-Unis.
+categories: [accident]
+kind: event
+start: "1947-04-16"
+end: "1947-04-17"
+deaths:
+  best: 581
+  low: 576
+  note:
+    en: Best is the toll of at least 581 given by Wikipedia (405 identified dead, 63 unidentified and 113 missing whose remains were never found). Low is the 576 dead (398 identified and 178 missing) recorded on the memorial anchor, according to the Handbook of Texas. The exact number will never be known, as Monsanto's personnel records were destroyed and many dock workers were itinerant.
+    fr: L’estimation centrale est le bilan d’au moins 581 morts donné par Wikipédia (405 morts identifiés, 63 non identifiés et 113 disparus dont aucun reste n’a été retrouvé). La borne basse correspond aux 576 morts (398 identifiés et 178 disparus) inscrits sur l’ancre commémorative, selon le Handbook of Texas. Le nombre exact ne sera jamais connu, car les registres du personnel de Monsanto ont été détruits et beaucoup de dockers étaient des travailleurs itinérants.
+countries:
+  - { code: US, deaths: 581 }
+sources:
+  - title: Texas City disaster
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Texas_City_disaster
+    accessed: "2026-10-22"
+  - title: Texas City Disaster
+    publisher: Texas State Historical Association (Handbook of Texas Online)
+    url: https://www.tshaonline.org/handbook/entries/texas-city-disaster
+    accessed: "2026-10-22"
+reviewed: false

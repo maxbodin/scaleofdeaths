@@ -1,0 +1,36 @@
+id: spanish-civil-war
+title:
+  en: Spanish Civil War
+  fr: Guerre d’Espagne
+description:
+  en: >-
+    Civil war between the Republican government of Spain and the Nationalist rebels led by General Francisco Franco, who launched a military coup in July 1936. Nazi Germany and Fascist Italy supported the Nationalists, the Soviet Union and the International Brigades the Republic. Besides combat, both sides carried out mass executions behind the lines, civilians were killed in air raids such as the bombing of Guernica, and many died of hunger and disease. It ended with Franco's victory and dictatorship.
+  fr: >-
+    Guerre civile entre le gouvernement républicain espagnol et les rebelles nationalistes menés par le général Francisco Franco, auteurs d’un coup d’État militaire en juillet 1936. L’Allemagne nazie et l’Italie fasciste soutiennent les nationalistes, l’Union soviétique et les Brigades internationales la République. Outre les combats, les deux camps procèdent à des exécutions de masse à l’arrière, des civils sont tués par des bombardements aériens comme celui de Guernica, et beaucoup meurent de faim et de maladie. Elle aboutit à la victoire et à la dictature de Franco.
+categories: [war]
+kind: event
+start: "1936-07-17"
+end: "1939-04-01"
+deaths:
+  best: 500000
+  low: 346000
+  high: 540000
+  note:
+    en: Combat deaths, executions behind the lines, air raids and deaths from malnutrition and disease. Best is the "about 500,000 deaths from all causes" of Spartacus Educational, close to Hugh Thomas's long-cited estimate. Low is the demographers' estimate of 346,000 excess deaths for 1936-1939 (Ortega and Silvestre, via Wikipedia); high is their 540,000 excess deaths for 1936-1942, reported by El País, which adds postwar repression and hardship. Estimates in the literature range from 250,000 to 1 million; the million figure is considered a myth.
+    fr: Morts au combat, exécutions à l’arrière, bombardements aériens et morts de malnutrition et de maladie. L’estimation centrale est le chiffre d’« environ 500 000 morts de toutes causes » de Spartacus Educational, proche de l’estimation longtemps citée de Hugh Thomas. Le bas est l’estimation démographique de 346 000 morts en excès pour 1936-1939 (Ortega et Silvestre, via Wikipédia) ; le haut, leurs 540 000 morts en excès pour 1936-1942, rapportés par El País, qui ajoutent la répression et les privations d’après-guerre. Les estimations publiées vont de 250 000 à un million ; le chiffre du million est considéré comme un mythe.
+countries:
+  - { code: ES }
+sources:
+  - title: Spanish Civil War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Spanish_Civil_War
+    accessed: "2026-10-22"
+  - title: "Spanish Civil War: Casualties"
+    publisher: Spartacus Educational
+    url: https://spartacus-educational.com/SPcasualties.htm
+    accessed: "2026-10-22"
+  - title: ¿Cuántas víctimas se cobró la Guerra Civil? ¿Dónde hubo más?
+    publisher: El País
+    url: https://elpais.com/politica/2019/02/11/sepa_usted/1549896518_673788.html
+    accessed: "2026-10-22"
+reviewed: false

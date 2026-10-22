@@ -1,0 +1,34 @@
+id: battle-of-bakhmut
+title:
+  en: Battle of Bakhmut
+  fr: Bataille de Bakhmout
+description:
+  en: >-
+    Battle for the city of Bakhmut in Ukraine's Donetsk region, one of the longest and deadliest of the war. Russian forces, led by the Wagner Group and its units of recruited convicts, shelled the city from May 2022 and attacked it from July in waves of infantry assaults against Ukrainian defences. Wagner's leader Yevgeny Prigozhin announced its capture on 20 May 2023. The city was left in ruins and nearly all of its 80,000 pre-war residents had fled.
+  fr: >-
+    Bataille pour la ville de Bakhmout, dans la région de Donetsk, l’une des plus longues et des plus meurtrières de la guerre. Les forces russes, menées par le groupe Wagner et ses unités de détenus recrutés en prison, bombardent la ville à partir de mai 2022 et l’attaquent à partir de juillet par vagues d’assauts d’infanterie contre les défenses ukrainiennes. Le chef de Wagner, Evgueni Prigojine, annonce sa prise le 20 mai 2023. La ville est en ruines et la quasi-totalité de ses 80 000 habitants d’avant-guerre l’ont fuie.
+categories: [war]
+kind: event
+partOf: russo-ukrainian-war
+start: "2022-07"
+circa: true
+end: "2023-05-20"
+deaths:
+  best: 19547
+  note:
+    en: >-
+      No source gives a total death toll for both sides; most published figures are casualties including wounded and are not used here. Best counts only the Wagner Group fighters killed in the battle, identified by name by BBC News Russian and Mediazona from documents on compensation paid to their families (June 2024), of whom 17,175 were recruited convicts (Kyiv Post); regular Russian troops are not included, and Meduza and Mediazona estimated about 21,000 dead among all Russian forces attacking Soledar and Bakhmut (Wikipedia). Ukrainian deaths are not included in best: the UALosses project had identified 14,235 Ukrainian soldiers killed in the battle by June 2026, with 16,569 missing (Wikipedia). The mayor reported 204 residents killed by the end of May 2023 (Wikipedia). The full toll is therefore much higher than best.
+    fr: >-
+      Aucune source ne donne de bilan des morts pour les deux camps ; la plupart des chiffres publiés sont des pertes incluant les blessés et ne sont pas utilisés ici. L’estimation centrale ne compte que les combattants du groupe Wagner tués dans la bataille, identifiés nominativement par BBC News en russe et Mediazona à partir de documents sur les indemnités versées à leurs familles (juin 2024), dont 17 175 détenus recrutés (Kyiv Post) ; les troupes russes régulières n’y figurent pas, et Meduza et Mediazona estimaient à environ 21 000 les morts de l’ensemble des forces russes ayant attaqué Soledar et Bakhmout (Wikipédia). Les morts ukrainiennes ne sont pas incluses : le projet UALosses avait identifié 14 235 soldats ukrainiens tués dans la bataille en juin 2026, et 16 569 disparus (Wikipédia). Le maire faisait état de 204 habitants tués fin mai 2023 (Wikipédia). Le bilan complet est donc bien plus élevé que l’estimation centrale.
+countries:
+  - { code: UA, deaths: 19547 }
+sources:
+  - title: Battle of Bakhmut
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Battle_of_Bakhmut
+    accessed: "2026-10-22"
+  - title: Russia Lost More Men in Bakhmut Than in Its Afghan War
+    publisher: Kyiv Post
+    url: https://www.kyivpost.com/post/34167
+    accessed: "2026-10-22"
+reviewed: false

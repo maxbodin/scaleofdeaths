@@ -1,0 +1,39 @@
+id: uganda-sleeping-sickness-epidemic-1900
+title:
+  en: 1900-1920 Uganda sleeping sickness epidemic
+  fr: Épidémie de maladie du sommeil en Ouganda (1900-1920)
+description:
+  en: >-
+    Epidemic of sleeping sickness (human African trypanosomiasis), a parasitic disease transmitted by tsetse flies, on the northern shores of Lake Victoria in the British Uganda Protectorate, particularly in the Busoga region. It followed a rinderpest panzootic and a drought that drove people, livestock and tsetse flies around the remaining water sources. First described at the Mengo mission hospital in 1901, it killed about a third of the people of Busoga. Long attributed to T. b. gambiense, it was probably caused at least in part by T. b. rhodesiense.
+  fr: >-
+    Épidémie de maladie du sommeil (trypanosomiase humaine africaine), maladie parasitaire transmise par la mouche tsé-tsé, sur la rive nord du lac Victoria, dans le protectorat britannique de l’Ouganda, surtout dans la région du Busoga. Elle a suivi une panzootie de peste bovine et une sécheresse qui avaient concentré humains, bétail et mouches autour des points d’eau. Décrite à l’hôpital missionnaire de Mengo en 1901, elle a tué environ un tiers des habitants du Busoga. Longtemps attribuée à T. b. gambiense, elle serait due au moins en partie à T. b. rhodesiense.
+categories: [epidemic]
+kind: event
+start: "1900"
+end: "1920"
+deaths:
+  best: 250000
+  low: 200000
+  high: 300000
+  note:
+    en: >-
+      Best is the estimate of about 250,000 deaths from 1900 to 1920 given by Fèvre et al. (Emerging Infectious Diseases, 2004), whose abstract says more than 250,000; the range of 200,000 to 300,000 deaths in Uganda is the World Health Organization's.
+    fr: >-
+      L’estimation retenue est celle d’environ 250 000 morts entre 1900 et 1920 donnée par Fèvre et al. (Emerging Infectious Diseases, 2004), dont le résumé parle de plus de 250 000 morts ; la fourchette de 200 000 à 300 000 morts en Ouganda est celle de l’Organisation mondiale de la santé.
+countries:
+  - { code: UG, deaths: 250000 }
+related: [congo-sleeping-sickness-epidemic-1896]
+sources:
+  - title: African trypanosomiasis
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/African_trypanosomiasis
+    accessed: "2026-10-22"
+  - title: Reanalyzing the 1900-1920 Sleeping Sickness Epidemic in Uganda
+    publisher: Emerging Infectious Diseases (CDC)
+    url: https://wwwnc.cdc.gov/eid/article/10/4/02-0626_article
+    accessed: "2026-10-22"
+  - title: "The history of sleeping sickness: the big transcontinental epidemic (archived page)"
+    publisher: World Health Organization
+    url: https://web.archive.org/web/20080323231311/http://www.who.int/trypanosomiasis_african/country/history/en/index5.html
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,33 @@
+id: mogadishu-bombings-2017
+title:
+  en: 14 October 2017 Mogadishu bombings
+  fr: Attentats du 14 octobre 2017 à Mogadiscio
+description:
+  en: >-
+    Two truck bombings in Mogadishu, the capital of Somalia. The main blast hit a busy junction near the Safari Hotel in the middle of the day, next to a fuel tanker that intensified the explosion, destroying hotels, government offices, restaurants and vehicles; a second bomb exploded in Medina district about 30 minutes later, killing two people. No group claimed responsibility, but Somali officials blamed the Islamist group al-Shabaab. It is the deadliest attack in Somalia's history.
+  fr: >-
+    Deux attentats au camion piégé à Mogadiscio, capitale de la Somalie. L’explosion principale frappa en pleine journée un carrefour très fréquenté près de l’hôtel Safari, à côté d’un camion-citerne qui en amplifia la puissance, détruisant hôtels, bureaux, restaurants et véhicules ; une seconde bombe tua deux personnes dans le district de Medina une trentaine de minutes plus tard. Aucun groupe n’a revendiqué l’attaque, mais les autorités somaliennes l’ont imputée au groupe islamiste al-Chabab. C’est l’attentat le plus meurtrier de l’histoire de la Somalie.
+categories: [genocide]
+kind: event
+start: "2017-10-14"
+deaths:
+  best: 587
+  note:
+    en: Final death toll of the Zobe Rescue Committee of volunteers and government officials, released in March 2018 (Hiiraan Online) and used by Wikipedia. Earlier official counts were 358 (BBC News, 20 October 2017) and then 512; some victims were never found. Sources do not say whether the bombers are included.
+    fr: Bilan définitif du comité de secours de Zobe, composé de bénévoles et de responsables gouvernementaux, publié en mars 2018 (Hiiraan Online) et repris par Wikipédia. Les bilans officiels antérieurs étaient de 358 morts (BBC News, 20 octobre 2017), puis de 512 ; certaines victimes n’ont jamais été retrouvées. Les sources ne précisent pas si les auteurs sont comptés.
+countries:
+  - { code: SO, deaths: 587 }
+sources:
+  - title: 14 October 2017 Mogadishu bombings
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/14_October_2017_Mogadishu_bombings
+    accessed: "2026-10-22"
+  - title: "Committee: 587 dead in Oct 14 terror attack"
+    publisher: Hiiraan Online
+    url: https://hiiraan.com/news4/2018/Mar/157047/committee_587_dead_in_oct_14_terror_attack.aspx
+    accessed: "2026-10-22"
+  - title: Mogadishu truck bombing death toll jumps to 358
+    publisher: BBC News
+    url: https://www.bbc.com/news/world-africa-41698890
+    accessed: "2026-10-22"
+reviewed: false

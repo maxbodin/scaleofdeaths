@@ -1,0 +1,36 @@
+id: kashmir-earthquake-2005
+title:
+  en: 2005 Kashmir earthquake
+  fr: Séisme de 2005 au Cachemire
+description:
+  en: >-
+    At 08:50 on 8 October 2005 a magnitude 7.6 earthquake struck Kashmir and northern Pakistan. Muzaffarabad, Balakot, Bagh and Battagram were the worst hit; whole villages were destroyed and landslides buried many more people. Because it struck on a school morning, many victims were students and teachers caught in collapsing schools. Indian-administered Kashmir was also severely damaged, more than 3.5 million people were displaced and cold weather later killed many survivors.
+  fr: >-
+    Le 8 octobre 2005 à 8 h 50, un séisme de magnitude 7,6 a frappé le Cachemire et le nord du Pakistan. Muzaffarabad, Balakot, Bagh et Battagram ont été les plus touchées ; des villages entiers ont été détruits et des glissements de terrain ont enseveli de nombreuses autres personnes. Le séisme ayant eu lieu un matin d’école, beaucoup de victimes étaient des élèves et des enseignants pris sous leurs écoles effondrées. Le Cachemire sous administration indienne a aussi subi de graves dégâts, plus de 3,5 millions de personnes ont été déplacées et le froid a ensuite tué de nombreux survivants.
+categories: [natural-disaster]
+kind: event
+start: "2005-10-08"
+deaths:
+  best: 88714
+  low: 76213
+  note:
+    en: Best is the total of official figures given by Wikipedia, 87,350 in Pakistan (government toll as of November 2005), 1,360 in India and 4 in Afghanistan. USGS gives at least 86,000 in Pakistan, and NOAA NCEI retains 76,213 for all three countries (low). Some initial estimates exceeded 100,000; thousands were still unaccounted for in 2010, and later deaths from cold among survivors are not clearly counted.
+    fr: L’estimation centrale est le total des chiffres officiels donnés par Wikipédia, 87 350 au Pakistan (bilan gouvernemental de novembre 2005), 1 360 en Inde et 4 en Afghanistan. L’USGS donne au moins 86 000 au Pakistan, et la NCEI de la NOAA retient 76 213 pour les trois pays (bas de la fourchette). Certaines estimations initiales dépassaient 100 000 ; des milliers de personnes manquaient encore à l’appel en 2010, et les morts de froid parmi les survivants ne sont pas clairement comptées.
+countries:
+  - { code: PK, deaths: 87350 }
+  - { code: IN, deaths: 1360 }
+  - { code: AF, deaths: 4 }
+sources:
+  - title: 2005 Kashmir earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2005_Kashmir_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Muzaffarabad, Uri, Anantnag, Baramula, event 6778"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/6778
+    accessed: "2026-10-22"
+  - title: Earthquakes with 1,000 or More Deaths 1900-2014 (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20170118110610/http://earthquake.usgs.gov/earthquakes/world/world_deaths.php
+    accessed: "2026-10-22"
+reviewed: false

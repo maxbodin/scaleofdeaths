@@ -1,0 +1,35 @@
+id: tabas-earthquake-1978
+title:
+  en: 1978 Tabas earthquake
+  fr: Séisme de 1978 à Tabas
+description:
+  en: >-
+    At 19:05 on 16 September 1978 a magnitude 7.4 earthquake on a blind thrust fault struck the Tabas region of east-central Iran, an area that had been seismically quiet for eleven centuries. The town of Tabas was almost entirely destroyed and lost most of its inhabitants, villages such as Dehesk and Kurit lost more than half of theirs, and some 90 villages were destroyed in all. It was the third-deadliest natural disaster in Iran in the last hundred years.
+  fr: >-
+    Le 16 septembre 1978 à 19 h 05, un séisme de magnitude 7,4 sur une faille inverse aveugle a frappé la région de Tabas, dans le centre-est de l’Iran, une zone sismiquement calme depuis onze siècles. La ville de Tabas a été presque entièrement détruite et a perdu la majorité de ses habitants, des villages comme Dehesk et Kurit plus de la moitié des leurs, et quelque 90 villages ont été détruits au total. C’est la troisième catastrophe naturelle la plus meurtrière en Iran depuis cent ans.
+categories: [natural-disaster]
+kind: event
+start: "1978-09-16"
+deaths:
+  best: 20000
+  low: 15000
+  high: 25000
+  note:
+    en: Estimates range from 15,000 (USGS) to 25,000 (Wikipedia, and the EM-DAT figure cited by NOAA NCEI); some later reports give up to 26,000. Best is the figure retained by NCEI and several catalogues; the seismologist Manuel Berberian reported over 20,000 deaths, 85% of them in Tabas itself. USGS gives about 9,000 deaths in Tabas, 2,500 in Dehesk and 2,000 in Kurit.
+    fr: Les estimations vont de 15 000 (USGS) à 25 000 (Wikipédia, et le chiffre d’EM-DAT cité par la NCEI de la NOAA) ; certains rapports ultérieurs vont jusqu’à 26 000. L’estimation centrale est le chiffre retenu par la NCEI et plusieurs catalogues ; le sismologue Manuel Berberian a fait état de plus de 20 000 morts, dont 85 % à Tabas même. L’USGS donne environ 9 000 morts à Tabas, 2 500 à Dehesk et 2 000 à Kurit.
+countries:
+  - { code: IR, deaths: 20000 }
+sources:
+  - title: 1978 Tabas earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1978_Tabas_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Tabas, event 4815"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/4815
+    accessed: "2026-10-22"
+  - title: Earthquakes with 1,000 or More Deaths 1900-2014 (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20170118110610/http://earthquake.usgs.gov/earthquakes/world/world_deaths.php
+    accessed: "2026-10-22"
+reviewed: false

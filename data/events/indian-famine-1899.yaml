@@ -1,0 +1,32 @@
+id: indian-famine-1899
+title:
+  en: Indian famine of 1899-1900
+  fr: Famine indienne de 1899-1900
+description:
+  en: >-
+    Famine that followed the failure of the 1899 summer monsoon over western and central India, only two years after the famine of 1896-1897, and affected about 59.5 million people. It was most acute in the Central Provinces and Berar, the Bombay Presidency, Ajmer-Merwara and Hissar district in the Punjab, and in the princely states of Rajputana, Central India, Hyderabad and Kathiawar. Cholera and then malaria epidemics after the 1900 monsoon caused much of the mortality, and millions of cattle died for lack of fodder.
+  fr: >-
+    Famine provoquée par l’échec de la mousson d’été de 1899 dans l’ouest et le centre de l’Inde, deux ans seulement après celle de 1896-1897 ; elle a touché environ 59,5 millions de personnes. Elle a été la plus grave dans les Provinces centrales et le Berar, la présidence de Bombay, l’Ajmer-Merwara et le district de Hissar au Pendjab, ainsi que dans les États princiers du Rajputana, de l’Inde centrale, d’Hyderabad et du Kathiawar. Le choléra puis le paludisme après la mousson de 1900 ont causé une grande part des morts, et des millions de bovins ont péri faute de fourrage.
+categories: [famine]
+kind: event
+start: "1899"
+end: "1900"
+deaths:
+  best: 1000000
+  high: 4500000
+  note:
+    en: "Deaths from starvation and accompanying disease. Best: about 1 million, the 1908 estimate of the Imperial Gazetteer of India for the British-administered districts alone, also used by the World Peace Foundation; the Bombay Presidency alone recorded 462,000 deaths. High: 4.5 million, the top of other estimates cited by Wikipedia, which range from 1 to 4.5 million."
+    fr: "Morts de faim et des maladies associées. Valeur centrale : environ 1 million, estimation de l’Imperial Gazetteer of India (1908) pour les seuls districts sous administration britannique, également retenue par la World Peace Foundation ; la seule présidence de Bombay a compté 462 000 morts. Haut : 4,5 millions, haut des autres estimations citées par Wikipédia, qui vont de 1 à 4,5 millions."
+countries:
+  - { code: IN }
+related: [indian-famine-1896]
+sources:
+  - title: Indian famine of 1899-1900
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Indian_famine_of_1899%E2%80%931900
+    accessed: "2026-10-22"
+  - title: Famines and the deaths in them
+    publisher: Our World in Data (World Peace Foundation data)
+    url: https://ourworldindata.org/grapher/famines-and-the-deaths-in-them
+    accessed: "2026-10-22"
+reviewed: false

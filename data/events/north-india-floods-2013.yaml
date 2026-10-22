@@ -1,0 +1,30 @@
+id: north-india-floods-2013
+title:
+  en: 2013 North India floods (Kedarnath)
+  fr: Inondations de 2013 dans le nord de l’Inde (Kedarnath)
+description:
+  en: >-
+    In mid-June 2013 a low-pressure system from the Bay of Bengal combined with western disturbances to bring four days of unprecedented rain to the Himalayan state of Uttarakhand and neighbouring regions. On 16 June melting snow and the overflow of Chorabari Lake sent a torrent of water, silt and boulders through the pilgrimage town of Kedarnath, while flash floods and landslides wiped out settlements such as Gaurikund and Rambada. Soldiers and air crews rescued more than 100,000 stranded pilgrims, tourists and residents.
+  fr: >-
+    À la mi-juin 2013, une dépression venue du golfe du Bengale, combinée à des perturbations d’ouest, a apporté quatre jours de pluies sans précédent sur l’État himalayen de l’Uttarakhand et les régions voisines. Le 16 juin, la fonte des neiges et le débordement du lac Chorabari ont précipité un torrent d’eau, de boue et de rochers sur la ville de pèlerinage de Kedarnath, tandis que crues soudaines et glissements de terrain rayaient de la carte des localités comme Gaurikund et Rambada. Soldats et équipages aériens ont secouru plus de 100 000 pèlerins, touristes et habitants bloqués.
+categories: [natural-disaster]
+kind: event
+start: "2013-06"
+deaths:
+  best: 6054
+  low: 5700
+  note:
+    en: Most victims were pilgrims and tourists, and many bodies were never found. In July 2013 the Uttarakhand government declared more than 5,700 missing people presumed dead (low; the figure included 934 local residents) after an earlier toll of 600. Best is the later toll given by Wikipedia from a UN disaster risk reduction report. Over 89% of deaths were in Uttarakhand; Uttar Pradesh reported more than 120 and Himachal Pradesh 20. The per-country figure is the Uttarakhand total only.
+    fr: La plupart des victimes étaient des pèlerins et des touristes, et beaucoup de corps n’ont jamais été retrouvés. En juillet 2013, le gouvernement de l’Uttarakhand a déclaré présumées mortes plus de 5 700 personnes disparues (bas de la fourchette, dont 934 habitants), après un bilan antérieur de 600. L’estimation centrale est le bilan ultérieur donné par Wikipédia d’après un rapport de l’ONU sur la réduction des risques de catastrophe. Plus de 89 % des morts se trouvaient en Uttarakhand ; l’Uttar Pradesh en a signalé plus de 120 et l’Himachal Pradesh 20. Le chiffre par pays ne couvre que l’Uttarakhand.
+countries:
+  - { code: IN, deaths: 5700 }
+sources:
+  - title: 2013 North India floods
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2013_North_India_floods
+    accessed: "2026-10-22"
+  - title: India raises flood death toll to 5,700 as all missing persons now presumed dead (archived)
+    publisher: CBS News (Associated Press)
+    url: https://web.archive.org/web/20130717111417/http://www.cbsnews.com/8301-202_162-57593939/india-raises-flood-death-toll-reaches-5700-as-all-missing-persons-now-presumed-dead/
+    accessed: "2026-10-22"
+reviewed: false

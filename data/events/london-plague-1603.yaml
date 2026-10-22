@@ -1,0 +1,33 @@
+id: london-plague-1603
+title:
+  en: 1603 London plague
+  fr: Peste de Londres de 1603
+description:
+  en: >-
+    The first plague epidemic of the 17th century in London, at the transition from the Tudor to the Stuart period. Cases were first recorded in the outer parish of Stepney shortly after the funeral of Elizabeth I, and the disease spread through the crowded and poorly governed liberties around the city walls, home to two-thirds of Londoners. James I's coronation went ahead on 25 July 1603, but his royal entry into the city was postponed until April 1604, when the plague was said to have abated.
+  fr: >-
+    Première épidémie de peste du XVIIe siècle à Londres, au passage de l’époque Tudor à l’époque Stuart. Les premiers cas furent signalés dans la paroisse périphérique de Stepney peu après les funérailles d’Élisabeth Ire, et la maladie se répandit dans les « liberties » surpeuplées et mal administrées qui entouraient les remparts, où vivaient deux tiers des Londoniens. Le couronnement de Jacques Ier eut lieu le 25 juillet 1603, mais son entrée solennelle dans la ville fut reportée à avril 1604, la peste étant alors dite enrayée.
+categories: [epidemic]
+kind: event
+start: "1603"
+end: "1604"
+deaths:
+  best: 30000
+  low: 23045
+  high: 35000
+  note:
+    en: Plague deaths in London. Best is the "at least 30,000" given by historian Stephen Porter (Gresham College), in a city of perhaps 140,000 people in 1600. Wikipedia gives 23,045 (Moote) to 35,000 (Kohn), which sets the range, and says about a fifth of the population died.
+    fr: Morts de la peste à Londres. L’estimation retenue est celle d’« au moins 30 000 » donnée par l’historien Stephen Porter (Gresham College), pour une ville d’environ 140 000 habitants en 1600. Wikipédia donne de 23 045 (Moote) à 35 000 (Kohn), ce qui fixe la fourchette, et estime qu’environ un cinquième de la population est mort.
+countries:
+  - { code: GB, deaths: 30000 }
+related: [black-death, great-plague-of-london]
+sources:
+  - title: 1603 London plague
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1603_London_plague
+    accessed: "2026-10-22"
+  - title: "Disease and the City: 17th Century Plague (Stephen Porter)"
+    publisher: Gresham College
+    url: https://www.gresham.ac.uk/watch-now/17th-century-plague
+    accessed: "2026-10-22"
+reviewed: false

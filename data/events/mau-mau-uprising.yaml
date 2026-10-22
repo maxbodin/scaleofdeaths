@@ -1,0 +1,37 @@
+id: mau-mau-uprising
+title:
+  en: Mau Mau uprising
+  fr: Révolte des Mau Mau
+description:
+  en: >-
+    Armed rebellion in British Kenya led by the Mau Mau movement, drawn mainly from the Kikuyu, against colonial rule and the seizure of African land by white settlers. The British declared a state of emergency in October 1952 and waged a counter-insurgency campaign with mass detention of suspects in camps, widespread torture and more than 1,000 executions by hanging. The conflict was also a civil war among Kikuyu, and the Mau Mau killed many African loyalists. The rebels were largely defeated by 1956; the emergency ended in 1960 and Kenya became independent in 1963.
+  fr: >-
+    Rébellion armée au Kenya britannique menée par le mouvement Mau Mau, issu surtout des Kikuyu, contre la domination coloniale et l’accaparement des terres par les colons blancs. Les Britanniques décrètent l’état d’urgence en octobre 1952 et mènent une contre-insurrection marquée par des détentions massives en camps, la torture et plus de 1 000 pendaisons. Le conflit est aussi une guerre civile entre Kikuyu, et les Mau Mau tuent de nombreux Africains loyalistes. Les rebelles sont en grande partie vaincus en 1956 ; l’état d’urgence prend fin en 1960 et le Kenya devient indépendant en 1963.
+categories: [war]
+kind: event
+start: "1952-10-07"
+end: "1960"
+deaths:
+  best: 25000
+  low: 11000
+  high: 50000
+  note:
+    en: Deaths of rebels, loyalists, security forces and civilians; the toll is disputed. Best is historian David Anderson's estimate of about 25,000 deaths (Wikipedia; the BBC reports it as "as high as 25,000"). Low is the official count of 11,000 Mau Mau and other rebels killed, including 1,090 hanged (BBC, Wikipedia). High is demographer John Blacker's 50,000 deaths, half of them children under ten, mostly from malnutrition and disease caused by wartime conditions. Caroline Elkins has suggested that tens or hundreds of thousands died in detention camps and emergency villages, figures challenged by Blacker and other historians. Per-country figures are the official rebel toll for Kenya and 95 British military dead.
+    fr: Morts parmi les rebelles, les loyalistes, les forces de sécurité et les civils ; le bilan est contesté. L’estimation centrale est celle de l’historien David Anderson, environ 25 000 morts (Wikipédia ; la BBC parle de « jusqu’à 25 000 »). Le bas correspond au décompte officiel de 11 000 Mau Mau et autres rebelles tués, dont 1 090 pendus (BBC, Wikipédia). Le haut correspond aux 50 000 morts estimés par le démographe John Blacker, dont la moitié d’enfants de moins de dix ans, surtout victimes de malnutrition et de maladies liées à la guerre. Caroline Elkins a avancé que des dizaines voire des centaines de milliers de personnes seraient mortes dans les camps de détention et les villages d’urgence, chiffres contestés par Blacker et d’autres historiens. Les chiffres par pays sont le bilan officiel des rebelles pour le Kenya et 95 militaires britanniques morts.
+countries:
+  - { code: KE, deaths: 11000 }
+  - { code: GB, deaths: 95 }
+sources:
+  - title: Mau Mau rebellion
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Mau_Mau_rebellion
+    accessed: "2026-10-22"
+  - title: "Mau Mau uprising: Bloody history of Kenya conflict"
+    publisher: BBC News
+    url: https://www.bbc.com/news/uk-12997138
+    accessed: "2026-10-22"
+  - title: "The PRIO Battle Deaths Dataset, 1946-2008, Version 3.0: Documentation of Coding Decisions (Lacina), Kenya"
+    publisher: Peace Research Institute Oslo (PRIO)
+    url: https://cdn.cloud.prio.org/files/91648bba-8885-40ce-8a78-fae75c850c55/PRIO%20Battle%20Deaths%20Dataset%2030%20Documentation.pdf
+    accessed: "2026-10-22"
+reviewed: false

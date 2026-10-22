@@ -1,0 +1,48 @@
+id: hiv-deaths-annual
+title:
+  en: Deaths from AIDS-related illnesses per year
+  fr: Décès liés au sida par an
+description:
+  en: >-
+    People who died from AIDS-related illnesses worldwide in one year, as estimated by UNAIDS and WHO from country data and modelling. HIV weakens the immune system, and people with untreated advanced infection die from illnesses such as tuberculosis, cryptococcal meningitis, severe bacterial infections and some cancers. With antiretroviral treatment now reaching about 32 million people, AIDS-related deaths have fallen by 73% since their peak in 2004, but someone still died of HIV-related causes every minute. Most deaths occur in Africa.
+  fr: >-
+    Personnes mortes de maladies liées au sida dans le monde en un an, selon l’estimation de l’ONUSIDA et de l’OMS à partir des données des pays et d’une modélisation. Le VIH affaiblit le système immunitaire, et les personnes au stade avancé sans traitement meurent de maladies comme la tuberculose, la méningite à cryptocoques, des infections bactériennes graves et certains cancers. Grâce aux antirétroviraux, reçus par environ 32 millions de personnes, ces décès ont baissé de 73 % depuis le pic de 2004, mais une personne en meurt encore chaque minute. La plupart des décès ont lieu en Afrique.
+categories: [annual, epidemic]
+kind: endemic-total
+start: "2025"
+end: "2025"
+deaths:
+  best: 570000
+  low: 430000
+  high: 780000
+  note:
+    en: >-
+      UNAIDS global HIV statistics fact sheet: around 570,000 people (uncertainty range 430,000 to 780,000) died from AIDS-related illnesses in 2025, compared with 2.1 million in 2004; WHO reports the same figure. WHO's tuberculosis toll also includes 150,000 tuberculosis deaths among people with HIV (in 2024), so the two figures partly overlap. Per-country figures are WHO Global Health Observatory estimates for 2025 for the ten countries with the most deaths (rounded by UNAIDS and WHO).
+    fr: >-
+      Fiche de l’ONUSIDA sur les statistiques mondiales du VIH : environ 570 000 personnes (fourchette d’incertitude de 430 000 à 780 000) sont mortes de maladies liées au sida en 2025, contre 2,1 millions en 2004 ; l’OMS donne le même chiffre. Le bilan de la tuberculose de l’OMS inclut aussi 150 000 décès par tuberculose de personnes vivant avec le VIH (en 2024) : les deux chiffres se recoupent en partie. Les chiffres par pays sont les estimations 2025 de l’Observatoire mondial de la santé de l’OMS pour les dix pays les plus touchés (arrondies).
+countries:
+  - { code: ZA, deaths: 42000 }
+  - { code: MZ, deaths: 38000 }
+  - { code: NG, deaths: 32000 }
+  - { code: IN, deaths: 25000 }
+  - { code: TZ, deaths: 23000 }
+  - { code: KE, deaths: 19000 }
+  - { code: UG, deaths: 19000 }
+  - { code: ID, deaths: 18000 }
+  - { code: ZW, deaths: 18000 }
+  - { code: ZM, deaths: 16000 }
+related: [hiv-aids-pandemic, tuberculosis-deaths-annual]
+sources:
+  - title: Global HIV and AIDS statistics fact sheet
+    publisher: UNAIDS
+    url: https://www.unaids.org/en/resources/fact-sheet
+    accessed: "2026-10-22"
+  - title: HIV and AIDS fact sheet
+    publisher: World Health Organization
+    url: https://www.who.int/news-room/fact-sheets/detail/hiv-aids
+    accessed: "2026-10-22"
+  - title: "Global Health Observatory: number of people dying from HIV-related causes (HIV_0000000006), 2025"
+    publisher: World Health Organization
+    url: https://ghoapi.azureedge.net/api/HIV_0000000006?$filter=TimeDim%20eq%202025
+    accessed: "2026-10-22"
+reviewed: false

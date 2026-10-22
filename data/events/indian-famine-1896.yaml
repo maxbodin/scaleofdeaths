@@ -1,0 +1,33 @@
+id: indian-famine-1896
+title:
+  en: Indian famine of 1896-1897
+  fr: Famine indienne de 1896-1897
+description:
+  en: >-
+    Famine that began in Bundelkhand early in 1896 after failed monsoons and spread across much of British India, including the United Provinces, the Central Provinces and Berar, Bihar and parts of the Bombay and Madras presidencies and the Punjab, as well as the princely states of Rajputana, Central India and Hyderabad. It affected about 69.5 million people. Relief was organised under the Provisional Famine Code of 1883, but cholera and malaria epidemics greatly added to the mortality.
+  fr: >-
+    Famine commencée début 1896 dans le Bundelkhand après l’échec des moussons, puis étendue à une grande partie de l’Inde britannique, dont les Provinces-Unies, les Provinces centrales et le Berar, le Bihar et une partie des présidences de Bombay et de Madras et du Pendjab, ainsi qu’aux États princiers du Rajputana, de l’Inde centrale et d’Hyderabad. Elle a touché environ 69,5 millions de personnes. Les secours ont suivi le code provisoire des famines de 1883, mais les épidémies de choléra et de paludisme ont fortement alourdi la mortalité.
+categories: [famine]
+kind: event
+start: "1896"
+end: "1897"
+deaths:
+  best: 5000000
+  low: 3000000
+  high: 5500000
+  note:
+    en: "Deaths from starvation and famine-related epidemics. Best: 5 million, the upper end of census back-projections by Pravin Visaria and Arup Maharatna (4.5 to 5 million deaths including epidemics). Low: 3 million, the bottom of the range given by Wikipedia. High: 5.5 million, the World Peace Foundation estimate. Contemporary official accounts counted only 750,000 to 1 million starvation deaths in British territory."
+    fr: "Morts de faim et des épidémies liées à la famine. Valeur centrale : 5 millions, haut des rétroprojections de recensement de Pravin Visaria et Arup Maharatna (4,5 à 5 millions de morts, épidémies comprises). Bas : 3 millions, bas de la fourchette donnée par Wikipédia. Haut : 5,5 millions, estimation de la World Peace Foundation. Les bilans officiels de l’époque ne comptaient que 750 000 à 1 million de morts de faim en territoire britannique."
+countries:
+  - { code: IN }
+related: [indian-famine-1899]
+sources:
+  - title: Indian famine of 1896-1897
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Indian_famine_of_1896%E2%80%931897
+    accessed: "2026-10-22"
+  - title: Famines and the deaths in them
+    publisher: Our World in Data (World Peace Foundation data)
+    url: https://ourworldindata.org/grapher/famines-and-the-deaths-in-them
+    accessed: "2026-10-22"
+reviewed: false

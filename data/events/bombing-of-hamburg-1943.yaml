@@ -1,0 +1,37 @@
+id: bombing-of-hamburg-1943
+title:
+  en: Bombing of Hamburg (Operation Gomorrah)
+  fr: Bombardement de Hambourg (opération Gomorrhe)
+description:
+  en: >-
+    Series of British and American air raids on Hamburg in late July and early August 1943, code-named Operation Gomorrah. On the night of 27 to 28 July, unusually dry and warm weather, concentrated bombing of dense working-class districts and overwhelmed firefighting produced a firestorm with winds of up to 240 km/h. Most victims died of carbon monoxide poisoning or heat in air raid shelters and cellars. Around half of the city's homes were destroyed and about 750,000 people were left homeless.
+  fr: >-
+    Série de raids aériens britanniques et américains sur Hambourg fin juillet et début août 1943, sous le nom de code opération Gomorrhe. Dans la nuit du 27 au 28 juillet, un temps exceptionnellement sec et chaud, des bombardements concentrés sur des quartiers ouvriers denses et des secours débordés ont provoqué une tempête de feu aux vents atteignant 240 km/h. La plupart des victimes sont mortes asphyxiées au monoxyde de carbone ou de chaleur dans les abris et les caves. Près de la moitié des logements ont été détruits et environ 750 000 habitants se sont retrouvés sans abri.
+categories: [war]
+kind: event
+start: "1943-07-25"
+end: "1943-08-03"
+deaths:
+  best: 37000
+  low: 34000
+  high: 40000
+  note:
+    en: "Deaths in Hamburg, almost all civilians. Best: 37,000, which Wikipedia describes as the most accepted single number (also used by the taz). Low: 34,000, from police records; high: 40,000, a figure commonly used in Germany during the war; NDR estimates 35,000 to 40,000. Most of the dead were never identified. Earlier claims of 60,000 to 200,000 deaths are not used."
+    fr: "Morts à Hambourg, presque tous civils. Valeur centrale : 37 000, présentée par Wikipédia comme le chiffre unique le plus admis (également retenu par la taz). Bas : 34 000, d’après les registres de la police ; haut : 40 000, chiffre couramment utilisé en Allemagne pendant la guerre ; la NDR estime le bilan à 35 000 à 40 000 morts. La plupart des morts n’ont jamais été identifiés. Les estimations anciennes de 60 000 à 200 000 morts ne sont pas retenues."
+countries:
+  - { code: DE, deaths: 37000 }
+partOf: second-world-war
+sources:
+  - title: Bombing of Hamburg in World War II
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Bombing_of_Hamburg_in_World_War_II
+    accessed: "2026-10-22"
+  - title: '"Operation Gomorrha": Zehntausende Hamburger sterben im Juli 1943'
+    publisher: NDR
+    url: https://www.ndr.de/geschichte/chronologie/operation-gomorrha-zehntausende-hamburger-sterben-im-juli-1943,feuersturm100.html
+    accessed: "2026-10-22"
+  - title: '80 Jahre "Operation Gomorrha": Trümmer für die Zukunft'
+    publisher: taz
+    url: https://taz.de/80-Jahre-Operation-Gomorrha/!5946144/
+    accessed: "2026-10-22"
+reviewed: false

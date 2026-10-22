@@ -1,0 +1,33 @@
+id: us-suicide-deaths
+title:
+  en: Deaths from suicide in the United States per year
+  fr: Décès par suicide aux États-Unis par an
+description:
+  en: >-
+    People who died by suicide in the United States in one year, as counted by the CDC's National Center for Health Statistics from death certificates. Suicide was the 10th leading cause of death in the country and the second leading cause for people aged 10 to 44. Firearms are used in more than half of suicides, followed by suffocation and poisoning. The rate for men is three to four times that of women, and rates are highest in western states such as Alaska, Wyoming and Montana. The national rate has been roughly stable since 2017, slightly lower in 2024 than in 2023.
+  fr: >-
+    Personnes mortes par suicide aux États-Unis en un an, selon le décompte du National Center for Health Statistics des CDC à partir des certificats de décès. Le suicide était la 10e cause de mortalité du pays et la deuxième chez les 10-44 ans. Les armes à feu sont utilisées dans plus de la moitié des suicides, devant la suffocation et l’empoisonnement. Le taux des hommes est trois à quatre fois celui des femmes, et les taux les plus élevés se trouvent dans des États de l’Ouest comme l’Alaska, le Wyoming et le Montana. Le taux national est à peu près stable depuis 2017.
+categories: [annual]
+kind: endemic-total
+start: "2024"
+end: "2024"
+deaths:
+  best: 48824
+  note:
+    en: >-
+      CDC FastStats (final 2024 National Vital Statistics System data): 48,824 suicides in 2024, including 27,593 by firearm, 11,453 by suffocation and 5,651 by poisoning; NCHS Data Brief No. 572 gives an age-adjusted rate of 13.7 per 100,000, down from 14.1 in 2023. This is a count from death certificates, so no range is given. The 27,593 firearm suicides are also counted in the US firearm deaths entry.
+    fr: >-
+      FastStats des CDC (données définitives 2024 du National Vital Statistics System) : 48 824 suicides en 2024, dont 27 593 par arme à feu, 11 453 par suffocation et 5 651 par empoisonnement ; le NCHS Data Brief no 572 donne un taux standardisé de 13,7 pour 100 000, contre 14,1 en 2023. Il s’agit d’un décompte des certificats de décès, sans fourchette. Les 27 593 suicides par arme à feu sont aussi comptés dans l’entrée sur les décès par arme à feu aux États-Unis.
+countries:
+  - { code: US, deaths: 48824 }
+related: [suicide-deaths, us-gun-deaths]
+sources:
+  - title: "FastStats: Suicide and Self-Inflicted Injury"
+    publisher: Centers for Disease Control and Prevention (NCHS)
+    url: https://www.cdc.gov/nchs/fastats/suicide.htm
+    accessed: "2026-10-22"
+  - title: Changes in Suicide Rates in the United States From 2023 to 2024 (NCHS Data Brief No. 572)
+    publisher: Centers for Disease Control and Prevention (NCHS)
+    url: https://www.cdc.gov/nchs/products/databriefs/db572.htm
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,37 @@
+id: mount-pelee-eruption-1902
+title:
+  en: 1902 eruption of Mount Pelée
+  fr: Éruption de la montagne Pelée en 1902
+description:
+  en: >-
+    Mount Pelée, a volcano in the north of the French Caribbean island of Martinique, became active in April 1902. On the morning of 8 May a pyroclastic surge swept down its flank and destroyed the town of Saint-Pierre, the island's main commercial centre, within minutes, killing almost all its inhabitants and the refugees who had fled there; only a handful survived. It was the worst volcanic disaster of the 20th century. Further eruptions killed more people, notably on 30 August 1902.
+  fr: >-
+    La montagne Pelée, volcan du nord de la Martinique, est entrée en activité en avril 1902. Le matin du 8 mai, une nuée ardente a dévalé ses pentes et détruit en quelques minutes Saint-Pierre, principal centre commercial de l’île, tuant la quasi-totalité de ses habitants et des réfugiés qui s’y étaient abrités ; seule une poignée de personnes a survécu. C’est la pire catastrophe volcanique du XXe siècle. D’autres éruptions ont fait de nouvelles victimes, notamment le 30 août 1902.
+categories: [natural-disaster]
+kind: event
+start: "1902-05-05"
+end: "1902-08-30"
+deaths:
+  best: 28000
+  high: 30000
+  note:
+    en: >-
+      Best is the toll of the 8 May eruption that destroyed Saint-Pierre, about 28,000 (Wikipedia, NOAA), also used as the Martinique figure below. Other eruptions killed more people (NOAA records 1,500 deaths on 30 August 1902), and the Wikipedia article on Mount Pelée gives 29,000 to 30,000 deaths for the 1902 eruption; high is 30,000.
+    fr: >-
+      L’estimation centrale est le bilan de l’éruption du 8 mai qui a détruit Saint-Pierre, environ 28 000 morts (Wikipédia, NOAA), chiffre retenu aussi pour la Martinique ci-dessous. D’autres éruptions ont fait des victimes (la NOAA compte 1 500 morts le 30 août 1902) et l’article de Wikipédia sur la montagne Pelée donne 29 000 à 30 000 morts pour l’éruption de 1902 ; l’estimation haute est de 30 000.
+countries:
+  - { code: MQ, deaths: 28000 }
+sources:
+  - title: 1902 eruption of Mount Pelée
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1902_eruption_of_Mount_Pel%C3%A9e
+    accessed: "2026-10-22"
+  - title: Mount Pelée
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Mount_Pel%C3%A9e
+    accessed: "2026-10-22"
+  - title: "Global Significant Volcanic Eruptions Database: Pelée, 1902"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/volcanoes?minYear=1902&maxYear=1902&country=Martinique
+    accessed: "2026-10-22"
+reviewed: false

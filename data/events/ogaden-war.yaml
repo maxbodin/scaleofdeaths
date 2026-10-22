@@ -1,0 +1,37 @@
+id: ogaden-war
+title:
+  en: Ogaden War
+  fr: Guerre de l’Ogaden
+description:
+  en: >-
+    War between Somalia and Ethiopia over the Ogaden, a mainly Somali-inhabited region of eastern Ethiopia. Supporting the Western Somali Liberation Front, the Somali army invaded in July 1977 and took most of the region while Ethiopia was weakened by revolution and civil war. The Soviet Union then switched its support to Ethiopia, and a massive airlift of arms, more than 12,000 Cuban troops and Soviet advisers allowed an Ethiopian counter-offensive. Somalia withdrew in March 1978; about 500,000 Somali inhabitants of Ethiopia were displaced.
+  fr: >-
+    Guerre entre la Somalie et l’Éthiopie pour l’Ogaden, région de l’est de l’Éthiopie peuplée surtout de Somalis. En soutien au Front de libération de la Somalie occidentale, l’armée somalienne envahit la région en juillet 1977 et en prend l’essentiel, l’Éthiopie étant affaiblie par la révolution et la guerre civile. L’Union soviétique bascule alors du côté éthiopien ; un pont aérien d’armes massif, plus de 12 000 soldats cubains et des conseillers soviétiques permettent une contre-offensive éthiopienne. La Somalie se retire en mars 1978 ; environ 500 000 Somalis d’Éthiopie sont déplacés.
+categories: [war]
+kind: event
+start: "1977-07-13"
+end: "1978-03-23"
+deaths:
+  best: 30000
+  low: 20900
+  high: 45000
+  note:
+    en: Military and civilian deaths. Best is the "upwards of 30,000 dead" estimated by Bercovitch and Jackson; low is the PRIO Battle Deaths best estimate of 20,900 battle deaths (18,700 Ethiopian and Somali dead from Clodfelter plus 2,200 Cuban dead from the Correlates of War dataset); high is the Correlates of War total of 45,000 for 1976-1984, which includes the guerrilla war that followed (all reported in PRIO's documentation). Wikipedia gives 5,059 to 6,133 Ethiopian and 5,676 to 6,453 Somali soldiers killed, 163 to 400 Cuban, 100 South Yemeni and 33 Soviet dead, and 25,000 civilians killed; per-country figures are the low ends of these military figures.
+    fr: Morts militaires et civiles. L’estimation centrale correspond aux « plus de 30 000 morts » estimés par Bercovitch et Jackson ; le bas à la meilleure estimation du jeu de données PRIO, 20 900 morts au combat (18 700 morts éthiopiens et somaliens selon Clodfelter et 2 200 morts cubains selon Correlates of War) ; le haut au total de 45 000 de Correlates of War pour 1976-1984, qui inclut la guérilla qui a suivi (tous cités par la documentation du PRIO). Wikipédia indique 5 059 à 6 133 soldats éthiopiens et 5 676 à 6 453 soldats somaliens tués, 163 à 400 morts cubains, 100 sud-yéménites et 33 soviétiques, ainsi que 25 000 civils tués ; les chiffres par pays reprennent le bas de ces fourchettes militaires.
+countries:
+  - { code: SO, deaths: 5676 }
+  - { code: ET, deaths: 5059 }
+  - { code: CU, deaths: 163 }
+  - { code: YD, name: { en: South Yemen, fr: Yémen du Sud }, deaths: 100 }
+  - { code: SU, name: { en: Soviet Union, fr: Union soviétique }, deaths: 33 }
+related: [ethiopian-civil-war, eritrean-war-of-independence]
+sources:
+  - title: Ogaden War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Ogaden_War
+    accessed: "2026-10-22"
+  - title: "The PRIO Battle Deaths Dataset, 1946-2008, Version 3.0: Documentation of Coding Decisions (Lacina), Ethiopia"
+    publisher: Peace Research Institute Oslo (PRIO)
+    url: https://cdn.cloud.prio.org/files/91648bba-8885-40ce-8a78-fae75c850c55/PRIO%20Battle%20Deaths%20Dataset%2030%20Documentation.pdf
+    accessed: "2026-10-22"
+reviewed: false

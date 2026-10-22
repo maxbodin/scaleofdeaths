@@ -1,0 +1,36 @@
+id: sierra-leone-civil-war
+title:
+  en: Sierra Leone Civil War
+  fr: Guerre civile de Sierra Leone
+description:
+  en: >-
+    Civil war that began when the Revolutionary United Front (RUF), supported by Charles Taylor in Liberia, launched an insurgency in March 1991. Fighting over control of the country and its diamond fields drew in the army, a military junta allied with the RUF, civil defence militias, a West African force and later UN peacekeepers and British troops. Rebels became notorious for amputations, mass rape, abductions and the use of child soldiers, and about 2.5 million people were displaced. The war was declared over in January 2002.
+  fr: >-
+    Guerre civile déclenchée en mars 1991 par l’insurrection du Front révolutionnaire uni (RUF), soutenu par Charles Taylor depuis le Liberia. La lutte pour le contrôle du pays et de ses gisements de diamants implique l’armée, une junte alliée au RUF, des milices de défense civile, une force ouest-africaine puis des Casques bleus et des troupes britanniques. Les rebelles deviennent tristement célèbres pour leurs amputations, viols, enlèvements et enfants soldats, et environ 2,5 millions de personnes sont déplacées. La fin de la guerre est proclamée en janvier 2002.
+categories: [war]
+kind: event
+start: "1991-03-23"
+end: "2002-01-18"
+deaths:
+  best: 50000
+  high: 70000
+  note:
+    en: Military and civilian deaths. Best is the "over 50,000 dead" reported by Reuters and Leitenberg's 50,000 (PRIO Battle Deaths documentation); Wikipedia gives 50,000 to 70,000 (high). Counts limited to combat are much lower (Clodfelter gives over 14,000 by 1999), while Bercovitch and Jackson's "more than 100,000", which the PRIO documentation considers to include non-violent deaths, is not used.
+    fr: Morts militaires et civiles. L’estimation centrale correspond aux « plus de 50 000 morts » rapportés par Reuters et aux 50 000 de Leitenberg (documentation du PRIO sur les morts au combat) ; Wikipédia donne 50 000 à 70 000 (le haut). Les décomptes limités aux combats sont bien plus bas (plus de 14 000 en 1999 selon Clodfelter), tandis que les « plus de 100 000 » de Bercovitch et Jackson, qui incluraient selon le PRIO des morts non violentes, ne sont pas retenus.
+countries:
+  - { code: SL, deaths: 50000 }
+related: [first-liberian-civil-war]
+sources:
+  - title: Sierra Leone Civil War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Sierra_Leone_Civil_War
+    accessed: "2026-10-22"
+  - title: Sierra Leone ten years on
+    publisher: Reuters
+    url: https://widerimage.reuters.com/story/sierra-leone-ten-years-on
+    accessed: "2026-10-22"
+  - title: "The PRIO Battle Deaths Dataset, 1946-2008, Version 3.0: Documentation of Coding Decisions (Lacina), Sierra Leone"
+    publisher: Peace Research Institute Oslo (PRIO)
+    url: https://cdn.cloud.prio.org/files/91648bba-8885-40ce-8a78-fae75c850c55/PRIO%20Battle%20Deaths%20Dataset%2030%20Documentation.pdf
+    accessed: "2026-10-22"
+reviewed: false

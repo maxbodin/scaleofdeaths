@@ -1,0 +1,32 @@
+id: noto-earthquake-2024
+title:
+  en: 2024 Noto earthquake
+  fr: Séisme de 2024 de la péninsule de Noto
+description:
+  en: >-
+    On New Year's Day 2024, a magnitude 7.5 earthquake struck the Noto Peninsula in Ishikawa Prefecture, Japan, reaching the maximum intensity of shindo 7. Shaking, landslides, fires and a tsunami devastated the towns of Wajima, Suzu, Noto and Anamizu, where many old wooden houses collapsed, and damaged more than 200,000 buildings. More than two thirds of the deaths were "disaster-related", among evacuees, many of them elderly, worn down by stress, power and water outages and life in shelters.
+  fr: >-
+    Le 1er janvier 2024, un séisme de magnitude 7,5 a frappé la péninsule de Noto, dans la préfecture d’Ishikawa (Japon), atteignant l’intensité maximale de shindo 7. Secousses, glissements de terrain, incendies et tsunami ont dévasté Wajima, Suzu, Noto et Anamizu, où de nombreuses maisons anciennes en bois se sont effondrées, et endommagé plus de 200 000 bâtiments. Plus des deux tiers des morts sont « liées à la catastrophe » : des évacués, souvent âgés, éprouvés par le stress, les coupures d’eau et d’électricité et la vie en refuge.
+categories: [natural-disaster]
+kind: event
+start: "2024-01-01"
+deaths:
+  best: 732
+  low: 720
+  note:
+    en: >-
+      Best is the 732 deaths in Wikipedia: 228 killed directly by the earthquake and 504 later certified as disaster-related deaths. Low is the 720 deaths (492 of them disaster-related) in the Cabinet Office damage report of 31 March 2026; the total keeps rising as municipalities certify more disaster-related deaths. Two people remain missing.
+    fr: >-
+      L’estimation centrale est le chiffre de 732 morts de Wikipédia : 228 tués directement par le séisme et 504 morts reconnues ensuite comme liées à la catastrophe. L’estimation basse correspond aux 720 morts (dont 492 liées à la catastrophe) du bilan du Bureau du Cabinet au 31 mars 2026 ; le total continue d’augmenter à mesure que les communes reconnaissent de nouveaux décès liés à la catastrophe. Deux personnes restent disparues.
+countries:
+  - { code: JP, deaths: 732 }
+sources:
+  - title: 2024 Noto earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2024_Noto_earthquake
+    accessed: "2026-10-22"
+  - title: 令和６年能登半島地震による被害状況等について (Damage caused by the 2024 Noto Peninsula earthquake, 31 March 2026)
+    publisher: Cabinet Office of Japan
+    url: https://www.bousai.go.jp/updates/r60101notojishin/r60101notojishin/pdf/r60101notojishin_61.pdf
+    accessed: "2026-10-22"
+reviewed: false

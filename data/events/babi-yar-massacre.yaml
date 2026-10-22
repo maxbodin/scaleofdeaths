@@ -1,0 +1,33 @@
+id: babi-yar-massacre
+title:
+  en: Babi Yar massacre
+  fr: Massacre de Babi Yar
+description:
+  en: >-
+    Mass shooting of the Jews of Kyiv at the ravine of Babi Yar (Babyn Yar), then just outside the city, on 29 and 30 September 1941, ten days after German forces captured Kyiv. Summoned to the site, the victims were forced to undress and enter the ravine, where Sonderkommando 4a of Einsatzgruppe C, with SS and German police units and Ukrainian auxiliary police, shot them in small groups. It was one of the largest massacres of the Second World War. The site was used for further killings until 1943.
+  fr: >-
+    Fusillade de masse des Juifs de Kiev dans le ravin de Babi Yar (Babyn Yar), alors aux portes de la ville, les 29 et 30 septembre 1941, dix jours après la prise de Kiev par les forces allemandes. Convoquées sur le site, les victimes sont contraintes de se déshabiller et de descendre dans le ravin, où le Sonderkommando 4a de l’Einsatzgruppe C, avec des unités de la SS et de la police allemande et des policiers auxiliaires ukrainiens, les abat par petits groupes. Le site sert à d’autres massacres jusqu’en 1943.
+categories: [genocide]
+kind: event
+start: "1941-09-29"
+end: "1941-09-30"
+deaths:
+  best: 33771
+  note:
+    en: >-
+      Jews killed in the two-day massacre of 29 and 30 September 1941, the figure reported by the killing units to Einsatzgruppen headquarters in Berlin (United States Holocaust Memorial Museum, Wikipedia). Not counted are the later killings at the site, of Jews, Soviet prisoners of war, communists and Roma, which bring the total killed at Babi Yar during the German occupation to an estimated 100,000 to 150,000 (Wikipedia). These deaths are part of the Holocaust.
+    fr: >-
+      Juifs tués lors du massacre des 29 et 30 septembre 1941, chiffre rapporté par les unités de tuerie au quartier général des Einsatzgruppen à Berlin (musée du Mémorial de l’Holocauste des États-Unis, Wikipédia). Ne sont pas comptées les tueries ultérieures sur le site, de Juifs, de prisonniers de guerre soviétiques, de communistes et de Roms, qui portent le total des morts de Babi Yar pendant l’occupation allemande à environ 100 000 à 150 000 (Wikipédia). Ces morts font partie de la Shoah.
+countries:
+  - { code: UA, deaths: 33771 }
+related: [holocaust, second-world-war]
+sources:
+  - title: Babi Yar
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Babi_Yar
+    accessed: "2026-10-22"
+  - title: Kyiv and Babyn Yar
+    publisher: United States Holocaust Memorial Museum
+    url: https://encyclopedia.ushmm.org/content/en/article/kiev-and-babi-yar
+    accessed: "2026-10-22"
+reviewed: false

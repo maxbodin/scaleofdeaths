@@ -1,0 +1,57 @@
+id: swine-flu-2009
+title:
+  en: 2009 swine flu pandemic
+  fr: Pandémie de grippe A (H1N1) de 2009
+description:
+  en: >-
+    Influenza pandemic caused by a new H1N1 virus that arose from reassortments of bird, swine and human flu viruses. The first identified human case was in La Gloria, Mexico; the virus appeared in April 2009, the World Health Organization declared a pandemic in June and over 214 countries and territories reported cases. Unlike seasonal flu, which kills mostly the elderly, about 80% of its estimated deaths were in people younger than 65, many older people having some immunity from earlier H1N1 viruses. The WHO declared the pandemic over in August 2010.
+  fr: >-
+    Pandémie de grippe due à un nouveau virus H1N1 issu de réassortiments de virus grippaux aviaires, porcins et humains. Le premier cas humain identifié se trouvait à La Gloria, au Mexique ; le virus est apparu en avril 2009, l’Organisation mondiale de la santé a déclaré la pandémie en juin et plus de 214 pays et territoires ont signalé des cas. Contrairement à la grippe saisonnière, qui tue surtout les personnes âgées, environ 80 % des morts estimés avaient moins de 65 ans, beaucoup d’aînés étant en partie immunisés par d’anciens virus H1N1. L’OMS a déclaré la fin de la pandémie en août 2010.
+categories: [epidemic]
+kind: event
+start: "2009-04"
+end: "2010-08-10"
+deaths:
+  best: 284000
+  low: 151700
+  high: 575400
+  note:
+    en: >-
+      Modelled estimates, not counts: only 18,449 laboratory-confirmed deaths were reported to the WHO by 1 August 2010, a figure the WHO acknowledged to be an underestimate. Best is the estimate of about 284,000 deaths that Wikipedia attributes to a CDC-led study (Dawood et al., 2012), whose range of 151,700 to 575,400 (stated by the CDC) respiratory and cardiovascular deaths in the first 12 months gives low and high. Country figures: United States, CDC estimate of 12,469 deaths (April 2009 to April 2010); other countries, laboratory-confirmed deaths from official reports, far below real mortality.
+    fr: >-
+      Estimations par modélisation et non décomptes : seuls 18 449 décès confirmés en laboratoire avaient été déclarés à l’OMS au 1er août 2010, un chiffre sous-estimé, comme l’a reconnu l’OMS. L’estimation retenue est celle d’environ 284 000 morts que Wikipédia attribue à une étude menée par les CDC (Dawood et al., 2012), dont la fourchette de 151 700 à 575 400 (indiquée par les CDC) morts respiratoires et cardiovasculaires sur les 12 premiers mois donne le bas et le haut. Chiffres par pays : États-Unis, estimation des CDC de 12 469 morts (avril 2009 à avril 2010) ; autres pays, décès confirmés en laboratoire selon les rapports officiels, bien inférieurs à la mortalité réelle.
+countries:
+  - { code: US, deaths: 12469 }
+  - { code: BR, deaths: 2135 }
+  - { code: IN, deaths: 2024 }
+  - { code: MX, deaths: 1316 }
+  - { code: CN, deaths: 800 }
+  - { code: TR, deaths: 656 }
+  - { code: AR, deaths: 626 }
+  - { code: RU, deaths: 604 }
+  - { code: GB, deaths: 474 }
+  - { code: CA, deaths: 429 }
+  - { code: FR, deaths: 344 }
+related: [spanish-flu, russian-flu-1889, asian-flu-1957, hong-kong-flu-1968]
+sources:
+  - title: 2009 swine flu pandemic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2009_swine_flu_pandemic
+    accessed: "2026-10-22"
+  - title: 2009 swine flu pandemic by country
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2009_swine_flu_pandemic_by_country
+    accessed: "2026-10-22"
+  - title: 2009 H1N1 Pandemic (H1N1pdm09 virus) (archived page)
+    publisher: Centers for Disease Control and Prevention
+    url: https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/2009-h1n1-pandemic.html
+    accessed: "2026-10-22"
+  - title: First Global Estimates of 2009 H1N1 Pandemic Mortality Released by CDC-Led Collaboration (archived page)
+    publisher: Centers for Disease Control and Prevention
+    url: https://archive.cdc.gov/www_cdc_gov/flu/spotlights/pandemic-global-estimates.htm
+    accessed: "2026-10-22"
+  - title: Pandemic (H1N1) 2009 - update 112
+    publisher: World Health Organization
+    url: https://www.who.int/emergencies/disease-outbreak-news/item/2010_08_06-en
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,39 @@
+id: turkey-syria-earthquakes-2023
+title:
+  en: 2023 Turkey-Syria earthquakes
+  fr: Séismes de 2023 en Turquie et en Syrie
+description:
+  en: >-
+    At 04:17 on 6 February 2023 a magnitude 7.8 earthquake struck about 37 km west-northwest of Gaziantep in southern Turkey, followed nine hours later by a magnitude 7.7 shock about 95 km to the north. Together they devastated eleven provinces of southern and central Turkey, with extreme shaking in Antakya, as well as northern and western Syria. More than 500,000 houses were destroyed in Turkey alone and millions of people were displaced. It was the deadliest natural disaster in Turkey's modern history.
+  fr: >-
+    Le 6 février 2023 à 4 h 17, un séisme de magnitude 7,8 a frappé à environ 37 km à l’ouest-nord-ouest de Gaziantep, dans le sud de la Turquie, suivi neuf heures plus tard d’une secousse de magnitude 7,7 à environ 95 km plus au nord. Ensemble, ils ont dévasté onze provinces du sud et du centre de la Turquie, avec des secousses extrêmes à Antakya, ainsi que le nord et l’ouest de la Syrie. Plus de 500 000 maisons ont été détruites rien qu’en Turquie et des millions de personnes ont été déplacées. C’est la catastrophe naturelle la plus meurtrière de l’histoire moderne de la Turquie.
+categories: [natural-disaster]
+kind: event
+start: "2023-02-06"
+deaths:
+  best: 59488
+  high: 62013
+  note:
+    en: Deaths from the two shocks of 6 February. Best is the combined official toll reported by AFP in February 2024, 53,537 in Turkey (interior ministry; an earlier official figure was 50,783) plus 1,414 in Syrian government-held areas and 4,537 in rebel-held areas. The high, given by Wikipedia, uses instead the 8,476 deaths in Syria reported by the International Blue Crescent. About 140 people remain missing in Turkey. NOAA NCEI still lists an earlier total of 56,697.
+    fr: Morts des deux secousses du 6 février. L’estimation centrale est le bilan officiel cumulé rapporté par l’AFP en février 2024, 53 537 morts en Turquie (ministère de l’Intérieur ; un précédent bilan officiel était de 50 783) plus 1 414 dans les zones syriennes tenues par le gouvernement et 4 537 dans les zones rebelles. Le haut de la fourchette, donné par Wikipédia, retient à la place les 8 476 morts en Syrie rapportés par l’International Blue Crescent. Environ 140 personnes restent disparues en Turquie. La NCEI de la NOAA indique encore un ancien total de 56 697.
+countries:
+  - { code: TR, deaths: 53537 }
+  - { code: SY, deaths: 5951 }
+sources:
+  - title: 2023 Turkey-Syria earthquakes
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2023_Turkey%E2%80%93Syria_earthquakes
+    accessed: "2026-10-22"
+  - title: "Nearly 60,000 Killed In 2023 Turkey, Syria Quake: New Toll (archived)"
+    publisher: Agence France-Presse (via Barron's)
+    url: https://web.archive.org/web/20240202130418/https://www.barrons.com/news/nearly-60-000-killed-in-2023-turkey-syria-quake-new-toll-528e4a39
+    accessed: "2026-10-22"
+  - title: Devastating Earthquakes in Southern Türkiye and Northern Syria, April 6th 2023, Situation Report 20
+    publisher: International Blue Crescent (via ReliefWeb)
+    url: https://reliefweb.int/report/turkiye/devastating-earthquakes-southern-turkiye-and-northern-syria-april-6th-2023-situation-report-20-entr
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Kahramanmaras, Syria, event 10662"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/10662
+    accessed: "2026-10-22"
+reviewed: false

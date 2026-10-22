@@ -1,0 +1,37 @@
+id: italian-plague-1629
+title:
+  en: Italian plague of 1629-1631
+  fr: Peste italienne de 1629-1631
+description:
+  en: >-
+    Bubonic plague epidemic, also known as the Great Plague of Milan, carried into Lombardy in 1629 by troops fighting in the War of the Mantuan Succession during the Thirty Years' War. It devastated northern Italy and also struck central Italy, including Bologna and Florence. Milan lost about 60,000 of its 130,000 inhabitants and Venice 46,000 of 140,000. It may have contributed to the decline of Italy's economy relative to other Western European countries.
+  fr: >-
+    Épidémie de peste bubonique, dite aussi grande peste de Milan, apportée en Lombardie en 1629 par les troupes engagées dans la guerre de Succession de Mantoue, pendant la guerre de Trente Ans. Elle ravagea l’Italie du Nord et frappa aussi l’Italie centrale, dont Bologne et Florence. Milan perdit environ 60 000 de ses 130 000 habitants et Venise 46 000 sur 140 000. Elle a pu contribuer au déclin économique de l’Italie par rapport aux autres pays d’Europe occidentale.
+categories: [epidemic]
+kind: event
+start: "1629"
+end: "1631"
+deaths:
+  best: 1000000
+  low: 280000
+  high: 2000000
+  note:
+    en: Deaths in northern and central Italy. Wikipedia gives at least 280,000 and up to one million (citing Hays, 2005); its list of epidemics uses one million, retained as best. Economic historian Guido Alfani estimates that 30% to 35% of the northern Italian population died, about two million victims (Alfani and Percoco, Bocconi University), which sets the high bound.
+    fr: Morts en Italie du Nord et du Centre. Wikipédia donne au moins 280 000 et jusqu’à un million de morts (d’après Hays, 2005) ; sa liste des épidémies retient un million, chiffre repris ici. L’historien de l’économie Guido Alfani estime que 30 à 35 % de la population de l’Italie du Nord a péri, soit environ deux millions de victimes (Alfani et Percoco, université Bocconi), retenus comme borne haute.
+countries:
+  - { code: IT, deaths: 1000000 }
+related: [black-death, naples-plague-1656]
+sources:
+  - title: 1629-1631 Italian plague
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1629%E2%80%931631_Italian_plague
+    accessed: "2026-10-22"
+  - title: List of epidemics and pandemics
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_epidemics_and_pandemics
+    accessed: "2026-10-22"
+  - title: "Plague and long-term development: the lasting effects of the 1629-30 epidemic on the Italian cities (Alfani and Percoco, IGIER Working Paper 508)"
+    publisher: IGIER, Bocconi University
+    url: https://igier.unibocconi.eu/sites/default/files/media/publication/508.pdf
+    accessed: "2026-10-22"
+reviewed: false

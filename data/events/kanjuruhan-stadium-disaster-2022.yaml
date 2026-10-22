@@ -1,0 +1,33 @@
+id: kanjuruhan-stadium-disaster-2022
+title:
+  en: Kanjuruhan Stadium disaster
+  fr: Drame du stade Kanjuruhan
+description:
+  en: >-
+    On 1 October 2022, after home side Arema lost to its rival Persebaya Surabaya at the Kanjuruhan Stadium in Malang Regency, East Java, Indonesia, thousands of supporters invaded the pitch. Riot police fired tear gas into the stands, although FIFA rules forbid it in stadiums, and spectators rushed towards the few open exits, where many were crushed or asphyxiated. The stadium was over capacity and most gates were locked. Indonesia's human rights commission found that the tear gas was the main cause of the deaths.
+  fr: >-
+    Le 1er octobre 2022, après la défaite d’Arema face à son rival Persebaya Surabaya au stade Kanjuruhan, dans le kabupaten de Malang (Java oriental, Indonésie), des milliers de supporters envahissent le terrain. La police antiémeute tire des gaz lacrymogènes dans les tribunes, pourtant interdits dans les stades par la FIFA, et les spectateurs se ruent vers les rares sorties, où beaucoup meurent écrasés ou asphyxiés. Le stade était surchargé et la plupart des portes fermées. La commission indonésienne des droits humains a conclu que les gaz lacrymogènes étaient la cause principale des morts.
+categories: [accident]
+kind: event
+start: "2022-10-01"
+deaths:
+  best: 135
+  note:
+    en: Final toll (135 dead, 583 injured) given by Wikipedia, Al Jazeera and Amnesty International; 38 minors were among the dead according to the rights commission. Earlier counts were lower (131, then 133) and supporters' groups alleged that more than 200 died, a claim not confirmed by any official count.
+    fr: Bilan définitif (135 morts, 583 blessés) donné par Wikipédia, Al Jazeera et Amnesty International ; selon la commission des droits humains, 38 mineurs figurent parmi les morts. Les bilans antérieurs étaient plus bas (131, puis 133) et des groupes de supporters ont affirmé que plus de 200 personnes étaient mortes, sans confirmation officielle.
+countries:
+  - { code: ID, deaths: 135 }
+sources:
+  - title: Kanjuruhan Stadium disaster
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Kanjuruhan_Stadium_disaster
+    accessed: "2026-10-22"
+  - title: "Police tear gas main cause of Indonesia football tragedy: Report"
+    publisher: Al Jazeera
+    url: https://www.aljazeera.com/news/2022/11/2/police-tear-gas-main-cause-of-indonesia-football-tragedy-report
+    accessed: "2026-10-22"
+  - title: "Indonesia: Authorities fail victims as police officers acquitted of football stadium deaths"
+    publisher: Amnesty International UK
+    url: https://www.amnesty.org.uk/latest/indonesia-authorities-fail-victims-police-officers-acquitted-football-stadium-deaths/
+    accessed: "2026-10-22"
+reviewed: false

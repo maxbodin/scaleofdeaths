@@ -1,0 +1,31 @@
+id: aleppo-earthquake-1822
+title:
+  en: 1822 Aleppo earthquake
+  fr: Séisme de 1822 à Alep
+description:
+  en: >-
+    On the evening of 13 August 1822 an earthquake of estimated magnitude 7.0 struck the north of Ottoman Syria, in what is now northern Syria and southern Turkey. It almost entirely destroyed the area from Gaziantep and Kilis to Antakya and from Aleppo to Khan Shaykhun, and badly damaged Latakia; Aleppo, a stone-built city of about 200,000 people, was ruined. It may have caused a tsunami, and damaging aftershocks went on for more than two years. Most of Aleppo's old centre was left unrepaired.
+  fr: >-
+    Le soir du 13 août 1822, un séisme de magnitude estimée à 7,0 a frappé le nord de la Syrie ottomane, aujourd’hui le nord de la Syrie et le sud de la Turquie. Il a presque entièrement détruit la région allant de Gaziantep et Kilis à Antakya et d’Alep à Khan Cheikhoun, et gravement endommagé Lattaquié ; Alep, ville de pierre d’environ 200 000 habitants, a été ruinée. Il a peut-être provoqué un tsunami, et des répliques destructrices se sont poursuivies pendant plus de deux ans. La plus grande partie de la vieille ville d’Alep n’a pas été réparée.
+categories: [natural-disaster]
+kind: event
+start: "1822-08-13"
+deaths:
+  best: 20000
+  high: 60000
+  note:
+    en: No count was made. Contemporary estimates ranged from 30,000 to 60,000 (high), but a historical seismicity study quoted by NOAA NCEI considers them exaggerated and gives 20,000 as a more sober estimate, the figure Wikipedia calls the most likely. European consuls counted about 7,200 deaths in Aleppo itself, while another study cited by NCEI gives 15,000 to 25,000 for Aleppo and 4,000 to 5,000 for Antakya. Deaths cannot be split between present-day Syria and Turkey.
+    fr: Aucun décompte n’a été fait. Les estimations d’époque allaient de 30 000 à 60 000 (haut de la fourchette), mais une étude de sismicité historique citée par la NCEI de la NOAA les juge exagérées et retient 20 000 comme estimation plus mesurée, chiffre que Wikipédia juge le plus probable. Les consuls européens ont compté environ 7 200 morts dans Alep même, tandis qu’une autre étude citée par la NCEI donne 15 000 à 25 000 pour Alep et 4 000 à 5 000 pour Antakya. Les morts ne peuvent pas être répartis entre la Syrie et la Turquie actuelles.
+countries:
+  - { code: SY }
+  - { code: TR }
+sources:
+  - title: 1822 Aleppo earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1822_Aleppo_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Antakya, Aleppo, Damascus, event 1660"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/1660
+    accessed: "2026-10-22"
+reviewed: false

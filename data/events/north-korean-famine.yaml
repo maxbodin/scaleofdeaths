@@ -1,0 +1,40 @@
+id: north-korean-famine
+title:
+  en: North Korean famine
+  fr: Famine nord-coréenne
+description:
+  en: >-
+    Famine in North Korea in the 1990s, officially called the Arduous March. The collapse of the Soviet bloc ended subsidised imports, and economic mismanagement was compounded by floods from 1994 to 1996, which also destroyed grain reserves, and a drought in 1997. Deaths peaked in 1997. Words such as famine and hunger were banned, up to 250,000 people fled to China, private markets revived, and international food aid flowed in from the mid-1990s.
+  fr: >-
+    Famine en Corée du Nord dans les années 1990, appelée officiellement la « Marche pénible ». L’effondrement du bloc soviétique a mis fin aux importations subventionnées, et la mauvaise gestion économique a été aggravée par les inondations de 1994 à 1996, qui ont aussi détruit les réserves de grain, puis par la sécheresse de 1997. Les morts ont culminé en 1997. Les mots « famine » et « faim » étaient interdits, jusqu’à 250 000 personnes ont fui en Chine, les marchés privés ont resurgi et l’aide alimentaire internationale a afflué à partir du milieu des années 1990.
+categories: [famine]
+kind: event
+start: "1994"
+end: "1998"
+deaths:
+  best: 600000
+  low: 240000
+  high: 3500000
+  note:
+    en: "Excess deaths from starvation and hunger-related disease; estimates vary widely because data are scarce. Best: 600,000, the figure at which the U.S. Census Bureau's 2011 estimate (500,000 to 600,000 excess deaths in 1993-2000) meets the 600,000 to 1 million found by independent researchers in 2001 and 2007 and given by Ó Gráda (2007). Low: 240,000 and high: 3.5 million, the full range given by Wikipedia; the World Peace Foundation uses 330,000, Britannica cites 2.5 million, and US congressional staff in 1998 suggested 900,000 to 2.4 million."
+    fr: "Surmortalité due à la faim et aux maladies liées ; les estimations varient beaucoup faute de données. Valeur centrale : 600 000, chiffre où se rejoignent l’estimation du Bureau du recensement des États-Unis en 2011 (500 000 à 600 000 morts en excès en 1993-2000) et les 600 000 à 1 million de chercheurs indépendants en 2001 et 2007, repris par Ó Gráda (2007). Bas : 240 000 et haut : 3,5 millions, fourchette complète donnée par Wikipédia ; la World Peace Foundation retient 330 000, Britannica cite 2,5 millions et des collaborateurs du Congrès américain avançaient en 1998 de 900 000 à 2,4 millions."
+countries:
+  - { code: KP, deaths: 600000 }
+sources:
+  - title: 1990s North Korean famine
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1990s_North_Korean_famine
+    accessed: "2026-10-22"
+  - title: Famine
+    publisher: Encyclopaedia Britannica
+    url: https://www.britannica.com/science/famine
+    accessed: "2026-10-22"
+  - title: Famines and the deaths in them
+    publisher: Our World in Data (World Peace Foundation data)
+    url: https://ourworldindata.org/grapher/famines-and-the-deaths-in-them
+    accessed: "2026-10-22"
+  - title: Making Famine History (Cormac Ó Gráda)
+    publisher: Journal of Economic Literature (UCD Research Repository)
+    url: https://researchrepository.ucd.ie/server/api/core/bitstreams/f57a2154-08a1-44a8-b865-75d1d51a4fcb/content
+    accessed: "2026-10-22"
+reviewed: false

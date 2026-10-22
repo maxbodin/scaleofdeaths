@@ -1,0 +1,34 @@
+id: herero-and-nama-genocide
+title:
+  en: Herero and Nama genocide
+  fr: Génocide des Héréros et des Namas
+description:
+  en: >-
+    Campaign of extermination waged by the German Empire against the Herero and Nama peoples in German South West Africa, now Namibia, after they rose up against colonial rule and land seizures. After the Battle of Waterberg in 1904, German troops drove the Herero into the Omaheke desert, where many died of thirst and starvation, and General Lothar von Trotha ordered their annihilation. Survivors were held in concentration camps, among them Shark Island; around half of the prisoners died there of disease, hunger and overwork. Germany officially recognised the genocide in 2021.
+  fr: >-
+    Campagne d’extermination menée par l’Empire allemand contre les Héréros et les Namas dans le Sud-Ouest africain allemand (actuelle Namibie), après leur soulèvement contre la spoliation de leurs terres. Après la bataille de Waterberg (1904), les Héréros furent repoussés dans le désert d’Omaheke, où beaucoup moururent de soif et de faim ; le général Lothar von Trotha ordonna leur anéantissement. Les survivants furent internés dans des camps de concentration, dont celui de l’île aux Requins ; environ la moitié des détenus y périrent. L’Allemagne a officiellement reconnu le génocide en 2021.
+categories: [genocide]
+kind: event
+start: "1904"
+end: "1908"
+deaths:
+  best: 100000
+  note:
+    en: Herero and Nama killed by German troops or who died of thirst and starvation in the desert or of disease and exhaustion in the camps. Best is the estimate of 100,000 deaths given by the German Federal Government. Wikipedia gives 40,000 to 80,000 Herero (about 80% of the pre-war population) and about 10,000 Nama (about half) but no combined total, so no range is given here.
+    fr: Héréros et Namas tués par les troupes allemandes ou morts de soif et de faim dans le désert, ou de maladie et d’épuisement dans les camps. L’estimation centrale est celle de 100 000 morts donnée par le gouvernement fédéral allemand. Wikipédia indique 40 000 à 80 000 Héréros (environ 80 % de la population d’avant-guerre) et environ 10 000 Namas (environ la moitié), sans total combiné, si bien qu’aucune fourchette n’est indiquée ici.
+countries:
+  - { code: NA, deaths: 100000 }
+sources:
+  - title: Herero and Nama genocide
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Herero_and_Nama_genocide
+    accessed: "2026-10-22"
+  - title: Commemoration of the genocide of the Herero and Nama
+    publisher: The Federal Government of Germany
+    url: https://www.bundesregierung.de/breg-en/federal-government/commemoration-herero-and-nama-2350762
+    accessed: "2026-10-22"
+  - title: Germany officially recognises colonial-era Namibia genocide
+    publisher: BBC News
+    url: https://www.bbc.com/news/world-europe-57279008
+    accessed: "2026-10-22"
+reviewed: false

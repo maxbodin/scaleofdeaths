@@ -1,0 +1,32 @@
+id: second-sudanese-civil-war
+title:
+  en: Second Sudanese Civil War
+  fr: Deuxième guerre civile soudanaise
+description:
+  en: >-
+    Civil war between the central government of Sudan and the Sudan People's Liberation Army (SPLA), largely a continuation of the first civil war of 1955-1972. It began in southern Sudan and spread to the Nuba Mountains and Blue Nile, lasting almost 22 years. Most of the dead were civilians, killed by violence or by famine and disease worsened by the fighting; the war was marked by mass killings, slavery and the repeated displacement of 4 million southerners. The 2005 peace agreement led to the independence of South Sudan in 2011.
+  fr: >-
+    Guerre civile entre le gouvernement central du Soudan et l’Armée populaire de libération du Soudan (SPLA), largement dans la continuité de la première guerre civile de 1955-1972. Partie du Sud, elle s’étend aux monts Nouba et au Nil Bleu et dure près de 22 ans. La plupart des morts sont des civils, tués par les violences ou par la famine et les maladies aggravées par les combats ; la guerre est marquée par des massacres, l’esclavage et les déplacements répétés de 4 millions de Sudistes. L’accord de paix de 2005 conduit à l’indépendance du Soudan du Sud en 2011.
+categories: [war]
+kind: event
+start: "1983-06-05"
+end: "2005-01-09"
+deaths:
+  best: 2000000
+  low: 1000000
+  note:
+    en: Military and civilian deaths, mostly civilians who died of famine and disease caused or worsened by the war. Best is the "roughly two million" deaths in Wikipedia's lead, also given by Project Ploughshares in 2000 and, as "more than 2 million", by the New York Times in 2004; low is the bottom of the 1 to 2 million range in Wikipedia's infobox. Matthew White (Necrometrics) gives 1.9 million, the median of recent estimates, matching the US Committee for Refugees' 1998 estimate. Battle deaths alone were much lower (SIPRI gave 37,000 to 40,000 in 1997). No per-country split is available between today's Sudan and South Sudan.
+    fr: Morts militaires et civiles, surtout des civils morts de faim et de maladie causées ou aggravées par la guerre. L’estimation centrale correspond aux « environ deux millions » de morts du résumé de Wikipédia, également avancés par Project Ploughshares en 2000 et, sous la forme « plus de 2 millions », par le New York Times en 2004 ; le bas est la borne inférieure de la fourchette de 1 à 2 millions de l’infobox de Wikipédia. Matthew White (Necrometrics) retient 1,9 million, médiane des estimations récentes, chiffre du Comité américain pour les réfugiés en 1998. Les seules morts au combat sont bien moins nombreuses (37 000 à 40 000 selon le SIPRI en 1997). Aucune ventilation entre le Soudan et le Soudan du Sud actuels n’est disponible.
+countries:
+  - { code: SS }
+  - { code: SD }
+sources:
+  - title: Second Sudanese Civil War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Second_Sudanese_Civil_War
+    accessed: "2026-10-22"
+  - title: "Death Tolls for the Major Wars and Atrocities of the Twentieth Century: Sudan (1983-2005)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c1m.htm
+    accessed: "2026-10-22"
+reviewed: false

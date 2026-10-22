@@ -1,0 +1,29 @@
+id: hillsborough-disaster
+title:
+  en: Hillsborough disaster
+  fr: Drame de Hillsborough
+description:
+  en: >-
+    On 15 April 1989, shortly before the FA Cup semi-final between Liverpool and Nottingham Forest at Hillsborough Stadium in Sheffield, England, the police match commander ordered exit gate C opened to relieve crowding outside. Supporters flowed into the two already full central standing pens of the Leppings Lane end, causing a fatal crush against the fences. Police fed the press false stories blaming Liverpool fans. In 2016 new inquests ruled that the victims were unlawfully killed through gross negligence by the police and ambulance services.
+  fr: >-
+    Le 15 avril 1989, peu avant la demi-finale de la FA Cup entre Liverpool et Nottingham Forest au stade de Hillsborough, à Sheffield (Angleterre), le commandant de police ordonne l’ouverture de la porte de sortie C pour désengorger l’extérieur. Les supporters affluent dans les deux enclos centraux déjà pleins de la tribune de Leppings Lane, provoquant un écrasement mortel contre les grilles. La police diffuse de fausses accusations contre les supporters de Liverpool. En 2016, de nouvelles enquêtes judiciaires concluent à des homicides illégaux dus aux fautes graves de la police et des secours.
+categories: [accident]
+kind: event
+start: "1989-04-15"
+deaths:
+  best: 97
+  note:
+    en: Ninety-four people died on the day and one in hospital days later; two others suffered irreversible brain damage and died in 1993 and 2021, the last of whom a coroner ruled the 97th victim. Toll given by Wikipedia and the BBC; 766 people were injured. It is the deadliest disaster in British sporting history.
+    fr: Quatre-vingt-quatorze personnes sont mortes le jour même et une à l’hôpital quelques jours plus tard ; deux autres, atteintes de lésions cérébrales irréversibles, sont mortes en 1993 et en 2021, la dernière ayant été reconnue 97e victime par un coroner. Bilan donné par Wikipédia et la BBC ; 766 personnes ont été blessées. C’est la catastrophe la plus meurtrière de l’histoire du sport britannique.
+countries:
+  - { code: GB, deaths: 97 }
+sources:
+  - title: Hillsborough disaster
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Hillsborough_disaster
+    accessed: "2026-10-22"
+  - title: Hillsborough's 97th victim was unlawfully killed, coroner concludes
+    publisher: BBC News
+    url: https://www.bbc.co.uk/news/uk-england-merseyside-58011373
+    accessed: "2026-10-22"
+reviewed: false

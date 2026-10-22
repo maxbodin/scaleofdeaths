@@ -1,0 +1,32 @@
+id: calcutta-cyclone-1864
+title:
+  en: 1864 Calcutta cyclone
+  fr: Cyclone de Calcutta de 1864
+description:
+  en: >-
+    A tropical cyclone from the Bay of Bengal crossed the coast of West Bengal, south of the Hooghly River, on 5 October 1864 and struck Calcutta (now Kolkata). A storm surge swept up the Hooghly and over the low-lying delta, washing away villages and destroying the ports of Khejuri and Hijli, while the winds flattened tens of thousands of huts and sank or damaged many ships. Most victims drowned; others died of the diseases, such as cholera, dysentery and smallpox, that were already rife.
+  fr: >-
+    Un cyclone tropical venu du golfe du Bengale a franchi la côte du Bengale-Occidental, au sud de l’Hooghly, le 5 octobre 1864, et frappé Calcutta (aujourd’hui Kolkata). Une onde de tempête a remonté l’Hooghly et submergé le delta, emportant des villages et détruisant les ports de Khejuri et de Hijli, tandis que les vents rasaient des dizaines de milliers de huttes et coulaient ou endommageaient de nombreux navires. La plupart des victimes se sont noyées ; d’autres ont succombé aux maladies qui sévissaient déjà, comme le choléra, la dysenterie et la variole.
+categories: [natural-disaster]
+kind: event
+start: "1864-10-02"
+end: "1864-10-07"
+deaths:
+  best: 60000
+  note:
+    en: >-
+      Estimate of over 60,000 deaths (Wikipedia; India Today), mostly by drowning and the rest from diseases already prevalent before the storm. Contemporary reports give counts for only a few districts, so the total is an approximation.
+    fr: >-
+      Estimation de plus de 60 000 morts (Wikipédia ; India Today), surtout par noyade, les autres de maladies déjà présentes avant la tempête. Les rapports de l’époque ne donnent des chiffres que pour quelques districts : le total est une approximation.
+countries:
+  - { code: IN, deaths: 60000 }
+sources:
+  - title: 1864 Calcutta cyclone
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1864_Calcutta_cyclone
+    accessed: "2026-10-22"
+  - title: 154 years ago, this infamous cyclone in Calcutta took over 60,000 lives and flooded the entire city
+    publisher: India Today
+    url: https://www.indiatoday.in/education-today/gk-current-affairs/story/calcutta-cyclone-1864-1356569-2018-10-05
+    accessed: "2026-10-22"
+reviewed: false

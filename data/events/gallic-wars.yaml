@@ -1,0 +1,37 @@
+id: gallic-wars
+title:
+  en: Gallic Wars
+  fr: Guerre des Gaules
+description:
+  en: >-
+    Campaigns led by Julius Caesar that brought all of Gaul, roughly modern France and Belgium with parts of Switzerland, the Netherlands and Germany, under Roman rule. Caesar fought the Helvetii, Germanic tribes, the Belgae and other Gallic peoples, crossed the Rhine, twice landed in Britain and crushed the general revolt led by Vercingetorix at Alesia in 52 BC. Ancient authors describe the massacre of whole tribes, the destruction of villages and the enslavement of around a million people.
+  fr: >-
+    Campagnes menées par Jules César qui placent toute la Gaule, soit à peu près la France et la Belgique actuelles avec une partie de la Suisse, des Pays-Bas et de l’Allemagne, sous la domination romaine. César combat les Helvètes, des tribus germaniques, les Belges et d’autres peuples gaulois, franchit le Rhin, débarque deux fois en Grande-Bretagne et écrase à Alésia, en 52 av. J.-C., le soulèvement général mené par Vercingétorix. Les auteurs antiques rapportent le massacre de tribus entières, la destruction de villages et la réduction en esclavage d’environ un million de personnes.
+categories: [war]
+kind: event
+start: "-0058"
+end: "-0050"
+deaths:
+  best: 700000
+  low: 400000
+  high: 1000000
+  note:
+    en: "Deaths of Gauls and Germanic peoples, mostly in battles and massacres. Modern historians such as David Henige do not consider the ancient figures credible. Best: about 700,000, Matthew White's estimate (Necrometrics), between the ancient figures. Low: 400,000 killed according to Velleius Paterculus. High: 1 million killed according to Plutarch and Appian, who add 1 million captured. Caesar himself claims 430,000 Germani killed in a single campaign. Roman losses (over 30,000 killed) are small by comparison."
+    fr: "Morts gauloises et germaniques, surtout lors de batailles et de massacres. Des historiens modernes comme David Henige jugent les chiffres antiques peu crédibles. Estimation centrale : environ 700 000, estimation de Matthew White (Necrometrics), entre les chiffres antiques. Bas : 400 000 tués selon Velleius Paterculus. Haut : 1 million de tués selon Plutarque et Appien, qui ajoutent 1 million de captifs. César affirme lui-même avoir tué 430 000 Germains en une seule campagne. Les pertes romaines (plus de 30 000 tués) sont faibles en comparaison."
+countries:
+  - { code: FR }
+  - { code: BE }
+  - { code: CH }
+  - { code: DE }
+  - { code: NL }
+  - { code: LU }
+sources:
+  - title: Gallic Wars
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Gallic_Wars
+    accessed: "2026-10-22"
+  - title: Body Count of the Roman Empire
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/romestat.htm
+    accessed: "2026-10-22"
+reviewed: false

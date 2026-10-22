@@ -1,0 +1,35 @@
+id: messina-earthquake-1908
+title:
+  en: 1908 Messina earthquake and tsunami
+  fr: Séisme et tsunami de 1908 à Messine
+description:
+  en: >-
+    In the early morning of 28 December 1908, a magnitude 7.1 earthquake centred in the Strait of Messina nearly destroyed the cities of Messina, in Sicily, and Reggio Calabria, on the Italian mainland. Most victims were asleep and were crushed or buried as their houses collapsed. About ten minutes later a tsunami up to 12 metres high struck both shores, killing many survivors who had fled to the seafront. It is the deadliest earthquake in the recorded history of Europe.
+  fr: >-
+    Au petit matin du 28 décembre 1908, un séisme de magnitude 7,1 centré dans le détroit de Messine a presque entièrement détruit Messine, en Sicile, et Reggio de Calabre, sur le continent. La plupart des victimes dormaient et ont été écrasées ou ensevelies sous leurs maisons. Une dizaine de minutes plus tard, un tsunami atteignant 12 mètres a frappé les deux rives, tuant de nombreux survivants réfugiés sur le front de mer. C’est le séisme le plus meurtrier de l’histoire connue de l’Europe.
+categories: [natural-disaster]
+kind: event
+start: "1908-12-28"
+deaths:
+  best: 80000
+  low: 60000
+  high: 110000
+  note:
+    en: Deaths from the earthquake and the tsunami (about 2,000) in Sicily and Calabria. Best is the figure of the historians Guidoboni et al., used by the NOAA NCEI database; USGS gives 72,000 based on the 1901 and 1911 censuses. Estimates range from about 60,000 to 110,000 (USGS upper figure); the Wikipedia article states about 120,000 without a source, while its referenced figures are 75,000 in Messina and 25,000 in Calabria.
+    fr: Morts du séisme et du tsunami (environ 2 000) en Sicile et en Calabre. L’estimation centrale est celle des historiens Guidoboni et al., retenue par la base NCEI de la NOAA ; l’USGS donne 72 000 d’après les recensements de 1901 et 1911. Les estimations vont d’environ 60 000 à 110 000 (chiffre haut de l’USGS) ; l’article de Wikipédia avance environ 120 000 sans source, ses chiffres sourcés étant de 75 000 à Messine et 25 000 en Calabre.
+countries:
+  - { code: IT, deaths: 80000 }
+sources:
+  - title: 1908 Messina earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1908_Messina_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Messina, Sicily, Calabria, event 2846"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/2846
+    accessed: "2026-10-22"
+  - title: Earthquakes with 50,000 or More Deaths (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20130507101448/http://earthquake.usgs.gov/earthquakes/world/most_destructive.php
+    accessed: "2026-10-22"
+reviewed: false

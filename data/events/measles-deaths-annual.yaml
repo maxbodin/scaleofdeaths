@@ -1,0 +1,42 @@
+id: measles-deaths-annual
+title:
+  en: Deaths from measles per year
+  fr: Décès dus à la rougeole par an
+description:
+  en: >-
+    People who died from measles worldwide in one year, as estimated by the World Health Organization with a model based on vaccination coverage and surveillance data. Measles is a highly contagious viral disease; most deaths come from complications such as pneumonia, encephalitis and severe diarrhoea, mostly in unvaccinated or under-vaccinated children under 5. Vaccination cut deaths by 88% since 2000, averting nearly 59 million deaths, but cases are rising again, with an estimated 11 million infections and 59 countries facing large or disruptive outbreaks that year.
+  fr: >-
+    Personnes mortes de la rougeole dans le monde en un an, selon l’estimation de l’Organisation mondiale de la santé, issue d’un modèle fondé sur la couverture vaccinale et la surveillance. La rougeole est une maladie virale très contagieuse ; la plupart des décès viennent de complications comme la pneumonie, l’encéphalite et les diarrhées graves, surtout chez des enfants de moins de 5 ans pas ou mal vaccinés. La vaccination a réduit les décès de 88 % depuis 2000, mais les cas repartent à la hausse : environ 11 millions d’infections et 59 pays touchés par de grandes flambées cette année-là.
+categories: [annual, epidemic]
+kind: endemic-total
+start: "2024"
+end: "2024"
+deaths:
+  best: 95000
+  low: 32591
+  high: 198975
+  note:
+    en: >-
+      WHO (news release of 28 November 2025 and fact sheet): an estimated 95,000 measles deaths in 2024. The Weekly Epidemiological Record (No. 48, 2025) gives the unrounded model estimate of 94,564 with a 95% confidence interval of 32,591 to 198,975. Deaths are only published by WHO region: Eastern Mediterranean 44,851, Africa 33,639, South-East Asia 14,544, Western Pacific 1,142, Europe 386 and the Americas 1. The Democratic Republic of the Congo is listed without a number because it reported by far the most measles cases in 2024 (109,419, WHO Global Health Observatory).
+    fr: >-
+      OMS (communiqué du 28 novembre 2025 et fiche d’information) : environ 95 000 décès dus à la rougeole en 2024. Le Relevé épidémiologique hebdomadaire (no 48, 2025) donne l’estimation non arrondie du modèle, 94 564, avec un intervalle de confiance à 95 % de 32 591 à 198 975. Les décès ne sont publiés que par région de l’OMS : Méditerranée orientale 44 851, Afrique 33 639, Asie du Sud-Est 14 544, Pacifique occidental 1 142, Europe 386 et Amériques 1. La République démocratique du Congo est listée sans nombre car elle a déclaré de loin le plus de cas en 2024 (109 419, Observatoire mondial de la santé).
+countries:
+  - { code: CD }
+sources:
+  - title: Measles deaths down 88% since 2000, but cases surge
+    publisher: World Health Organization
+    url: https://www.who.int/news/item/28-11-2025-measles-deaths-down-88--since-2000--but-cases-surge
+    accessed: "2026-10-22"
+  - title: Weekly Epidemiological Record, No. 48, 28 November 2025 (measles estimates 2000-2024)
+    publisher: World Health Organization
+    url: https://iris.who.int/server/api/core/bitstreams/8c65dd54-ee98-4438-938c-e7114851f870/content
+    accessed: "2026-10-22"
+  - title: Measles fact sheet
+    publisher: World Health Organization
+    url: https://www.who.int/news-room/fact-sheets/detail/measles
+    accessed: "2026-10-22"
+  - title: "Global Health Observatory: measles, number of reported cases (WHS3_62), DR Congo 2024"
+    publisher: World Health Organization
+    url: https://ghoapi.azureedge.net/api/WHS3_62?$filter=TimeDim%20eq%202024%20and%20SpatialDim%20eq%20'COD'
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,32 @@
+id: puebla-earthquake-2017
+title:
+  en: 2017 Puebla earthquake
+  fr: Séisme de 2017 de Puebla
+description:
+  en: >-
+    On 19 September 2017, the 32nd anniversary of the 1985 Mexico City earthquake and two hours after a national earthquake drill, a magnitude 7.1 earthquake struck central Mexico, with its epicentre near the border of Puebla and Morelos states. More than 40 buildings collapsed in Greater Mexico City, including the Enrique Rébsamen school, where many children died, and towns in Morelos and Puebla were badly damaged.
+  fr: >-
+    Le 19 septembre 2017, jour du 32e anniversaire du séisme de Mexico de 1985 et deux heures après un exercice national d’évacuation, un séisme de magnitude 7,1 a frappé le centre du Mexique, avec un épicentre près de la limite entre les États de Puebla et de Morelos. Plus de 40 immeubles se sont effondrés dans l’agglomération de Mexico, dont l’école Enrique Rébsamen, où de nombreux enfants sont morts, et des localités du Morelos et de Puebla ont été durement touchées.
+categories: [natural-disaster]
+kind: event
+start: "2017-09-19"
+deaths:
+  best: 370
+  low: 369
+  note:
+    en: >-
+      Best is the 370 deaths given by Wikipedia. Low is the official count of 369 one month after the earthquake (Animal Político): 228 in Mexico City, 74 in Morelos, 45 in Puebla, 15 in the State of Mexico, 6 in Guerrero and 1 in Oaxaca. The separate Chiapas earthquake of 7 September 2017 is not included.
+    fr: >-
+      L’estimation centrale est le bilan de 370 morts de Wikipédia. L’estimation basse est le décompte officiel de 369 morts un mois après le séisme (Animal Político) : 228 à Mexico, 74 dans le Morelos, 45 à Puebla, 15 dans l’État de Mexico, 6 au Guerrero et 1 dans l’Oaxaca. Le séisme distinct du Chiapas du 7 septembre 2017 n’est pas compté.
+countries:
+  - { code: MX, deaths: 370 }
+sources:
+  - title: 2017 Puebla earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2017_Puebla_earthquake
+    accessed: "2026-10-22"
+  - title: "Lo que el #19S nos dejó: las víctimas, daños y damnificados en México"
+    publisher: Animal Político
+    url: https://grupoanimal.mx/noticias/cifras-oficiales-sismo-19s
+    accessed: "2026-10-22"
+reviewed: false

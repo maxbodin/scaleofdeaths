@@ -1,0 +1,38 @@
+id: china-floods-1931
+title:
+  en: 1931 China floods
+  fr: Inondations de 1931 en Chine
+description:
+  en: >-
+    After a long drought and a harsh winter, melting snow and exceptional rains, with nine cyclones in July 1931 alone, swelled the Yangtze, the Huai and other rivers of central China. From June to August they burst their dikes, flooding an area the size of England and half of Scotland, including the city of Wuhan, and affecting tens of millions of people. A dike breach at Lake Gaoyou on 25 August worsened the disaster. Most victims died not in the water but of the famine and epidemics that followed.
+  fr: >-
+    Après une longue sécheresse et un hiver rigoureux, la fonte des neiges et des pluies exceptionnelles, dont neuf cyclones en juillet 1931, ont fait gonfler le Yangzi, la Huai et d’autres cours d’eau du centre de la Chine. De juin à août, ils ont rompu leurs digues, inondant une surface équivalente à l’Angleterre et la moitié de l’Écosse, dont la ville de Wuhan, et touchant des dizaines de millions de personnes. La rupture d’une digue du lac Gaoyou, le 25 août, a aggravé la catastrophe. La plupart des victimes sont mortes non pas noyées, mais de la famine et des épidémies qui ont suivi.
+categories: [natural-disaster]
+kind: event
+start: "1931-06"
+end: "1931-11"
+deaths:
+  best: 2000000
+  low: 422420
+  high: 4000000
+  note:
+    en: >-
+      Very contested. Best is the "as many as 2 million" deaths given by historian Chris Courtney (DisasterHistory.org), in line with the 1933 official relief report, which says that 2 million people died, drowned or for lack of food. Low is the 422,420 deaths counted by Chinese historians led by Li Wenhai from contemporary press reports (Wikipedia; its infobox gives 422,499); a field survey at the time found 150,000 drowned in the first months. High is the 3.7 to 4 million alleged by some Western sources (PBS NOVA: "almost four million"), figures that are widely disputed. Includes deaths from famine and from cholera, dysentery, typhoid and malaria.
+    fr: >-
+      Très contesté. L’estimation centrale est le chiffre de « jusqu’à 2 millions » de morts avancé par l’historien Chris Courtney (DisasterHistory.org), conforme au rapport officiel de secours de 1933, selon lequel 2 millions de personnes sont mortes, noyées ou faute de nourriture. L’estimation basse est le décompte de 422 420 morts établi par des historiens chinois dirigés par Li Wenhai à partir de la presse de l’époque (Wikipédia ; son infobox donne 422 499) ; une enquête de terrain menée alors comptait 150 000 noyés dans les premiers mois. L’estimation haute correspond aux 3,7 à 4 millions avancés par certaines sources occidentales (PBS NOVA : « près de quatre millions »), chiffres largement contestés. Comprend les morts dues à la famine et au choléra, à la dysenterie, à la typhoïde et au paludisme.
+countries:
+  - { code: CN, deaths: 2000000 }
+sources:
+  - title: 1931 China floods
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1931_China_floods
+    accessed: "2026-10-22"
+  - title: Central China flood, 1931
+    publisher: DisasterHistory.org
+    url: https://disasterhistory.org/central-china-flood-1931
+    accessed: "2026-10-22"
+  - title: "Flood!: Dealing with the Deluge"
+    publisher: PBS NOVA
+    url: https://www.pbs.org/wgbh/nova/flood/deluge.html
+    accessed: "2026-10-22"
+reviewed: false

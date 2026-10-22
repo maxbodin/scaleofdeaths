@@ -1,0 +1,74 @@
+id: european-heatwave-2023
+title:
+  en: 2023 European heat waves
+  fr: Canicules de 2023 en Europe
+description:
+  en: >-
+    In 2023, the second warmest year on record in Europe, a series of summer heat waves struck the continent, the most severe being the "Cerberus" heat wave from 10 July, which brought record temperatures to southern Europe, above all Cyprus, Greece, Italy and Spain. Two hot spells, in mid-July and late August, accounted for more than half of the estimated heat-related deaths. Women and people over 80 were the most vulnerable; researchers estimate that the toll would have been about 80% higher without the adaptation to heat achieved since 2000.
+  fr: >-
+    En 2023, deuxième année la plus chaude jamais mesurée en Europe, une série de canicules estivales a frappé le continent, la plus sévère étant la vague de chaleur « Cerberus » à partir du 10 juillet, qui a apporté des températures record au sud de l’Europe, surtout à Chypre, en Grèce, en Italie et en Espagne. Deux épisodes, mi-juillet et fin août, représentent plus de la moitié des morts estimées. Les femmes et les plus de 80 ans ont été les plus vulnérables ; sans l’adaptation à la chaleur obtenue depuis 2000, le bilan aurait été environ 80 % plus lourd selon les chercheurs.
+categories: [natural-disaster]
+kind: event
+start: "2023-06"
+end: "2023-09"
+deaths:
+  best: 50798
+  low: 47690
+  high: 58000
+  note:
+    en: >-
+      Estimated heat-related deaths, not counted deaths. Best is the 50,798 deaths for the summer (1 June to 30 September 2023) in 32 countries estimated with daily mortality data by Janoš et al. (Nature Medicine, 2025), which also give the per-country figures below (ISGlobal). Low is the earlier estimate of 47,690 deaths in 35 countries for the whole year by Gallo et al. (Nature Medicine, 2024), based on weekly data; its authors said that correcting the known underestimation of weekly data would give a toll of the order of 58,000 (high).
+    fr: >-
+      Morts estimées liées à la chaleur, et non décès recensés. L’estimation centrale correspond aux 50 798 morts de l’été (1er juin au 30 septembre 2023) dans 32 pays, estimées à partir de données quotidiennes par Janoš et al. (Nature Medicine, 2025), qui donnent aussi les chiffres par pays ci-dessous (ISGlobal). L’estimation basse est l’estimation antérieure de 47 690 morts dans 35 pays sur l’année, de Gallo et al. (Nature Medicine, 2024), fondée sur des données hebdomadaires ; ses auteurs estiment qu’en corrigeant la sous-estimation connue de ces données, le bilan serait de l’ordre de 58 000 (estimation haute).
+countries:
+  - { code: IT, deaths: 13790 }
+  - { code: ES, deaths: 8335 }
+  - { code: DE, deaths: 6545 }
+  - { code: GR, deaths: 3887 }
+  - { code: FR, deaths: 3614 }
+  - { code: RO, deaths: 3147 }
+  - { code: BG, deaths: 2082 }
+  - { code: GB, deaths: 1079 }
+  - { code: PT, deaths: 1075 }
+  - { code: PL, deaths: 948 }
+  - { code: RS, deaths: 805 }
+  - { code: AT, deaths: 635 }
+  - { code: CH, deaths: 589 }
+  - { code: NL, deaths: 585 }
+  - { code: HU, deaths: 555 }
+  - { code: HR, deaths: 512 }
+  - { code: BA, deaths: 436 }
+  - { code: CZ, deaths: 388 }
+  - { code: BE, deaths: 361 }
+  - { code: SK, deaths: 263 }
+  - { code: LT, deaths: 243 }
+  - { code: IE, deaths: 141 }
+  - { code: CY, deaths: 128 }
+  - { code: DK, deaths: 127 }
+  - { code: FI, deaths: 120 }
+  - { code: SI, deaths: 120 }
+  - { code: EE, deaths: 75 }
+  - { code: LV, deaths: 67 }
+  - { code: ME, deaths: 65 }
+  - { code: NO, deaths: 38 }
+  - { code: SE, deaths: 23 }
+  - { code: LU, deaths: 20 }
+related: [european-heatwave-2024, european-heatwaves-2022]
+sources:
+  - title: 2023 European heatwaves
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2023_European_heatwaves
+    accessed: "2026-10-22"
+  - title: Heat caused over 47,000 deaths in Europe in 2023
+    publisher: ScienceDaily (ISGlobal press release on Gallo et al., Nature Medicine 2024)
+    url: https://www.sciencedaily.com/releases/2024/08/240812123208.htm
+    accessed: "2026-10-22"
+  - title: 62,700 heat-related deaths in summer 2024
+    publisher: Barcelona Institute for Global Health (ISGlobal)
+    url: https://www.isglobal.org/en/-/62.700-muertes-asociadas-con-el-calor-del-verano-de-2024
+    accessed: "2026-10-22"
+  - title: Heat-Related Mortality 2024 - Europe (country data, 2022-2024)
+    publisher: ISGlobal (Infogram)
+    url: https://infogram.com/heat-related-mortality-2024-europe-1h9j6q7wm9xd54g
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,35 @@
+id: galveston-hurricane-1900
+title:
+  en: 1900 Galveston hurricane
+  fr: Ouragan de Galveston de 1900
+description:
+  en: >-
+    The hurricane strengthened to Category 4 in the Gulf of Mexico and struck Galveston, Texas, on 8 September 1900. A storm surge of 2.4 to 3.7 metres flooded the low-lying island city, which had no seawall, destroying more than 3,600 homes and leaving about 10,000 people homeless. It remains the deadliest natural disaster in United States history. Galveston was then protected by a 16 km seawall and its ground level raised. The storm later caused deadly shipwrecks off eastern Canada.
+  fr: >-
+    Devenu un ouragan de catégorie 4 dans le golfe du Mexique, il a frappé Galveston, au Texas, le 8 septembre 1900. Une onde de tempête de 2,4 à 3,7 mètres a submergé cette ville insulaire basse, alors dépourvue de digue, détruisant plus de 3 600 maisons et laissant environ 10 000 sans-abri. C’est la catastrophe naturelle la plus meurtrière de l’histoire des États-Unis. La ville a ensuite été protégée par une digue de 16 km et son sol surélevé. La tempête a aussi provoqué des naufrages meurtriers au large de l’est du Canada.
+categories: [natural-disaster]
+kind: event
+start: "1900-08-27"
+end: "1900-09-15"
+deaths:
+  best: 8000
+  low: 6000
+  high: 12000
+  note:
+    en: >-
+      Wikipedia gives between 6,000 and 12,000 deaths, 8,000 being the figure most cited in official reports; the NOAA National Hurricane Center lists sources giving more than 8,000 and up to 12,000. The low figure rests on a 1901 city directory showing a population loss of 8,124, of whom about 2,000 were thought to have left the city. Per-country figures use the low end of each range: 6,000 in the United States and 52 (up to 232) in Canadian waters.
+    fr: >-
+      Wikipédia donne entre 6 000 et 12 000 morts, 8 000 étant le chiffre le plus cité dans les rapports officiels ; le National Hurricane Center de la NOAA recense des sources allant de plus de 8 000 à 12 000. Le chiffre bas repose sur un annuaire municipal de 1901 indiquant une perte de 8 124 habitants, dont environ 2 000 auraient quitté la ville. Les chiffres par pays retiennent le bas de chaque fourchette : 6 000 aux États-Unis et 52 (jusqu’à 232) dans les eaux canadiennes.
+countries:
+  - { code: US, deaths: 6000 }
+  - { code: CA, deaths: 52 }
+sources:
+  - title: 1900 Galveston hurricane
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1900_Galveston_hurricane
+    accessed: "2026-10-22"
+  - title: "The Deadliest Atlantic Tropical Cyclones, 1492-1996: Appendix 1"
+    publisher: NOAA National Hurricane Center
+    url: https://www.nhc.noaa.gov/pastdeadlyapp1.shtml
+    accessed: "2026-10-22"
+reviewed: false

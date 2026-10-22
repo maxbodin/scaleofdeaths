@@ -1,0 +1,49 @@
+id: air-pollution-deaths
+title:
+  en: Deaths from air pollution per year
+  fr: Décès dus à la pollution de l’air par an
+description:
+  en: >-
+    Deaths worldwide in one year attributed to air pollution, as estimated by the State of Global Air report of the Health Effects Institute with the Global Burden of Disease study (IHME). The total combines outdoor fine particle pollution, household smoke from cooking with solid fuels, and ground-level ozone, which raise the risk of heart disease, stroke, lung disease, lung cancer, diabetes and dementia. About 13% of all deaths were linked to air pollution, mostly in low- and middle-income countries, with South Asia carrying the heaviest burden.
+  fr: >-
+    Décès attribués à la pollution de l’air dans le monde en un an, selon le rapport State of Global Air du Health Effects Institute, réalisé avec l’étude Global Burden of Disease (IHME). Le total réunit les particules fines extérieures, la fumée domestique due à la cuisson aux combustibles solides et l’ozone, qui accroissent le risque de maladies cardiaques, d’AVC, de maladies pulmonaires, de cancer du poumon, de diabète et de démence. Environ 13 % de tous les décès sont liés à la pollution de l’air, surtout dans les pays à revenu faible ou intermédiaire, l’Asie du Sud étant la plus touchée.
+categories: [annual]
+kind: endemic-total
+start: "2023"
+end: "2023"
+deaths:
+  best: 7900000
+  low: 6400000
+  high: 9400000
+  note:
+    en: >-
+      State of Global Air 2025 (Health Effects Institute and IHME, GBD 2023): 7.9 million deaths in 2023 (95% uncertainty interval 6.4 to 9.4 million), of which 4.9 million from outdoor fine particles, 2.8 million from household air pollution and 470,000 from ozone (the parts overlap, so they add up to more than the total). These are attributable deaths, not a count. Per-country figures are the report's lower bounds: India and China "more than 2 million" each, Bangladesh, Pakistan and Nigeria "more than 200,000", Indonesia, Myanmar and Egypt "more than 100,000". WHO's own estimate, for 2021, is lower: about 6.6 million.
+    fr: >-
+      State of Global Air 2025 (Health Effects Institute et IHME, GBD 2023) : 7,9 millions de décès en 2023 (intervalle d’incertitude à 95 % de 6,4 à 9,4 millions), dont 4,9 millions dus aux particules fines extérieures, 2,8 millions à la pollution domestique et 470 000 à l’ozone (les parts se recoupent, d’où une somme supérieure au total). Ce sont des décès attribuables, pas un décompte. Les chiffres par pays sont les bornes basses du rapport : Inde et Chine « plus de 2 millions » chacune, Bangladesh, Pakistan et Nigeria « plus de 200 000 », Indonésie, Birmanie et Égypte « plus de 100 000 ». L’estimation de l’OMS pour 2021 est plus basse : environ 6,6 millions.
+countries:
+  - { code: IN, deaths: 2000000 }
+  - { code: CN, deaths: 2000000 }
+  - { code: BD, deaths: 200000 }
+  - { code: PK, deaths: 200000 }
+  - { code: NG, deaths: 200000 }
+  - { code: ID, deaths: 100000 }
+  - { code: MM, deaths: 100000 }
+  - { code: EG, deaths: 100000 }
+sources:
+  - title: "State of Global Air 2025: A Report on Air Pollution and Its Role in the World's Leading Causes of Death"
+    publisher: Health Effects Institute
+    url: https://www.stateofglobalair.org/sites/default/files/documents/2025-10/soga-2025-report.pdf
+    accessed: "2026-10-22"
+  - title: State of Global Air 2025
+    publisher: Institute for Health Metrics and Evaluation
+    url: https://www.healthdata.org/research-analysis/library/state-global-air-2025
+    accessed: "2026-10-22"
+  - title: "Global Health Observatory: joint effects of air pollution attributable deaths (AIR_35)"
+    publisher: World Health Organization
+    url: https://ghoapi.azureedge.net/api/AIR_35?$filter=SpatialDimType%20eq%20'GLOBAL'
+    accessed: "2026-10-22"
+  - title: Ambient (outdoor) air quality and health fact sheet
+    publisher: World Health Organization
+    url: https://www.who.int/news-room/fact-sheets/detail/ambient-(outdoor)-air-quality-and-health
+    accessed: "2026-10-22"
+reviewed: false

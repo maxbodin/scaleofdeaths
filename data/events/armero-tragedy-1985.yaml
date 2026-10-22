@@ -1,0 +1,32 @@
+id: armero-tragedy-1985
+title:
+  en: Armero tragedy
+  fr: Tragédie d’Armero
+description:
+  en: >-
+    On 13 November 1985 the Nevado del Ruiz volcano in Colombia erupted after 69 years of dormancy. Its pyroclastic flows melted part of the summit glaciers, sending lahars, fast-moving flows of mud and debris, down the river valleys. They engulfed the town of Armero, killing most of its almost 29,000 inhabitants, and struck other towns such as Chinchiná. Volcanologists had warned the authorities two months earlier and hazard maps had been drawn up, but no effective evacuation took place.
+  fr: >-
+    Le 13 novembre 1985, le volcan Nevado del Ruiz, en Colombie, est entré en éruption après 69 ans de sommeil. Ses coulées pyroclastiques ont fait fondre une partie des glaciers du sommet, déclenchant des lahars, coulées rapides de boue et de débris, qui ont dévalé les vallées. Ils ont englouti la ville d’Armero, tuant la plupart de ses près de 29 000 habitants, et frappé d’autres localités comme Chinchiná. Les volcanologues avaient alerté les autorités deux mois plus tôt et des cartes des risques avaient été établies, mais aucune évacuation efficace n’a eu lieu.
+categories: [natural-disaster]
+kind: event
+start: "1985-11-13"
+deaths:
+  best: 23000
+  high: 23080
+  note:
+    en: >-
+      More than 20,000 of the dead were in Armero and the rest mainly in Chinchiná and other towns, for an overall toll of about 23,000 (Wikipedia). High is the 23,080 deaths recorded in NOAA's volcano database.
+    fr: >-
+      Plus de 20 000 morts à Armero, les autres surtout à Chinchiná et dans d’autres localités, pour un bilan total d’environ 23 000 (Wikipédia). L’estimation haute correspond aux 23 080 morts recensés dans la base de données volcanique de la NOAA.
+countries:
+  - { code: CO, deaths: 23000 }
+sources:
+  - title: Armero tragedy
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Armero_tragedy
+    accessed: "2026-10-22"
+  - title: "Global Significant Volcanic Eruptions Database: Nevado del Ruiz, 1985"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/volcanoes?minYear=1985&maxYear=1985&country=Colombia
+    accessed: "2026-10-22"
+reviewed: false

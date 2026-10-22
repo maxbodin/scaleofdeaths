@@ -1,0 +1,45 @@
+id: great-chinese-famine
+title:
+  en: Great Chinese Famine
+  fr: Grande famine chinoise
+description:
+  en: >-
+    Mass famine in the People's Republic of China during the Great Leap Forward. Forced collectivisation into people's communes, inflated harvest reports, excessive grain procurement and exports, and the diversion of farm labour to steelmaking and irrigation works caused food supplies to collapse, compounded by droughts and floods. Anhui, Sichuan, Guizhou and Hunan were among the worst-hit provinces, and the famine is widely regarded as the deadliest in history.
+  fr: >-
+    Famine de masse en République populaire de Chine pendant le Grand Bond en avant. La collectivisation forcée en communes populaires, des récoltes surestimées, des réquisitions et des exportations excessives de céréales et le détournement des paysans vers la sidérurgie et les chantiers d’irrigation ont fait s’effondrer l’approvisionnement, sur fond de sécheresses et d’inondations. L’Anhui, le Sichuan, le Guizhou et le Hunan comptent parmi les provinces les plus touchées ; elle est souvent considérée comme la famine la plus meurtrière de l’histoire.
+categories: [famine]
+kind: event
+start: "1959"
+end: "1961"
+deaths:
+  best: 30000000
+  low: 15000000
+  high: 55000000
+  note:
+    en: "Excess deaths from starvation and famine-related disease, mainly 1959-1961 (some authors include 1958 or 1962). Best: about 30 million, the figure of demographic reconstructions by Ashton et al. (1984) and Banister (1987) and of Smil (BMJ, 1999). Low: 15 million (Chinese Academy of Sciences, 1989; Houser et al., 2009; Ó Gráda). High: 55 million (Yu Xiguang's archival estimate, 2015). Newer estimates mostly fall between 30 and 46 million; the World Peace Foundation uses 36 million. A few Chinese authors put excess deaths under 5 million, a minority view left out of the range."
+    fr: "Surmortalité due à la faim et aux maladies liées à la famine, surtout de 1959 à 1961 (certains auteurs incluent 1958 ou 1962). Valeur centrale : environ 30 millions, chiffre des reconstitutions démographiques d’Ashton et al. (1984) et de Banister (1987) et de Smil (BMJ, 1999). Bas : 15 millions (Académie chinoise des sciences, 1989 ; Houser et al., 2009 ; Ó Gráda). Haut : 55 millions (estimation de Yu Xiguang fondée sur les archives, 2015). Les estimations récentes se situent surtout entre 30 et 46 millions ; la World Peace Foundation retient 36 millions. Quelques auteurs chinois avancent moins de 5 millions, une position minoritaire exclue de la fourchette."
+countries:
+  - { code: CN, deaths: 30000000 }
+related: [chinese-land-reform, cultural-revolution]
+sources:
+  - title: Great Chinese Famine
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Great_Chinese_Famine
+    accessed: "2026-10-22"
+  - title: "China's great famine: 40 years later"
+    publisher: BMJ (PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC1127087/
+    accessed: "2026-10-22"
+  - title: Famines and the deaths in them
+    publisher: Our World in Data (World Peace Foundation data)
+    url: https://ourworldindata.org/grapher/famines-and-the-deaths-in-them
+    accessed: "2026-10-22"
+  - title: Famine
+    publisher: Encyclopaedia Britannica
+    url: https://www.britannica.com/science/famine
+    accessed: "2026-10-22"
+  - title: Making Famine History (Cormac Ó Gráda)
+    publisher: Journal of Economic Literature (UCD Research Repository)
+    url: https://researchrepository.ucd.ie/server/api/core/bitstreams/f57a2154-08a1-44a8-b865-75d1d51a4fcb/content
+    accessed: "2026-10-22"
+reviewed: false

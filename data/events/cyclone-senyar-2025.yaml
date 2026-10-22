@@ -1,0 +1,38 @@
+id: cyclone-senyar-2025
+title:
+  en: Cyclone Senyar and the 2025 Sumatra and Malay Peninsula floods
+  fr: Cyclone Senyar et inondations de 2025 à Sumatra et dans la péninsule Malaise
+description:
+  en: >-
+    In late November 2025, a low-pressure system over the Strait of Malacca brought torrential rain to southern Thailand, flooding the city of Hat Yai in Songkhla province, then strengthened into Cyclone Senyar, an exceptionally rare storm for the area. Senyar struck northern Sumatra on 26 November and then Peninsular Malaysia. Flash floods and landslides devastated the Indonesian provinces of Aceh, North Sumatra and West Sumatra, where most of the victims died.
+  fr: >-
+    Fin novembre 2025, une dépression au-dessus du détroit de Malacca a déversé des pluies torrentielles sur le sud de la Thaïlande, inondant la ville de Hat Yai, dans la province de Songkhla, puis s’est renforcée en cyclone Senyar, tempête exceptionnellement rare dans cette zone. Senyar a frappé le nord de Sumatra le 26 novembre, puis la Malaisie péninsulaire. Crues soudaines et glissements de terrain ont dévasté les provinces indonésiennes d’Aceh, de Sumatra du Nord et de Sumatra occidental, où se trouvent la plupart des victimes.
+categories: [natural-disaster]
+kind: event
+start: "2025-11-22"
+end: "2025-11-30"
+deaths:
+  best: 1501
+  note:
+    en: >-
+      Best is Wikipedia's total of officially confirmed deaths in the three countries. Indonesia: 1,201 deaths (562 in Aceh, 375 in North Sumatra, 265 in West Sumatra) and 142 missing, per the disaster agency BNPB on 25 January 2026. Thailand: 267 deaths in the south (229 in Songkhla) per the Ministry of Public Health on 2 December 2025; Wikipedia counts 297 by adding central provinces. Malaysia: 3. Rescue workers and politicians in Thailand claimed far more deaths in Songkhla, unconfirmed.
+    fr: >-
+      L’estimation centrale est le total, établi par Wikipédia, des morts officiellement confirmés dans les trois pays. Indonésie : 1 201 morts (562 à Aceh, 375 à Sumatra du Nord, 265 à Sumatra occidental) et 142 disparus selon l’agence BNPB au 25 janvier 2026. Thaïlande : 267 morts dans le Sud (dont 229 à Songkhla) selon le ministère de la Santé au 2 décembre 2025 ; Wikipédia en compte 297 en ajoutant des provinces du centre. Malaisie : 3. Des secouristes et des responsables politiques thaïlandais ont avancé des bilans bien plus lourds à Songkhla, non confirmés.
+countries:
+  - { code: ID, deaths: 1201 }
+  - { code: TH, deaths: 267 }
+  - { code: MY, deaths: 3 }
+sources:
+  - title: Cyclone Senyar
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Cyclone_Senyar
+    accessed: "2026-10-22"
+  - title: "BNPB: Death Toll from Sumatra Disaster Reaches 1,201"
+    publisher: Tempo
+    url: https://en.tempo.co/read/2082770/bnpb-death-toll-from-sumatra-disaster-reaches-1201
+    accessed: "2026-10-22"
+  - title: "สธ.เผยน้ำท่วมภาคใต้เสียชีวิต 267 คน เฉพาะหาดใหญ่ 142 คน (Ministry of Public Health: 267 dead in southern floods)"
+    publisher: Thai PBS
+    url: https://www.thaipbs.or.th/news/content/359070
+    accessed: "2026-10-22"
+reviewed: false

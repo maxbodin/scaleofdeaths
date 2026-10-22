@@ -1,0 +1,46 @@
+id: encephalitis-lethargica-epidemic
+title:
+  en: Encephalitis lethargica epidemic
+  fr: Épidémie d’encéphalite léthargique
+description:
+  en: >-
+    Worldwide epidemic of encephalitis lethargica, or "sleepy sickness", a brain inflammation that left many patients drowsy, motionless and speechless. Possibly starting in Romania in 1915, it was first described in Vienna in 1917 by the neurologist Constantin von Economo and spread with troop movements to France and England, then to North America, India, Germany and Soviet Russia. Its cause is still unknown, and a link with the 1918 influenza pandemic is disputed. Many survivors developed post-encephalitic parkinsonism, the subject of Oliver Sacks's book Awakenings.
+  fr: >-
+    Épidémie mondiale d’encéphalite léthargique, inflammation du cerveau qui laissait de nombreux malades somnolents, immobiles et muets. Partie peut-être de Roumanie en 1915, elle a été décrite à Vienne en 1917 par le neurologue Constantin von Economo et s’est propagée avec les mouvements de troupes en France et en Angleterre, puis en Amérique du Nord, en Inde, en Allemagne et en Russie soviétique. Sa cause reste inconnue et son lien avec la grippe de 1918 est contesté. Beaucoup de survivants ont développé un syndrome parkinsonien, sujet du livre Awakenings d’Oliver Sacks.
+categories: [epidemic]
+kind: event
+start: "1915"
+end: "1926"
+circa: true
+deaths:
+  best: 500000
+  note:
+    en: >-
+      Best is the estimate of about 500,000 deaths worldwide by Ravenholt and Foege (The Lancet, 1982), cited by McCall et al. (Journal of NeuroVirology, 2008) as "one estimate" and by Wikipedia; no other global figure was found. More than a million people are thought to have fallen ill, but diagnosis was uncertain: estimates of cases vary widely, many went unreported and others may have been overdiagnosed. Dates are approximate; some sources extend the epidemic to 1930.
+    fr: >-
+      L’estimation retenue est celle d’environ 500 000 morts dans le monde de Ravenholt et Foege (The Lancet, 1982), citée par McCall et al. (Journal of NeuroVirology, 2008) comme « une estimation » et par Wikipédia ; aucun autre chiffre mondial n’a été trouvé. Plus d’un million de personnes auraient été malades, mais le diagnostic était incertain : les estimations varient beaucoup, de nombreux cas n’ont pas été signalés et d’autres ont pu être surdiagnostiqués. Les dates sont approximatives ; certaines sources prolongent l’épidémie jusqu’en 1930.
+countries:
+  - { code: RO }
+  - { code: AT }
+  - { code: FR }
+  - { code: GB }
+  - { code: US }
+  - { code: CA }
+  - { code: IN }
+  - { code: DE }
+  - { code: SU, name: { en: Soviet Russia, fr: Russie soviétique } }
+related: [spanish-flu]
+sources:
+  - title: Encephalitis lethargica
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Encephalitis_lethargica
+    accessed: "2026-10-22"
+  - title: 1919-1930 encephalitis lethargica epidemic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1919%E2%80%931930_encephalitis_lethargica_epidemic
+    accessed: "2026-10-22"
+  - title: "The relationship between encephalitis lethargica and influenza: A critical analysis"
+    publisher: Journal of NeuroVirology (via PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC2778472/
+    accessed: "2026-10-22"
+reviewed: false

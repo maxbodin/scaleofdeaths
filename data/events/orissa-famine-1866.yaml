@@ -1,0 +1,38 @@
+id: orissa-famine-1866
+title:
+  en: Orissa famine of 1866
+  fr: Famine de l’Orissa de 1866
+description:
+  en: >-
+    Famine on the east coast of India, most severe in Orissa (now Odisha), then an isolated part of the Bengal Presidency, after the scanty rains of 1865 ruined the winter rice crop. Committed to leaving supply to the market and misled by fictitious price lists, the Bengal authorities did not grasp the crisis until the end of May 1866, when the monsoon made transport by sea and land almost impossible. The first imported rice reached the starving only in September. Cholera and then malaria killed more people than starvation itself.
+  fr: >-
+    Famine sur la côte est de l’Inde, la plus grave en Orissa (l’actuel Odisha), alors partie isolée de la présidence du Bengale, après que les faibles pluies de 1865 ont ruiné la récolte de riz d’hiver. Attachées au libre jeu du marché et trompées par des relevés de prix fictifs, les autorités du Bengale n’ont mesuré la crise qu’à la fin de mai 1866, quand la mousson rendait les transports par mer et par terre presque impossibles. Le premier riz importé n’a atteint les affamés qu’en septembre. Le choléra puis le paludisme ont tué davantage que la faim elle-même.
+categories: [famine]
+kind: event
+start: "1866"
+end: "1868"
+deaths:
+  best: 1000000
+  note:
+    en: "Deaths from starvation and disease in Orissa alone. Best: about 1 million, about a third of the population, the official estimate reported by the 1880 Indian Famine Commission ('nearly a million') and the Imperial Gazetteer of India ('at least a million'); the BBC writes of over a million deaths in eastern India. Police reported about 135,000 further deaths in Bihar and northern Bengal in 1866 (1880 Famine Commission), not included here. Wikipedia's figure of 4 to 5 million for the whole region is attributed to the Imperial Gazetteer, which does not contain it, so it is not used."
+    fr: "Morts de faim et de maladie dans le seul Orissa. Valeur centrale : environ 1 million, soit un tiers de la population, estimation officielle rapportée par la commission indienne des famines de 1880 (« près d’un million ») et l’Imperial Gazetteer of India (« au moins un million ») ; la BBC évoque plus d’un million de morts dans l’est de l’Inde. La police a signalé environ 135 000 autres morts au Bihar et dans le nord du Bengale en 1866 (commission de 1880), non comptés ici. Le chiffre de 4 à 5 millions pour l’ensemble de la région donné par Wikipédia est attribué à l’Imperial Gazetteer, qui ne le contient pas ; il n’est donc pas retenu."
+countries:
+  - { code: IN, deaths: 1000000 }
+sources:
+  - title: Orissa famine of 1866
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Orissa_famine_of_1866
+    accessed: "2026-10-22"
+  - title: "Report of the Indian Famine Commission, Part I (1880)"
+    publisher: Government of India (Internet Archive)
+    url: https://archive.org/details/FamineCommission
+    accessed: "2026-10-22"
+  - title: "Imperial Gazetteer of India, vol. III: The Indian Empire, Economic (1907)"
+    publisher: Clarendon Press (Internet Archive)
+    url: https://archive.org/details/imperialgazettee03grea
+    accessed: "2026-10-22"
+  - title: "Viewpoint: How British let one million Indians die in famine"
+    publisher: BBC News
+    url: https://www.bbc.com/news/world-asia-india-36339524
+    accessed: "2026-10-22"
+reviewed: false

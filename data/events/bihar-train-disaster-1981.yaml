@@ -1,0 +1,35 @@
+id: bihar-train-disaster-1981
+title:
+  en: 1981 Bihar train disaster
+  fr: Catastrophe ferroviaire du Bihar de 1981
+description:
+  en: >-
+    On 6 June 1981 an overcrowded passenger train running between Mansi and Saharsa in Bihar, India, derailed while crossing a bridge, and seven of its nine carriages plunged into the Bagmati River. The cause is uncertain; a cyclone, flash flooding and brake failure have all been suggested. The train carried several wedding parties and the number of passengers is unknown. Bodies were recovered over several days and hundreds of people were never found, feared swept away by the river. It is considered the deadliest rail accident in India.
+  fr: >-
+    Le 6 juin 1981, un train de voyageurs bondé circulant entre Mansi et Saharsa, au Bihar (Inde), déraille sur un pont et sept de ses neuf voitures tombent dans la rivière Bagmati. La cause reste incertaine ; un cyclone, une crue soudaine ou une défaillance des freins ont été avancés. Le train transportait plusieurs cortèges de mariage et le nombre de passagers est inconnu. Les corps sont repêchés pendant plusieurs jours et des centaines de personnes ne sont jamais retrouvées, sans doute emportées par le courant. C’est considéré comme l’accident ferroviaire le plus meurtrier de l’Inde.
+categories: [accident]
+kind: event
+start: "1981-06-06"
+deaths:
+  best: 800
+  low: 235
+  high: 2000
+  note:
+    en: Best is the figure of 800 deaths given by the BBC and the Economic Times. Low is the official toll of 235, issued on 12 June 1981 when recovery efforts ended, which counts only bodies recovered plus three missing people, while hundreds remained missing. Wikipedia gives estimates of 500 to 800 or more, and the Economic Times reports estimates of up to 2,000 (high).
+    fr: L’estimation centrale est le chiffre de 800 morts donné par la BBC et l’Economic Times. La borne basse est le bilan officiel de 235 morts, publié le 12 juin 1981 à la fin des recherches, qui ne compte que les corps retrouvés et trois disparus, alors que des centaines de personnes manquaient encore. Wikipédia cite des estimations de 500 à 800 morts ou plus, et l’Economic Times fait état d’estimations allant jusqu’à 2 000 morts (borne haute).
+countries:
+  - { code: IN, deaths: 800 }
+sources:
+  - title: Bihar train derailment
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Bihar_train_derailment
+    accessed: "2026-10-22"
+  - title: "1981 Bihar to 2023 Balasore train accident in Odisha, here are India's deadliest rail accidents"
+    publisher: The Economic Times
+    url: https://economictimes.indiatimes.com/news/how-to/1991-bihar-to-2023-balasore-train-accident-in-odisha-here-are-indias-deadliest-rail-accidents/articleshow/100718662.cms
+    accessed: "2026-10-22"
+  - title: Iran mourns train blast victims (box "World's worst train disasters")
+    publisher: BBC News
+    url: https://news.bbc.co.uk/2/hi/middle_east/3502075.stm
+    accessed: "2026-10-22"
+reviewed: false

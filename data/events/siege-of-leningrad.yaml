@@ -1,0 +1,33 @@
+id: siege-of-leningrad
+title:
+  en: Siege of Leningrad
+  fr: Siège de Leningrad
+description:
+  en: >-
+    Blockade of Leningrad (now Saint Petersburg), the Soviet Union's second-largest city, by German and Finnish forces for 872 days. Rather than storm the city, the Germans chose to starve and bombard it. Food, fuel, water and power ran out, and starvation caused most civilian deaths, which peaked at about 100,000 a month in early 1942. Supplies and evacuees crossed Lake Ladoga by boat or over the frozen lake on the Road of Life. A land corridor was opened in January 1943 and the siege was fully lifted on 27 January 1944.
+  fr: >-
+    Blocus de Leningrad (aujourd’hui Saint-Pétersbourg), deuxième ville d’URSS, par les forces allemandes et finlandaises pendant 872 jours. Plutôt que de l’assaillir, les Allemands choisissent d’affamer et de bombarder la ville. Vivres, combustible, eau et électricité manquent ; la faim cause l’essentiel des morts civiles, qui culminent à environ 100 000 par mois au début de 1942. Ravitaillement et évacués traversent le lac Ladoga en bateau ou sur la glace, par la « route de la vie ». Un corridor terrestre est ouvert en janvier 1943 et le siège est levé le 27 janvier 1944.
+categories: [war, famine]
+kind: event
+partOf: second-world-war
+start: "1941-09-08"
+end: "1944-01-27"
+deaths:
+  best: 1500000
+  low: 1300000
+  high: 2000000
+  note:
+    en: Soviet civilian and military deaths during the siege, mostly from starvation and disease, as well as shelling, bombing and fighting around the city. Axis losses are not included, since sources give only casualty totals that include wounded. Best is the estimated 1.5 million deaths in Wikipedia's lead. Low is the bottom of Harrison Salisbury's estimate of 1.3 to 1.5 million civilian and military deaths, and high the top of David Glantz's 1.6 to 2 million soldiers and civilians. Civilian deaths alone are about one million (Glantz gives 642,000 during the siege and 400,000 during evacuations; the Imperial War Museums write that the siege killed over a million inhabitants). Soviet military figures for the Leningrad and Volkhov fronts (1,017,881 killed, captured or missing) include prisoners and are not used as such.
+    fr: Morts civiles et militaires soviétiques pendant le siège, surtout de faim et de maladie, mais aussi sous les obus, les bombes et dans les combats autour de la ville. Les pertes de l’Axe ne sont pas comptées, car les sources ne donnent que des totaux incluant les blessés. L’estimation centrale est celle de 1,5 million de morts de l’introduction de Wikipédia. Le bas de la fourchette est le bas de l’estimation de Harrison Salisbury (1,3 à 1,5 million de morts civiles et militaires), le haut celui de l’estimation de David Glantz (1,6 à 2 millions de soldats et de civils). Les morts civiles seules sont d’environ un million (Glantz en compte 642 000 pendant le siège et 400 000 lors des évacuations ; selon les Imperial War Museums, le siège a tué plus d’un million d’habitants). Les chiffres militaires soviétiques des fronts de Leningrad et du Volkhov (1 017 881 tués, capturés ou disparus) incluent des prisonniers et ne sont pas utilisés tels quels.
+countries:
+  - { code: SU, name: { en: Soviet Union, fr: Union soviétique }, deaths: 1500000 }
+sources:
+  - title: Siege of Leningrad
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Siege_of_Leningrad
+    accessed: "2026-10-22"
+  - title: "Guest Post: Tracing the Leningrad Siege"
+    publisher: Imperial War Museums
+    url: https://www.iwm.org.uk/blog/research/2014/07/guest-post-tracing-the-leningrad-siege
+    accessed: "2026-10-22"
+reviewed: false

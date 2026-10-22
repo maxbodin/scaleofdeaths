@@ -1,0 +1,34 @@
+id: quetta-earthquake-1935
+title:
+  en: 1935 Quetta earthquake
+  fr: Séisme de 1935 à Quetta
+description:
+  en: >-
+    In the early hours of 31 May 1935 a magnitude 7.7 earthquake struck Quetta, in Baluchistan, British India (now Pakistan), close to the border with Afghanistan. The city was almost completely destroyed, as were all the villages between Quetta and Kalat. Soldiers of the garrison dug through the ruins, and the city was sealed off for fear of disease from the bodies buried in the rubble. It remained the deadliest earthquake in South Asia until 2005.
+  fr: >-
+    Aux premières heures du 31 mai 1935, un séisme de magnitude 7,7 a frappé Quetta, au Baloutchistan, dans l’Inde britannique (aujourd’hui au Pakistan), près de la frontière afghane. La ville a été presque entièrement détruite, de même que tous les villages entre Quetta et Kalat. Les soldats de la garnison ont fouillé les ruines, et la ville a été bouclée par crainte d’épidémies dues aux corps ensevelis. Il est resté le séisme le plus meurtrier d’Asie du Sud jusqu’en 2005.
+categories: [natural-disaster]
+kind: event
+start: "1935-05-31"
+deaths:
+  best: 30000
+  high: 60000
+  note:
+    en: Estimates range from 30,000 to 60,000 and no definitive count exists; most deaths were in the city of Quetta. Best is the USGS figure; the NOAA NCEI database retains 60,000 while also citing catalogues giving 30,000 and 30,000 to 40,000.
+    fr: Les estimations vont de 30 000 à 60 000 et aucun décompte définitif n’existe ; la plupart des morts se trouvaient dans la ville de Quetta. L’estimation centrale est celle de l’USGS ; la base NCEI de la NOAA retient 60 000, tout en citant des catalogues donnant 30 000 et de 30 000 à 40 000.
+countries:
+  - { code: PK, deaths: 30000 }
+sources:
+  - title: 1935 Quetta earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1935_Quetta_earthquake
+    accessed: "2026-10-22"
+  - title: Earthquakes with 1,000 or More Deaths 1900-2014 (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20170118110610/http://earthquake.usgs.gov/earthquakes/world/world_deaths.php
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Quetta, event 3550"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/3550
+    accessed: "2026-10-22"
+reviewed: false

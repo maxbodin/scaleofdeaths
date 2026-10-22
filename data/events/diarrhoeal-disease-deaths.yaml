@@ -1,0 +1,40 @@
+id: diarrhoeal-disease-deaths
+title:
+  en: Deaths from diarrhoeal diseases per year
+  fr: Décès dus aux maladies diarrhéiques par an
+description:
+  en: >-
+    People who died from diarrhoeal diseases worldwide in one year, as estimated by the Global Burden of Disease study (IHME) from death registration, verbal autopsy and surveillance data in 204 countries. Diarrhoea is usually caused by intestinal infections spread through contaminated food or water or poor hygiene, and kills mainly through dehydration and, increasingly, septic infections; rotavirus, norovirus and Cryptosporidium are the leading causes of death. Deaths have fallen by 60% since 1990 thanks to oral rehydration, safer water and sanitation and rotavirus vaccines.
+  fr: >-
+    Personnes mortes de maladies diarrhéiques dans le monde en un an, selon l’étude Global Burden of Disease (IHME), fondée sur les registres de décès et les autopsies verbales de 204 pays. La diarrhée est surtout due à des infections intestinales transmises par l’eau ou les aliments contaminés ou le manque d’hygiène, et tue par déshydratation et, de plus en plus, par infections septiques ; le rotavirus, le norovirus et Cryptosporidium sont les premières causes de décès. Les morts ont baissé de 60 % depuis 1990 grâce à la réhydratation orale, à l’eau potable, à l’assainissement et aux vaccins.
+categories: [annual, epidemic]
+kind: endemic-total
+start: "2021"
+end: "2021"
+deaths:
+  best: 1170000
+  low: 793000
+  high: 1620000
+  note:
+    en: >-
+      GBD 2021 Diarrhoeal Diseases Collaborators (The Lancet Infectious Diseases, 2024): 1.17 million deaths in 2021 (95% uncertainty interval 0.793 to 1.62 million), down from 2.93 million in 1990; all ages. WHO's fact sheet gives undated yearly figures for children only (about 443,800 under 5 and 50,900 aged 5 to 9). The paper gives no per-country death counts in its text; India, Nigeria and Pakistan are listed without numbers because it names them as the countries with the largest diarrhoeal disease burden.
+    fr: >-
+      GBD 2021 Diarrhoeal Diseases Collaborators (The Lancet Infectious Diseases, 2024) : 1,17 million de décès en 2021 (intervalle d’incertitude à 95 % de 0,793 à 1,62 million), contre 2,93 millions en 1990 ; tous âges. La fiche de l’OMS donne des chiffres annuels non datés pour les seuls enfants (environ 443 800 de moins de 5 ans et 50 900 de 5 à 9 ans). L’article ne donne pas de décès par pays dans son texte ; l’Inde, le Nigeria et le Pakistan sont listés sans nombre car il les cite comme les pays où la charge des maladies diarrhéiques est la plus lourde.
+countries:
+  - { code: IN }
+  - { code: NG }
+  - { code: PK }
+sources:
+  - title: "Global, regional, and national age-sex-specific burden of diarrhoeal diseases, their risk factors, and aetiologies, 1990-2021 (GBD 2021 Diarrhoeal Diseases Collaborators)"
+    publisher: The Lancet Infectious Diseases (PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12018300/
+    accessed: "2026-10-22"
+  - title: Global, regional, and national age-sex-specific burden of diarrhoeal diseases (abstract)
+    publisher: Institute for Health Metrics and Evaluation
+    url: https://www.healthdata.org/research-analysis/library/global-regional-and-national-age-sex-specific-burden-diarrhoeal-diseases
+    accessed: "2026-10-22"
+  - title: Diarrhoeal disease fact sheet
+    publisher: World Health Organization
+    url: https://www.who.int/news-room/fact-sheets/detail/diarrhoeal-disease
+    accessed: "2026-10-22"
+reviewed: false

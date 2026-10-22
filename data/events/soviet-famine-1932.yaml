@@ -1,0 +1,38 @@
+id: soviet-famine-1932
+title:
+  en: Soviet famine of 1930-1933
+  fr: Famine soviétique de 1930-1933
+description:
+  en: >-
+    Famine in the main grain-producing regions of the Soviet Union, including Ukraine, Kazakhstan, the North Caucasus and Kuban, the Volga region, the southern Urals and western Siberia. Forced collectivisation, the persecution and deportation of the kulaks, and grain procurement kept high despite poor harvests in 1931 and 1932 caused mass starvation, while the state maintained grain exports and reserves. Discussion of the famine was banned in the Soviet Union until the late 1980s.
+  fr: >-
+    Famine dans les principales régions céréalières de l’Union soviétique, dont l’Ukraine, le Kazakhstan, le Caucase du Nord et le Kouban, la région de la Volga, le sud de l’Oural et la Sibérie occidentale. La collectivisation forcée, la persécution et la déportation des koulaks, et des réquisitions de grain maintenues à un niveau élevé malgré les mauvaises récoltes de 1931 et 1932 ont provoqué une famine de masse, tandis que l’État conservait ses exportations et ses réserves de céréales. Le sujet est resté interdit en Union soviétique jusqu’à la fin des années 1980.
+categories: [famine]
+kind: event
+start: "1930"
+end: "1933"
+deaths:
+  best: 7000000
+  low: 5000000
+  high: 8700000
+  note:
+    en: "Excess deaths from starvation and related disease across the Soviet Union, including the Holodomor in Ukraine and the Kazakh famine, which are also listed separately. Best: about 7 million, the toll given in the Russian State Duma's 2008 statement and within the 6 to 8 million range formerly given by Britannica (as reported by Wikipedia). Low: 5 million (Britannica: at least 5 million across the USSR in 1931-1934; Ó Gráda: 5 to 6 million; Davies and Wheatcroft: 5.5 to 6.5 million). High: 8.7 million (Oleh Wolowyna, Journal of Genocide Research, 2020). Per-country figures are the low ends of ranges given by Wikipedia: 3.3 to 3.9 million in Ukraine, 2 to 3 million in Russia and 1.5 to 2 million in Kazakhstan."
+    fr: "Surmortalité due à la faim et aux maladies associées dans toute l’Union soviétique, y compris l’Holodomor en Ukraine et la famine kazakhe, également présentés séparément. Valeur centrale : environ 7 millions, bilan donné par la déclaration de la Douma d’État russe en 2008 et compris dans la fourchette de 6 à 8 millions autrefois donnée par Britannica (selon Wikipédia). Bas : 5 millions (Britannica : au moins 5 millions dans toute l’URSS en 1931-1934 ; Ó Gráda : 5 à 6 millions ; Davies et Wheatcroft : 5,5 à 6,5 millions). Haut : 8,7 millions (Oleh Wolowyna, Journal of Genocide Research, 2020). Les chiffres par pays sont le bas des fourchettes données par Wikipédia : 3,3 à 3,9 millions en Ukraine, 2 à 3 millions en Russie et 1,5 à 2 millions au Kazakhstan."
+countries:
+  - { code: UA, deaths: 3300000 }
+  - { code: RU, deaths: 2000000 }
+  - { code: KZ, deaths: 1500000 }
+sources:
+  - title: Soviet famine of 1930-1933
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Soviet_famine_of_1930%E2%80%931933
+    accessed: "2026-10-22"
+  - title: Holodomor
+    publisher: Encyclopaedia Britannica
+    url: https://www.britannica.com/event/Holodomor
+    accessed: "2026-10-22"
+  - title: Making Famine History (Cormac Ó Gráda)
+    publisher: Journal of Economic Literature (UCD Research Repository)
+    url: https://researchrepository.ucd.ie/server/api/core/bitstreams/f57a2154-08a1-44a8-b865-75d1d51a4fcb/content
+    accessed: "2026-10-22"
+reviewed: false

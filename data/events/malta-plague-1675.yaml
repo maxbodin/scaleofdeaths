@@ -1,0 +1,37 @@
+id: malta-plague-1675
+title:
+  en: 1675-1676 Malta plague epidemic
+  fr: Épidémie de peste de 1675-1676 à Malte
+description:
+  en: >-
+    The deadliest epidemic in Maltese history, on the island of Malta, then ruled by the Order of St John. The first victim, the 11-year-old daughter of a Valletta textile merchant, fell ill on Christmas Eve 1675; the disease was blamed on English warships or on imported cloth. It spread from Valletta to the harbour cities and to most villages by May 1676, while Gozo and Mdina were spared. The cities were hit hardest: Valletta lost a third of its inhabitants and Senglea, Cospicua and Vittoriosa about half. The last victim died in July 1676.
+  fr: >-
+    L’épidémie la plus meurtrière de l’histoire maltaise, sur l’île de Malte, alors aux mains de l’ordre de Saint-Jean. La première victime, la fille de 11 ans d’un marchand de tissus de La Valette, tomba malade la veille de Noël 1675 ; on accusa des navires de guerre anglais ou des étoffes importées. Partie de La Valette, la maladie gagna les villes du port puis la plupart des villages en mai 1676, épargnant Gozo et Mdina. Les villes souffrirent le plus : La Valette perdit un tiers de ses habitants, Senglea, Cospicua et Vittoriosa la moitié environ. La dernière victime mourut en juillet 1676.
+categories: [epidemic]
+kind: event
+start: "1675-12-24"
+end: "1676-07-15"
+deaths:
+  best: 11300
+  low: 11000
+  high: 11300
+  note:
+    en: Deaths on the island of Malta. Best is the "around 11,300" given by Wikipedia and by The Malta Independent (reviewing Joseph Micallef's history of the epidemic), which breaks it down into about 9,000 of 22,000 city dwellers (41%) and 2,000 of 29,000 country people. Encyclopaedia Britannica gives 11,000, used as the low bound.
+    fr: Morts sur l’île de Malte. L’estimation retenue est celle d’« environ 11 300 » morts donnée par Wikipédia et par The Malta Independent (à propos de l’histoire de l’épidémie par Joseph Micallef), qui la répartit en environ 9 000 morts sur 22 000 citadins (41 %) et 2 000 sur 29 000 ruraux. L’Encyclopaedia Britannica donne 11 000, retenus comme borne basse.
+countries:
+  - { code: MT, deaths: 11300 }
+related: [black-death]
+sources:
+  - title: 1675-1676 Malta plague epidemic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1675%E2%80%931676_Malta_plague_epidemic
+    accessed: "2026-10-22"
+  - title: The 1676 plague in Malta (archived)
+    publisher: The Malta Independent
+    url: https://web.archive.org/web/20171112063500/http://www.independent.com.mt/articles/2017-06-19/newspaper-lifestyleculture/The-1676-plague-in-Malta-6736175628
+    accessed: "2026-10-22"
+  - title: "Plague: History (archived)"
+    publisher: Encyclopaedia Britannica
+    url: https://web.archive.org/web/20200116154728/https://www.britannica.com/science/plague/History
+    accessed: "2026-10-22"
+reviewed: false

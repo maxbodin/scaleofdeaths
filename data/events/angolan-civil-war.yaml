@@ -1,0 +1,37 @@
+id: angolan-civil-war
+title:
+  en: Angolan Civil War
+  fr: Guerre civile angolaise
+description:
+  en: >-
+    Civil war that began at Angola's independence from Portugal in November 1975, a power struggle between the communist MPLA, which became the government with Cuban troops and Soviet support, and the anti-communist UNITA, backed by the United States and South Africa. Major fighting took place in 1975-1991, 1992-1994 and 1998-2002, separated by fragile periods of peace. The war devastated the country's infrastructure, left it heavily mined and displaced over a million people. It ended with the MPLA's victory in 2002, after the death of UNITA leader Jonas Savimbi.
+  fr: >-
+    Guerre civile commencée à l’indépendance de l’Angola, en novembre 1975, lutte de pouvoir entre le MPLA communiste, devenu le gouvernement grâce aux troupes cubaines et au soutien soviétique, et l’UNITA anticommuniste, soutenue par les États-Unis et l’Afrique du Sud. Les principaux combats ont lieu en 1975-1991, 1992-1994 et 1998-2002, séparées par des périodes de paix fragiles. La guerre dévaste les infrastructures du pays, le laisse truffé de mines et déplace plus d’un million de personnes. Elle s’achève par la victoire du MPLA en 2002, après la mort du chef de l’UNITA, Jonas Savimbi.
+categories: [war]
+kind: event
+start: "1975-11-11"
+end: "2002-04-04"
+deaths:
+  best: 500000
+  low: 500000
+  high: 800000
+  note:
+    en: Military and civilian deaths, including war-related famine and disease, over the whole 1975-2002 period. Best is Matthew White's median of published estimates (Necrometrics), the figure most often given in press reports near the end of the war. The range is the 500,000 to 800,000 deaths given in Wikipedia's lead. Lower figures in the sources (about 300,000) only cover the period up to 1991 or 1994. Per-country figures are foreign military deaths, at the low end of the ranges given on Wikipedia (Cuba 2,016 to 5,000; South Africa 2,365 to 2,500); Angolan deaths are not known separately.
+    fr: Morts militaires et civiles, y compris les famines et maladies liées à la guerre, sur toute la période 1975-2002. L’estimation centrale est la médiane des estimations publiées établie par Matthew White (Necrometrics), le chiffre le plus souvent donné par la presse vers la fin de la guerre. La fourchette est celle de 500 000 à 800 000 morts donnée dans le résumé de Wikipédia. Les chiffres plus bas des sources (environ 300 000) ne couvrent que la période allant jusqu’en 1991 ou 1994. Les chiffres par pays sont des morts militaires étrangères, au bas des fourchettes de Wikipédia (Cuba 2 016 à 5 000 ; Afrique du Sud 2 365 à 2 500) ; les morts angolaises ne sont pas connues séparément.
+countries:
+  - { code: AO }
+  - { code: ZA, deaths: 2365 }
+  - { code: CU, deaths: 2016 }
+  - { code: SU, name: { en: Soviet Union, fr: Union soviétique }, deaths: 54 }
+  - { code: US, deaths: 6 }
+related: [mozambican-civil-war]
+sources:
+  - title: Angolan Civil War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Angolan_Civil_War
+    accessed: "2026-10-22"
+  - title: "Secondary Wars and Atrocities of the Twentieth Century: Angola (1975-2002)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c300k.htm
+    accessed: "2026-10-22"
+reviewed: false

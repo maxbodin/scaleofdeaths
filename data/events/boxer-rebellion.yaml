@@ -1,0 +1,35 @@
+id: boxer-rebellion
+title:
+  en: Boxer Rebellion
+  fr: Révolte des Boxers
+description:
+  en: >-
+    Anti-foreign and anti-Christian uprising in northern China by the Boxers (Yihetuan), a popular movement that attacked missionaries, Chinese Christians and foreign property and was eventually backed by the Qing court. In 1900 the Boxers and Qing troops besieged the foreign legations in Beijing until an Eight-Nation Alliance relieved them in August and occupied the capital. Foreign troops then carried out punitive expeditions marked by summary executions and looting, and the Boxer Protocol of 1901 imposed a huge indemnity on China.
+  fr: >-
+    Soulèvement xénophobe et antichrétien dans le nord de la Chine mené par les Boxers (Yihetuan), mouvement populaire qui s’en prend aux missionnaires, aux chrétiens chinois et aux biens étrangers, et finit par être soutenu par la cour des Qing. En 1900, les Boxers et les troupes Qing assiègent les légations étrangères de Pékin jusqu’à ce qu’une alliance de huit nations les délivre en août et occupe la capitale. Les troupes étrangères mènent ensuite des expéditions punitives marquées par des exécutions sommaires et des pillages, et le protocole de 1901 impose à la Chine une énorme indemnité.
+categories: [war]
+kind: event
+start: "1899-09-17"
+end: "1901-09-07"
+deaths:
+  best: 100000
+  high: 115000
+  note:
+    en: "Military and civilian deaths. Best: about 100,000 deaths in total, the figure Wikipedia attributes to Encyclopaedia Britannica. High: 115,000, R. J. Rummel's estimate of 10,000 war deaths and 105,000 killings of civilians (via Necrometrics). Most of the dead were civilians: the Hammond Atlas counts 32,000 Chinese Christians and 200 Western missionaries killed in northern China. Battle deaths were small, about 3,000 according to the Correlates of War project. No lower overall estimate was found."
+    fr: "Morts militaires et civiles. Estimation centrale : environ 100 000 morts au total, chiffre que Wikipédia attribue à l’Encyclopaedia Britannica. Haut : 115 000, estimation de R. J. Rummel de 10 000 morts de guerre et 105 000 civils tués (via Necrometrics). La plupart des morts sont des civils : l’atlas Hammond compte 32 000 chrétiens chinois et 200 missionnaires occidentaux tués dans le nord de la Chine. Les morts au combat sont peu nombreuses, environ 3 000 selon le projet Correlates of War. Aucune estimation globale plus basse n’a été trouvée."
+countries:
+  - { code: CN, deaths: 100000 }
+sources:
+  - title: Boxer Rebellion
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Boxer_Rebellion
+    accessed: "2026-10-22"
+  - title: Inter-State War Data, v4.0 (war 82, Boxer Rebellion)
+    publisher: Correlates of War Project
+    url: https://correlatesofwar.org/wp-content/uploads/Inter-StateWarData_v4.0.csv
+    accessed: "2026-10-22"
+  - title: Twentieth Century Atlas - Death Tolls (100,000 to 300,000)
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c100k.htm
+    accessed: "2026-10-22"
+reviewed: false

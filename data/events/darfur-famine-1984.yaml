@@ -1,0 +1,40 @@
+id: darfur-famine-1984
+title:
+  en: 1984-1985 famine in Sudan
+  fr: Famine de 1984-1985 au Soudan
+description:
+  en: >-
+    Famine in Sudan centred on the western regions of Darfur and Kordofan. The World Peace Foundation describes its immediate trigger as drought, against the backdrop of a highly extractive political economy and the neglect of Sudan's peripheries. The researcher Alex de Waal, who studied the famine in Darfur, argues that it planted the seeds of the war and atrocities that struck the region twenty years later.
+  fr: >-
+    Famine au Soudan centrée sur les régions occidentales du Darfour et du Kordofan. La World Peace Foundation en attribue le déclenchement à la sécheresse, sur fond d’économie politique très extractive et d’abandon des périphéries du pays. Le chercheur Alex de Waal, qui a étudié cette famine au Darfour, estime qu’elle a semé les germes de la guerre et des atrocités qui ont frappé la région vingt ans plus tard.
+categories: [famine]
+kind: event
+start: "1984"
+end: "1985"
+deaths:
+  best: 240000
+  high: 250000
+  note:
+    en: "Excess deaths from hunger and disease. Best: 240,000, the World Peace Foundation estimate for Sudan in 1984-1985. High: 250,000, Ó Gráda's estimate. Both cover Sudan as a whole; Alex de Waal's Darfur-only estimate (Population Studies, 1989) could not be consulted."
+    fr: "Surmortalité due à la faim et aux maladies. Valeur centrale : 240 000, estimation de la World Peace Foundation pour le Soudan en 1984-1985. Haut : 250 000, estimation d’Ó Gráda. Les deux chiffres couvrent tout le Soudan ; l’estimation d’Alex de Waal pour le seul Darfour (Population Studies, 1989) n’a pas pu être consultée."
+countries:
+  - { code: SD, deaths: 240000 }
+related: [ethiopian-famine-1983]
+sources:
+  - title: Famines and the deaths in them
+    publisher: Our World in Data (World Peace Foundation data)
+    url: https://ourworldindata.org/grapher/famines-and-the-deaths-in-them
+    accessed: "2026-10-22"
+  - title: Making Famine History (Cormac Ó Gráda)
+    publisher: Journal of Economic Literature (UCD Research Repository)
+    url: https://researchrepository.ucd.ie/server/api/core/bitstreams/f57a2154-08a1-44a8-b865-75d1d51a4fcb/content
+    accessed: "2026-10-22"
+  - title: Understanding Sudan's Nationwide Famine (Alex de Waal)
+    publisher: World Peace Foundation
+    url: https://worldpeacefoundation.org/wp-content/uploads/2024/05/AdW-Sudan-famine-140524.pdf
+    accessed: "2026-10-22"
+  - title: Famine Datasets Methodological Annex
+    publisher: World Peace Foundation
+    url: https://worldpeacefoundation.org/wp-content/uploads/2025/03/Famine-dataset-Methods-Annex-d1.pdf
+    accessed: "2026-10-22"
+reviewed: false

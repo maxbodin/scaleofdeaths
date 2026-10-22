@@ -1,0 +1,41 @@
+id: first-congo-war
+title:
+  en: First Congo War
+  fr: Première guerre du Congo
+description:
+  en: >-
+    War in which Rwanda, Uganda and other neighbouring states backed the rebel alliance of Laurent-Désiré Kabila (AFDL) to overthrow Mobutu Sese Seko in Zaire, renamed the Democratic Republic of the Congo in May 1997. It began with attacks on camps in eastern Zaire that sheltered Rwandan Hutu refugees and armed groups involved in the 1994 genocide. Tens of thousands of refugees were massacred or died of hunger and disease while fleeing west through the forest.
+  fr: >-
+    Guerre au cours de laquelle le Rwanda, l’Ouganda et d’autres États voisins soutiennent l’alliance rebelle de Laurent-Désiré Kabila (AFDL) pour renverser Mobutu Sese Seko au Zaïre, rebaptisé République démocratique du Congo en mai 1997. Elle commence par des attaques contre les camps de l’est du Zaïre qui abritaient des réfugiés hutus rwandais et des groupes armés impliqués dans le génocide de 1994. Des dizaines de milliers de réfugiés sont massacrés ou meurent de faim et de maladie en fuyant vers l’ouest à travers la forêt.
+categories: [war]
+kind: event
+start: "1996-10-24"
+end: "1997-05-16"
+deaths:
+  best: 250000
+  low: 200000
+  high: 300000
+  note:
+    en: Mostly Rwandan Hutu refugees killed or missing, plus combatants (10,000 to 15,000 killed on the side of Zaire and its allies and 3,000 to 5,000 on the side of the AFDL and its allies, according to Wikipedia). Figures are poorly documented. Best is the Center for Defense Information figure of 250,000 deaths (compiled by Necrometrics and used by Wikipedia), which partly counts uninvestigated disappearances. Low is the estimate of Amnesty International (1998) that as many as 200,000 refugees were massacred; the UN also reported 200,000 refugees unaccounted for. High is the estimate of 300,000 refugee deaths by historian Gérard Prunier, cited in the New York Review of Books.
+    fr: Surtout des réfugiés hutus rwandais tués ou disparus, ainsi que des combattants (10 000 à 15 000 tués du côté du Zaïre et de ses alliés et 3 000 à 5 000 du côté de l’AFDL et de ses alliés, selon Wikipédia). Les chiffres sont mal documentés. L’estimation centrale est le chiffre de 250 000 morts du Center for Defense Information (compilé par Necrometrics et repris par Wikipédia), qui compte en partie des disparitions non élucidées. Le bas correspond à l’estimation d’Amnesty International (1998) selon laquelle jusqu’à 200 000 réfugiés auraient été massacrés ; l’ONU signalait aussi 200 000 réfugiés introuvables. Le haut est l’estimation de 300 000 réfugiés morts de l’historien Gérard Prunier, citée par la New York Review of Books.
+countries:
+  - { code: CD, deaths: 250000 }
+related: [second-congo-war, rwandan-genocide]
+sources:
+  - title: First Congo War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/First_Congo_War
+    accessed: "2026-10-22"
+  - title: "Democratic Republic of Congo: War against unarmed civilians"
+    publisher: Amnesty International
+    url: https://www.amnesty.org/en/documents/afr62/036/1998/en/
+    accessed: "2026-10-22"
+  - title: "Wars, Massacres and Atrocities of the Twentieth Century: Zaire (Dem. Rep. Congo), Civil War (1997)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c100k.htm
+    accessed: "2026-10-22"
+  - title: "Kagame's Hidden War in the Congo"
+    publisher: The New York Review of Books
+    url: https://www.nybooks.com/articles/2009/09/24/kagames-hidden-war-in-the-congo/
+    accessed: "2026-10-22"
+reviewed: false

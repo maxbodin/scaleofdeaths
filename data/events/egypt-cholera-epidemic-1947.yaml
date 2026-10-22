@@ -1,0 +1,33 @@
+id: egypt-cholera-epidemic-1947
+title:
+  en: 1947 Egyptian cholera epidemic
+  fr: Épidémie de choléra de 1947 en Égypte
+description:
+  en: >-
+    Cholera epidemic in Egypt that began in the town of al-Qurayn, in the Nile Delta, where the first death occurred on 21 September 1947. Despite quarantines, army cordons and isolation camps that many people tried to avoid, it spread through Lower Egypt to some 2,270 towns and villages within three months, helped by rural villagers drinking canal water also used for waste and bathing. The government, political movements and foreign aid, including mass vaccination, brought it under control: the last case was recorded on 31 December 1947, and the epidemic was declared over on 11 February 1948.
+  fr: >-
+    Épidémie de choléra en Égypte partie de la ville d’al-Qurayn, dans le delta du Nil, où le premier mort a été recensé le 21 septembre 1947. Malgré quarantaines, cordons militaires et camps d’isolement que beaucoup cherchaient à éviter, elle a gagné la Basse-Égypte et quelque 2 270 villes et villages en trois mois, favorisée par l’usage dans les villages de l’eau des canaux, servant aussi aux eaux usées et à la toilette. Le gouvernement, les mouvements politiques et l’aide étrangère, dont une vaccination de masse, l’ont enrayée : dernier cas le 31 décembre 1947, fin déclarée le 11 février 1948.
+categories: [epidemic]
+kind: event
+start: "1947-09-21"
+end: "1947-12-31"
+deaths:
+  best: 10277
+  high: 20000
+  note:
+    en: >-
+      Best is the official count of 10,277 deaths among 20,804 reported cases, from A. T. Shousha's report in the Bulletin of the World Health Organization (1948, corrected 1949), as cited by Wikipedia. The real toll is thought to be higher: Wikipedia cites estimates of up to 35,000 cases and 20,000 deaths, and a US Navy Medicine history article mentions one estimate of over 20,000 deaths (used as high).
+    fr: >-
+      L’estimation retenue est le bilan officiel de 10 277 morts sur 20 804 cas déclarés, tiré du rapport d’A. T. Shousha dans le Bulletin de l’Organisation mondiale de la santé (1948, corrigé en 1949), cité par Wikipédia. Le bilan réel serait plus lourd : Wikipédia cite des estimations allant jusqu’à 35 000 cas et 20 000 morts, et un article d’histoire de la médecine navale américaine évoque une estimation de plus de 20 000 morts (haut de fourchette).
+countries:
+  - { code: EG, deaths: 10277 }
+sources:
+  - title: 1947 Egyptian cholera epidemic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1947_Egyptian_cholera_epidemic
+    accessed: "2026-10-22"
+  - title: "Stemming the Tide: Navy Medicine and the Egyptian Cholera Epidemic of 1947"
+    publisher: U.S. Navy Bureau of Medicine and Surgery (via Internet Archive)
+    url: https://archive.org/details/stemming-the-tide-navy-medicine-and-the-egyptian-cholera-epidemic-of-1947
+    accessed: "2026-10-22"
+reviewed: false

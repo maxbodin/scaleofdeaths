@@ -1,0 +1,68 @@
+id: european-heatwave-2024
+title:
+  en: 2024 European heat waves
+  fr: Canicules de 2024 en Europe
+description:
+  en: >-
+    The summer of 2024, in the hottest year on record worldwide, was the warmest yet measured in Europe. After a spring heat wave, repeated heat waves from June onwards broke regional temperature records in southern and south-eastern Europe. Italy had the largest number of heat-related deaths, while Greece, Bulgaria and Serbia had the highest death rates; 15 of the 32 countries studied had their highest heat-related mortality of 2022 to 2024. Women and people over 75 were the most affected.
+  fr: >-
+    L’été 2024, au cours de l’année la plus chaude jamais mesurée dans le monde, a été le plus chaud jamais enregistré en Europe. Après une canicule printanière, des vagues de chaleur répétées à partir de juin ont battu des records régionaux dans le sud et le sud-est du continent. L’Italie a compté le plus grand nombre de morts liées à la chaleur, la Grèce, la Bulgarie et la Serbie les taux les plus élevés ; 15 des 32 pays étudiés ont connu leur plus forte mortalité liée à la chaleur de la période 2022-2024. Les femmes et les plus de 75 ans ont été les plus touchés.
+categories: [natural-disaster]
+kind: event
+start: "2024-06-01"
+end: "2024-09-30"
+deaths:
+  best: 62775
+  note:
+    en: >-
+      Estimated heat-related deaths between 1 June and 30 September 2024 in 32 European countries (Janoš et al., Nature Medicine, 2025), modelled from daily mortality data; per-country figures are the study's estimates published by ISGlobal. These are statistical estimates, not counted deaths.
+    fr: >-
+      Morts estimées liées à la chaleur entre le 1er juin et le 30 septembre 2024 dans 32 pays européens (Janoš et al., Nature Medicine, 2025), modélisées à partir de données quotidiennes de mortalité ; les chiffres par pays sont les estimations de l’étude publiées par ISGlobal. Ce sont des estimations statistiques, non des décès recensés.
+countries:
+  - { code: IT, deaths: 19038 }
+  - { code: ES, deaths: 6743 }
+  - { code: DE, deaths: 6282 }
+  - { code: GR, deaths: 5980 }
+  - { code: RO, deaths: 4943 }
+  - { code: BG, deaths: 3414 }
+  - { code: RS, deaths: 2515 }
+  - { code: FR, deaths: 2451 }
+  - { code: PL, deaths: 1780 }
+  - { code: HU, deaths: 1443 }
+  - { code: HR, deaths: 1255 }
+  - { code: AT, deaths: 1055 }
+  - { code: PT, deaths: 938 }
+  - { code: BA, deaths: 909 }
+  - { code: GB, deaths: 573 }
+  - { code: CZ, deaths: 544 }
+  - { code: SK, deaths: 522 }
+  - { code: CH, deaths: 363 }
+  - { code: LT, deaths: 329 }
+  - { code: SI, deaths: 280 }
+  - { code: BE, deaths: 249 }
+  - { code: NL, deaths: 234 }
+  - { code: CY, deaths: 218 }
+  - { code: DK, deaths: 174 }
+  - { code: FI, deaths: 152 }
+  - { code: ME, deaths: 135 }
+  - { code: EE, deaths: 85 }
+  - { code: LV, deaths: 71 }
+  - { code: IE, deaths: 37 }
+  - { code: SE, deaths: 30 }
+  - { code: NO, deaths: 18 }
+  - { code: LU, deaths: 15 }
+related: [european-heatwave-2023]
+sources:
+  - title: 2024 European heatwaves
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2024_European_heatwaves
+    accessed: "2026-10-22"
+  - title: 62,700 heat-related deaths in summer 2024
+    publisher: Barcelona Institute for Global Health (ISGlobal)
+    url: https://www.isglobal.org/en/-/62.700-muertes-asociadas-con-el-calor-del-verano-de-2024
+    accessed: "2026-10-22"
+  - title: Heat-Related Mortality 2024 - Europe (country data, 2022-2024)
+    publisher: ISGlobal (Infogram)
+    url: https://infogram.com/heat-related-mortality-2024-europe-1h9j6q7wm9xd54g
+    accessed: "2026-10-22"
+reviewed: false

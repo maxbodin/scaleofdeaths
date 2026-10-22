@@ -1,0 +1,43 @@
+id: second-boer-war
+title:
+  en: Second Boer War
+  fr: Seconde guerre des Boers
+description:
+  en: >-
+    War between the British Empire and the two Boer republics, the South African Republic (Transvaal) and the Orange Free State. After the defeat of the Boer armies in 1900, the war became a guerrilla conflict. The British answered with a scorched-earth policy and interned Boer families and Black Africans in separate concentration camps, where tens of thousands, mostly children, died of disease and malnutrition. Most soldiers who died were killed by disease rather than combat.
+  fr: >-
+    Guerre entre l’Empire britannique et les deux républiques boers, la République sud-africaine (Transvaal) et l’État libre d’Orange. Après la défaite des armées boers en 1900, le conflit devient une guérilla. Les Britanniques y répondent par la politique de la terre brûlée et internent les familles boers et des Africains noirs dans des camps de concentration séparés, où des dizaines de milliers de personnes, surtout des enfants, meurent de maladie et de malnutrition. La plupart des soldats morts ont succombé à la maladie plutôt qu’au combat.
+categories: [war]
+kind: event
+start: "1899-10-11"
+end: "1902-05-31"
+deaths:
+  best: 75000
+  note:
+    en: Military deaths plus civilian deaths in the British concentration camps. Best is the total given by Necrometrics; no other source opened states a total. Its components, per Wikipedia, are 22,092 British and imperial military dead, 6,189 Boer combatants and 46,370 civilians who died in the camps (26,370 Boer women and children and about 20,000 Black Africans). SAHO counts 27,927 deaths in the Boer camps and an official minimum of 14,154 in the Black camps (at least 20,000 per Benneyworth); the National Army Museum gives 22,000 British dead and 28,000 Boer camp deaths.
+    fr: Morts militaires et morts civiles dans les camps de concentration britanniques. L’estimation centrale est le total donné par Necrometrics ; aucune autre source consultée ne donne de total. Ses composantes, selon Wikipédia, sont 22 092 militaires britanniques et impériaux, 6 189 combattants boers et 46 370 civils morts dans les camps (26 370 femmes et enfants boers et environ 20 000 Africains noirs). SAHO compte 27 927 morts dans les camps boers et un minimum officiel de 14 154 dans les camps pour Noirs (au moins 20 000 selon Benneyworth) ; le National Army Museum donne 22 000 morts britanniques et 28 000 morts boers dans les camps.
+countries:
+  - { code: ZA }
+  - { code: GB, deaths: 22092 }
+sources:
+  - title: Second Boer War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Second_Boer_War
+    accessed: "2026-10-22"
+  - title: "The Lesser Multicides of the Twentieth Century: Anglo-Boer War (1899-1902)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c30k.htm
+    accessed: "2026-10-22"
+  - title: Boer War
+    publisher: National Army Museum
+    url: https://www.nam.ac.uk/explore/boer-war
+    accessed: "2026-10-22"
+  - title: Women and Children in White Concentration Camps during the Anglo-Boer War, 1900-1902
+    publisher: South African History Online
+    url: https://sahistory.org.za/article/women-and-children-white-concentration-camps-during-anglo-boer-war-1900-1902
+    accessed: "2026-10-22"
+  - title: Black Concentration Camps during the Anglo-Boer War 2, 1900-1902
+    publisher: South African History Online
+    url: https://sahistory.org.za/article/black-concentration-camps-during-anglo-boer-war-2-1900-1902
+    accessed: "2026-10-22"
+reviewed: false

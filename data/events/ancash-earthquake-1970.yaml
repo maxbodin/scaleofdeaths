@@ -1,0 +1,34 @@
+id: ancash-earthquake-1970
+title:
+  en: 1970 Ancash earthquake
+  fr: Séisme de 1970 en Ancash
+description:
+  en: >-
+    At 15:23 on 31 May 1970 a magnitude 7.9 earthquake off the coast of northern Peru caused widespread destruction in the Ancash region, destroying much of Chimbote and Huaraz. The shaking also set off a debris avalanche of rock, ice and mud from Mount Huascarán that buried the town of Yungay under metres of mud. It is the most catastrophic natural disaster in Peru's history and is considered the world's deadliest avalanche.
+  fr: >-
+    Le 31 mai 1970 à 15 h 23, un séisme de magnitude 7,9 au large du nord du Pérou a causé d’immenses destructions dans la région d’Ancash, détruisant une grande partie de Chimbote et de Huaraz. La secousse a aussi déclenché sur le mont Huascarán une avalanche de roche, de glace et de boue qui a enseveli la ville de Yungay sous des mètres de boue. C’est la pire catastrophe naturelle de l’histoire du Pérou, et elle est considérée comme l’avalanche la plus meurtrière au monde.
+categories: [natural-disaster]
+kind: event
+start: "1970-05-31"
+deaths:
+  best: 66794
+  high: 70000
+  note:
+    en: Dead and missing presumed dead, from the earthquake and the Huascarán debris avalanche (nearly 19,000 died in Yungay alone, according to NOAA NCEI). Best is the count of 66,794 killed or missing used by NCEI and given as the low end by Wikipedia; USGS gives about 70,000 (50,000 killed and 20,000 missing). Another reference cited by NCEI gives 54,000 killed.
+    fr: Morts et disparus présumés morts, dus au séisme et à l’avalanche du Huascarán (près de 19 000 morts à Yungay seule, selon la NCEI de la NOAA). L’estimation centrale est le bilan de 66 794 tués ou disparus retenu par la NCEI et donné comme bas de fourchette par Wikipédia ; l’USGS donne environ 70 000 (50 000 tués et 20 000 disparus). Une autre référence citée par la NCEI donne 54 000 tués.
+countries:
+  - { code: PE, deaths: 66794 }
+sources:
+  - title: 1970 Ancash earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1970_Ancash_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Northern Peru, event 4531"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/4531
+    accessed: "2026-10-22"
+  - title: Earthquakes with 1,000 or More Deaths 1900-2014 (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20170118110610/http://earthquake.usgs.gov/earthquakes/world/world_deaths.php
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,42 @@
+id: cholera-deaths-annual
+title:
+  en: Deaths from cholera per year
+  fr: Décès dus au choléra par an
+description:
+  en: >-
+    Cholera deaths reported to the World Health Organization by 47 countries in one year, as published in WHO's annual cholera report in the Weekly Epidemiological Record. Cholera is an acute diarrhoeal disease caused by Vibrio cholerae bacteria, spread through food and water contaminated with faeces where safe water and sanitation are lacking; it can be fatal if severe dehydration is not treated quickly. 2025 had the most reported cholera deaths since 1999, concentrated in countries hit by conflict and displacement such as Sudan, South Sudan and the Democratic Republic of the Congo.
+  fr: >-
+    Décès dus au choléra déclarés à l’Organisation mondiale de la santé par 47 pays en un an, selon le rapport annuel de l’OMS sur le choléra publié dans le Relevé épidémiologique hebdomadaire. Le choléra est une maladie diarrhéique aiguë due à la bactérie Vibrio cholerae, transmise par l’eau et les aliments contaminés par des matières fécales là où manquent eau potable et assainissement. 2025 a compté le plus de décès déclarés depuis 1999, surtout dans des pays frappés par les conflits et les déplacements, comme le Soudan, le Soudan du Sud et la RD Congo.
+categories: [annual, epidemic]
+kind: endemic-total
+start: "2025"
+end: "2025"
+deaths:
+  best: 7870
+  note:
+    en: >-
+      WHO Cholera Annual Report 2025 (Weekly Epidemiological Record, vol. 101, no. 38): 47 countries reported 451,499 cases and 7,870 deaths in 2025, 30% more deaths than in 2024. These are officially reported deaths; WHO says the actual global burden is substantially higher because many cases go unreported, and some countries with large outbreaks, such as Bangladesh, reported no deaths. Per-country figures are the reported deaths of the ten countries with the most deaths in the report's table.
+    fr: >-
+      Rapport annuel 2025 de l’OMS sur le choléra (Relevé épidémiologique hebdomadaire, vol. 101, no 38) : 47 pays ont déclaré 451 499 cas et 7 870 décès en 2025, 30 % de décès de plus qu’en 2024. Ce sont des décès déclarés officiellement ; l’OMS estime que la charge réelle est bien plus élevée car de nombreux cas ne sont pas déclarés, et certains pays très touchés, comme le Bangladesh, n’ont déclaré aucun décès. Les chiffres par pays sont les décès déclarés des dix pays les plus touchés du tableau du rapport.
+countries:
+  - { code: SD, deaths: 2161 }
+  - { code: CD, deaths: 2071 }
+  - { code: SS, deaths: 1258 }
+  - { code: AO, deaths: 895 }
+  - { code: NG, deaths: 548 }
+  - { code: YE, deaths: 246 }
+  - { code: TD, deaths: 167 }
+  - { code: ET, deaths: 84 }
+  - { code: CG, deaths: 67 }
+  - { code: HT, deaths: 65 }
+related: [sudan-cholera-epidemic-2024, diarrhoeal-disease-deaths]
+sources:
+  - title: "Weekly Epidemiological Record, 2026, vol. 101, no. 38: Cholera Annual Report 2025"
+    publisher: World Health Organization
+    url: https://iris.who.int/server/api/core/bitstreams/07c30489-e9a9-4332-bdd5-ae5aad1438d8/content
+    accessed: "2026-10-22"
+  - title: WHO reports latest global trends in cholera, meningitis and plague
+    publisher: World Health Organization (via ReliefWeb)
+    url: https://reliefweb.int/report/world/who-reports-latest-global-trends-cholera-meningitis-and-plague
+    accessed: "2026-10-22"
+reviewed: false

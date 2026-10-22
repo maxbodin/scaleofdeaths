@@ -1,0 +1,37 @@
+id: great-famine-1876
+title:
+  en: Great Famine of 1876-1878
+  fr: Grande famine de 1876-1878 en Inde
+description:
+  en: >-
+    Famine in India under British Crown rule, which began in 1876 when an intense drought, linked to an exceptionally strong El Niño, caused crops to fail on the Deccan Plateau. It struck the Madras and Bombay presidencies and the princely states of Mysore and Hyderabad, then spread north in 1877. Grain exports to Britain continued, and relief was kept deliberately frugal on cost grounds. A malaria epidemic in 1878 killed many weakened survivors. The death toll led to the first Indian Famine Commission and, later, the Famine Codes.
+  fr: >-
+    Famine en Inde britannique, commencée en 1876 quand une forte sécheresse liée à un El Niño exceptionnel a ruiné les récoltes du plateau du Deccan. Elle a frappé les présidences de Madras et de Bombay et les États princiers de Mysore et d’Hyderabad, puis s’est étendue vers le nord en 1877. Les exportations de grain vers la Grande-Bretagne ont continué et les secours ont été limités par souci d’économie. Une épidémie de paludisme en 1878 a tué de nombreux survivants affaiblis. Le bilan a conduit à la première commission indienne des famines, puis aux codes de famine.
+categories: [famine]
+kind: event
+start: "1876"
+end: "1878"
+deaths:
+  best: 8200000
+  low: 5600000
+  high: 9600000
+  note:
+    en: "Excess deaths from starvation and disease in British India and the affected princely states. Best: about 8.2 million, a careful demographic estimate by Arup Maharatna, cited by the demographer Tim Dyson. Low: 5.6 million, from official estimates for the British-administered provinces. High: 9.6 million, the top of the range given by Wikipedia (the campaigner William Digby put the toll at 9.4 million). The World Peace Foundation uses 6.1 million and Ó Gráda about 7 million."
+    fr: "Surmortalité due à la faim et aux maladies en Inde britannique et dans les États princiers touchés. Valeur centrale : environ 8,2 millions, estimation démographique soignée d’Arup Maharatna, citée par le démographe Tim Dyson. Bas : 5,6 millions, d’après les estimations officielles pour les provinces sous administration britannique. Haut : 9,6 millions, haut de la fourchette donnée par Wikipédia (le militant William Digby avançait 9,4 millions). La World Peace Foundation retient 6,1 millions et Ó Gráda environ 7 millions."
+countries:
+  - { code: IN }
+related: [northern-chinese-famine-1876]
+sources:
+  - title: Great Famine of 1876-1878
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Great_Famine_of_1876%E2%80%931878
+    accessed: "2026-10-22"
+  - title: Famines and the deaths in them
+    publisher: Our World in Data (World Peace Foundation data)
+    url: https://ourworldindata.org/grapher/famines-and-the-deaths-in-them
+    accessed: "2026-10-22"
+  - title: Making Famine History (Cormac Ó Gráda)
+    publisher: Journal of Economic Literature (UCD Research Repository)
+    url: https://researchrepository.ucd.ie/server/api/core/bitstreams/f57a2154-08a1-44a8-b865-75d1d51a4fcb/content
+    accessed: "2026-10-22"
+reviewed: false

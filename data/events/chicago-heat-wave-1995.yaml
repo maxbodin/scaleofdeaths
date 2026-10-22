@@ -1,0 +1,33 @@
+id: chicago-heat-wave-1995
+title:
+  en: 1995 Chicago heat wave
+  fr: Canicule de 1995 à Chicago
+description:
+  en: >-
+    From 12 to 16 July 1995 a humid heat wave struck Chicago, with temperatures up to 41 °C on 13 July, a record heat index of 48 °C and nights that brought little relief. Most victims were elderly and poor residents of the inner city, many of whom had no air conditioning or could not afford to run it, and who kept their windows shut for fear of crime; Black residents died at higher rates. The authorities were slow to recognise the scale of the disaster.
+  fr: >-
+    Du 12 au 16 juillet 1995, une canicule humide a frappé Chicago, avec jusqu’à 41 °C le 13 juillet, un indice de chaleur record de 48 °C et des nuits sans fraîcheur. La plupart des victimes étaient des habitants âgés et pauvres des quartiers centraux, souvent sans climatisation ou sans moyens de la faire fonctionner, qui gardaient leurs fenêtres fermées par peur de la criminalité ; les habitants noirs sont morts en plus forte proportion. Les autorités ont tardé à prendre la mesure de la catastrophe.
+categories: [natural-disaster]
+kind: event
+start: "1995-07-12"
+end: "1995-07-16"
+deaths:
+  best: 739
+  low: 465
+  note:
+    en: >-
+      Best is the 739 excess deaths in Chicago during the week of the heat wave compared with a normal week (Wikipedia). Low is the 465 deaths certified as heat-related by the Cook County Medical Examiner between 11 and 27 July (CDC). Deaths elsewhere in the Midwest, for example in St. Louis and Milwaukee, are not included.
+    fr: >-
+      L’estimation centrale correspond aux 739 morts en excès à Chicago pendant la semaine de la canicule par rapport à une semaine normale (Wikipédia). L’estimation basse correspond aux 465 décès certifiés comme liés à la chaleur par le médecin légiste du comté de Cook entre le 11 et le 27 juillet (CDC). Les morts ailleurs dans le Midwest, par exemple à Saint-Louis et Milwaukee, ne sont pas comptées.
+countries:
+  - { code: US, deaths: 739 }
+sources:
+  - title: 1995 Chicago heat wave
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1995_Chicago_heat_wave
+    accessed: "2026-10-22"
+  - title: Heat-Related Mortality, Chicago, July 1995
+    publisher: CDC Morbidity and Mortality Weekly Report
+    url: https://www.cdc.gov/mmwr/preview/mmwrhtml/00038443.htm
+    accessed: "2026-10-22"
+reviewed: false

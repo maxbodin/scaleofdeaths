@@ -1,0 +1,36 @@
+id: tiananmen-square-massacre
+title:
+  en: Tiananmen Square massacre
+  fr: Massacre de la place Tian’anmen
+description:
+  en: >-
+    Armed suppression of the student-led pro-democracy protests centred on Tiananmen Square in Beijing, known in China as the June Fourth Incident. After weeks of demonstrations and the declaration of martial law, troops and armoured vehicles of the People's Liberation Army advanced on the square on the night of 3 to 4 June 1989, opening fire on protesters and residents; most deaths occurred outside the square, in western Beijing. Discussion of the events and of the death toll remains censored in China.
+  fr: >-
+    Répression armée des manifestations prodémocratie menées par les étudiants autour de la place Tian’anmen à Pékin, appelée en Chine « incident du 4 juin ». Après des semaines de manifestations et la proclamation de la loi martiale, les troupes et les blindés de l’Armée populaire de libération avancèrent vers la place dans la nuit du 3 au 4 juin 1989, ouvrant le feu sur les manifestants et les habitants ; la plupart des morts eurent lieu hors de la place, dans l’ouest de Pékin. Le sujet, y compris le bilan, reste censuré en Chine.
+categories: [genocide]
+kind: event
+start: "1989-06-03"
+end: "1989-06-04"
+deaths:
+  best: 700
+  low: 241
+  high: 2700
+  note:
+    en: Civilians, students, soldiers and police killed in Beijing during the crackdown. The toll is contested and no source gives an agreed figure. Best is the figure of over 700 given by historian Jonathan Fenby (Wikipedia), within the range of most independent estimates, which BBC News puts at several hundred to more than 1,000 (Amnesty International, several hundred to close to 1,000; Nicholas Kristof of the New York Times, 400 to 800 civilians and about a dozen soldiers; records of 11 Beijing hospitals, at least 478). Low is the official count of 241, including 23 soldiers and police; the Tiananmen Mothers have identified 202 victims. High is the 2,700 estimated by the Swiss ambassador; a British diplomatic cable claiming at least 10,000 dead is judged unconvincing by historian Timothy Brook.
+    fr: Civils, étudiants, soldats et policiers tués à Pékin lors de la répression. Le bilan est contesté et aucune source ne donne de chiffre admis. L’estimation centrale est le chiffre de plus de 700 morts avancé par l’historien Jonathan Fenby (Wikipédia), dans la fourchette de la plupart des estimations indépendantes, que BBC News situe entre plusieurs centaines et plus de 1 000 (Amnesty International, de plusieurs centaines à près de 1 000 ; Nicholas Kristof du New York Times, 400 à 800 civils et une douzaine de soldats ; registres de 11 hôpitaux de Pékin, au moins 478). La valeur basse est le bilan officiel, 241 morts dont 23 soldats et policiers ; les Mères de Tian’anmen ont identifié 202 victimes. La valeur haute est l’estimation de l’ambassadeur suisse, 2 700 morts ; un télégramme diplomatique britannique avançant au moins 10 000 morts est jugé peu convaincant par l’historien Timothy Brook.
+countries:
+  - { code: CN, deaths: 700 }
+sources:
+  - title: 1989 Tiananmen Square protests and massacre
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1989_Tiananmen_Square_protests_and_massacre
+    accessed: "2026-10-22"
+  - title: "Tiananmen Square: What happened in the protests of 1989?"
+    publisher: BBC News
+    url: https://www.bbc.com/news/world-asia-48445934
+    accessed: "2026-10-22"
+  - title: Tiananmen Square protest death toll 'was 10,000'
+    publisher: BBC News
+    url: https://www.bbc.com/news/world-asia-china-42465516
+    accessed: "2026-10-22"
+reviewed: false

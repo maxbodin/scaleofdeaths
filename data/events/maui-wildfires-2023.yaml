@@ -1,0 +1,32 @@
+id: maui-wildfires-2023
+title:
+  en: 2023 Maui wildfires
+  fr: Incendies de 2023 à Maui
+description:
+  en: >-
+    On 8 August 2023, dry vegetation and gusts of more than 100 km/h, driven by a strong high-pressure system to the north and Hurricane Dora passing far to the south, fanned several wildfires on the Hawaiian island of Maui. The fire that reached the historic town of Lahaina spread through it within hours, destroying some 3,000 buildings and displacing 12,000 residents; many people could not escape in time and some jumped into the ocean to survive. It was the deadliest wildfire in the United States in more than a century.
+  fr: >-
+    Le 8 août 2023, une végétation sèche et des rafales de plus de 100 km/h, dues à un puissant anticyclone au nord et au passage de l’ouragan Dora loin au sud, ont attisé plusieurs incendies sur l’île hawaïenne de Maui. Le feu qui a atteint la ville historique de Lahaina l’a ravagée en quelques heures, détruisant quelque 3 000 bâtiments et déplaçant 12 000 habitants ; beaucoup n’ont pas pu fuir à temps et certains se sont jetés à la mer pour survivre. C’est l’incendie le plus meurtrier aux États-Unis depuis plus d’un siècle.
+categories: [natural-disaster]
+kind: event
+start: "2023-08-08"
+end: "2023-08-16"
+deaths:
+  best: 102
+  note:
+    en: >-
+      102 deaths, almost all in Lahaina, after a woman injured in the fire died in March 2024 (Maui Police Department, reported by the Associated Press in June 2024; also Wikipedia). Two people remain missing.
+    fr: >-
+      102 morts, presque tous à Lahaina, après le décès en mars 2024 d’une femme blessée dans l’incendie (police de Maui, citée par l’Associated Press en juin 2024 ; aussi Wikipédia). Deux personnes restent disparues.
+countries:
+  - { code: US, deaths: 102 }
+sources:
+  - title: 2023 Hawaii wildfires
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2023_Hawaii_wildfires
+    accessed: "2026-10-22"
+  - title: Death toll from Hawaii wildfire rises to 102
+    publisher: Associated Press (via FireRescue1)
+    url: https://www.firerescue1.com/wildfire-and-wildland-urban-interface/death-toll-from-hawaii-wildfire-rises-to-102
+    accessed: "2026-10-22"
+reviewed: false

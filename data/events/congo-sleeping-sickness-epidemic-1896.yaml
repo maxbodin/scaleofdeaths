@@ -1,0 +1,38 @@
+id: congo-sleeping-sickness-epidemic-1896
+title:
+  en: 1896-1906 Congo Basin sleeping sickness epidemic
+  fr: Épidémie de maladie du sommeil dans le bassin du Congo (1896-1906)
+description:
+  en: >-
+    Epidemic of sleeping sickness (human African trypanosomiasis), a parasitic disease transmitted by tsetse flies, that spread along the Congo River in the wake of colonial conquest. Porterage, forced labour for rubber collection and railway building, new roads and the relocation of villages moved people into tsetse-infested areas and carried parasites from one region to another. A Belgian mission school near Kwamouth closed in 1896 because about 100 of its 1,000 pupils were dying of the disease every year. The epidemic led colonial powers to fund scientific missions.
+  fr: >-
+    Épidémie de maladie du sommeil (trypanosomiase humaine africaine), maladie parasitaire transmise par la mouche tsé-tsé, qui s’est propagée le long du fleuve Congo dans le sillage de la conquête coloniale. Portage, travail forcé pour la récolte du caoutchouc et la construction du chemin de fer, nouvelles routes et déplacement des villages ont exposé les populations aux tsé-tsé et disséminé les parasites. Près de Kwamouth, une école missionnaire belge a fermé en 1896 car une centaine de ses 1 000 élèves mouraient chaque année de la maladie.
+categories: [epidemic]
+kind: event
+start: "1896"
+end: "1906"
+deaths:
+  best: 500000
+  note:
+    en: >-
+      Best is the World Health Organization's statement that the total number of deaths in the Congo basin has been estimated at half a million; no range was found. The WHO dates this epidemic, which also struck Uganda, to 1896-1906; the deaths in Uganda are counted separately. According to The Cambridge History of Africa, cited by Wikipedia, up to half the people may have died of sleeping sickness and smallpox along the lower Congo.
+    fr: >-
+      L’estimation retenue est celle de l’Organisation mondiale de la santé, selon laquelle le nombre total de morts dans le bassin du Congo a été estimé à un demi-million ; aucune fourchette n’a été trouvée. L’OMS date cette épidémie, qui a aussi frappé l’Ouganda, de 1896-1906 ; les morts en Ouganda sont comptés à part. Selon The Cambridge History of Africa, cité par Wikipédia, jusqu’à la moitié de la population aurait succombé à la maladie du sommeil et à la variole le long du cours inférieur du Congo.
+countries:
+  - { code: CD }
+  - { code: CG }
+related: [uganda-sleeping-sickness-epidemic-1900]
+sources:
+  - title: African trypanosomiasis
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/African_trypanosomiasis
+    accessed: "2026-10-22"
+  - title: "The history of sleeping sickness: the big transcontinental epidemic (archived page)"
+    publisher: World Health Organization
+    url: https://web.archive.org/web/20080323231311/http://www.who.int/trypanosomiasis_african/country/history/en/index5.html
+    accessed: "2026-10-22"
+  - title: Trypanosomiasis, human African (sleeping sickness)
+    publisher: World Health Organization
+    url: https://www.who.int/news-room/fact-sheets/detail/trypanosomiasis-human-african-(sleeping-sickness)
+    accessed: "2026-10-22"
+reviewed: false

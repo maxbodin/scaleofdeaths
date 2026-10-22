@@ -1,0 +1,40 @@
+id: soviet-famine-1946
+title:
+  en: Soviet famine of 1946-1947
+  fr: Famine soviétique de 1946-1947
+description:
+  en: >-
+    The last famine in Soviet history, which followed the devastation of the Second World War, when farms had lost much of their machinery, livestock and labour. A severe drought in 1946 cut grain and potato yields, yet the state raised ration prices and kept exporting grain and holding reserves. Ukraine and Moldavia were hit hardest, with Russia and Belarus also affected. Deaths peaked in the spring and early summer of 1947, and young children and the elderly were especially affected.
+  fr: >-
+    Dernière famine de l’histoire soviétique, survenue après les destructions de la Seconde Guerre mondiale, qui avaient privé les fermes de beaucoup de leurs machines, de leur bétail et de leur main-d’œuvre. Une forte sécheresse en 1946 a réduit les récoltes de grain et de pommes de terre, mais l’État a relevé le prix des rations et a continué d’exporter du grain et de garder des réserves. L’Ukraine et la Moldavie ont été les plus touchées, la Russie et la Biélorussie aussi. Les morts ont culminé au printemps et au début de l’été 1947, surtout chez les jeunes enfants et les personnes âgées.
+categories: [famine]
+kind: event
+start: "1946"
+end: "1947"
+deaths:
+  best: 1000000
+  low: 500000
+  high: 2000000
+  note:
+    en: "Deaths from starvation and related disease; war losses make the famine hard to separate. Best: about 1 million, the estimate of Timothy Snyder and of Isupov. Low: 500,000, the 'at least 500,000' of The Black Book of Communism. High: 2 million (Zima, 1996). Other estimates: 900,000 (Ó Gráda, 2019, cited by Wikipedia), 1.1 million (World Peace Foundation), 1.2 million (Ó Gráda, 2007). Ó Gráda attributes 100,000 deaths to the Moldavian SSR; Wikipedia gives 200,000 or 300,000 for Ukraine depending on the passage, so no Ukrainian figure is listed."
+    fr: "Morts de faim et des maladies associées ; les pertes de la guerre rendent la famine difficile à isoler. Valeur centrale : environ 1 million, estimation de Timothy Snyder et d’Isoupov. Bas : 500 000, le « au moins 500 000 » du Livre noir du communisme. Haut : 2 millions (Zima, 1996). Autres estimations : 900 000 (Ó Gráda, 2019, cité par Wikipédia), 1,1 million (World Peace Foundation), 1,2 million (Ó Gráda, 2007). Ó Gráda attribue 100 000 morts à la RSS de Moldavie ; Wikipédia donne 200 000 ou 300 000 pour l’Ukraine selon le passage, d’où l’absence de chiffre ukrainien."
+countries:
+  - { code: UA }
+  - { code: MD, deaths: 100000 }
+  - { code: RU }
+  - { code: BY }
+related: [second-world-war]
+sources:
+  - title: Soviet famine of 1946-1947
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Soviet_famine_of_1946%E2%80%931947
+    accessed: "2026-10-22"
+  - title: Famines and the deaths in them
+    publisher: Our World in Data (World Peace Foundation data)
+    url: https://ourworldindata.org/grapher/famines-and-the-deaths-in-them
+    accessed: "2026-10-22"
+  - title: Making Famine History (Cormac Ó Gráda)
+    publisher: Journal of Economic Literature (UCD Research Repository)
+    url: https://researchrepository.ucd.ie/server/api/core/bitstreams/f57a2154-08a1-44a8-b865-75d1d51a4fcb/content
+    accessed: "2026-10-22"
+reviewed: false

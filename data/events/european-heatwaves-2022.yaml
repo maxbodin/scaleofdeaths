@@ -1,0 +1,72 @@
+id: european-heatwaves-2022
+title:
+  en: 2022 European heat waves
+  fr: Canicules de 2022 en Europe
+description:
+  en: >-
+    The summer of 2022 was the hottest season on record in Europe at the time. Successive heat waves from June to August, together with drought and wildfires, broke temperature records in many countries, and in mid-July temperatures above 40 °C were recorded in the United Kingdom for the first time. Heat-related mortality was highest around the Mediterranean, in Italy, Greece, Spain and Portugal, and markedly more women than men died.
+  fr: >-
+    L’été 2022 a été le plus chaud jamais enregistré en Europe à l’époque. Des vagues de chaleur successives de juin à août, accompagnées de sécheresse et d’incendies, ont battu des records de température dans de nombreux pays, et à la mi-juillet le Royaume-Uni a dépassé pour la première fois 40 °C. La mortalité liée à la chaleur a été la plus forte autour de la Méditerranée, en Italie, en Grèce, en Espagne et au Portugal, et nettement plus de femmes que d’hommes en sont mortes.
+categories: [natural-disaster]
+kind: event
+start: "2022-05-30"
+end: "2022-09-04"
+deaths:
+  best: 61672
+  low: 37643
+  high: 86807
+  note:
+    en: >-
+      Heat-related deaths between 30 May and 4 September 2022 in 35 European countries, estimated by Ballester et al. (Nature Medicine, 2023) from weekly Eurostat mortality data; low and high are the 95% confidence interval, and per-country figures are the study's central estimates (Iceland: none). In November 2023 the same team found that weekly data underestimate heat deaths by about 10% and raised its estimate to about 70,000 (Euronews).
+    fr: >-
+      Morts liées à la chaleur entre le 30 mai et le 4 septembre 2022 dans 35 pays européens, estimées par Ballester et al. (Nature Medicine, 2023) à partir des données hebdomadaires de mortalité d’Eurostat ; les estimations basse et haute correspondent à l’intervalle de confiance à 95 %, et les chiffres par pays sont les estimations centrales de l’étude (Islande : aucun). En novembre 2023, la même équipe a montré que les données hebdomadaires sous-estiment d’environ 10 % les morts dues à la chaleur et a relevé son estimation à environ 70 000 (Euronews).
+countries:
+  - { code: IT, deaths: 18010 }
+  - { code: ES, deaths: 11324 }
+  - { code: DE, deaths: 8173 }
+  - { code: FR, deaths: 4807 }
+  - { code: GB, deaths: 3469 }
+  - { code: GR, deaths: 3092 }
+  - { code: RO, deaths: 2455 }
+  - { code: PT, deaths: 2212 }
+  - { code: BG, deaths: 1277 }
+  - { code: PL, deaths: 763 }
+  - { code: HR, deaths: 731 }
+  - { code: RS, deaths: 574 }
+  - { code: HU, deaths: 513 }
+  - { code: NL, deaths: 469 }
+  - { code: BE, deaths: 434 }
+  - { code: AT, deaths: 419 }
+  - { code: LT, deaths: 381 }
+  - { code: SK, deaths: 365 }
+  - { code: AL, deaths: 352 }
+  - { code: CH, deaths: 302 }
+  - { code: CZ, deaths: 279 }
+  - { code: DK, deaths: 252 }
+  - { code: FI, deaths: 225 }
+  - { code: EE, deaths: 167 }
+  - { code: SI, deaths: 154 }
+  - { code: LV, deaths: 105 }
+  - { code: CY, deaths: 101 }
+  - { code: MT, deaths: 76 }
+  - { code: ME, deaths: 50 }
+  - { code: LU, deaths: 44 }
+  - { code: SE, deaths: 40 }
+  - { code: NO, deaths: 30 }
+  - { code: IE, deaths: 26 }
+  - { code: LI, deaths: 1 }
+related: [european-heatwave-2023, european-heat-wave-2003]
+sources:
+  - title: 2022 European heatwaves
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2022_European_heatwaves
+    accessed: "2026-10-22"
+  - title: Heat-related mortality in Europe during the summer of 2022
+    publisher: Nature Medicine (PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10353926/
+    accessed: "2026-10-22"
+  - title: More than 70,000 people may have died due to 2022 summer heatwaves in Europe
+    publisher: Euronews
+    url: https://www.euronews.com/2023/11/21/more-than-70000-people-may-have-died-due-to-2022-summer-heatwaves-in-europe
+    accessed: "2026-10-22"
+reviewed: false

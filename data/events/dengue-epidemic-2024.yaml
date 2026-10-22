@@ -1,0 +1,49 @@
+id: dengue-epidemic-2024
+title:
+  en: 2024 global dengue epidemic
+  fr: Épidémie mondiale de dengue de 2024
+description:
+  en: >-
+    Record dengue year, with transmission at unprecedented levels worldwide and cases reported in more than 100 countries. The mosquito-borne virus surged between February and May. The Americas accounted for more than 90% of cases, with over 10 million in Brazil alone, and large epidemics also struck Argentina, Mexico, Colombia, Paraguay, Peru, Indonesia, India and Bangladesh. The World Health Organization links the rise to the spread of Aedes mosquitoes into new areas, climate change and fragile health systems. Most infections are mild, but severe dengue can be fatal.
+  fr: >-
+    Année record pour la dengue, transmise à des niveaux sans précédent dans le monde, avec des cas dans plus de 100 pays. Le virus, transmis par les moustiques, a flambé entre février et mai. Les Amériques ont concentré plus de 90 % des cas, dont plus de 10 millions au Brésil, et de grandes épidémies ont aussi frappé l’Argentine, le Mexique, la Colombie, le Paraguay, le Pérou, l’Indonésie, l’Inde et le Bangladesh. L’Organisation mondiale de la santé relie cette hausse à l’extension des moustiques Aedes, au changement climatique (chaleur, pluies, humidité) et à la fragilité des systèmes de santé.
+categories: [epidemic]
+kind: event
+start: "2024"
+end: "2024"
+deaths:
+  best: 11201
+  high: 12000
+  note:
+    en: >-
+      Reported dengue deaths in 2024. Best is the 11,201 deaths among 14,434,584 cases reported to the World Health Organization from all six regions (Weekly Epidemiological Record, 2024 update); the WHO dengue fact sheet later mentions more than 12,000 deaths, used as high. The Pan American Health Organization counted 8,431 deaths in the Americas, and Brazil alone reported 6,321. Dengue deaths are under-reported in many countries. Dengue is endemic: these are all reported deaths of the year, not only an excess.
+    fr: >-
+      Décès de dengue déclarés en 2024. L’estimation retenue est celle de 11 201 morts sur 14 434 584 cas signalés à l’Organisation mondiale de la santé par ses six régions (Relevé épidémiologique hebdomadaire, bilan 2024) ; la fiche de l’OMS sur la dengue évoque ensuite plus de 12 000 morts, retenu comme haut de fourchette. L’Organisation panaméricaine de la santé a compté 8 431 morts dans les Amériques, dont 6 321 au Brésil. Les décès sont sous-déclarés dans de nombreux pays. La dengue étant endémique, il s’agit de tous les décès déclarés de l’année.
+countries:
+  - { code: BR, deaths: 6321 }
+  - { code: AR }
+  - { code: MX }
+  - { code: CO }
+  - { code: PY }
+  - { code: PE }
+  - { code: ID }
+  - { code: IN }
+  - { code: BD }
+sources:
+  - title: 2024 dengue outbreak in Latin America and the Caribbean
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2024_dengue_outbreak_in_Latin_America_and_the_Caribbean
+    accessed: "2026-10-22"
+  - title: "Dengue: global situation, surveillance and progress - 2024 update"
+    publisher: World Health Organization (Weekly Epidemiological Record)
+    url: https://www.who.int/publications/i/item/who-wer10052-665-678
+    accessed: "2026-10-22"
+  - title: Dengue and severe dengue (fact sheet)
+    publisher: World Health Organization
+    url: https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue
+    accessed: "2026-10-22"
+  - title: Epidemiological Update for Dengue and other Arboviruses (2024)
+    publisher: Pan American Health Organization
+    url: https://ais.paho.org/ha_viz/Arbo/Arbo_Bulletin_2024.asp?env=pri
+    accessed: "2026-10-22"
+reviewed: false

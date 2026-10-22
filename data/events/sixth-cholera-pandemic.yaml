@@ -1,0 +1,39 @@
+id: sixth-cholera-pandemic
+title:
+  en: Sixth cholera pandemic (1899-1923)
+  fr: Sixième pandémie de choléra (1899-1923)
+description:
+  en: >-
+    Cholera pandemic that began in India, possibly after an outbreak among pilgrims at the Kumbh Mela in Haridwar, and spread through Punjab, Afghanistan and Persia to southern Russia, then to the Middle East, North Africa and parts of Europe. Ships carried it further: in 1910-1911 infected passengers from Naples brought it to New York, where eleven people died. In 1913 it struck the Romanian army fighting in Bulgaria during the Second Balkan War. By 1923 cholera had receded from most of the world, although many cases remained in India.
+  fr: >-
+    Pandémie de choléra partie d’Inde, peut-être après une flambée parmi les pèlerins de la Kumbh Mela de Haridwar, qui a gagné le sud de la Russie par le Pendjab, l’Afghanistan et la Perse, puis le Moyen-Orient, l’Afrique du Nord et une partie de l’Europe. Les navires l’ont portée plus loin : en 1910-1911, des passagers venus de Naples l’ont introduite à New York, où onze personnes sont mortes. En 1913, elle a frappé l’armée roumaine en Bulgarie pendant la deuxième guerre balkanique. En 1923, le choléra avait reculé presque partout, mais restait fréquent en Inde.
+categories: [epidemic]
+kind: event
+start: "1899"
+end: "1923"
+deaths:
+  best: 800000
+  note:
+    en: >-
+      Minimum, not a global estimate: no source found gives a death toll for the whole pandemic. Best is the figure of more than 800,000 deaths in India alone given by CBC News and repeated by Wikipedia; deaths in Russia, the Middle East, North Africa and Europe are not included, so the real toll was higher. Other figures found: about 1,600 deaths in the Romanian army in 1913 and 11 in New York in 1910-1911.
+    fr: >-
+      Minimum et non estimation mondiale : aucune source trouvée ne donne de bilan pour l’ensemble de la pandémie. L’estimation retenue est celle de plus de 800 000 morts en Inde seulement, donnée par CBC News et reprise par Wikipédia ; les morts en Russie, au Moyen-Orient, en Afrique du Nord et en Europe n’y sont pas comptés, le bilan réel est donc plus élevé. Autres chiffres trouvés : environ 1 600 morts dans l’armée roumaine en 1913 et 11 à New York en 1910-1911.
+countries:
+  - { code: IN, deaths: 800000 }
+  - { name: { en: Russian Empire, fr: Empire russe } }
+  - { code: AF }
+  - { code: IR }
+  - { code: BG }
+  - { code: IT }
+  - { code: US }
+related: [india-cholera-epidemic-1891, haiti-cholera-outbreak]
+sources:
+  - title: 1899-1923 cholera pandemic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1899%E2%80%931923_cholera_pandemic
+    accessed: "2026-10-22"
+  - title: Cholera's seven pandemics (archived page)
+    publisher: CBC News
+    url: https://web.archive.org/web/20210101000314/https://www.cbc.ca/news/technology/cholera-s-seven-pandemics-1.758504
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,29 @@
+id: tenerife-airport-disaster
+title:
+  en: Tenerife airport disaster
+  fr: Catastrophe aérienne de Tenerife
+description:
+  en: >-
+    On 27 March 1977 two Boeing 747s, KLM Flight 4805 and Pan Am Flight 1736, collided in fog on the single runway of Los Rodeos Airport on Tenerife, in Spain's Canary Islands. Both had been diverted there after a bomb exploded at Las Palmas airport on Gran Canaria. The KLM jet began its take-off roll while the Pan Am jet was still taxiing on the same runway, and both aircraft caught fire. All 248 people on the KLM plane and 335 of the 396 on the Pan Am plane died. KLM later accepted that its crew was responsible.
+  fr: >-
+    Le 27 mars 1977, deux Boeing 747, le vol KLM 4805 et le vol Pan Am 1736, se percutent dans le brouillard sur l’unique piste de l’aéroport de Los Rodeos, à Tenerife, aux Canaries (Espagne). Tous deux y avaient été déroutés après l’explosion d’une bombe à l’aéroport de Las Palmas, sur la Grande Canarie. Le KLM entame son décollage alors que le Pan Am circule encore sur la même piste, et les deux appareils prennent feu. Les 248 occupants du KLM et 335 des 396 personnes à bord du Pan Am sont tués. KLM a ensuite reconnu la responsabilité de son équipage.
+categories: [accident]
+kind: event
+start: "1977-03-27"
+deaths:
+  best: 583
+  note:
+    en: Passengers and crew of both aircraft (248 on the KLM plane, 335 on the Pan Am plane, including 10 who later died of their injuries), the toll given by Wikipedia and Britannica. It is the deadliest accident in aviation history. Most KLM passengers were Dutch and almost all Pan Am passengers American, but the sources give no death count by nationality.
+    fr: Passagers et équipages des deux avions (248 dans le KLM, 335 dans le Pan Am, dont 10 morts ensuite de leurs blessures), bilan donné par Wikipédia et Britannica. C’est l’accident le plus meurtrier de l’histoire de l’aviation. La plupart des passagers du KLM étaient néerlandais et presque tous ceux du Pan Am américains, mais les sources ne donnent pas de bilan par nationalité.
+countries:
+  - { code: ES, deaths: 583 }
+sources:
+  - title: Tenerife airport disaster
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Tenerife_airport_disaster
+    accessed: "2026-10-22"
+  - title: Tenerife airport disaster
+    publisher: Encyclopaedia Britannica
+    url: https://www.britannica.com/event/Tenerife-airport-disaster
+    accessed: "2026-10-22"
+reviewed: false

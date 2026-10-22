@@ -1,0 +1,43 @@
+id: road-traffic-deaths
+title:
+  en: Deaths from road traffic crashes per year
+  fr: Décès dus aux accidents de la route par an
+description:
+  en: >-
+    People killed in road traffic crashes worldwide in one year, as estimated by the World Health Organization. More than half of the dead are pedestrians, cyclists and motorcyclists, and motorcyclists alone account for nearly a third as motorcycle numbers have more than tripled since 2011. Road injuries are the leading cause of death for children and young people aged 5 to 29, and 92% of road deaths occur in low- and middle-income countries. The global death rate fell by 21% between 2011 and 2025 even as more than a billion vehicles were added.
+  fr: >-
+    Personnes tuées dans des accidents de la route dans le monde en un an, selon l’estimation de l’Organisation mondiale de la santé. Plus de la moitié des morts sont des piétons, des cyclistes et des motocyclistes, ces derniers représentant à eux seuls près d’un tiers, le nombre de motos ayant plus que triplé depuis 2011. Les accidents de la route sont la première cause de mortalité des enfants et des jeunes de 5 à 29 ans, et 92 % des morts surviennent dans des pays à revenu faible ou intermédiaire. Le taux mondial de mortalité a baissé de 21 % entre 2011 et 2025.
+categories: [annual, accident]
+kind: endemic-total
+start: "2025"
+end: "2025"
+deaths:
+  best: 1160000
+  note:
+    en: >-
+      WHO (news release of 20 July 2026, with new global data): road traffic crashes claimed 1.16 million lives in 2025; no range is given in the release. The only per-country figure found for 2025 is the US National Highway Traffic Safety Administration's early estimate of 36,640 traffic deaths in the United States, a projection that NHTSA will replace with a final count; WHO's 2025 estimates for other countries were not found in an accessible form. China and India are listed without a number because they had the most road deaths in WHO's latest published country estimates (2021: about 248,000 and 206,000).
+    fr: >-
+      OMS (communiqué du 20 juillet 2026, avec de nouvelles données mondiales) : les accidents de la route ont coûté la vie à 1,16 million de personnes en 2025 ; aucune fourchette n’est donnée. Le seul chiffre par pays trouvé pour 2025 est l’estimation préliminaire de la National Highway Traffic Safety Administration américaine, soit 36 640 morts sur les routes des États-Unis, une projection qui sera remplacée par un décompte définitif ; les estimations de l’OMS pour les autres pays n’ont pas été trouvées sous une forme accessible. La Chine et l’Inde sont listées sans nombre car elles comptaient le plus de morts sur la route dans les dernières estimations par pays publiées par l’OMS (2021 : environ 248 000 et 206 000).
+countries:
+  - { code: US, deaths: 36640 }
+  - { code: CN }
+  - { code: IN }
+related: [us-road-traffic-deaths]
+sources:
+  - title: Road deaths fall by 21% globally but stronger action is needed to save lives
+    publisher: World Health Organization
+    url: https://www.who.int/news/item/20-07-2026-road-deaths-fall-by-21--globally-but-stronger-action-is-needed-to-save-lives
+    accessed: "2026-10-22"
+  - title: Road traffic injuries fact sheet
+    publisher: World Health Organization
+    url: https://www.who.int/news-room/fact-sheets/detail/road-traffic-injuries
+    accessed: "2026-10-22"
+  - title: "Traffic Safety Facts Crash Stats: Early Estimates of Motor Vehicle Traffic Fatalities and Fatality Rate by Sub-Categories in 2025"
+    publisher: US National Highway Traffic Safety Administration (ROSA P)
+    url: https://rosap.ntl.bts.gov/view/dot/92422
+    accessed: "2026-10-22"
+  - title: "Global Health Observatory: estimated number of road traffic deaths (RS_196), China and India"
+    publisher: World Health Organization
+    url: https://ghoapi.azureedge.net/api/RS_196?$filter=SpatialDim%20eq%20'CHN'%20or%20SpatialDim%20eq%20'IND'
+    accessed: "2026-10-22"
+reviewed: false

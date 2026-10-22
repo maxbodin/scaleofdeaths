@@ -1,0 +1,272 @@
+id: covid-19-pandemic
+title:
+  en: COVID-19 pandemic
+  fr: Pandémie de Covid-19
+description:
+  en: >-
+    Pandemic of COVID-19, the disease caused by the SARS-CoV-2 coronavirus, which began with an outbreak in Wuhan, China, in December 2019 and spread worldwide in early 2020. The WHO treated it as a public health emergency of international concern from January 2020 to May 2023. Vaccines were deployed from December 2020. Official counts miss many deaths because testing and death registration were limited in many countries, so excess-mortality studies put the true toll at several times the reported figure.
+  fr: >-
+    Pandémie de Covid-19, la maladie due au coronavirus SARS-CoV-2, partie d’un foyer à Wuhan, en Chine, en décembre 2019, et répandue dans le monde entier au début de 2020. L’OMS l’a considérée comme une urgence de santé publique de portée internationale de janvier 2020 à mai 2023. Les vaccins ont été déployés à partir de décembre 2020. Les bilans officiels omettent de nombreux décès, faute de tests et d’état civil complets dans beaucoup de pays : les études de surmortalité estiment le bilan réel à plusieurs fois le chiffre déclaré.
+categories: [epidemic]
+kind: event
+start: "2019-12"
+ongoing: true
+asOf: "2024-06-17"
+deaths:
+  best: 27314822
+  low: 7051180
+  high: 36290880
+  note:
+    en: >-
+      Best is The Economist's central estimate of cumulative excess deaths (deaths from all causes above the expected level) worldwide, and high the upper end of its 95% interval (19.2 to 36.3 million), as of 17 June 2024, the last date of its model, published by Our World in Data. Low is the number of COVID-19 deaths reported to the WHO by countries as of 16 June 2024; reporting continued afterwards at a much slower pace. For comparison, the WHO estimated 14.9 million excess deaths (range 13.3 to 16.6 million) for 2020 and 2021 alone. Per-country figures are the deaths reported to the WHO as of 16 June 2024 (226 countries and territories, excluding 13 deaths on the Diamond Princess cruise ship); they understate the real toll, especially where testing was limited.
+    fr: >-
+      L’estimation centrale est celle de The Economist pour la surmortalité cumulée mondiale (décès toutes causes au-delà du niveau attendu), et la borne haute celle de son intervalle à 95 % (19,2 à 36,3 millions), au 17 juin 2024, dernière date de son modèle, publiée par Our World in Data. La borne basse est le nombre de décès dus au Covid-19 déclarés par les pays à l’OMS au 16 juin 2024 ; les déclarations ont continué ensuite à un rythme bien plus lent. À titre de comparaison, l’OMS a estimé la surmortalité à 14,9 millions de décès (de 13,3 à 16,6 millions) pour les seules années 2020 et 2021. Les chiffres par pays sont les décès déclarés à l’OMS au 16 juin 2024 (226 pays et territoires, hors 13 décès sur le paquebot Diamond Princess) ; ils sous-estiment le bilan réel, surtout là où les tests étaient limités.
+countries:
+  - { code: US, deaths: 1189816 }
+  - { code: BR, deaths: 702116 }
+  - { code: IN, deaths: 533619 }
+  - { code: RU, deaths: 403031 }
+  - { code: MX, deaths: 334499 }
+  - { code: GB, deaths: 232112 }
+  - { code: PE, deaths: 220977 }
+  - { code: IT, deaths: 196356 }
+  - { code: DE, deaths: 174979 }
+  - { code: FR, deaths: 168091 }
+  - { code: ID, deaths: 162058 }
+  - { code: IR, deaths: 146837 }
+  - { code: CO, deaths: 142727 }
+  - { code: AR, deaths: 130664 }
+  - { code: CN, deaths: 122254 }
+  - { code: ES, deaths: 121852 }
+  - { code: PL, deaths: 120713 }
+  - { code: UA, deaths: 109920 }
+  - { code: ZA, deaths: 102595 }
+  - { code: TR, deaths: 101419 }
+  - { code: JP, deaths: 74694 }
+  - { code: RO, deaths: 68805 }
+  - { code: PH, deaths: 66864 }
+  - { code: CL, deaths: 62721 }
+  - { code: CA, deaths: 55236 }
+  - { code: HU, deaths: 49051 }
+  - { code: CZ, deaths: 43507 }
+  - { code: VN, deaths: 43206 }
+  - { code: GR, deaths: 39036 }
+  - { code: BG, deaths: 38691 }
+  - { code: MY, deaths: 37351 }
+  - { code: EC, deaths: 36050 }
+  - { code: KR, deaths: 35934 }
+  - { code: TH, deaths: 34665 }
+  - { code: BE, deaths: 34339 }
+  - { code: PK, deaths: 30656 }
+  - { code: BD, deaths: 29496 }
+  - { code: TN, deaths: 29423 }
+  - { code: PT, deaths: 28325 }
+  - { code: SE, deaths: 27314 }
+  - { code: IQ, deaths: 25375 }
+  - { code: AU, deaths: 25236 }
+  - { code: EG, deaths: 24830 }
+  - { code: NL, deaths: 22986 }
+  - { code: AT, deaths: 22534 }
+  - { code: BO, deaths: 22387 }
+  - { code: SK, deaths: 21283 }
+  - { code: GT, deaths: 20203 }
+  - { code: PY, deaths: 19880 }
+  - { code: MM, deaths: 19494 }
+  - { code: KZ, deaths: 19072 }
+  - { code: HR, deaths: 18752 }
+  - { code: RS, deaths: 18057 }
+  - { code: GE, deaths: 17150 }
+  - { code: LK, deaths: 16904 }
+  - { code: BA, deaths: 16388 }
+  - { code: MA, deaths: 16305 }
+  - { code: CH, deaths: 14170 }
+  - { code: JO, deaths: 14122 }
+  - { code: IL, deaths: 12707 }
+  - { code: MD, deaths: 12239 }
+  - { code: NP, deaths: 12031 }
+  - { code: FI, deaths: 11466 }
+  - { code: HN, deaths: 11114 }
+  - { code: LB, deaths: 10947 }
+  - { code: AZ, deaths: 10353 }
+  - { code: MK, deaths: 9977 }
+  - { code: SI, deaths: 9893 }
+  - { code: LT, deaths: 9806 }
+  - { code: DK, deaths: 9686 }
+  - { code: SA, deaths: 9646 }
+  - { code: IE, deaths: 9572 }
+  - { code: CR, deaths: 9371 }
+  - { code: AM, deaths: 8778 }
+  - { code: PA, deaths: 8712 }
+  - { code: CU, deaths: 8530 }
+  - { code: AF, deaths: 7998 }
+  - { code: UY, deaths: 7682 }
+  - { code: ET, deaths: 7574 }
+  - { code: LV, deaths: 7475 }
+  - { code: BY, deaths: 7118 }
+  - { code: DZ, deaths: 6881 }
+  - { code: LY, deaths: 6437 }
+  - { code: PR, deaths: 5938 }
+  - { code: VE, deaths: 5856 }
+  - { code: ZW, deaths: 5740 }
+  - { code: NO, deaths: 5732 }
+  - { code: PS, deaths: 5708 }
+  - { code: KE, deaths: 5689 }
+  - { code: SD, deaths: 5046 }
+  - { code: OM, deaths: 4628 }
+  - { code: TT, deaths: 4390 }
+  - { code: DO, deaths: 4384 }
+  - { code: SV, deaths: 4230 }
+  - { code: NA, deaths: 4108 }
+  - { code: NZ, deaths: 4083 }
+  - { code: ZM, deaths: 4069 }
+  - { code: UG, deaths: 3632 }
+  - { code: AL, deaths: 3605 }
+  - { code: JM, deaths: 3604 }
+  - { code: XK, deaths: 3212 }
+  - { code: EE, deaths: 3196 }
+  - { code: SY, deaths: 3163 }
+  - { code: NG, deaths: 3155 }
+  - { code: KH, deaths: 3056 }
+  - { code: BW, deaths: 2801 }
+  - { code: MW, deaths: 2686 }
+  - { code: ME, deaths: 2654 }
+  - { code: KW, deaths: 2570 }
+  - { code: AE, deaths: 2349 }
+  - { code: MZ, deaths: 2252 }
+  - { code: YE, deaths: 2159 }
+  - { code: MN, deaths: 2136 }
+  - { code: SG, deaths: 2024 }
+  - { code: CM, deaths: 1974 }
+  - { code: SN, deaths: 1971 }
+  - { code: AO, deaths: 1937 }
+  - { code: BH, deaths: 1536 }
+  - { code: CD, deaths: 1471 }
+  - { code: RW, deaths: 1468 }
+  - { code: GH, deaths: 1462 }
+  - { code: MG, deaths: 1427 }
+  - { code: SZ, deaths: 1427 }
+  - { code: SR, deaths: 1406 }
+  - { code: CY, deaths: 1364 }
+  - { code: SO, deaths: 1361 }
+  - { code: GY, deaths: 1302 }
+  - { code: MQ, deaths: 1104 }
+  - { code: MU, deaths: 1072 }
+  - { code: KG, deaths: 1024 }
+  - { code: GP, deaths: 1021 }
+  - { code: UZ, deaths: 1016 }
+  - { code: LU, deaths: 1000 }
+  - { code: MR, deaths: 997 }
+  - { code: MT, deaths: 942 }
+  - { code: RE, deaths: 921 }
+  - { code: FJ, deaths: 885 }
+  - { code: HT, deaths: 860 }
+  - { code: BS, deaths: 848 }
+  - { code: TZ, deaths: 846 }
+  - { code: CI, deaths: 835 }
+  - { code: ML, deaths: 743 }
+  - { code: LS, deaths: 709 }
+  - { code: QA, deaths: 690 }
+  - { code: BZ, deaths: 688 }
+  - { code: LA, deaths: 671 }
+  - { code: PG, deaths: 670 }
+  - { code: PF, deaths: 650 }
+  - { code: BB, deaths: 593 }
+  - { code: GN, deaths: 468 }
+  - { code: GU, deaths: 419 }
+  - { code: CV, deaths: 417 }
+  - { code: GF, deaths: 413 }
+  - { code: LC, deaths: 410 }
+  - { code: BF, deaths: 400 }
+  - { code: CG, deaths: 389 }
+  - { code: GM, deaths: 372 }
+  - { code: MV, deaths: 316 }
+  - { code: NE, deaths: 315 }
+  - { code: NC, deaths: 314 }
+  - { code: GA, deaths: 307 }
+  - { code: CW, deaths: 305 }
+  - { code: LR, deaths: 294 }
+  - { code: AW, deaths: 292 }
+  - { code: TG, deaths: 290 }
+  - { code: NI, deaths: 245 }
+  - { code: GD, deaths: 238 }
+  - { code: SB, deaths: 199 }
+  - { code: TD, deaths: 194 }
+  - { code: DJ, deaths: 189 }
+  - { code: YT, deaths: 187 }
+  - { code: IS, deaths: 186 }
+  - { code: GQ, deaths: 183 }
+  - { code: BN, deaths: 178 }
+  - { code: GW, deaths: 177 }
+  - { code: SC, deaths: 172 }
+  - { code: BM, deaths: 165 }
+  - { code: BJ, deaths: 163 }
+  - { code: JE, deaths: 161 }
+  - { code: KM, deaths: 160 }
+  - { code: AD, deaths: 159 }
+  - { code: SS, deaths: 147 }
+  - { code: AG, deaths: 146 }
+  - { code: TL, deaths: 138 }
+  - { code: VI, deaths: 132 }
+  - { code: SM, deaths: 126 }
+  - { code: SL, deaths: 125 }
+  - { code: TJ, deaths: 125 }
+  - { code: VC, deaths: 124 }
+  - { code: IM, deaths: 116 }
+  - { code: CF, deaths: 113 }
+  - { code: GI, deaths: 113 }
+  - { code: ER, deaths: 103 }
+  - { code: SX, deaths: 92 }
+  - { code: LI, deaths: 89 }
+  - { code: ST, deaths: 80 }
+  - { code: DM, deaths: 74 }
+  - { code: GG, deaths: 67 }
+  - { code: MC, deaths: 67 }
+  - { code: FM, deaths: 65 }
+  - { code: VG, deaths: 64 }
+  - { code: KN, deaths: 46 }
+  - { code: MF, deaths: 46 }
+  - { code: BQ, deaths: 41 }
+  - { code: MP, deaths: 41 }
+  - { code: TC, deaths: 40 }
+  - { code: KY, deaths: 37 }
+  - { code: AS, deaths: 34 }
+  - { code: WS, deaths: 31 }
+  - { code: FO, deaths: 28 }
+  - { code: KI, deaths: 24 }
+  - { code: BT, deaths: 21 }
+  - { code: GL, deaths: 21 }
+  - { code: MH, deaths: 17 }
+  - { code: BI, deaths: 15 }
+  - { code: VU, deaths: 14 }
+  - { code: AI, deaths: 12 }
+  - { code: TO, deaths: 12 }
+  - { code: PW, deaths: 10 }
+  - { code: WF, deaths: 9 }
+  - { code: MS, deaths: 8 }
+  - { code: BL, deaths: 5 }
+  - { code: CK, deaths: 2 }
+  - { code: PM, deaths: 2 }
+  - { code: NR, deaths: 1 }
+  - { code: TV, deaths: 1 }
+sources:
+  - title: COVID-19 pandemic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/COVID-19_pandemic
+    accessed: "2026-10-22"
+  - title: WHO COVID-19 dashboard, deaths
+    publisher: World Health Organization
+    url: https://data.who.int/dashboards/covid19/deaths
+    accessed: "2026-10-22"
+  - title: WHO COVID-19 global data (cases and deaths by country, weekly, CSV)
+    publisher: World Health Organization
+    url: https://srhdpeuwpubsa.blob.core.windows.net/whdh/COVID/WHO-COVID-19-global-data.csv
+    accessed: "2026-10-22"
+  - title: Estimated cumulative excess deaths during COVID-19 (The Economist model)
+    publisher: Our World in Data
+    url: https://ourworldindata.org/grapher/excess-deaths-cumulative-economist-single-entity
+    accessed: "2026-10-22"
+  - title: 14.9 million excess deaths associated with the COVID-19 pandemic in 2020 and 2021
+    publisher: World Health Organization
+    url: https://www.who.int/news/item/05-05-2022-14.9-million-excess-deaths-were-associated-with-the-covid-19-pandemic-in-2020-and-2021
+    accessed: "2026-10-22"
+reviewed: false

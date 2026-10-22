@@ -1,0 +1,31 @@
+id: pakistan-floods-2010
+title:
+  en: 2010 Pakistan floods
+  fr: Inondations de 2010 au Pakistan
+description:
+  en: >-
+    From late July 2010, exceptionally heavy monsoon rains flooded the Indus River basin in Pakistan, the country's worst flooding since 1929. Flash floods first hit Khyber Pakhtunkhwa, where over 90% of the deaths occurred, and the flood then moved south through Punjab and Sindh during August and September. About a fifth of the country's land was affected: some 20 million people lost homes, crops or livelihoods, at least 1.8 million homes were destroyed and more than 7 million people were left homeless.
+  fr: >-
+    À partir de fin juillet 2010, des pluies de mousson exceptionnelles ont inondé le bassin de l’Indus au Pakistan, les pires inondations du pays depuis 1929. Des crues soudaines ont d’abord frappé le Khyber Pakhtunkhwa, où se sont produits plus de 90 % des décès, puis l’inondation a gagné le sud, le Pendjab et le Sind, en août et septembre. Environ un cinquième du territoire a été touché : quelque 20 millions de personnes ont perdu maison, récoltes ou moyens de subsistance, au moins 1,8 million de maisons ont été détruites et plus de 7 millions de personnes se sont retrouvées sans abri.
+categories: [natural-disaster]
+kind: event
+start: "2010-07"
+end: "2010-09"
+deaths:
+  best: 1985
+  low: 1781
+  note:
+    en: Best is the National Disaster Management Authority toll as of 24 October 2010, reported by ReliefWeb and Wikipedia. One month after mid-August, the Federal Flood Commission's tally stood at 1,781 deaths (low).
+    fr: L’estimation centrale est le bilan de l’Autorité nationale de gestion des catastrophes au 24 octobre 2010, rapporté par ReliefWeb et Wikipédia. Un mois après la mi-août, le décompte de la Commission fédérale des crues s’élevait à 1 781 morts (bas de la fourchette).
+countries:
+  - { code: PK, deaths: 1985 }
+sources:
+  - title: 2010 Pakistan floods
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2010_Pakistan_floods
+    accessed: "2026-10-22"
+  - title: "Pakistan: Floods - Jul 2010"
+    publisher: ReliefWeb (UN OCHA)
+    url: https://reliefweb.int/disaster/fl-2010-000141-pak
+    accessed: "2026-10-22"
+reviewed: false

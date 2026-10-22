@@ -1,0 +1,35 @@
+id: battle-of-berlin
+title:
+  en: Battle of Berlin
+  fr: Bataille de Berlin
+description:
+  en: >-
+    The last major Soviet offensive of the war in Europe. Starting on 16 April 1945, Soviet forces under Zhukov, Konev and Rokossovsky, with Polish troops, broke through the German defences on the Oder, notably at the Seelow Heights, encircled Berlin and fought their way into the city street by street against regular troops, police and the Hitler Youth. Hitler killed himself on 30 April and the garrison surrendered on 2 May. The victory was followed by mass rape and looting.
+  fr: >-
+    Dernière grande offensive soviétique de la guerre en Europe. À partir du 16 avril 1945, les forces soviétiques de Joukov, Koniev et Rokossovski, avec des troupes polonaises, ont percé les défenses allemandes sur l’Oder, notamment sur les hauteurs de Seelow, encerclé Berlin et pris la ville rue par rue face à l’armée, à la police et aux Jeunesses hitlériennes. Hitler s’est suicidé le 30 avril et la garnison a capitulé le 2 mai. La victoire a été suivie de viols de masse et de pillages.
+categories: [war]
+kind: event
+start: "1945-04-16"
+end: "1945-05-02"
+deaths:
+  best: 250000
+  note:
+    en: "Military deaths only. Best: about 250,000 soldiers, the figure given by German History in Documents and Images ('as many as a quarter million soldiers died') and Necrometrics' estimate of military deaths. Wikipedia gives 81,116 Soviet and Polish dead or missing and 92,000 to 100,000 German dead (incomplete archival data). About 125,000 German civilians also died (Wikipedia, German History in Documents and Images), but no source gives a combined total, so they are not included. Casualty totals that include wounded and captured (361,367 Soviet and Polish, 917,000 to 925,000 German) are not used."
+    fr: "Morts militaires uniquement. Valeur centrale : environ 250 000 soldats, chiffre donné par German History in Documents and Images (« jusqu’à un quart de million de soldats sont morts ») et estimation des morts militaires de Necrometrics. Wikipédia donne 81 116 morts ou disparus soviétiques et polonais et 92 000 à 100 000 morts allemands (données d’archives incomplètes). Environ 125 000 civils allemands sont aussi morts (Wikipédia, German History in Documents and Images), mais aucune source ne donne de total commun ; ils ne sont donc pas inclus. Les bilans de pertes incluant blessés et prisonniers (361 367 côté soviétique et polonais, 917 000 à 925 000 côté allemand) ne sont pas utilisés."
+countries:
+  - { code: DE, deaths: 250000 }
+partOf: second-world-war
+sources:
+  - title: Battle of Berlin
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Battle_of_Berlin
+    accessed: "2026-10-22"
+  - title: Final Days of Fighting in Berlin (1945)
+    publisher: German History in Documents and Images (German Historical Institute)
+    url: https://germanhistorydocs.org/en/nazi-germany-1933-1945/final-days-of-fighting-in-berlin-1945
+    accessed: "2026-10-22"
+  - title: Bloodiest Battles of the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/battles.htm
+    accessed: "2026-10-22"
+reviewed: false

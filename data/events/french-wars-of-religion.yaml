@@ -1,0 +1,33 @@
+id: french-wars-of-religion
+title:
+  en: French Wars of Religion
+  fr: Guerres de Religion (France)
+description:
+  en: >-
+    Series of eight civil wars in France between Catholics and Protestants (Huguenots), entangled with rivalries between noble factions such as the Guise and the Bourbons and with intervention by Spain and England. The conflict included the St Bartholomew's Day massacre of 1572, in which thousands of Huguenots were killed in Paris and other cities. It ended when Henry IV, a Protestant who had converted to Catholicism, issued the Edict of Nantes in 1598, granting rights to the Huguenots.
+  fr: >-
+    Série de huit guerres civiles en France entre catholiques et protestants (huguenots), mêlées aux rivalités entre factions nobiliaires, comme les Guise et les Bourbons, et aux interventions de l’Espagne et de l’Angleterre. Le conflit comprend le massacre de la Saint-Barthélemy en 1572, au cours duquel des milliers de huguenots sont tués à Paris et dans d’autres villes. Il prend fin lorsque Henri IV, protestant converti au catholicisme, promulgue l’édit de Nantes en 1598, qui accorde des droits aux huguenots.
+categories: [war]
+kind: event
+start: "1562-04-02"
+end: "1598-04-30"
+deaths:
+  best: 3000000
+  low: 2000000
+  high: 4000000
+  note:
+    en: "Deaths from violence, famine and disease caused by the conflict. Range: 2 to 4 million, the estimate of the historian Robert J. Knecht (cited by Wikipedia and Necrometrics). Best: 3 million, the figure used by Matthew White (Necrometrics), in the middle of Knecht's range."
+    fr: "Morts dues aux violences, à la famine et aux maladies causées par le conflit. Fourchette : 2 à 4 millions, estimation de l’historien Robert J. Knecht (citée par Wikipédia et Necrometrics). Estimation centrale : 3 millions, chiffre retenu par Matthew White (Necrometrics), au milieu de la fourchette de Knecht."
+countries:
+  - { code: FR, deaths: 3000000 }
+related: [eighty-years-war]
+sources:
+  - title: French Wars of Religion
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/French_Wars_of_Religion
+    accessed: "2026-10-22"
+  - title: Selected Death Tolls for Wars, Massacres and Atrocities Before the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/pre1700a.htm
+    accessed: "2026-10-22"
+reviewed: false

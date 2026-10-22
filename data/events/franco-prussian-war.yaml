@@ -1,0 +1,36 @@
+id: franco-prussian-war
+title:
+  en: Franco-Prussian War
+  fr: Guerre franco-allemande de 1870
+description:
+  en: >-
+    War between France and the German states led by Prussia. The German armies quickly defeated the French at Sedan, where Napoleon III was captured, then besieged Paris until the armistice of January 1871. The war led to the proclamation of the German Empire and the annexation of Alsace-Lorraine. Besides combat, disease killed many soldiers, and a smallpox epidemic spread by French prisoners killed many German civilians.
+  fr: >-
+    Guerre entre la France et les États allemands menés par la Prusse. Les armées allemandes battent rapidement les Français à Sedan, où Napoléon III est fait prisonnier, puis assiègent Paris jusqu’à l’armistice de janvier 1871. La guerre aboutit à la proclamation de l’Empire allemand et à l’annexion de l’Alsace-Lorraine. Outre les combats, les maladies ont tué de nombreux soldats, et une épidémie de variole propagée par les prisonniers français a fait de nombreuses victimes civiles en Allemagne.
+categories: [war]
+kind: event
+start: "1870-07-19"
+end: "1871-01-28"
+deaths:
+  best: 430000
+  note:
+    en: Military and civilian deaths. Best is the 0.43 million on Wikipedia's list of wars by death toll, based on Clodfelter's figures of 138,871 French and 44,781 German military dead plus about 250,000 civilians (including 162,000 Germans who died in the smallpox epidemic). Mulhall (1892) gives 138,870 French military dead. Estimates of French civilian excess deaths alone reach 450,000 (Bodart), so the true total may be higher; no source found gives a firm upper bound.
+    fr: Morts militaires et civiles. L’estimation centrale est le chiffre de 0,43 million de la liste des guerres de Wikipédia, fondé sur les chiffres de Clodfelter (138 871 militaires français et 44 781 militaires allemands morts, plus environ 250 000 civils, dont 162 000 Allemands morts de l’épidémie de variole). Mulhall (1892) donne 138 870 militaires français morts. Certaines estimations de la surmortalité civile française atteignent à elles seules 450 000 (Bodart), si bien que le total réel pourrait être plus élevé, sans borne haute établie.
+countries:
+  - { code: FR, deaths: 138871 }
+  - { code: DE, deaths: 44781 }
+related: [europe-smallpox-epidemic-1870]
+sources:
+  - title: Franco-Prussian War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Franco-Prussian_War
+    accessed: "2026-10-22"
+  - title: List of wars by death toll
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_wars_by_death_toll
+    accessed: "2026-10-22"
+  - title: "The Dictionary of Statistics (M. G. Mulhall, 1892), Wars, p. 587"
+    publisher: Internet Archive
+    url: https://archive.org/details/dictionaryofstat00mulhuoft
+    accessed: "2026-10-22"
+reviewed: false

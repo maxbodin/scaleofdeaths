@@ -1,0 +1,37 @@
+id: enga-landslide-2024
+title:
+  en: 2024 Enga landslide
+  fr: Glissement de terrain de 2024 dans l’Enga
+description:
+  en: >-
+    In the early hours of 24 May 2024, a hillside collapsed onto Yambali village, near Mulitaka in Enga province, in the highlands of Papua New Guinea, burying homes while people slept, along with a pub area where people from other villages had gathered. The debris, 6 to 8 metres deep, also cut the Highlands Highway. Only a few bodies could be recovered; after a 14-day search, the site was designated a mass burial ground. How many people were present was unknown.
+  fr: >-
+    Aux premières heures du 24 mai 2024, un pan de montagne s’est effondré sur le village de Yambali, près de Mulitaka, dans la province d’Enga, sur les hauts plateaux de Papouasie-Nouvelle-Guinée, ensevelissant des maisons pendant le sommeil de leurs habitants, ainsi qu’un secteur de bars où se trouvaient des gens d’autres villages. Les débris, épais de 6 à 8 mètres, ont aussi coupé la route des Highlands. Seuls quelques corps ont pu être dégagés ; après 14 jours de recherches, le site a été déclaré lieu de sépulture collective. Le nombre de personnes présentes est inconnu.
+categories: [natural-disaster]
+kind: event
+start: "2024-05-24"
+deaths:
+  best: 670
+  low: 162
+  high: 2000
+  note:
+    en: >-
+      The toll is very uncertain: few bodies were recovered and the area had no recent census. Best is the figure of 670 people buried, first given by the UN as missing presumed dead and later adopted by the Papua New Guinea government. High is the government's earlier statement that more than 2,000 people were buried. Low is the 162 dead counted by the local disaster committee after a head count of the missing.
+    fr: >-
+      Le bilan est très incertain : peu de corps ont été retrouvés et la zone n’avait pas de recensement récent. L’estimation centrale est le chiffre de 670 personnes ensevelies, d’abord donné par l’ONU comme disparus présumés morts puis adopté par le gouvernement de Papouasie-Nouvelle-Guinée. La borne haute est la déclaration antérieure du gouvernement selon laquelle plus de 2 000 personnes étaient ensevelies. La borne basse est le décompte de 162 morts du comité local de gestion de la catastrophe.
+countries:
+  - { code: PG, deaths: 670 }
+sources:
+  - title: 2024 Enga landslide
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2024_Enga_landslide
+    accessed: "2026-10-22"
+  - title: Uncertainty surrounds PNG landslide death toll as relief supplies begin arriving at disaster zone
+    publisher: ABC News (Australia)
+    url: https://www.abc.net.au/news/2024-05-29/uncertainty-surrounds-png-landslide-death-toll/103906298
+    accessed: "2026-10-22"
+  - title: "Papua New Guinea landslide: People in Enga's high risk areas advised to relocate"
+    publisher: RNZ
+    url: https://www.rnz.co.nz/international/pacific-news/518829/papua-new-guinea-landslide-people-in-enga-s-high-risk-areas-advised-to-relocate
+    accessed: "2026-10-22"
+reviewed: false

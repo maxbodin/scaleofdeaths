@@ -1,0 +1,37 @@
+id: terrorism-deaths
+title:
+  en: Deaths from terrorism per year
+  fr: Décès dus au terrorisme par an
+description:
+  en: >-
+    People killed in terrorist attacks worldwide in one year, as recorded by the Global Terrorism Index of the Institute for Economics and Peace, which compiles attacks from the TerrorismTracker incident database. In 2025 deaths fell by 28% and attacks by 22%, to 2,944 incidents. Terrorism remains tied to armed conflict: only 1% of deaths occurred outside conflict-affected countries, and the Sahel region of Africa accounted for over half of all deaths. Pakistan was the most affected country for the first time, with its highest toll since 2013.
+  fr: >-
+    Personnes tuées dans des attentats terroristes dans le monde en un an, selon le Global Terrorism Index de l’Institute for Economics and Peace, qui recense les attaques de la base de données TerrorismTracker. En 2025, les morts ont baissé de 28 % et les attaques de 22 %, à 2 944 incidents. Le terrorisme reste lié aux conflits armés : seulement 1 % des morts sont survenues hors des pays en conflit, et la région du Sahel concentre plus de la moitié des décès. Le Pakistan est pour la première fois le pays le plus touché, avec son bilan le plus lourd depuis 2013.
+categories: [annual, genocide]
+kind: endemic-total
+start: "2025"
+end: "2025"
+deaths:
+  best: 5582
+  note:
+    en: >-
+      Global Terrorism Index 2026 (Institute for Economics and Peace): 5,582 people killed in terrorist attacks in 2025, down from 7,714 in 2024. This is a count of recorded deaths, so no range is given. Per-country figures are the five countries with the most deaths in the report (Pakistan 1,139, Burkina Faso 846, Nigeria 750, Niger 703, DR Congo 467); all other countries together account for 1,677.
+    fr: >-
+      Global Terrorism Index 2026 (Institute for Economics and Peace) : 5 582 personnes tuées dans des attentats terroristes en 2025, contre 7 714 en 2024. Il s’agit d’un décompte des morts recensées, sans fourchette. Les chiffres par pays sont ceux des cinq pays les plus touchés selon le rapport (Pakistan 1 139, Burkina Faso 846, Nigeria 750, Niger 703, RD Congo 467) ; tous les autres pays réunis comptent 1 677 morts.
+countries:
+  - { code: PK, deaths: 1139 }
+  - { code: BF, deaths: 846 }
+  - { code: NG, deaths: 750 }
+  - { code: NE, deaths: 703 }
+  - { code: CD, deaths: 467 }
+related: [homicide-deaths]
+sources:
+  - title: Global Terrorism Index 2026
+    publisher: Institute for Economics and Peace
+    url: https://www.visionofhumanity.org/wp-content/uploads/2026/03/Global-Terrorism-Index-2026-Report.pdf
+    accessed: "2026-10-22"
+  - title: Global terrorism falls to a decade low but Western fatalities surge
+    publisher: Vision of Humanity (Institute for Economics and Peace)
+    url: https://www.visionofhumanity.org/global-terrorism-falls-to-a-decade-low-but-western-fatalities-surge/
+    accessed: "2026-10-22"
+reviewed: false

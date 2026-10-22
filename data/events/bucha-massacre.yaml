@@ -1,0 +1,38 @@
+id: bucha-massacre
+title:
+  en: Bucha massacre
+  fr: Massacre de Boutcha
+description:
+  en: >-
+    Killings of civilians in the town of Bucha, north-west of Kyiv, during its occupation by Russian forces in March 2022. After the Russian withdrawal at the end of the month, bodies were found in the streets, in yards and in a mass grave by a church, some with their hands bound and signs of torture. Human Rights Watch and the UN human rights office documented summary executions and other unlawful killings by Russian forces; Russian authorities denied responsibility and said the images were staged.
+  fr: >-
+    Meurtres de civils dans la ville de Boutcha, au nord-ouest de Kiev, pendant son occupation par les forces russes en mars 2022. Après le retrait russe à la fin du mois, des corps sont découverts dans les rues, les cours et une fosse commune près d’une église, certains les mains liées et portant des traces de torture. Human Rights Watch et le Haut-Commissariat des Nations unies aux droits de l’homme documentent des exécutions sommaires et d’autres meurtres illégaux commis par les forces russes ; les autorités russes nient toute responsabilité et parlent de mise en scène.
+categories: [genocide, war]
+kind: event
+partOf: russo-ukrainian-war
+start: "2022-03-04"
+end: "2022-03-31"
+deaths:
+  best: 458
+  low: 73
+  note:
+    en: >-
+      Best is the number of bodies recovered in the Bucha community after the occupation, according to the deputy mayor and the head of the municipal funeral service: 458, of whom 419 were killed by weapons and 39 appear to have died of other causes, possibly linked to the occupation (Babel). Low is the number of civilians whose unlawful killing, including summary executions, had been documented by the UN human rights office (Wikipedia). Human Rights Watch documented 16 cases in detail and reported 278 bodies found by mid-April 2022, a count that was still rising. A memorial wall in Bucha lists 501 names of residents killed (Wikipedia).
+    fr: >-
+      L’estimation centrale est le nombre de corps retrouvés dans la commune de Boutcha après l’occupation, selon l’adjointe au maire et le chef du service funéraire municipal : 458, dont 419 tués par des armes et 39 morts apparemment d’autres causes, peut-être liées à l’occupation (Babel). Le bas est le nombre de civils dont le meurtre illégal, y compris par exécution sommaire, avait été documenté par le Haut-Commissariat des Nations unies aux droits de l’homme (Wikipédia). Human Rights Watch a documenté 16 cas en détail et faisait état de 278 corps retrouvés à la mi-avril 2022, un décompte alors en hausse. Un mur mémorial à Boutcha porte 501 noms d’habitants tués (Wikipédia).
+countries:
+  - { code: UA, deaths: 458 }
+sources:
+  - title: Bucha massacre
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Bucha_massacre
+    accessed: "2026-10-22"
+  - title: At least 458 Ukrainians died in the Bucha community as a result of the actions of the Russians
+    publisher: Babel
+    url: https://babel.ua/en/news/82626-at-least-458-ukrainians-died-in-the-bucha-community-as-a-result-of-the-actions-of-the-russians
+    accessed: "2026-10-22"
+  - title: "Ukraine: Russian Forces' Trail of Death in Bucha"
+    publisher: Human Rights Watch
+    url: https://www.hrw.org/news/2022/04/21/ukraine-russian-forces-trail-death-bucha
+    accessed: "2026-10-22"
+reviewed: false

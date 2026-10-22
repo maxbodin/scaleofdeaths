@@ -1,0 +1,40 @@
+id: rohingya-genocide
+title:
+  en: Rohingya genocide
+  fr: Génocide des Rohingyas
+description:
+  en: >-
+    Persecution and mass killing of Rohingya Muslims in Rakhine State, Myanmar, by the Myanmar military (Tatmadaw), other security forces and local militias, in "clearance operations" launched in October 2016 and, on a far larger scale, after attacks on police posts by the Arakan Rohingya Salvation Army on 25 August 2017. Villages were burned and civilians shot, raped and killed; nearly 725,000 Rohingya fled to Bangladesh by August 2018. A UN fact-finding mission called for Myanmar's top generals to be investigated for genocide; Myanmar denies the accusation.
+  fr: >-
+    Persécutions et massacres de Rohingyas musulmans dans l’État d’Arakan, en Birmanie, par l’armée birmane (Tatmadaw), d’autres forces de sécurité et des milices locales, lors d’« opérations de nettoyage » lancées en octobre 2016 puis, à bien plus grande échelle, après les attaques de l’Armée du salut des Rohingyas de l’Arakan contre des postes de police le 25 août 2017. Villages incendiés, civils abattus, violés et tués : près de 725 000 Rohingyas avaient fui au Bangladesh en août 2018. Une mission d’enquête de l’ONU a demandé des poursuites pour génocide ; la Birmanie rejette l’accusation.
+categories: [genocide]
+kind: event
+start: "2016-10-09"
+end: "2017"
+deaths:
+  best: 10000
+  low: 6700
+  high: 25000
+  note:
+    en: Rohingya killed during the military operations, mainly from August 2017. Best is the UN Independent International Fact-Finding Mission on Myanmar (2018), which judged the estimate of up to 10,000 deaths to be conservative. Low is the 6,700 people killed by violence in the first month after 25 August 2017 estimated by Médecins Sans Frontières (which estimated at least 9,000 deaths from all causes). High is a 2018 study based on surveys of refugee households estimating at least 25,000 killed (Wikipedia). Myanmar's government put the toll at 400.
+    fr: Rohingyas tués pendant les opérations militaires, surtout à partir d’août 2017. L’estimation centrale vient de la mission d’établissement des faits de l’ONU sur la Birmanie (2018), qui jugeait prudente l’estimation de jusqu’à 10 000 morts. La valeur basse est l’estimation de Médecins sans frontières, 6 700 personnes tuées par la violence dans le mois suivant le 25 août 2017 (au moins 9 000 morts toutes causes confondues). La valeur haute provient d’une étude de 2018 fondée sur des enquêtes auprès de ménages réfugiés, qui estime à au moins 25 000 le nombre de tués (Wikipédia). Le gouvernement birman parlait de 400 morts.
+countries:
+  - { code: MM, deaths: 10000 }
+sources:
+  - title: Rohingya genocide
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Rohingya_genocide
+    accessed: "2026-10-22"
+  - title: Report of the Independent International Fact-Finding Mission on Myanmar (A/HRC/39/64)
+    publisher: United Nations Human Rights Council
+    url: https://documents.un.org/doc/undoc/gen/g18/274/54/pdf/g1827454.pdf
+    accessed: "2026-10-22"
+  - title: MSF surveys estimate that at least 6,700 Rohingya were killed during the attacks in Myanmar
+    publisher: Médecins Sans Frontières
+    url: https://www.msf.org/myanmarbangladesh-msf-surveys-estimate-least-6700-rohingya-were-killed-during-attacks-myanmar
+    accessed: "2026-10-22"
+  - title: "Myanmar Rohingya: What you need to know about the crisis"
+    publisher: BBC News
+    url: https://www.bbc.com/news/world-asia-41566561
+    accessed: "2026-10-22"
+reviewed: false

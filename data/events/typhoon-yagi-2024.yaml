@@ -1,0 +1,45 @@
+id: typhoon-yagi-2024
+title:
+  en: Typhoon Yagi
+  fr: Typhon Yagi
+description:
+  en: >-
+    Typhoon Yagi, known as Enteng in the Philippines, crossed northern Luzon on 2 September 2024, then grew into a super typhoon over the South China Sea. It struck Hainan, China, on 6 September and northern Vietnam near Haiphong and Quang Ninh on 7 September, the strongest typhoon to hit Vietnam in 70 years. Its rains and remnants then caused deadly floods and landslides across northern Vietnam, Laos, northern Thailand and Myanmar, where the death toll was highest.
+  fr: >-
+    Le typhon Yagi, appelé Enteng aux Philippines, a traversé le nord de Luçon le 2 septembre 2024, puis est devenu un super typhon en mer de Chine méridionale. Il a frappé Hainan, en Chine, le 6 septembre, puis le nord du Viêt Nam près de Haïphong et de Quang Ninh le 7 septembre, le plus puissant typhon à toucher le pays depuis 70 ans. Ses pluies et ses restes ont ensuite provoqué des crues et glissements de terrain meurtriers au nord du Viêt Nam, au Laos, au nord de la Thaïlande et en Birmanie, pays le plus endeuillé.
+categories: [natural-disaster]
+kind: event
+start: "2024-08-31"
+end: "2024-09-09"
+deaths:
+  best: 844
+  note:
+    en: >-
+      Total of national tolls compiled by Wikipedia, with 129 more people missing: Myanmar 435 (the junta's toll; Eleven Myanmar reported 433 dead and 79 missing on 27 September), Vietnam 325 (official 2024 disaster damage summary, with 20 missing), Thailand 52 (which also counts monsoon floods since mid-August), Philippines 21, Laos 7 and China 4. Wikipedia's infobox gives up to 1,009, allowing up to 600 deaths in Myanmar; no source for that higher figure was found.
+    fr: >-
+      Total des bilans nationaux compilés par Wikipédia, avec 129 disparus en plus : Birmanie 435 (bilan de la junte ; Eleven Myanmar comptait 433 morts et 79 disparus le 27 septembre), Viêt Nam 325 (bilan officiel des catastrophes de 2024, avec 20 disparus), Thaïlande 52 (incluant aussi les crues de mousson depuis mi-août), Philippines 21, Laos 7 et Chine 4. L’infobox de Wikipédia va jusqu’à 1 009, avec jusqu’à 600 morts en Birmanie ; aucune source n’a été trouvée pour ce chiffre plus élevé.
+countries:
+  - { code: MM, deaths: 435 }
+  - { code: VN, deaths: 325 }
+  - { code: TH, deaths: 52 }
+  - { code: PH, deaths: 21 }
+  - { code: LA, deaths: 7 }
+  - { code: CN, deaths: 4 }
+sources:
+  - title: Typhoon Yagi
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Typhoon_Yagi
+    accessed: "2026-10-22"
+  - title: "Tổng hợp thiệt hại do thiên tai năm 2024 (summary of 2024 disaster damage)"
+    publisher: Viet Nam Disaster and Dyke Management Authority (Internet Archive copy)
+    url: https://web.archive.org/web/20250801064645/https://phongchongthientai.mard.gov.vn/FileUpload/2025-07/z6-0KciEkkqLHmONN%C4%83m%202024.pdf
+    accessed: "2026-10-22"
+  - title: Floods claim 433 lives, 79 missing and devastate 780,000 acres of paddy fields
+    publisher: Eleven Myanmar
+    url: https://elevenmyanmar.com/news/floods-claim-433-lives-79-missing-and-devastate-780000-acres-of-paddy-fields
+    accessed: "2026-10-22"
+  - title: ASEAN Weekly Disaster Update, Week 41 (7-13 October 2024)
+    publisher: AHA Centre (via ReliefWeb)
+    url: https://reliefweb.int/report/philippines/asean-weekly-disaster-update-week-41-7-13-october-2024
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,33 @@
+id: cabo-delgado-insurgency
+title:
+  en: Insurgency in Cabo Delgado
+  fr: Insurrection au Cabo Delgado
+description:
+  en: >-
+    Islamist insurgency in Cabo Delgado province, northern Mozambique, which began with an attack on Mocímboa da Praia in October 2017. The militants, known locally as al-Shabaab and later claimed by the Islamic State, have mainly targeted civilians, with beheadings, abductions and the burning of villages, and briefly seized towns such as Palma in 2021. Rwandan and southern African troops deployed in 2021 to support Mozambique's forces, but attacks continue and have spread to neighbouring provinces, displacing hundreds of thousands of people.
+  fr: >-
+    Insurrection islamiste dans la province du Cabo Delgado, dans le nord du Mozambique, commencée par une attaque contre Mocímboa da Praia en octobre 2017. Les insurgés, appelés localement al-Shabaab puis revendiqués par l’État islamique, s’en prennent surtout aux civils, avec décapitations, enlèvements et villages incendiés, et s’emparent brièvement de villes comme Palma en 2021. Des troupes rwandaises et d’Afrique australe sont déployées en 2021 en appui à l’armée mozambicaine, mais les attaques continuent et gagnent les provinces voisines, déplaçant des centaines de milliers de personnes.
+categories: [war]
+kind: event
+start: "2017-10-05"
+ongoing: true
+asOf: "2026-05-03"
+deaths:
+  best: 6570
+  note:
+    en: >-
+      Best is ACLED's count of reported fatalities from political violence in Cabo Delgado province from 1 October 2017 to 3 May 2026, including 2,759 civilians (ACLED Mozambique Conflict Monitor). It covers insurgents, security forces and civilians, but only deaths reported in the media and by local sources, in an area with little access; deaths in Niassa and Nampula provinces and indirect deaths from displacement and disease are not included.
+    fr: >-
+      L’estimation centrale est le décompte d’ACLED des morts signalées dues à la violence politique dans la province du Cabo Delgado du 1er octobre 2017 au 3 mai 2026, dont 2 759 civils (ACLED Mozambique Conflict Monitor). Il inclut insurgés, forces de sécurité et civils, mais seulement les morts rapportées par les médias et les sources locales, dans une zone peu accessible ; les morts dans les provinces de Niassa et de Nampula et les morts indirectes liées aux déplacements et aux maladies ne sont pas comptées.
+countries:
+  - { code: MZ, deaths: 6570 }
+sources:
+  - title: Insurgency in Cabo Delgado
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Insurgency_in_Cabo_Delgado
+    accessed: "2026-10-22"
+  - title: "Mozambique Conflict Monitor Update: 20 May 2026"
+    publisher: ACLED
+    url: https://acleddata.com/update/mozambique-conflict-monitor-update-20-may-2026
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,45 @@
+id: warsaw-uprising
+title:
+  en: Warsaw Uprising
+  fr: Insurrection de Varsovie
+description:
+  en: >-
+    Uprising of the Polish Home Army against the German occupation of Warsaw, launched on 1 August 1944 as the Red Army approached the city. The insurgents held parts of the city for 63 days with little outside help: Soviet forces on the outskirts did not intervene and Allied airdrops were limited. German SS and police units, including the Dirlewanger and Kamiński brigades, massacred civilians, notably in Wola. After the Home Army capitulated on 2 October, the remaining population was expelled and the city was systematically razed.
+  fr: >-
+    Insurrection de l’Armée de l’intérieur polonaise contre l’occupant allemand à Varsovie, lancée le 1er août 1944 à l’approche de l’Armée rouge. Les insurgés tiennent des quartiers de la ville pendant 63 jours avec peu d’aide extérieure : les forces soviétiques aux portes de la ville n’interviennent pas et les largages alliés restent limités. Des unités SS et de police allemandes, dont les brigades Dirlewanger et Kamiński, massacrent des civils, notamment à Wola. Après la capitulation du 2 octobre, la population restante est expulsée et la ville est méthodiquement rasée.
+categories: [war]
+kind: event
+partOf: second-world-war
+start: "1944-08-01"
+end: "1944-10-02"
+deaths:
+  best: 180000
+  low: 150000
+  high: 250000
+  note:
+    en: Polish insurgents and civilians killed during the uprising, mostly civilians killed in mass executions, bombardment and fighting; German losses, estimated at 2,000 to 17,000 killed and missing, are not included. Best is historian Czesław Łuczak's total of over 180,000 Polish dead, including about 15,000 insurgents, quoted in the Institute of National Remembrance study by Materski and Szarota (2009) as cited by Wikipedia. Low is the "at least 150,000 combatants and civilians" killed by the Nazis according to the Arolsen Archives. High is the highest estimate of civilian deaths alone, about 250,000 (Lenard and Wywiał). Most sources give 150,000 to 200,000 civilian dead and about 15,200 to 18,000 insurgents killed or missing.
+    fr: Insurgés et civils polonais tués pendant l’insurrection, surtout des civils victimes d’exécutions de masse, de bombardements et des combats ; les pertes allemandes, estimées entre 2 000 et 17 000 tués et disparus, ne sont pas comptées. L’estimation centrale est le total de plus de 180 000 morts polonais, dont environ 15 000 insurgés, établi par l’historien Czesław Łuczak et cité dans l’étude de l’Institut de la mémoire nationale de Materski et Szarota (2009), reprise par Wikipédia. Le bas de la fourchette est le chiffre d’« au moins 150 000 combattants et civils » tués par les nazis selon les Arolsen Archives. Le haut est l’estimation la plus élevée des seules morts civiles, environ 250 000 (Lenard et Wywiał). La plupart des sources donnent 150 000 à 200 000 civils tués et environ 15 200 à 18 000 insurgés tués ou disparus.
+countries:
+  - { code: PL, deaths: 180000 }
+sources:
+  - title: Warsaw Uprising
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Warsaw_Uprising
+    accessed: "2026-10-22"
+  - title: World War II casualties of Poland
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/World_War_II_casualties_of_Poland
+    accessed: "2026-10-22"
+  - title: "80th anniversary of the Warsaw Uprising: New campaign to return personal effects to families in Poland"
+    publisher: Arolsen Archives
+    url: https://arolsen-archives.org/en/news/80th-anniversary-of-the-warsaw-uprising-new-campaign-to-return-personal-effects-to-families-in-poland/
+    accessed: "2026-10-22"
+  - title: The Warsaw Uprising, 1 August 1944
+    publisher: European Network Remembrance and Solidarity
+    url: https://enrs.eu/article/the-warsaw-uprising-1-august-1944
+    accessed: "2026-10-22"
+  - title: Warsaw Uprising 1944
+    publisher: Government of Poland (Embassy in Germany)
+    url: https://www.gov.pl/web/niemcy/warsaw-uprising-1944
+    accessed: "2026-10-22"
+reviewed: false

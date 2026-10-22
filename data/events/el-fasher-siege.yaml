@@ -1,0 +1,47 @@
+id: el-fasher-siege
+title:
+  en: Siege of El Fasher
+  fr: Siège d’El Fasher
+description:
+  en: >-
+    Siege of El Fasher, capital of North Darfur and the army's last stronghold in Darfur, by the Rapid Support Forces (RSF) during Sudan's civil war. For about 18 months the RSF encircled the city and nearby displacement camps, cutting off food and aid while shelling them, and a famine was declared. The RSF captured the city on 26 October 2025, followed by mass killings of civilians. A UN fact-finding mission concluded in 2026 that the RSF committed genocide there.
+  fr: >-
+    Siège d’El Fasher, capitale du Darfour-Nord et dernier bastion de l’armée au Darfour, par les Forces de soutien rapide (FSR) pendant la guerre civile soudanaise. Pendant environ 18 mois, les FSR encerclent la ville et les camps de déplacés voisins, coupent l’accès à la nourriture et à l’aide et les bombardent ; la famine y est déclarée. Les FSR prennent la ville le 26 octobre 2025, avant des massacres de civils. Une mission d’établissement des faits de l’ONU conclut en 2026 que les FSR y ont commis un génocide.
+categories: [war, genocide]
+kind: event
+partOf: sudanese-civil-war-2023
+start: "2024-04-13"
+end: "2025-11-04"
+deaths:
+  best: 6000
+  high: 60000
+  note:
+    en: >-
+      The toll is unknown: the city was sealed off and investigators could not enter. Best is the number of killings documented by the UN human rights office in the first three days of the RSF takeover alone (more than 6,000, from 26 October 2025), which it says is undoubtedly far below the real toll of the offensive (UN News). High is the low estimate of at least 60,000 killed in the weeks after the capture, given by an academic in a briefing to British MPs (The Guardian); other estimates cited by Wikipedia range from 27,000 killed in the first three days (Darfur governor Minni Minnawi) to 100,000. Deaths from shelling, hunger and disease during the 18-month siege, and the earlier attacks on the Zamzam and Abu Shouk camps, are not counted in best. These deaths are part of the toll of the Sudanese civil war.
+    fr: >-
+      Le bilan est inconnu : la ville a été bouclée et les enquêteurs n’ont pas pu y entrer. L’estimation centrale est le nombre de meurtres documentés par le Haut-Commissariat des Nations unies aux droits de l’homme pendant les trois premiers jours de la prise de la ville par les FSR (plus de 6 000, à partir du 26 octobre 2025), un chiffre selon lui sans aucun doute très inférieur au bilan réel de l’offensive (ONU Info). Le haut est l’estimation basse d’au moins 60 000 morts dans les semaines suivant la prise de la ville, donnée par un universitaire lors d’une réunion d’information de députés britanniques (The Guardian) ; d’autres estimations citées par Wikipédia vont de 27 000 morts en trois jours (le gouverneur du Darfour Minni Minnawi) à 100 000. Les morts dues aux bombardements, à la faim et aux maladies pendant les 18 mois de siège, ainsi que les attaques antérieures contre les camps de Zamzam et d’Abou Chouk, ne sont pas comptées. Ces morts font partie du bilan de la guerre civile soudanaise.
+countries:
+  - { code: SD, deaths: 6000 }
+related: [darfur-genocide]
+sources:
+  - title: Siege of El Fasher
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Siege_of_El_Fasher
+    accessed: "2026-10-22"
+  - title: El Fasher massacre
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/El_Fasher_massacre
+    accessed: "2026-10-22"
+  - title: "'Like a scene out of a horror movie': UN report warns of war crimes in Sudan's El Fasher"
+    publisher: UN News
+    url: https://news.un.org/en/story/2026/02/1166960
+    accessed: "2026-10-22"
+  - title: "RSF massacres left Sudanese city 'a slaughterhouse', satellite images show"
+    publisher: The Guardian
+    url: https://www.theguardian.com/global-development/2025/dec/05/rsf-massacres-sudanese-city-el-fasher-slaughterhouse-satellite-images
+    accessed: "2026-10-22"
+  - title: UN Concludes RSF Committed Genocide in El-Fasher; Yale Lab Provided Key Evidence
+    publisher: Yale School of Public Health
+    url: https://ysph.yale.edu/news-article/un-concludes-rsf-conducted-genocide-in-el-fasher-yale-lab-provided-key-evidence/
+    accessed: "2026-10-22"
+reviewed: false

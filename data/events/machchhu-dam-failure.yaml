@@ -1,0 +1,34 @@
+id: machchhu-dam-failure
+title:
+  en: 1979 Machchhu dam failure
+  fr: Rupture du barrage de Machchhu
+description:
+  en: >-
+    After days of extraordinary monsoon rain, the Machchhu II dam on the Machchhu River in Gujarat, India, was overtopped and failed on the afternoon of 11 August 1979, as the flood reached about three times its spillway capacity. A wall of water swept through the town of Morbi (then Morvi) and nearby villages. A radio warning had been broadcast around noon, but communication from the dam failed and many residents, used to monsoon floods, did not reach high enough ground. Mass graves were burned to prevent disease before the dead could be counted.
+  fr: >-
+    Après des jours de pluies de mousson exceptionnelles, le barrage Machchhu II, sur la rivière Machchhu, au Gujarat (Inde), est submergé et cède l’après-midi du 11 août 1979, sous une crue trois fois supérieure à la capacité de son évacuateur. Une vague déferle sur la ville de Morbi (alors Morvi) et les villages voisins. Une alerte avait été diffusée à la radio vers midi, mais les communications depuis le barrage ont été coupées et beaucoup d’habitants, habitués aux crues, ne se sont pas mis assez en hauteur. Des fosses communes ont été brûlées pour éviter les épidémies avant tout décompte.
+categories: [accident, natural-disaster]
+kind: event
+start: "1979-08-11"
+deaths:
+  best: 1800
+  high: 25000
+  note:
+    en: The toll is unknown. Wikipedia, the Times of India and the Association of State Dam Safety Officials all give estimates ranging from 1,800 to 25,000, and none gives a central figure, so best is the low end of that range. Counting was impossible because mass graves were burned to prevent the spread of disease before the dead were identified.
+    fr: Le bilan est inconnu. Wikipédia, le Times of India et l’Association of State Dam Safety Officials donnent tous des estimations allant de 1 800 à 25 000 morts, sans chiffre central ; l’estimation centrale retenue est donc le bas de cette fourchette. Tout décompte a été impossible, car des fosses communes ont été brûlées pour éviter les épidémies avant l’identification des morts.
+countries:
+  - { code: IN, deaths: 1800 }
+sources:
+  - title: 1979 Machchhu dam failure
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1979_Machchhu_dam_failure
+    accessed: "2026-10-22"
+  - title: "Machchhu river: Dam burst in 1979, now bridge collapse"
+    publisher: The Times of India
+    url: https://timesofindia.indiatimes.com/india/machchhu-river-dam-burst-in-1979-now-bridge-collapse/articleshow/95209406.cms
+    accessed: "2026-10-22"
+  - title: Machhu Dam II (Gujarat, India, 1979)
+    publisher: Association of State Dam Safety Officials (damfailures.org)
+    url: https://damfailures.org/case-study/machhu-dam-ii-gujarat-india-1979
+    accessed: "2026-10-22"
+reviewed: false

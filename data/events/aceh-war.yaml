@@ -1,0 +1,34 @@
+id: aceh-war
+title:
+  en: Aceh War
+  fr: Guerre d’Aceh
+description:
+  en: >-
+    Long colonial war in which the Netherlands conquered the Sultanate of Aceh in northern Sumatra. After an initial Dutch expedition in 1873 failed, a second captured the capital, but Acehnese resistance, led by nobles and Islamic scholars, turned into a protracted guerrilla war. The Dutch eventually prevailed around 1904 with mobile counter-insurgency units, and scattered resistance continued for years. Cholera and other diseases killed many soldiers and labourers, and the destruction of villages drove thousands of Acehnese into exile.
+  fr: >-
+    Longue guerre coloniale par laquelle les Pays-Bas conquièrent le sultanat d’Aceh, au nord de Sumatra. Après l’échec d’une première expédition néerlandaise en 1873, une seconde s’empare de la capitale, mais la résistance acehnaise, menée par des nobles et des oulémas, se mue en une longue guérilla. Les Néerlandais l’emportent vers 1904 grâce à des unités mobiles de contre-insurrection, et une résistance dispersée se poursuit pendant des années. Le choléra et d’autres maladies tuent de nombreux soldats et travailleurs, et la destruction des villages pousse des milliers d’Acehnais à l’exil.
+categories: [war]
+kind: event
+start: "1873"
+end: "1904"
+deaths:
+  best: 70000
+  note:
+    en: "Military and civilian deaths. Best: 70,000, the overall estimate of Matthew White (Necrometrics) for 1873-1914, the only total found. Figures for each side suggest a higher toll: Adrian Vickers (via Wikipedia) estimates that 50,000 to 60,000 Acehnese died from violence and disease, about 2,000 European and allied indigenous soldiers were killed in combat and more than 35,000 soldiers and labourers died of disease. The Correlates of War project counts only battle deaths for two phases (1873-1878 and 1904-1907). No range is given because no other total was found."
+    fr: "Morts militaires et civiles. Estimation centrale : 70 000, estimation globale de Matthew White (Necrometrics) pour 1873-1914, seul total trouvé. Les chiffres par camp suggèrent un bilan plus lourd : Adrian Vickers (via Wikipédia) estime que 50 000 à 60 000 Acehnais sont morts de violences et de maladies, qu’environ 2 000 soldats européens et indigènes alliés ont été tués au combat et que plus de 35 000 soldats et travailleurs sont morts de maladie. Le projet Correlates of War ne compte que les morts au combat de deux phases (1873-1878 et 1904-1907). Aucune fourchette n’est donnée faute d’autre total."
+countries:
+  - { code: ID, deaths: 70000 }
+sources:
+  - title: Aceh War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Aceh_War
+    accessed: "2026-10-22"
+  - title: Twentieth Century Atlas - Death Tolls (30,000 to 100,000)
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c30k.htm
+    accessed: "2026-10-22"
+  - title: Extra-State War Data, v4.0 (wars 370 and 424, Dutch-Achinese)
+    publisher: Correlates of War Project
+    url: https://correlatesofwar.org/wp-content/uploads/Extra-StateWarData_v4.0.csv
+    accessed: "2026-10-22"
+reviewed: false

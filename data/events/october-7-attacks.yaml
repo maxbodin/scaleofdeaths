@@ -1,0 +1,39 @@
+id: october-7-attacks
+title:
+  en: October 7 attacks
+  fr: Attaques du 7 octobre
+description:
+  en: >-
+    On 7 October 2023, militants led by Hamas broke through the border fence from the Gaza Strip and attacked army posts, kibbutzim, towns and the Nova music festival in southern Israel, under cover of thousands of rockets. Most of those killed were civilians, including 364 people at the festival, and 251 people were taken hostage to Gaza. It took Israeli forces several days to regain control of the area. The attack triggered the Gaza war.
+  fr: >-
+    Le 7 octobre 2023, des combattants menés par le Hamas franchissent la clôture frontalière de la bande de Gaza et attaquent des postes militaires, des kibboutz, des villes et le festival de musique Nova dans le sud d’Israël, sous le couvert de milliers de roquettes. La plupart des personnes tuées sont des civils, dont 364 au festival, et 251 personnes sont emmenées en otage à Gaza. L’armée israélienne met plusieurs jours à reprendre le contrôle de la zone. L’attaque déclenche la guerre de Gaza.
+categories: [war]
+kind: event
+partOf: gaza-war
+start: "2023-10-07"
+end: "2023-10-08"
+deaths:
+  best: 1195
+  low: 1139
+  high: 1200
+  note:
+    en: >-
+      People killed in Israel during the attack, Israeli civilians, foreign nationals and members of the security forces. Best is the figure of 1,195 killed, including at least 828 civilians (Wikipedia). Low is the AFP tally of December 2023 based on Israeli social security data, 1,139 (695 Israeli civilians, 373 members of the security forces and 71 foreigners), published while some people were still listed as missing. High is the figure of about 1,200 given by Israel's foreign ministry and used by AP. About 1,200 attackers killed by Israeli forces, according to Israel, are not included.
+    fr: >-
+      Personnes tuées en Israël pendant l’attaque, civils israéliens, ressortissants étrangers et membres des forces de sécurité. L’estimation centrale est le chiffre de 1 195 morts, dont au moins 828 civils (Wikipédia). Le bas est le décompte de l’AFP de décembre 2023 fondé sur les données de la sécurité sociale israélienne, 1 139 morts (695 civils israéliens, 373 membres des forces de sécurité et 71 étrangers), publié alors que certaines personnes étaient encore portées disparues. Le haut est le chiffre d’environ 1 200 morts avancé par le ministère israélien des Affaires étrangères et repris par AP. Les quelque 1 200 assaillants tués par les forces israéliennes, selon Israël, ne sont pas comptés.
+countries:
+  - { code: IL, deaths: 1195 }
+sources:
+  - title: October 7 attacks
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/October_7_attacks
+    accessed: "2026-10-22"
+  - title: Israel social security data reveals true picture of Oct 7 deaths
+    publisher: France 24 (AFP)
+    url: https://www.france24.com/en/live-news/20231215-israel-social-security-data-reveals-true-picture-of-oct-7-deaths
+    accessed: "2026-10-22"
+  - title: Palestinian death toll in Gaza war passes 74,000, and other Mideast news
+    publisher: Associated Press
+    url: https://apnews.com/article/israel-gaza-iran-israel-yemen-september-27-2026-96b100178557a28f51e2ad4f74539699
+    accessed: "2026-10-22"
+reviewed: false

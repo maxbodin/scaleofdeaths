@@ -1,0 +1,35 @@
+id: soviet-afghan-war
+title:
+  en: Soviet-Afghan War
+  fr: Guerre d’Afghanistan (1979-1989)
+description:
+  en: >-
+    War that began when the Soviet Union sent troops into Afghanistan in December 1979 to support the communist-led government against an insurgency of mujahideen groups, backed mainly by Pakistan, the United States, the United Kingdom, China, Iran and the Arab states of the Persian Gulf. The mujahideen fought a guerrilla war in the countryside; Soviet forces laid millions of landmines and used air power to level villages and destroy infrastructure. About 5 million Afghans fled abroad, mostly to Pakistan and Iran. The last Soviet troops left on 15 February 1989; the civil war continued.
+  fr: >-
+    Guerre déclenchée par l’envoi de troupes soviétiques en Afghanistan en décembre 1979 pour soutenir le gouvernement communiste face aux moudjahidines, soutenus surtout par le Pakistan, les États-Unis, le Royaume-Uni, la Chine, l’Iran et les monarchies du golfe Persique. Les moudjahidines mènent une guérilla dans les campagnes ; les forces soviétiques posent des millions de mines et rasent des villages par des frappes aériennes. Environ 5 millions d’Afghans fuient, surtout au Pakistan et en Iran. Les dernières troupes soviétiques partent le 15 février 1989 ; la guerre civile continue.
+categories: [war]
+kind: event
+start: "1979-12-25"
+end: "1989-02-15"
+deaths:
+  best: 1500000
+  low: 1000000
+  high: 3000000
+  note:
+    en: Military and civilian deaths, almost all Afghan. Best is Matthew White's median of estimates for the Soviet phase (Necrometrics), also one of the civilian estimates listed on Wikipedia. The range is the one to three million Afghan deaths given by Wikipedia (Joes, 2010, for the high end); SIPRI gave 1 million deaths in 1990. Estimates of Afghan civilian deaths alone range from 562,000 to 2 million; Wikipedia also lists 58,000 Afghan government soldiers and 75,000 to 90,000 mujahideen killed. Per-country figures use the low end of the ranges on Wikipedia (Afghan civilians 562,000; Soviet military 14,453 to 26,000) and 5,775 Pakistani deaths.
+    fr: Morts militaires et civiles, presque toutes afghanes. L’estimation centrale est la médiane des estimations pour la période soviétique établie par Matthew White (Necrometrics), qui figure aussi parmi les estimations de morts civiles citées par Wikipédia. La fourchette correspond aux un à trois millions de morts afghanes indiqués par Wikipédia (Joes, 2010, pour le haut) ; le SIPRI donnait 1 million de morts en 1990. Les estimations des seules morts civiles afghanes vont de 562 000 à 2 millions ; Wikipédia indique aussi 58 000 soldats gouvernementaux afghans et 75 000 à 90 000 moudjahidines tués. Les chiffres par pays reprennent le bas des fourchettes de Wikipédia (civils afghans 562 000 ; militaires soviétiques 14 453 à 26 000) et 5 775 morts pakistanais.
+countries:
+  - { code: AF, deaths: 562000 }
+  - { code: SU, name: { en: Soviet Union, fr: Union soviétique }, deaths: 14453 }
+  - { code: PK, deaths: 5775 }
+related: [war-in-afghanistan-2001]
+sources:
+  - title: Soviet-Afghan War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Soviet%E2%80%93Afghan_War
+    accessed: "2026-10-22"
+  - title: "Death Tolls for the Major Wars and Atrocities of the Twentieth Century: Afghanistan (1979-2001)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c1m.htm
+    accessed: "2026-10-22"
+reviewed: false

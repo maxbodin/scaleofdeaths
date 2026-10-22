@@ -1,0 +1,38 @@
+id: somali-civil-war
+title:
+  en: Somali Civil War
+  fr: Guerre civile somalienne
+description:
+  en: >-
+    Conflict that followed the overthrow of Siad Barre's government in January 1991, when clan-based factions fought for power and the central state collapsed. Fighting, looting and the disruption of food supplies caused the 1991-1992 famine, which prompted UN and US-led interventions. Later phases include the Ethiopian intervention of 2006 and the insurgency of al-Shabaab against the federal government and African Union forces, while drought and conflict caused another famine in 2011.
+  fr: >-
+    Conflit né du renversement du régime de Siad Barre en janvier 1991 : des factions claniques se disputent le pouvoir et l’État central s’effondre. Combats, pillages et désorganisation de l’approvisionnement provoquent la famine de 1991-1992, qui entraîne des interventions de l’ONU et d’une coalition menée par les États-Unis. Suivent l’intervention éthiopienne de 2006, l’insurrection des Chabab contre le gouvernement fédéral et les forces de l’Union africaine, puis une nouvelle famine en 2011, due à la sécheresse et au conflit.
+categories: [war]
+kind: event
+start: "1991"
+ongoing: true
+asOf: "2012-02-22"
+deaths:
+  best: 500000
+  low: 350000
+  high: 1000000
+  note:
+    en: Deaths from fighting, famine and disease since 1991. The war is ongoing, but no reliable cumulative estimate has been published since 2012, so later deaths are not included. Best is the median of the published estimates compiled by Necrometrics (Matthew White), which range from 350,000 (Washington Post 1993, Ploughshares 2000) to one million; a large share of the deaths came from the 1991-1992 famine (Encarta, cited by Necrometrics, gives 50,000 killed in fighting and 300,000 dead of starvation in the first 23 months). High is the one million deaths cited in 2012 by the British ambassador to Somalia. Wikipedia gives 350,000 to over 1,000,000 deaths for 1991-2022.
+    fr: Morts des combats, de la famine et des maladies depuis 1991. La guerre se poursuit, mais aucune estimation cumulée fiable n’a été publiée depuis 2012 ; les morts postérieures ne sont donc pas comptées. L’estimation centrale est la médiane des estimations publiées compilées par Necrometrics (Matthew White), qui vont de 350 000 (Washington Post 1993, Ploughshares 2000) à un million ; une grande partie des morts est due à la famine de 1991-1992 (l’encyclopédie Encarta, citée par Necrometrics, compte 50 000 tués au combat et 300 000 morts de faim au cours des 23 premiers mois). Le haut correspond au million de morts évoqué en 2012 par l’ambassadeur britannique en Somalie. Wikipédia donne de 350 000 à plus d’un million de morts pour 1991-2022.
+countries:
+  - { code: SO, deaths: 500000 }
+related: [somalia-famine-1992, somalia-famine-2011]
+sources:
+  - title: Somali Civil War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Somali_Civil_War
+    accessed: "2026-10-22"
+  - title: "Secondary Wars and Atrocities of the Twentieth Century: Somalia (1991 et seq.)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c300k.htm
+    accessed: "2026-10-22"
+  - title: Why a stable Somalia is in our interests
+    publisher: UK Government (GOV.UK)
+    url: https://www.gov.uk/government/news/why-a-stable-somalia-is-in-our-interests
+    accessed: "2026-10-22"
+reviewed: false

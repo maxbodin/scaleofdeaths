@@ -1,0 +1,39 @@
+id: sook-ching-massacre
+title:
+  en: Sook Ching massacre
+  fr: Massacre de Sook Ching
+description:
+  en: >-
+    Systematic purge of supposed anti-Japanese elements among the ethnic Chinese of Singapore by the Japanese army, overseen by its military police, the Kempeitai, from 18 February to 4 March 1942, just after the fall of Singapore. Chinese men were rounded up at screening centres, where those picked out, often arbitrarily, were taken to remote places such as beaches and shot. The operation was later extended to Malaya. Remains found in mass graves from the 1960s onwards were reburied under the Civilian War Memorial in Singapore.
+  fr: >-
+    Purge systématique des éléments jugés anti-japonais parmi les Chinois de Singapour, menée par l’armée japonaise sous la supervision de sa police militaire, la Kempeitai, du 18 février au 4 mars 1942, juste après la chute de Singapour. Les hommes chinois sont rassemblés dans des centres de tri, où ceux qui sont désignés, souvent arbitrairement, sont emmenés dans des lieux isolés comme des plages et fusillés. L’opération est ensuite étendue à la Malaisie. Les restes exhumés des fosses communes reposent sous le Mémorial de guerre civil de Singapour.
+categories: [genocide]
+kind: event
+partOf: second-world-war
+start: "1942-02-18"
+end: "1942-03-04"
+deaths:
+  best: 25000
+  low: 5000
+  high: 50000
+  note:
+    en: >-
+      People killed in Singapore, mostly Chinese men. The number is not known. Best is the lower end of the estimated 25,000 to 50,000 victims given by Singapore's National Heritage Board (Roots); high is its upper end, also the "possibly up to 50,000" cited by the National Library Board (BiblioAsia). Low is the official Japanese figure of 5,000, which BiblioAsia says is believed to be 8 to 10 times too low. Killings in Malaya during the extension of the operation are not counted.
+    fr: >-
+      Personnes tuées à Singapour, surtout des hommes chinois. Le nombre exact n’est pas connu. L’estimation centrale est le bas de la fourchette de 25 000 à 50 000 victimes donnée par le National Heritage Board de Singapour (Roots) ; le haut en est la borne supérieure, qui correspond aussi aux « peut-être jusqu’à 50 000 » morts cités par la Bibliothèque nationale (BiblioAsia). Le bas est le chiffre officiel japonais de 5 000 morts, que BiblioAsia juge 8 à 10 fois trop faible. Les tueries en Malaisie ne sont pas comptées.
+countries:
+  - { code: SG, deaths: 25000 }
+sources:
+  - title: Sook Ching
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Sook_Ching
+    accessed: "2026-10-22"
+  - title: Jalan Puay Poon (Bedok heritage trail)
+    publisher: Roots (National Heritage Board, Singapore)
+    url: https://www.roots.gov.sg/places/places-landing/Places/landmarks/bedok-trail/jalan-puay-poon
+    accessed: "2026-10-22"
+  - title: The Sook Ching
+    publisher: BiblioAsia (National Library Board, Singapore)
+    url: https://biblioasia.nlb.gov.sg/all-sections/vol-12-issue-4-jan-mar-2017-the-sook-ching/
+    accessed: "2026-10-22"
+reviewed: false

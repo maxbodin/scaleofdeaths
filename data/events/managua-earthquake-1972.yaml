@@ -1,0 +1,35 @@
+id: managua-earthquake-1972
+title:
+  en: 1972 Nicaragua earthquake (Managua)
+  fr: Séisme de 1972 au Nicaragua (Managua)
+description:
+  en: >-
+    At 00:29 on 23 December 1972 a shallow magnitude 6.3 earthquake struck about 28 km from the centre of Managua, the capital of Nicaragua, destroying most of the city. Fires burned in some areas for several days because the firefighting equipment had been destroyed, and two-thirds of the city's residents were displaced. The government of Anastasio Somoza Debayle was accused of diverting foreign aid, which fuelled the opposition that later led to the Nicaraguan Revolution.
+  fr: >-
+    Le 23 décembre 1972 à 0 h 29, un séisme superficiel de magnitude 6,3 s’est produit à environ 28 km du centre de Managua, capitale du Nicaragua, détruisant la plus grande partie de la ville. Des incendies ont brûlé pendant plusieurs jours dans certains quartiers, le matériel de lutte contre le feu ayant été détruit, et les deux tiers des habitants ont été déplacés. Le gouvernement d’Anastasio Somoza Debayle a été accusé de détourner l’aide étrangère, ce qui a nourri l’opposition qui a mené à la révolution nicaraguayenne.
+categories: [natural-disaster]
+kind: event
+start: "1972-12-23"
+deaths:
+  best: 10000
+  low: 4000
+  high: 11000
+  note:
+    en: Estimates range from 4,000 to 11,000 (Wikipedia). Best is the figure retained by NOAA NCEI from the EM-DAT database and another catalogue; early USGS estimates gave 4,000 to 6,000, and the USGS list of deadly earthquakes uses 5,000.
+    fr: Les estimations vont de 4 000 à 11 000 (Wikipédia). L’estimation centrale est le chiffre retenu par la NCEI de la NOAA d’après la base EM-DAT et un autre catalogue ; les premières estimations de l’USGS donnaient de 4 000 à 6 000, et la liste des séismes meurtriers de l’USGS retient 5 000.
+countries:
+  - { code: NI, deaths: 10000 }
+sources:
+  - title: 1972 Nicaragua earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1972_Nicaragua_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Managua, event 4619"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/4619
+    accessed: "2026-10-22"
+  - title: Earthquakes with 1,000 or More Deaths 1900-2014 (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20170118110610/http://earthquake.usgs.gov/earthquakes/world/world_deaths.php
+    accessed: "2026-10-22"
+reviewed: false

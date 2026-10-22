@@ -1,0 +1,32 @@
+id: battle-of-aleppo-2012
+title:
+  en: Battle of Aleppo (2012-2016)
+  fr: Bataille d’Alep (2012-2016)
+description:
+  en: >-
+    Four-year battle for Aleppo, Syria's largest city, between the government and allied forces and rebel groups who seized its eastern districts in July 2012. The divided city suffered heavy aerial bombardment, including barrel bombs on the rebel-held east, and shelling of the government-held west, and much of the old city, a World Heritage site, was destroyed. A government offensive backed by Russian air power besieged and retook eastern Aleppo in late 2016, followed by the evacuation of tens of thousands of people.
+  fr: >-
+    Bataille de quatre ans pour Alep, la plus grande ville de Syrie, entre les forces gouvernementales et leurs alliés et des groupes rebelles qui s’emparent de ses quartiers est en juillet 2012. La ville divisée subit d’intenses bombardements aériens, dont des barils d’explosifs sur l’est rebelle, et des tirs d’artillerie sur l’ouest gouvernemental, et une grande partie de la vieille ville, inscrite au patrimoine mondial, est détruite. Une offensive gouvernementale appuyée par l’aviation russe assiège et reprend Alep-Est fin 2016, suivie de l’évacuation de dizaines de milliers de personnes.
+categories: [war]
+kind: event
+start: "2012-07-19"
+end: "2016-12-22"
+deaths:
+  best: 31273
+  low: 25000
+  note:
+    en: "Civilians and fighters killed. Best: 31,273 people killed in Aleppo province between 19 July 2012 and 15 December 2016, including 21,452 civilians, documented by the Violations Documentation Center in Syria (via Wikipedia); the province figure may include some deaths outside the city. Low: 25,000, the low end of the 25,000 to 30,000 civilian deaths in the city estimated by Francesco Bandarin (Getty Publications), who adds 10,000 to 15,000 casualties among combatants. A pro-government radio station reported 10,760 civilians killed by rebel fire on western Aleppo."
+    fr: "Civils et combattants tués. Estimation centrale : 31 273 personnes tuées dans la province d’Alep entre le 19 juillet 2012 et le 15 décembre 2016, dont 21 452 civils, documentées par le Violations Documentation Center in Syria (via Wikipédia) ; le chiffre provincial peut inclure des morts hors de la ville. Bas : 25 000, bas de l’estimation de 25 000 à 30 000 civils tués dans la ville de Francesco Bandarin (Getty Publications), qui ajoute 10 000 à 15 000 pertes parmi les combattants. Une radio progouvernementale a fait état de 10 760 civils tués par les tirs rebelles sur Alep-Ouest."
+countries:
+  - { code: SY, deaths: 31273 }
+partOf: syrian-civil-war
+sources:
+  - title: Battle of Aleppo (2012-2016)
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Battle_of_Aleppo_(2012%E2%80%932016)
+    accessed: "2026-10-22"
+  - title: "The Destruction of Aleppo: The Impact of the Syrian War on a World Heritage City (Francesco Bandarin)"
+    publisher: Getty Publications (Cultural Heritage and Mass Atrocities)
+    url: https://www.getty.edu/publications/cultural-heritage-mass-atrocities/part-2/10-bandarin/
+    accessed: "2026-10-22"
+reviewed: false

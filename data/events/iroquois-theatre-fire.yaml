@@ -1,0 +1,33 @@
+id: iroquois-theatre-fire
+title:
+  en: Iroquois Theatre fire
+  fr: Incendie de l’Iroquois Theatre
+description:
+  en: >-
+    On the afternoon of 30 December 1903, during a holiday matinee of the musical Mr. Bluebeard, an arc lamp set fire to a curtain at the five-week-old Iroquois Theatre in Chicago, advertised as "absolutely fireproof". The safety curtain jammed, and when performers opened a stage door the draught sent a ball of flame into the auditorium. Many of the 1,700 spectators, largely women and children, were trapped by locked gates and exits hidden behind drapes. It remains the deadliest theatre fire in US history and led to new safety codes.
+  fr: >-
+    L’après-midi du 30 décembre 1903, pendant une matinée de fêtes de la comédie musicale Mr. Bluebeard, une lampe à arc enflamme un rideau de l’Iroquois Theatre de Chicago, ouvert cinq semaines plus tôt et présenté comme « absolument ignifugé ». Le rideau de sécurité se bloque et, quand des artistes ouvrent une porte de scène, l’appel d’air projette une boule de feu dans la salle. Beaucoup des 1 700 spectateurs, surtout des femmes et des enfants, sont piégés par des grilles verrouillées et des sorties cachées par des tentures. Le drame entraîne de nouvelles normes de sécurité.
+categories: [accident]
+kind: event
+start: "1903-12-30"
+deaths:
+  best: 602
+  note:
+    en: Toll given by Wikipedia and by WTTW, Chicago's public television station. According to Wikipedia, about 575 people died on the day of the fire and the rest of their injuries in the following weeks; almost all were audience members.
+    fr: Bilan donné par Wikipédia et par WTTW, la télévision publique de Chicago. Selon Wikipédia, environ 575 personnes sont mortes le jour de l’incendie et les autres de leurs blessures dans les semaines suivantes ; presque toutes étaient des spectateurs.
+countries:
+  - { code: US, deaths: 602 }
+sources:
+  - title: Iroquois Theatre fire
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Iroquois_Theatre_fire
+    accessed: "2026-10-22"
+  - title: The Tragedy of the Iroquois Theater Fire
+    publisher: WTTW
+    url: https://www.wttw.com/chicago-stories/downtown-disasters/the-tragedy-of-the-iroquois-theater-fire
+    accessed: "2026-10-22"
+  - title: The Iroquois Theater Disaster Killed Hundreds and Changed Fire Safety Forever
+    publisher: Smithsonian Magazine
+    url: https://www.smithsonianmag.com/history/how-theater-blaze-killed-hundreds-forever-changed-way-we-approach-fire-safety-180969315/
+    accessed: "2026-10-22"
+reviewed: false

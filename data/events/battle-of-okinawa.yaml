@@ -1,0 +1,40 @@
+id: battle-of-okinawa
+title:
+  en: Battle of Okinawa
+  fr: Bataille d’Okinawa
+description:
+  en: >-
+    Last major battle of the Pacific War, fought for 82 days after US Army and Marine forces landed on Okinawa on 1 April 1945 in the largest amphibious assault of the Pacific theatre. Japanese troops, including conscripted Okinawans, defended fortified caves and ridges to the end, while kamikaze attacks sank or damaged hundreds of Allied ships. Civilians caught in the fighting in the south of the island died from shelling, starvation and disease, and many were driven to mass suicide by Japanese soldiers and propaganda.
+  fr: >-
+    Dernière grande bataille de la guerre du Pacifique, livrée pendant 82 jours après le débarquement de l’armée et des Marines américains à Okinawa le 1er avril 1945, le plus grand assaut amphibie du Pacifique. Les troupes japonaises, dont des Okinawaïens mobilisés, défendent grottes et crêtes fortifiées jusqu’au bout, tandis que les attaques kamikazes coulent ou endommagent des centaines de navires alliés. Pris dans les combats au sud de l’île, les civils meurent sous les obus, de faim et de maladie, et beaucoup sont poussés au suicide collectif par les soldats et la propagande japonais.
+categories: [war]
+kind: event
+partOf: second-world-war
+start: "1945-04-01"
+end: "1945-06-22"
+deaths:
+  best: 200000
+  high: 240000
+  note:
+    en: Military and civilian deaths in the battle. Best is the "upward of 200,000" lives given by the Okinawa Prefectural Peace Memorial Museum, which says civilian deaths (more than 100,000) far outnumbered military deaths. High is the "more than 240,000" of the National WWII Museum, matching the names on the Cornerstone of Peace memorial (242,046 in 2023), a list that also includes Okinawans who died elsewhere in the war from 1931 and war-related deaths in the year before and after the battle. Components are about 12,500 US dead (12,520 killed or missing), about 94,000 to 110,000 Japanese soldiers including Okinawan conscripts, and Okinawan civilians, estimated at 40,000 to 150,000; local authorities count at least 149,425 Okinawans killed, driven to suicide or missing. No source gives a lower total.
+    fr: Morts militaires et civiles de la bataille. L’estimation centrale est le chiffre de « plus de 200 000 » vies du musée préfectoral de la Paix d’Okinawa, selon lequel les morts civiles (plus de 100 000) dépassent de loin les morts militaires. Le haut de la fourchette est le chiffre de « plus de 240 000 » du National WWII Museum, qui correspond aux noms gravés sur le mémorial de la Pierre angulaire de la paix (242 046 en 2023), une liste qui inclut aussi les Okinawaïens morts ailleurs pendant la guerre depuis 1931 et les morts liées à la guerre l’année précédant et l’année suivant la bataille. Le bilan comprend environ 12 500 morts américains (12 520 tués ou disparus), environ 94 000 à 110 000 soldats japonais dont des Okinawaïens mobilisés, et des civils okinawaïens, estimés entre 40 000 et 150 000 ; les autorités locales comptent au moins 149 425 Okinawaïens tués, poussés au suicide ou disparus. Aucune source ne donne de total plus bas.
+countries:
+  - { code: JP, deaths: 200000 }
+sources:
+  - title: Battle of Okinawa
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Battle_of_Okinawa
+    accessed: "2026-10-22"
+  - title: A Guide to the Museum
+    publisher: Okinawa Prefectural Peace Memorial Museum
+    url: https://www.peace-museum.okinawa.jp/english/
+    accessed: "2026-10-22"
+  - title: "Okinawa: The Costs of Victory in the Last Battle"
+    publisher: The National WWII Museum
+    url: https://www.nationalww2museum.org/war/articles/okinawa-costs-victory-last-battle
+    accessed: "2026-10-22"
+  - title: Okinawa
+    publisher: National Museum of the Pacific War
+    url: https://www.pacificwarmuseum.org/visit/exhibits/okinawa
+    accessed: "2026-10-22"
+reviewed: false

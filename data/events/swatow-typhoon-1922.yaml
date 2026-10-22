@@ -1,0 +1,34 @@
+id: swatow-typhoon-1922
+title:
+  en: 1922 Swatow typhoon
+  fr: Typhon de Swatow de 1922
+description:
+  en: >-
+    After crossing northern Luzon, a powerful typhoon made landfall on the coast of southern China near the port city of Swatow (now Shantou) late on 2 or early on 3 August 1922. A storm surge at least 3.7 metres above normal flooded the city and the surrounding low-lying coast, destroying nearby villages, wrecking ships and carrying some vessels up to 3 km inland, and heavy rain left the land waterlogged for days. It is one of the deadliest typhoons recorded in the north-western Pacific.
+  fr: >-
+    Après avoir traversé le nord de Luçon, un puissant typhon a touché la côte du sud de la Chine près du port de Swatow (aujourd’hui Shantou), dans la nuit du 2 au 3 août 1922. Une onde de tempête d’au moins 3,7 mètres au-dessus de la normale a inondé la ville et la côte basse environnante, détruisant des villages voisins, brisant des navires et en projetant certains jusqu’à 3 km à l’intérieur des terres, tandis que de fortes pluies laissaient les sols détrempés pendant des jours. C’est l’un des typhons les plus meurtriers du nord-ouest du Pacifique.
+categories: [natural-disaster]
+kind: event
+start: "1922-07-27"
+end: "1922-08-03"
+deaths:
+  best: 60000
+  low: 50000
+  high: 100000
+  note:
+    en: >-
+      About 5,000 of Swatow's roughly 65,000 inhabitants died, and the surrounding area suffered around 50,000 more casualties (Wikipedia, which does not distinguish deaths from other casualties here). Best is the 60,000 deaths given by NOAA in its list of the top weather events of the 20th century; Wikipedia gives a range of 50,000 to more than 100,000, the high figure coming from a contemporary estimate. Weak sourcing overall.
+    fr: >-
+      Environ 5 000 des quelque 65 000 habitants de Swatow sont morts, et les environs ont compté environ 50 000 autres victimes (Wikipédia, qui ne distingue pas ici morts et autres victimes). L’estimation centrale est le chiffre de 60 000 morts donné par la NOAA dans sa liste des principaux événements météorologiques du XXe siècle ; Wikipédia donne une fourchette de 50 000 à plus de 100 000, le chiffre haut provenant d’une estimation de l’époque. Sources globalement fragiles.
+countries:
+  - { code: CN, deaths: 60000 }
+sources:
+  - title: 1922 Shantou typhoon
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1922_Shantou_typhoon
+    accessed: "2026-10-22"
+  - title: NOAA's Top Global Weather, Water and Climate Events of the 20th Century
+    publisher: NOAA (Internet Archive copy)
+    url: https://web.archive.org/web/20070628180206id_/http://www.noaanews.noaa.gov/stories/images/global.pdf
+    accessed: "2026-10-22"
+reviewed: false

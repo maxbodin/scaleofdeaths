@@ -1,0 +1,35 @@
+id: sri-lankan-civil-war
+title:
+  en: Sri Lankan Civil War
+  fr: Guerre civile du Sri Lanka
+description:
+  en: >-
+    Armed conflict between the Sri Lankan government and the Liberation Tigers of Tamil Eelam (LTTE), who fought for an independent Tamil state in the north and east of the island. It ended in May 2009 with the military defeat of the LTTE. The final months of fighting in the Vanni region were the deadliest for civilians, and the UN has accused both sides of serious violations of international law. Hundreds of thousands of people were displaced and thousands disappeared.
+  fr: >-
+    Conflit armé entre le gouvernement srilankais et les Tigres de libération de l’Îlam tamoul (LTTE), qui réclamaient un État tamoul indépendant dans le nord et l’est de l’île. Il s’achève en mai 2009 par la défaite militaire des LTTE. Les derniers mois de combats dans la région du Vanni ont été les plus meurtriers pour les civils, et l’ONU accuse les deux camps de graves violations du droit international. Des centaines de milliers de personnes ont été déplacées et des milliers ont disparu.
+categories: [war]
+kind: event
+start: "1983-07-23"
+end: "2009-05-18"
+deaths:
+  best: 100000
+  low: 80000
+  note:
+    en: Military and civilian deaths on all sides, 1983-2009. Low and best are the UN estimate of 80,000 to 100,000 deaths released in May 2009 and repeated by UN News in 2025; Wikipedia also cites estimates of at least 100,000. The toll may be higher, as a UN panel of experts (2011) cited credible sources estimating up to 40,000 civilian deaths in the final phase of the war alone. Military deaths include about 28,700 Sri Lankan soldiers, about 27,000 LTTE fighters and 1,165 Indian peacekeepers (Wikipedia).
+    fr: Morts militaires et civiles de tous les camps, de 1983 à 2009. Le bas et l’estimation centrale correspondent à l’estimation de l’ONU de 80 000 à 100 000 morts, publiée en mai 2009 et reprise par ONU Info en 2025 ; Wikipédia cite aussi des estimations d’au moins 100 000 morts. Le bilan pourrait être plus élevé, un groupe d’experts de l’ONU (2011) citant des sources crédibles selon lesquelles jusqu’à 40 000 civils seraient morts pendant la seule phase finale. Les morts militaires comprennent environ 28 700 soldats srilankais, environ 27 000 combattants des LTTE et 1 165 soldats indiens de la force de maintien de la paix (Wikipédia).
+countries:
+  - { code: LK, deaths: 100000 }
+sources:
+  - title: Sri Lankan civil war
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Sri_Lankan_civil_war
+    accessed: "2026-10-22"
+  - title: "UN says Sri Lanka has 'historic opportunity' to end impunity, deliver justice"
+    publisher: UN News
+    url: https://news.un.org/en/story/2025/08/1165647
+    accessed: "2026-10-22"
+  - title: "Up to 100,000 killed in Sri Lanka's civil war: UN"
+    publisher: ABC News (Australia)
+    url: https://www.abc.net.au/news/2009-05-20/up-to-100000-killed-in-sri-lankas-civil-war-un/1689524
+    accessed: "2026-10-22"
+reviewed: false

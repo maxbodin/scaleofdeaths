@@ -1,0 +1,32 @@
+id: tet-offensive
+title:
+  en: Tet Offensive
+  fr: Offensive du Têt
+description:
+  en: >-
+    Coordinated surprise offensive launched by the Viet Cong and the North Vietnamese army during the truce of the Tet lunar new year of 1968, striking Saigon, including the US embassy, and more than 100 cities and towns across South Vietnam. The attacks were beaten back within days almost everywhere except in Hue, retaken after nearly a month of street fighting. Although it was a military defeat for the attackers, the offensive turned American public opinion against the war.
+  fr: >-
+    Offensive surprise coordonnée lancée par le Viet Cong et l’armée nord-vietnamienne pendant la trêve du Nouvel An lunaire (Têt) de 1968, qui frappe Saïgon, y compris l’ambassade américaine, et plus de 100 villes du Sud-Vietnam. Les attaques sont repoussées en quelques jours presque partout, sauf à Hué, reprise après près d’un mois de combats de rue. Bien qu’elle soit une défaite militaire pour les assaillants, l’offensive retourne l’opinion publique américaine contre la guerre.
+categories: [war]
+kind: event
+start: "1968-01-30"
+end: "1968-03-20"
+deaths:
+  best: 56000
+  low: 49324
+  note:
+    en: "Soldiers killed in the first phase of the offensive (Tet and the following weeks); civilians and the later May and August offensives are not included. Best: 56,000, the figure of Martin Gilbert for Tet and the month following, also given by Stanley Karnow citing General Westmoreland: up to 50,000 Viet Cong and North Vietnamese, 4,000 South Vietnamese soldiers and 2,000 Americans (total stated by Necrometrics). Low: 49,324, from the News & Record of Greensboro (2004): 45,000 communist soldiers, 2,788 South Vietnamese and 1,536 Americans (via Necrometrics). Wikipedia gives, for the first phase (30 January to 20 March), 9,078 allied soldiers killed (4,954 South Vietnamese and 4,124 Americans and other allies) and more than 45,000 communist soldiers killed according to US and South Vietnamese claims; a Vietnamese source counts 45,267 communist soldiers killed over all three phases. The communist losses in best and low rest on US and South Vietnamese estimates. About 14,300 civilians were also killed (via Wikipedia)."
+    fr: "Soldats tués pendant la première phase de l’offensive (le Têt et les semaines suivantes) ; les civils et les offensives suivantes de mai et d’août ne sont pas compris. Estimation centrale : 56 000, chiffre de Martin Gilbert pour le Têt et le mois suivant, également donné par Stanley Karnow d’après le général Westmoreland : jusqu’à 50 000 combattants viet cong et nord-vietnamiens, 4 000 soldats sud-vietnamiens et 2 000 Américains (total indiqué par Necrometrics). Bas : 49 324, d’après le News & Record de Greensboro (2004) : 45 000 combattants communistes, 2 788 Sud-Vietnamiens et 1 536 Américains (via Necrometrics). Wikipédia donne, pour la première phase (30 janvier au 20 mars), 9 078 soldats alliés tués (4 954 Sud-Vietnamiens et 4 124 Américains et autres alliés) et plus de 45 000 combattants communistes tués selon les estimations américaines et sud-vietnamiennes ; une source vietnamienne compte 45 267 combattants communistes tués sur l’ensemble des trois phases. Les pertes communistes retenues pour l’estimation centrale et le bas reposent sur des estimations américaines et sud-vietnamiennes. Environ 14 300 civils ont aussi été tués (via Wikipédia)."
+countries:
+  - { code: VN, deaths: 56000 }
+partOf: vietnam-war
+sources:
+  - title: Tet Offensive
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Tet_Offensive
+    accessed: "2026-10-22"
+  - title: Death Tolls for the Man-made Megadeaths of the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/battles.htm
+    accessed: "2026-10-22"
+reviewed: false

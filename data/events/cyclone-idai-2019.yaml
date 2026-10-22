@@ -1,0 +1,41 @@
+id: cyclone-idai-2019
+title:
+  en: Cyclone Idai
+  fr: Cyclone Idai
+description:
+  en: >-
+    Cyclone Idai formed in early March 2019 in the Mozambique Channel; its precursor depression had already caused deadly floods in Malawi and Mozambique. On the night of 14 to 15 March it made landfall near Beira, Mozambique, as an intense tropical cyclone, devastating the city, then brought torrential rain to central Mozambique and eastern Zimbabwe. The Buzi and Pungwe rivers burst their banks, flooding vast areas, and flash floods and landslides swept away communities in Zimbabwe's Chimanimani district. A cholera outbreak followed.
+  fr: >-
+    Le cyclone Idai s’est formé début mars 2019 dans le canal du Mozambique ; la dépression qui l’a précédé avait déjà fait des morts par inondation au Malawi et au Mozambique. Dans la nuit du 14 au 15 mars, il a touché terre près de Beira (Mozambique) en cyclone tropical intense, dévastant la ville, puis a déversé des pluies torrentielles sur le centre du Mozambique et l’est du Zimbabwe. Les fleuves Buzi et Pungwe sont sortis de leur lit, noyant de vastes zones, et crues et glissements de terrain ont emporté des villages du district zimbabwéen de Chimanimani. Une épidémie de choléra a suivi.
+categories: [natural-disaster]
+kind: event
+start: "2019-03-06"
+end: "2019-03-21"
+deaths:
+  best: 1593
+  note:
+    en: Best is the total in the 2021 final report of the UK Disasters Emergency Committee, also used by Wikipedia, which gives the per-country figures used here, 905 in Mozambique, 628 in Zimbabwe and 60 in Malawi, based on government figures available at the time; Madagascar recorded 1 death. Other counts are much lower for Mozambique (598 official deaths on 3 April 2019, reported by OCHA) and vary for Zimbabwe (341 in the IFRC final report, 634 in EM-DAT according to Wikipedia), and hundreds more people were missing. The Wikipedia article is flagged as possibly out of date.
+    fr: L’estimation centrale est le total du rapport final (2021) du Disasters Emergency Committee britannique, repris par Wikipédia, qui donne les chiffres par pays utilisés ici, 905 au Mozambique, 628 au Zimbabwe et 60 au Malawi, d’après les chiffres gouvernementaux disponibles à l’époque ; Madagascar a compté 1 mort. D’autres décomptes sont bien plus bas pour le Mozambique (598 morts officiels au 3 avril 2019, selon l’OCHA) et varient pour le Zimbabwe (341 dans le rapport final de la FICR, 634 dans EM-DAT selon Wikipédia), et des centaines de personnes restaient disparues. L’article de Wikipédia est signalé comme peut-être obsolète.
+countries:
+  - { code: MZ, deaths: 905 }
+  - { code: ZW, deaths: 628 }
+  - { code: MW, deaths: 60 }
+  - { code: MG }
+sources:
+  - title: Cyclone Idai
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Cyclone_Idai
+    accessed: "2026-10-22"
+  - title: 2019 Cyclone Idai Appeal Final Report
+    publisher: Disasters Emergency Committee
+    url: https://www.dec.org.uk/sites/default/files/media/document/2021-10/DEC_Idai%20Report%20final_21_HR_SP_AW.-compressed.pdf
+    accessed: "2026-10-22"
+  - title: Tropical Cyclone Idai - Mar 2019
+    publisher: ReliefWeb (UN OCHA)
+    url: https://reliefweb.int/disaster/tc-2019-000021-moz
+    accessed: "2026-10-22"
+  - title: "Zimbabwe: Tropical Cyclone Idai Final Report, DREF Operation n°: MDRZW014"
+    publisher: International Federation of Red Cross and Red Crescent Societies (via ReliefWeb)
+    url: https://reliefweb.int/report/zimbabwe/zimbabwe-tropical-cyclone-idai-final-report-dref-operation-n-mdrzw014
+    accessed: "2026-10-22"
+reviewed: false

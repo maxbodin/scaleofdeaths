@@ -1,0 +1,37 @@
+id: great-irish-famine
+title:
+  en: Great Irish Famine
+  fr: Grande Famine en Irlande
+description:
+  en: >-
+    Mass starvation and disease in Ireland, then part of the United Kingdom, after potato blight destroyed the crop on which about half the population, mostly the rural poor, depended. 1847, known as Black '47, was the worst year, and more people died of fever, dysentery and other diseases than of starvation itself. Early relief was limited and was ended by a Whig government committed to laissez-faire. Over a million people emigrated, and the population fell by 20 to 25 percent between 1841 and 1871.
+  fr: >-
+    Famine et épidémies en Irlande, alors partie du Royaume-Uni, après que le mildiou a détruit la pomme de terre dont dépendait environ la moitié de la population, surtout les pauvres des campagnes. 1847, surnommée « Black ’47 », fut la pire année, et les fièvres, la dysenterie et d’autres maladies ont tué davantage que la faim elle-même. Les premiers secours, limités, ont été arrêtés par un gouvernement whig attaché au laisser-faire. Plus d’un million de personnes ont émigré et la population a baissé de 20 à 25 % entre 1841 et 1871.
+categories: [famine]
+kind: event
+start: "1845"
+end: "1852"
+deaths:
+  best: 1000000
+  low: 775000
+  high: 1500000
+  note:
+    en: "Excess deaths from starvation and famine-related disease; there was no civil registration, so estimates compare census counts with expected population. Best: about 1 million, the most widely accepted estimate (Wikipedia, Ó Gráda, History Ireland). Low: 775,000, the historian R. F. Foster's 'at least 775,000'. High: 1.5 million, the top of Joel Mokyr's county-level estimates (1.1 to 1.5 million for 1846-1851). The 1851 census recorded 21,770 starvation deaths and 400,720 disease deaths over the decade, an acknowledged undercount. Figures cover the whole island, today Ireland and Northern Ireland (United Kingdom)."
+    fr: "Surmortalité due à la faim et aux maladies liées à la famine ; faute d’état civil, les estimations comparent les recensements à la population attendue. Valeur centrale : environ 1 million, l’estimation la plus admise (Wikipédia, Ó Gráda, History Ireland). Bas : 775 000, le « au moins 775 000 » de l’historien R. F. Foster. Haut : 1,5 million, haut des estimations par comté de Joel Mokyr (1,1 à 1,5 million pour 1846-1851). Le recensement de 1851 comptait 21 770 morts de faim et 400 720 morts de maladie sur la décennie, un sous-comptage reconnu. Les chiffres couvrent toute l’île, aujourd’hui l’Irlande et l’Irlande du Nord (Royaume-Uni)."
+countries:
+  - { code: IE }
+  - { code: GB }
+sources:
+  - title: Great Famine (Ireland)
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Great_Famine_(Ireland)
+    accessed: "2026-10-22"
+  - title: A Non-Famine History of Ireland?
+    publisher: History Ireland
+    url: https://historyireland.com/a-non-famine-history-of-ireland/
+    accessed: "2026-10-22"
+  - title: Making Famine History (Cormac Ó Gráda)
+    publisher: Journal of Economic Literature (UCD Research Repository)
+    url: https://researchrepository.ucd.ie/server/api/core/bitstreams/f57a2154-08a1-44a8-b865-75d1d51a4fcb/content
+    accessed: "2026-10-22"
+reviewed: false

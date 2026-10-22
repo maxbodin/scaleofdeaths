@@ -1,0 +1,35 @@
+id: paraguayan-war
+title:
+  en: Paraguayan War
+  fr: Guerre de la Triple-Alliance
+description:
+  en: >-
+    War between Paraguay, led by Francisco Solano López, and the Triple Alliance of Brazil, Argentina and Uruguay. After Paraguay was defeated in conventional battles, it waged a long guerrilla resistance until López was killed in 1870. Disease, hunger and fighting devastated Paraguay, which lost a large share of its population, most of its adult men and part of its territory. It was the deadliest interstate war in Latin American history.
+  fr: >-
+    Guerre entre le Paraguay de Francisco Solano López et la Triple-Alliance formée par le Brésil, l’Argentine et l’Uruguay. Vaincu dans les batailles conventionnelles, le Paraguay mène une longue guérilla jusqu’à la mort de López en 1870. Les maladies, la faim et les combats ravagent le Paraguay, qui perd une grande partie de sa population, la plupart de ses hommes adultes et une partie de son territoire. Ce fut la guerre entre États la plus meurtrière de l’histoire de l’Amérique latine.
+categories: [war]
+kind: event
+start: "1864-11-13"
+end: "1870-03-01"
+deaths:
+  best: 350000
+  low: 150000
+  high: 500000
+  note:
+    en: Military and civilian deaths, mostly from disease and hunger; Paraguay's losses are hotly disputed because its pre-war population is unknown. Best is Clodfelter's total of 350,000 as compiled by Necrometrics; the range is the 150,000 to 500,000 in Wikipedia's infobox. Per-country figures are Wikipedia's (Paraguay, low end of 175,000 to 300,000; Argentina, 18,000 soldiers, to which it adds 13,000 civilians; Uruguay, 10,000), except Brazil, the Necrometrics median of 100,000 (Wikipedia gives 50,000 soldiers and 50,000 civilians).
+    fr: Morts militaires et civiles, surtout de maladie et de faim ; les pertes du Paraguay sont très discutées car sa population d’avant-guerre est inconnue. L’estimation centrale est le total de 350 000 de Clodfelter, compilé par Necrometrics ; la fourchette est celle de l’infobox de Wikipédia, de 150 000 à 500 000. Les chiffres par pays sont ceux de Wikipédia (Paraguay, bas de la fourchette de 175 000 à 300 000 ; Argentine, 18 000 soldats, auxquels elle ajoute 13 000 civils ; Uruguay, 10 000), sauf le Brésil, médiane de 100 000 selon Necrometrics (Wikipédia donne 50 000 soldats et 50 000 civils).
+countries:
+  - { code: PY, deaths: 175000 }
+  - { code: BR, deaths: 100000 }
+  - { code: AR, deaths: 18000 }
+  - { code: UY, deaths: 10000 }
+sources:
+  - title: Paraguayan War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Paraguayan_War
+    accessed: "2026-10-22"
+  - title: "Statistics of Wars, Oppressions and Atrocities of the Nineteenth Century: Paraguay, War of the Triple Alliance (1864-70)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/wars19c.htm
+    accessed: "2026-10-22"
+reviewed: false

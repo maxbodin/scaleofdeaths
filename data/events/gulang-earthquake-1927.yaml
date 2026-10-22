@@ -1,0 +1,29 @@
+id: gulang-earthquake-1927
+title:
+  en: 1927 Gulang earthquake
+  fr: Séisme de 1927 à Gulang
+description:
+  en: >-
+    At 06:32 on 23 May 1927 a magnitude 7.7 earthquake struck near Gulang, in Gansu province, Republic of China, and was felt up to 700 km away. In the worst-hit area all cave dwellings and 90% of houses collapsed, and a large landslide buried villages. Most deaths were in Wuwei county, where some 35,000 people were killed along with 200,000 horses and oxen; Gulang county lost more than 4,000 people.
+  fr: >-
+    Le 23 mai 1927 à 6 h 32, un séisme de magnitude 7,7 a frappé les environs de Gulang, dans la province du Gansu (République de Chine), et a été ressenti jusqu’à 700 km. Dans la zone la plus touchée, toutes les habitations troglodytes et 90 % des maisons se sont effondrées, et un vaste glissement de terrain a enseveli des villages. La plupart des morts se trouvaient dans le district de Wuwei, où quelque 35 000 personnes ont péri ainsi que 200 000 chevaux et bœufs ; le district de Gulang a perdu plus de 4 000 habitants.
+categories: [natural-disaster]
+kind: event
+start: "1927-05-23"
+deaths:
+  best: 40912
+  note:
+    en: Single figure from Chinese records, given by Wikipedia and the NOAA NCEI database, which breaks it down by county. NCEI also lists an old catalogue figure of 200,000 killed, which it does not retain.
+    fr: Chiffre unique issu des archives chinoises, donné par Wikipédia et la base NCEI de la NOAA, qui le détaille par district. La NCEI mentionne aussi un ancien catalogue indiquant 200 000 morts, qu’elle ne retient pas.
+countries:
+  - { code: CN, deaths: 40912 }
+sources:
+  - title: 1927 Gulang earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1927_Gulang_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Gansu Province, event 3315"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/3315
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,33 @@
+id: bombing-of-tokyo-1945
+title:
+  en: Bombing of Tokyo (10 March 1945)
+  fr: Bombardement de Tokyo (10 mars 1945)
+description:
+  en: >-
+    Firebombing raid on Tokyo by 279 US B-29 bombers on the night of 9 to 10 March 1945, code-named Operation Meetinghouse. Flying low at night, the bombers dropped incendiaries on the densely built wooden districts of eastern Tokyo, causing a firestorm that burned out 15.8 square miles (about 41 km²) and destroyed 267,171 buildings, leaving over a million people homeless. Many victims burned, suffocated or drowned in rivers. It was the deadliest single air raid of the war, more destructive than either atomic bombing.
+  fr: >-
+    Raid incendiaire de 279 bombardiers B-29 américains sur Tokyo dans la nuit du 9 au 10 mars 1945, nom de code opération Meetinghouse. Volant bas, de nuit, les bombardiers larguent des bombes incendiaires sur les quartiers en bois très denses de l’est de Tokyo ; la tempête de feu ravage environ 41 km² et détruit 267 171 bâtiments, laissant plus d’un million de sans-abri. Beaucoup de victimes sont brûlées, asphyxiées ou noyées dans les rivières. C’est le raid aérien le plus meurtrier de la guerre, plus destructeur que chacun des bombardements atomiques.
+categories: [war]
+kind: event
+partOf: second-world-war
+start: "1945-03-09"
+end: "1945-03-10"
+deaths:
+  best: 100000
+  low: 83600
+  high: 105400
+  note:
+    en: People killed in the raid, mostly civilians. Best is the 100,000 used by the Japanese and US governments; according to Richard Frank, historians generally cite 90,000 to 100,000, and Associated Press reports for the 80th anniversary give more than 100,000. Low is the 83,600 dead estimated in 1945 by Tokyo's director of health (79,466 bodies were recovered and recorded; the US Strategic Bombing Survey gave 87,793 killed). High is the 105,400 victims honoured at the Tokyo Memorial Hall in 2011, a count of interred or claimed remains that leaves out bodies never recovered. Higher figures (200,000 by Edwin Hoyt, or several times 100,000 as suggested by Mark Selden) are not used.
+    fr: Personnes tuées lors du raid, en majorité des civils. L’estimation centrale est le chiffre de 100 000 utilisé par les gouvernements japonais et américain ; selon Richard Frank, les historiens retiennent généralement 90 000 à 100 000 morts, et les dépêches de l’Associated Press pour le 80e anniversaire parlent de plus de 100 000. Le bas de la fourchette est l’estimation de 83 600 morts faite en 1945 par le directeur de la santé de Tokyo (79 466 corps ont été retrouvés et enregistrés ; l’US Strategic Bombing Survey comptait 87 793 tués). Le haut est le chiffre de 105 400 victimes honorées au mémorial de Tokyo en 2011, qui ne compte que les restes inhumés ou réclamés et omet les corps jamais retrouvés. Les chiffres plus élevés (200 000 selon Edwin Hoyt, ou plusieurs fois 100 000 selon Mark Selden) ne sont pas retenus.
+countries:
+  - { code: JP, deaths: 100000 }
+sources:
+  - title: Bombing of Tokyo (10 March 1945)
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Bombing_of_Tokyo_(10_March_1945)
+    accessed: "2026-10-22"
+  - title: Tokyo marks 80th anniversary of U.S. firebombing that killed 100,000 in a single night
+    publisher: NBC News (Associated Press)
+    url: https://www.nbcnews.com/news/world/tokyo-marks-80th-anniversary-us-firebombing-killed-100000-single-night-rcna195577
+    accessed: "2026-10-22"
+reviewed: false

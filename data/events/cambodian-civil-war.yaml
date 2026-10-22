@@ -1,0 +1,40 @@
+id: cambodian-civil-war
+title:
+  en: Cambodian Civil War
+  fr: Guerre civile cambodgienne
+description:
+  en: >-
+    Civil war in Cambodia between the Khmer Rouge communist insurgency, backed by North Vietnam and China, and the government, first the Kingdom of Cambodia and, after the 1970 coup against Prince Sihanouk, the US-backed Khmer Republic of Lon Nol. Closely linked to the Vietnam War, it involved North and South Vietnamese troops and heavy US bombing of eastern Cambodia. About two million people were displaced. The war ended with the Khmer Rouge capture of Phnom Penh on 17 April 1975.
+  fr: >-
+    Guerre civile au Cambodge entre l’insurrection communiste des Khmers rouges, soutenue par le Viêt Nam du Nord et la Chine, et le gouvernement : d’abord le royaume du Cambodge puis, après le coup d’État de 1970 contre le prince Sihanouk, la République khmère de Lon Nol, soutenue par les États-Unis. Étroitement liée à la guerre du Viêt Nam, elle implique des troupes nord- et sud-vietnamiennes et de lourds bombardements américains sur l’est du pays. Environ deux millions de personnes sont déplacées. La guerre s’achève avec la prise de Phnom Penh par les Khmers rouges le 17 avril 1975.
+categories: [war]
+kind: event
+start: "1967-04-02"
+end: "1975-04-17"
+deaths:
+  best: 300000
+  low: 250000
+  high: 600000
+  note:
+    en: Military and civilian deaths, including 30,000 to 150,000 killed by US bombing. Wikipedia gives 275,000 to 310,000, based on demographic reevaluations; best is demographer Patrick Heuveline's estimate of a death toll "in the order of 300,000 or less" (quoted on Wikipedia), also Bercovitch and Jackson's figure (Necrometrics). Low is the total of about 250,000 violent deaths (Bruce Sharp; Clodfelter's "over 250,000"). High is the 600,000 war-related deaths including hunger given by Clodfelter and by a Finnish inquiry (Necrometrics); demographic studies point lower. Per-country figures are military deaths at the low end of the ranges given on Wikipedia (North Vietnam includes Viet Cong forces); Cambodian losses are unknown.
+    fr: Morts militaires et civiles, dont 30 000 à 150 000 tués par les bombardements américains. Wikipédia donne 275 000 à 310 000 morts, d’après les réévaluations démographiques ; l’estimation centrale est celle du démographe Patrick Heuveline, « de l’ordre de 300 000 ou moins » (citée par Wikipédia), également retenue par Bercovitch et Jackson (Necrometrics). Le bas correspond à environ 250 000 morts violentes (Bruce Sharp ; « plus de 250 000 » selon Clodfelter). Le haut correspond aux 600 000 morts liées à la guerre, faim comprise, avancées par Clodfelter et par une commission d’enquête finlandaise (Necrometrics) ; les études démographiques indiquent moins. Les chiffres par pays sont des morts militaires, au bas des fourchettes de Wikipédia (le Viêt Nam du Nord inclut les forces du Viet Cong) ; les pertes cambodgiennes sont inconnues.
+countries:
+  - { code: KH }
+  - { code: VD, name: { en: North Vietnam, fr: Viêt Nam du Nord }, deaths: 70000 }
+  - { name: { en: South Vietnam, fr: Viêt Nam du Sud }, deaths: 866 }
+  - { code: US, deaths: 338 }
+related: [vietnam-war, cambodian-genocide]
+sources:
+  - title: Cambodian Civil War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Cambodian_Civil_War
+    accessed: "2026-10-22"
+  - title: "Death Tolls for the Major Wars and Atrocities of the Twentieth Century: Second Indochina War, sub-wars"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c1m.htm
+    accessed: "2026-10-22"
+  - title: "Cambodia: U.S. bombing, civil war, & Khmer Rouge (archived)"
+    publisher: World Peace Foundation, Mass Atrocity Endings
+    url: https://web.archive.org/web/20190714181839/https://sites.tufts.edu/atrocityendings/2015/08/07/cambodia-u-s-bombing-civil-war-khmer-rouge/
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,31 @@
+id: pakistan-floods-2022
+title:
+  en: 2022 Pakistan floods
+  fr: Inondations de 2022 au Pakistan
+description:
+  en: >-
+    From mid-June to October 2022, much heavier than usual monsoon rains, together with melting glaciers after a severe heat wave, caused floods, flash floods and landslides across Pakistan, with Sindh and Balochistan hardest hit; both causes are linked to climate change. In places the Indus became a lake 100 km wide. About 33 million people were affected, nearly 8 million were displaced and more than 2 million houses were damaged or destroyed. Damage was estimated at about US$40 billion.
+  fr: >-
+    De la mi-juin à octobre 2022, des pluies de mousson bien plus fortes que d’habitude et la fonte des glaciers après une forte vague de chaleur ont provoqué inondations, crues soudaines et glissements de terrain dans tout le Pakistan, surtout au Sind et au Baloutchistan ; ces deux causes sont liées au changement climatique. Par endroits, l’Indus est devenu un lac de 100 km de large. Environ 33 millions de personnes ont été touchées, près de 8 millions déplacées et plus de 2 millions de maisons endommagées ou détruites. Les dégâts ont été estimés à environ 40 milliards de dollars.
+categories: [natural-disaster]
+kind: event
+start: "2022-06-14"
+end: "2022-10"
+deaths:
+  best: 1739
+  high: 1760
+  note:
+    en: Deaths from rains, floods and landslides since mid-June recorded by the National Disaster Management Authority (NDMA), as reported by ReliefWeb in November 2022 and by Wikipedia, including 647 children; Sindh (about 800) and Balochistan were the worst-hit provinces. The Wikipedia infobox gives 1,760 (high). Deaths from later disease outbreaks, such as the 147 dengue deaths reported by November, are counted separately.
+    fr: Morts dues aux pluies, inondations et glissements de terrain depuis la mi-juin recensées par l’Autorité nationale de gestion des catastrophes (NDMA), selon ReliefWeb en novembre 2022 et Wikipédia, dont 647 enfants ; le Sind (environ 800) et le Baloutchistan ont été les provinces les plus touchées. L’infobox de Wikipédia donne 1 760 (haut de la fourchette). Les morts des épidémies qui ont suivi, comme les 147 décès dus à la dengue signalés en novembre, sont comptés à part.
+countries:
+  - { code: PK, deaths: 1739 }
+sources:
+  - title: 2022 Pakistan floods
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2022_Pakistan_floods
+    accessed: "2026-10-22"
+  - title: "Pakistan: Floods - Jul 2022"
+    publisher: ReliefWeb (UN OCHA)
+    url: https://reliefweb.int/disaster/fl-2022-000254-pak
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,34 @@
+id: sack-of-delhi-1398
+title:
+  en: Sack of Delhi (1398)
+  fr: Sac de Delhi (1398)
+description:
+  en: >-
+    Capture and sack of Delhi, capital of a Delhi Sultanate weakened by civil war, by Timur during his invasion of northern India. Before the battle against Sultan Nasir-ud-Din Mahmud Shah Tughlaq, Timur reportedly had the large number of captives taken by his army on the way put to death, fearing they would turn against him. After his victory, a revolt against his troops was followed by days of looting and massacre, survivors were enslaved, and famine and disease devastated the ruined city.
+  fr: >-
+    Prise et sac de Delhi, capitale d’un sultanat de Delhi affaibli par la guerre civile, par Timur lors de son invasion du nord de l’Inde. Avant la bataille contre le sultan Nasir-ud-Din Mahmud Shah Tughlaq, Timur aurait fait mettre à mort les nombreux captifs pris par son armée en chemin, craignant qu’ils ne se retournent contre lui. Après sa victoire, une révolte contre ses troupes est suivie de plusieurs jours de pillage et de massacres, les survivants sont réduits en esclavage, et la famine et les maladies ravagent la ville en ruines.
+categories: [war]
+kind: event
+start: "1398-12"
+deaths:
+  best: 100000
+  note:
+    en: "Best: 100,000, the figure given in Wikipedia's infobox (citing Steven Katz and Arnold Toynbee) and by older works compiled by Matthew White (Necrometrics), which mostly describe it as the number of Indian prisoners Timur had massacred before the battle. Deaths in the sack itself and in the famine and epidemic that followed are not separately estimated, so the toll may be higher. This is an old, unverifiable figure; no range was found. India: same figure."
+    fr: "Estimation centrale : 100 000, chiffre donné dans l’infobox de Wikipédia (citant Steven Katz et Arnold Toynbee) et par des ouvrages anciens réunis par Matthew White (Necrometrics), qui le présentent surtout comme le nombre de prisonniers indiens massacrés sur ordre de Timur avant la bataille. Les morts du sac lui-même, puis de la famine et de l’épidémie qui ont suivi, ne sont pas estimées séparément, si bien que le bilan pourrait être plus élevé. Il s’agit d’un chiffre ancien et invérifiable ; aucune fourchette n’a été trouvée. Inde : même chiffre."
+countries:
+  - { code: IN, deaths: 100000 }
+partOf: conquests-of-timur
+sources:
+  - title: Sack of Delhi (1398)
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Sack_of_Delhi_(1398)
+    accessed: "2026-10-22"
+  - title: "Timur: The Brutal Conqueror of Central Asia"
+    publisher: World History Encyclopedia
+    url: https://www.worldhistory.org/Timur/
+    accessed: "2026-10-22"
+  - title: Selected Death Tolls for Wars, Massacres and Atrocities Before the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/pre1700a.htm
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,42 @@
+id: war-in-iraq-2013
+title:
+  en: War in Iraq (2013-2017)
+  fr: Guerre d’Irak contre l’État islamique (2013-2017)
+description:
+  en: >-
+    War between the Iraqi government and its allies and the Islamic State group, which escalated from clashes in Anbar province at the end of 2013 and in June 2014 seized Mosul, Tikrit and large parts of northern and western Iraq. Iraqi security forces, Popular Mobilization Forces militias and Kurdish Peshmerga, backed by a US-led air campaign and by Iran, gradually retook the territory, ending with the battle of Mosul. The Islamic State carried out mass killings, including of Yazidis, and millions of people were displaced. Iraq declared victory on 9 December 2017.
+  fr: >-
+    Guerre entre l’Irak et ses alliés et le groupe État islamique, qui s’intensifie après des heurts dans l’Anbar fin 2013 et s’empare en juin 2014 de Mossoul, Tikrit et d’une grande partie du nord et de l’ouest de l’Irak. Forces irakiennes, milices des Unités de mobilisation populaire et peshmergas kurdes, appuyés par les frappes d’une coalition menée par les États-Unis et par l’Iran, reprennent peu à peu le terrain, jusqu’à la bataille de Mossoul. L’État islamique commet des massacres, notamment de Yézidis, et des millions de personnes fuient. L’Irak proclame la victoire le 9 décembre 2017.
+categories: [war]
+kind: event
+start: "2013-12-30"
+end: "2017-12-09"
+deaths:
+  best: 217500
+  low: 67376
+  note:
+    en: >-
+      Military and civilian deaths of all parties in Iraq; estimates vary widely, mostly because of combatant deaths. Best is the total of over 217,500 given by Wikipedia, which adds 67,376 civilians documented by Iraq Body Count, 21,124 deaths on the government and allied side (including over 19,000 Iraqi security forces and militiamen and 1,837 Peshmerga) and 129,045 Islamic State fighters; this last figure comes from yearly tallies of media reports (Antiwar.com), and Iraq Body Count warned that such tallies, taken at face value, gave about 30,000 combatant deaths in 2014 against 4,000 to 5,000 from AFP and official statistics. Low is the civilian toll documented by Iraq Body Count. The Uppsala Conflict Data Program, which counts only deaths in fighting attributable to the parties, records lower totals for all conflicts in Iraq (16,437 in 2014, 11,300 in 2015, 12,046 in 2016 and 11,437 in 2017).
+    fr: >-
+      Morts militaires et civiles de toutes les parties en Irak ; les estimations varient fortement, surtout pour les combattants. L’estimation centrale est le total de plus de 217 500 morts donné par Wikipédia, qui additionne 67 376 civils recensés par Iraq Body Count, 21 124 morts du côté du gouvernement et de ses alliés (dont plus de 19 000 membres des forces de sécurité et miliciens irakiens et 1 837 peshmergas) et 129 045 combattants de l’État islamique ; ce dernier chiffre provient de décomptes annuels d’informations de presse (Antiwar.com), et Iraq Body Count a souligné que de tels décomptes, pris au pied de la lettre, donnaient environ 30 000 combattants tués en 2014 contre 4 000 à 5 000 selon l’AFP et les statistiques officielles. Le bas est le bilan civil recensé par Iraq Body Count. L’Uppsala Conflict Data Program, qui ne compte que les morts au combat imputables aux parties, relève des totaux plus faibles pour l’ensemble des conflits en Irak (16 437 en 2014, 11 300 en 2015, 12 046 en 2016 et 11 437 en 2017).
+countries:
+  - { code: IQ, deaths: 217500 }
+related: [iraq-war, syrian-civil-war, yazidi-genocide]
+sources:
+  - title: War in Iraq (2013-2017)
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/War_in_Iraq_(2013%E2%80%932017)
+    accessed: "2026-10-22"
+  - title: "Iraq 2014: Civilian deaths almost doubling year on year"
+    publisher: Iraq Body Count
+    url: https://www.iraqbodycount.org/analysis/numbers/2014/
+    accessed: "2026-10-22"
+  - title: "Iraq 2019: Calls for a 'True Homeland' met with deadly violence"
+    publisher: Iraq Body Count
+    url: https://www.iraqbodycount.org/analysis/numbers/2019/
+    accessed: "2026-10-22"
+  - title: Deaths in armed conflicts based on where they occurred
+    publisher: Our World in Data (Uppsala Conflict Data Program data)
+    url: https://ourworldindata.org/grapher/deaths-in-armed-conflicts-by-country
+    accessed: "2026-10-22"
+reviewed: false

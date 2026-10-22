@@ -1,0 +1,32 @@
+id: nigerian-civil-war
+title:
+  en: Nigerian Civil War
+  fr: Guerre civile du Nigeria
+description:
+  en: >-
+    War between the Nigerian federal government and the Republic of Biafra, which declared independence in 1967 after a military coup, a counter-coup and anti-Igbo pogroms in the Northern Region in 1966. Federal forces surrounded the secessionist region and imposed a blockade, which led to mass starvation among Biafran civilians, especially children. Images of the famine drew worldwide attention and a large international airlift of aid. Biafra surrendered in January 1970.
+  fr: >-
+    Guerre entre le gouvernement fédéral nigérian et la République du Biafra, qui proclame son indépendance en 1967 après un coup d’État, un contre-coup d’État et des pogroms anti-Igbos dans la région du Nord en 1966. Les forces fédérales encerclent la région sécessionniste et imposent un blocus qui provoque une famine de masse parmi les civils biafrais, en particulier les enfants. Les images de cette famine suscitent une attention mondiale et un vaste pont aérien humanitaire. Le Biafra capitule en janvier 1970.
+categories: [war, famine]
+kind: event
+start: "1967-07-06"
+end: "1970-01-15"
+deaths:
+  best: 1000000
+  low: 500000
+  high: 2000000
+  note:
+    en: Military and civilian deaths, most of them civilians who died of starvation and disease during the blockade of Biafra. Wikipedia gives 45,000 to 100,000 combatants killed and 500,000 to 2 million Biafran civilians starved. Best is Matthew White's estimate (Necrometrics), the figure most often given in the sources he lists. Low is the 500,000 lower bound (Edgerton; Wikipedia); high is the 2 million given by Eckhardt, Dan Smith and the Dictionary of Wars, and the upper bound of starvation deaths in Wikipedia's lead. A few sources give up to 3 million.
+    fr: Morts militaires et civiles, pour la plupart des civils morts de faim et de maladie pendant le blocus du Biafra. Wikipédia indique 45 000 à 100 000 combattants tués et 500 000 à 2 millions de civils biafrais morts de faim. L’estimation centrale est celle de Matthew White (Necrometrics), le chiffre le plus souvent donné par les sources qu’il recense. Le bas correspond à la borne de 500 000 (Edgerton ; Wikipédia) ; le haut aux 2 millions avancés par Eckhardt, Dan Smith et le Dictionary of Wars, borne haute des morts de faim selon le résumé de Wikipédia. Quelques sources avancent jusqu’à 3 millions.
+countries:
+  - { code: NG, deaths: 1000000 }
+sources:
+  - title: Nigerian Civil War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Nigerian_Civil_War
+    accessed: "2026-10-22"
+  - title: "Death Tolls for the Major Wars and Atrocities of the Twentieth Century: Nigeria (1966-70)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c1m.htm
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,39 @@
+id: sahel-jihadist-insurgency
+title:
+  en: War in the Sahel
+  fr: Guerre au Sahel
+description:
+  en: >-
+    Jihadist insurgency in the central Sahel, mainly in Mali, Burkina Faso and Niger, which grew out of the 2012 Tuareg rebellion and the jihadist takeover of northern Mali. Groups linked to al-Qaeda, united since 2017 in JNIM, and the Islamic State in the Greater Sahara spread from Mali to Burkina Faso and Niger, attacking soldiers and civilians, while army and militia operations also killed many civilians. After French and UN forces left, the military juntas turned to Russian forces as violence kept rising.
+  fr: >-
+    Insurrection djihadiste au Sahel central, surtout au Mali, au Burkina Faso et au Niger, née de la rébellion touarègue de 2012 et de la prise du nord du Mali par des djihadistes. Des groupes liés à al-Qaïda, réunis depuis 2017 dans le JNIM, et l’État islamique au Grand Sahara s’étendent du Mali au Burkina Faso et au Niger et attaquent soldats et civils, tandis que les opérations de l’armée et des milices tuent aussi de nombreux civils. Après le départ des forces françaises et onusiennes, les juntes militaires se tournent vers des forces russes, et la violence continue de croître.
+categories: [war]
+kind: event
+start: "2012-01-16"
+ongoing: true
+asOf: "2026-06-30"
+deaths:
+  best: 49000
+  note:
+    en: >-
+      Reported deaths linked to militant Islamist groups, compiled from ACLED data by the Africa Center for Strategic Studies: over 49,000 in the Sahel over the decade to mid-2025, and nearly 49,000 from 2022 to mid-2026 alone (best). Neither count covers the whole conflict since 2012, so the full toll is higher; the Africa Center also warns of undercounting because the military governments restrict reporting. Deaths in violence that does not involve militant Islamist groups (for example some army and militia massacres or intercommunal clashes) may not be included. Mali alone has had an estimated 17,700 such deaths since the late 2000s (to mid-2025). Wikipedia sums annual figures to over 68,900 killed since 2007, a total not published by any single source.
+    fr: >-
+      Morts signalées liées aux groupes islamistes armés, compilées à partir des données d’ACLED par l’Africa Center for Strategic Studies : plus de 49 000 au Sahel au cours de la décennie précédant la mi-2025, et près de 49 000 entre 2022 et la mi-2026 seulement (estimation centrale). Aucun de ces décomptes ne couvre tout le conflit depuis 2012, le bilan complet est donc plus élevé ; l’Africa Center signale aussi une sous-estimation due aux restrictions imposées à l’information par les juntes. Les morts de violences sans lien avec des groupes islamistes (certains massacres de l’armée et des milices, affrontements intercommunautaires) peuvent ne pas être comptées. Le Mali seul compte environ 17 700 morts de ce type depuis la fin des années 2000 (jusqu’à la mi-2025). Wikipédia additionne des chiffres annuels pour atteindre plus de 68 900 morts depuis 2007, un total qu’aucune source unique ne publie.
+countries:
+  - { code: ML, deaths: 17700 }
+  - { code: BF }
+  - { code: NE }
+sources:
+  - title: War in the Sahel
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/War_in_the_Sahel
+    accessed: "2026-10-22"
+  - title: Mounting Fatalities Linked to Militant Islamist Violence in Africa amid Shifting Tactics
+    publisher: Africa Center for Strategic Studies
+    url: https://africacenter.org/spotlight/en-2026b-mig-10yr/
+    accessed: "2026-10-22"
+  - title: Africa Surpasses 150,000 Deaths Linked to Militant Islamist Groups in Past Decade
+    publisher: Africa Center for Strategic Studies
+    url: https://africacenter.org/spotlight/en-2025-mig-10-year/
+    accessed: "2026-10-22"
+reviewed: false

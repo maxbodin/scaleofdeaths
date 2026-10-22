@@ -1,0 +1,34 @@
+id: ponary-massacre
+title:
+  en: Ponary massacre
+  fr: Massacre de Ponary
+description:
+  en: >-
+    Mass shootings carried out from July 1941 to July 1944 in the forest near the railway station of Ponary (Paneriai), on the outskirts of Vilnius in German-occupied Lithuania, by German SD and SS units and the Lithuanian Ypatingasis būrys killing squad. Victims were shot and buried in large pits dug for an unfinished Soviet fuel base. Most were Jews from Vilnius and its ghetto; Polish resistance fighters, Soviet prisoners of war and Roma were also killed. From 1943, prisoners were forced to dig up and burn the bodies to hide the crime.
+  fr: >-
+    Fusillades de masse perpétrées de juillet 1941 à juillet 1944 dans la forêt proche de la gare de Ponary (Paneriai), aux portes de Vilnius, en Lituanie occupée par l’Allemagne, par des unités allemandes du SD et de la SS et le commando lituanien Ypatingasis būrys. Les victimes sont abattues et enterrées dans de grandes fosses creusées pour un dépôt de carburant soviétique inachevé. La plupart sont des Juifs de Vilnius et de son ghetto ; des résistants polonais, des prisonniers de guerre soviétiques et des Roms sont aussi tués.
+categories: [genocide]
+kind: event
+start: "1941-07"
+end: "1944-07"
+deaths:
+  best: 70000
+  high: 100000
+  note:
+    en: >-
+      People shot at Ponary, the great majority of them Jews. Best is the figure of up to 70,000 people executed there given by the Paneriai Memorial of the Vilna Gaon State Jewish Museum, which Wikipedia also gives as the number of Jews murdered, alongside up to 2,000 Poles and 8,000 Soviet prisoners of war. High is the up to 100,000 victims stated by Wikipedia. Most of these deaths are part of the Holocaust.
+    fr: >-
+      Personnes fusillées à Ponary, en grande majorité des Juifs. L’estimation centrale est le chiffre d’au plus 70 000 personnes exécutées donné par le mémorial de Paneriai du musée juif d’État Gaon de Vilna, que Wikipédia donne aussi comme nombre de Juifs assassinés, avec jusqu’à 2 000 Polonais et 8 000 prisonniers de guerre soviétiques. Le haut correspond aux 100 000 victimes au plus indiquées par Wikipédia. La plupart de ces morts font partie de la Shoah.
+countries:
+  - { code: LT, deaths: 70000 }
+related: [holocaust, second-world-war]
+sources:
+  - title: Ponary massacre
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Ponary_massacre
+    accessed: "2026-10-22"
+  - title: History
+    publisher: Paneriai Memorial (Vilna Gaon State Jewish Museum)
+    url: https://www.paneriumemorialas.lt/en/history/
+    accessed: "2026-10-22"
+reviewed: false

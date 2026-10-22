@@ -1,0 +1,34 @@
+id: san-francisco-earthquake-1906
+title:
+  en: 1906 San Francisco earthquake
+  fr: Tremblement de terre de 1906 à San Francisco
+description:
+  en: >-
+    At 05:12 on 18 April 1906 a magnitude 7.9 earthquake ruptured the San Andreas Fault over up to about 430 km along the coast of northern California. Shaking damaged buildings across San Francisco and broke the main water pipeline, so the fires that broke out raged for several days and destroyed more than 80% of the city. Santa Rosa and San Jose were also severely damaged. It is the deadliest earthquake in the history of the United States.
+  fr: >-
+    Le 18 avril 1906 à 5 h 12, un séisme de magnitude 7,9 a rompu la faille de San Andreas sur près de 430 km le long de la côte nord de la Californie. Les secousses ont endommagé les bâtiments dans tout San Francisco et rompu la principale conduite d’eau, si bien que les incendies qui ont suivi ont fait rage pendant plusieurs jours et détruit plus de 80 % de la ville. Santa Rosa et San José ont aussi été gravement touchées. C’est le séisme le plus meurtrier de l’histoire des États-Unis.
+categories: [natural-disaster]
+kind: event
+start: "1906-04-18"
+deaths:
+  best: 3000
+  low: 700
+  note:
+    en: Most deaths were caused by the fires in San Francisco; 189 were reported elsewhere in the Bay Area, including 50 in Santa Rosa. Early counts of about 375 to over 500, and the 700 retained by NOAA NCEI (low), ignored hundreds of victims in Chinatown. Best is the estimate of more than 3,000 used by USGS and recognised by the city's Board of Supervisors in 2005, based on research by the historian Gladys Hansen.
+    fr: La plupart des morts sont dues aux incendies de San Francisco ; 189 ont été signalées ailleurs dans la baie, dont 50 à Santa Rosa. Les premiers bilans, d’environ 375 à plus de 500, et le chiffre de 700 retenu par la NCEI de la NOAA (bas de la fourchette) ignoraient des centaines de victimes à Chinatown. L’estimation centrale est celle de plus de 3 000 morts, utilisée par l’USGS et reconnue en 2005 par le conseil de surveillance de la ville, sur la base des recherches de l’historienne Gladys Hansen.
+countries:
+  - { code: US, deaths: 3000 }
+sources:
+  - title: 1906 San Francisco earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1906_San_Francisco_earthquake
+    accessed: "2026-10-22"
+  - title: "Historic Earthquakes: 1906 Earthquake, San Francisco, California (archived)"
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20170112191653/http://earthquake.usgs.gov/earthquakes/states/events/1906_04_18.php
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: San Francisco, event 2768"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/2768
+    accessed: "2026-10-22"
+reviewed: false

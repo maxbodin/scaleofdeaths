@@ -1,0 +1,32 @@
+id: albigensian-crusade
+title:
+  en: Albigensian Crusade
+  fr: Croisade des albigeois
+description:
+  en: >-
+    Military campaign launched by Pope Innocent III against the Cathars, a dualist Christian movement condemned as heretical, and the nobles of southern France who protected them, notably the Count of Toulouse. Led first by Simon de Montfort and later by the French crown, it included the massacre of the population of Béziers in 1209 and mass burnings of Cathars, and ended with the Treaty of Paris in 1229, which brought Languedoc under French royal control. Some scholars consider it a genocide.
+  fr: >-
+    Campagne militaire lancée par le pape Innocent III contre les cathares, mouvement chrétien dualiste condamné comme hérétique, et contre les seigneurs du Midi qui les protégeaient, dont le comte de Toulouse. Menée d’abord par Simon de Montfort puis par la couronne de France, elle comprend le massacre de la population de Béziers en 1209 et des bûchers collectifs de cathares, et s’achève par le traité de Paris de 1229, qui place le Languedoc sous l’autorité royale. Certains historiens la qualifient de génocide.
+categories: [war, genocide]
+kind: event
+start: "1209-07"
+end: "1229-04-12"
+deaths:
+  best: 200000
+  high: 1000000
+  note:
+    en: "Cathars and other inhabitants of southern France killed in massacres, sieges, battles and executions. Best: at least 200,000 Cathars killed (Tatz and Higgins, 2016, cited by Wikipedia), the same figure as R. J. Rummel's estimate (via Necrometrics). High: the traditional figure of 1 million, repeated by many authors since the 19th century (J. M. Robertson, 1902, and later popular works); no source found explains how it was obtained. At Béziers, the papal legates claimed almost 20,000 killed, a figure the historian Joseph Strayer considers too high. No lower estimate was found."
+    fr: "Cathares et autres habitants du Midi tués lors de massacres, de sièges, de batailles et d’exécutions. Estimation centrale : au moins 200 000 cathares tués (Tatz et Higgins, 2016, cités par Wikipédia), même chiffre que l’estimation de R. J. Rummel (via Necrometrics). Haut : le chiffre traditionnel de 1 million, repris par de nombreux auteurs depuis le XIXe siècle (J. M. Robertson, 1902, puis des ouvrages de vulgarisation) ; aucune source trouvée n’explique comment il a été obtenu. À Béziers, les légats pontificaux ont revendiqué près de 20 000 tués, un chiffre que l’historien Joseph Strayer juge trop élevé. Aucune estimation plus basse n’a été trouvée."
+countries:
+  - { code: FR, deaths: 200000 }
+related: [crusades]
+sources:
+  - title: Albigensian Crusade
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Albigensian_Crusade
+    accessed: "2026-10-22"
+  - title: Selected Death Tolls for Wars, Massacres and Atrocities Before the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/pre1700a.htm
+    accessed: "2026-10-22"
+reviewed: false

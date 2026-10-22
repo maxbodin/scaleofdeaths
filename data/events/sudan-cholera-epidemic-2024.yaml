@@ -1,0 +1,33 @@
+id: sudan-cholera-epidemic-2024
+title:
+  en: 2024-2026 Sudan cholera epidemic
+  fr: Épidémie de choléra au Soudan (2024-2026)
+description:
+  en: >-
+    Cholera epidemic in Sudan during the civil war that began in April 2023. First detected in Kassala State in late July 2024 and declared in August, it spread to all 18 states, with Khartoum, North Kordofan, White Nile and Darfur among the hardest hit. Damaged water and sanitation systems, mass displacement, floods and the collapse of health services drove transmission; older people and young children, especially the malnourished, were most likely to die. Vaccination campaigns reached more than 23 million people. The outbreak was declared over on 3 March 2026, after 48 days without a case.
+  fr: >-
+    Épidémie de choléra au Soudan pendant la guerre civile commencée en avril 2023. Détectée dans l’État de Kassala fin juillet 2024, elle a gagné les 18 États, Khartoum, le Kordofan du Nord, le Nil Blanc et le Darfour étant parmi les plus touchés. Les dégâts aux réseaux d’eau et d’assainissement, les déplacements massifs, les inondations et l’effondrement du système de santé ont favorisé la transmission ; les personnes âgées et les jeunes enfants, surtout dénutris, mouraient le plus. Plus de 23 millions de personnes ont été vaccinées. La fin de l’épidémie a été déclarée le 3 mars 2026.
+categories: [epidemic]
+kind: event
+start: "2024-07"
+end: "2026-03-03"
+deaths:
+  best: 3573
+  note:
+    en: >-
+      Reported deaths among 124,418 cases in Sudan, the World Health Organization's final count when the outbreak was declared over in March 2026. Access was restricted, and Wikipedia notes that actual numbers are believed to be higher. Related outbreaks in South Sudan and Chad, which Wikipedia counts as part of a wider regional epidemic, are not included.
+    fr: >-
+      Décès déclarés parmi 124 418 cas au Soudan, bilan final de l’Organisation mondiale de la santé à la fin de l’épidémie en mars 2026. L’accès était limité et, selon Wikipédia, les chiffres réels seraient plus élevés. Les épidémies liées au Soudan du Sud et au Tchad, que Wikipédia compte dans une épidémie régionale plus large, ne sont pas incluses.
+countries:
+  - { code: SD, deaths: 3573 }
+related: [sudanese-civil-war-2023]
+sources:
+  - title: Sudanese cholera epidemic (2024-present)
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Sudanese_cholera_epidemic_(2024%E2%80%93present)
+    accessed: "2026-10-22"
+  - title: Sudan declares an end to its cholera outbreak
+    publisher: World Health Organization, Regional Office for the Eastern Mediterranean
+    url: https://www.emro.who.int/sdn/sudan-news/sudan-declares-an-end-to-its-cholera-outbreak.html
+    accessed: "2026-10-22"
+reviewed: false

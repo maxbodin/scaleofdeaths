@@ -1,0 +1,31 @@
+id: burundian-civil-war
+title:
+  en: Burundian Civil War
+  fr: Guerre civile burundaise
+description:
+  en: >-
+    Civil war that began after Tutsi soldiers assassinated Melchior Ndadaye, Burundi's first elected Hutu president, in October 1993. Massacres of Tutsi and army reprisals against Hutu were followed by years of fighting between the Tutsi-dominated army and Hutu rebel groups such as the CNDD-FDD and the FNL, with frequent killings of civilians by both sides. The Arusha peace process, a power-sharing transition and the 2005 elections ended the war.
+  fr: >-
+    Guerre civile déclenchée par l’assassinat, en octobre 1993, de Melchior Ndadaye, premier président hutu élu du Burundi, par des soldats tutsis. Aux massacres de Tutsis et aux représailles de l’armée contre les Hutus succèdent des années de combats entre l’armée dominée par les Tutsis et des rébellions hutues comme le CNDD-FDD et les FNL, avec de nombreux meurtres de civils des deux côtés. Le processus de paix d’Arusha, une transition fondée sur le partage du pouvoir et les élections de 2005 mettent fin à la guerre.
+categories: [war]
+kind: event
+start: "1993-10-21"
+end: "2005-05-15"
+deaths:
+  best: 300000
+  note:
+    en: Military and civilian deaths. Best is the commonly cited estimate of about 300,000 deaths (BBC, Wikipedia); no detailed count, breakdown or range is available.
+    fr: Morts militaires et civiles. L’estimation centrale est le chiffre couramment cité d’environ 300 000 morts (BBC, Wikipédia) ; aucun décompte détaillé, aucune ventilation ni fourchette n’est disponible.
+countries:
+  - { code: BI, deaths: 300000 }
+related: [ikiza-1972]
+sources:
+  - title: Burundian Civil War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Burundian_Civil_War
+    accessed: "2026-10-22"
+  - title: Burundi profile - Timeline
+    publisher: BBC News
+    url: https://www.bbc.com/news/world-africa-13087604
+    accessed: "2026-10-22"
+reviewed: false

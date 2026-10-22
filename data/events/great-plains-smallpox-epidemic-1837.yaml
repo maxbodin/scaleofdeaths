@@ -1,0 +1,37 @@
+id: great-plains-smallpox-epidemic-1837
+title:
+  en: 1837 Great Plains smallpox epidemic
+  fr: Épidémie de variole de 1837 dans les Grandes Plaines
+description:
+  en: >-
+    Smallpox epidemic among the Indigenous peoples of the Great Plains, set off in the spring of 1837 when the American Fur Company steamboat St. Peter's carried infected people and goods up the Missouri River to trading posts such as Fort Clark and Fort Union. Many had no immunity and no vaccine: in 1832 the US government had refused to send vaccinators up the Missouri beyond the Arikara. Entire villages died; the Mandan were nearly wiped out. Survivors of the Mandan, Hidatsa and Arikara later joined together as the Three Affiliated Tribes.
+  fr: >-
+    Épidémie de variole parmi les peuples autochtones des Grandes Plaines, déclenchée au printemps 1837 quand le vapeur St. Peter’s de l’American Fur Company a transporté des malades et des marchandises contaminées sur le Missouri jusqu’aux postes de traite comme Fort Clark et Fort Union. Beaucoup n’étaient ni immunisés ni vaccinés : en 1832, le gouvernement américain avait refusé d’envoyer des vaccinateurs au-delà des Arikaras. Des villages entiers ont péri et les Mandanes ont été presque anéantis. Les survivants mandanes, hidatsas et arikaras ont formé les Trois Tribus affiliées.
+categories: [epidemic]
+kind: event
+start: "1837"
+end: "1838"
+deaths:
+  best: 17000
+  low: 15000
+  note:
+    en: >-
+      Estimates; no count was made. Best is the commonly cited figure of more than 17,000 deaths along the Missouri River alone (Wikipedia, based on the 1839 report of the US Commissioner of Indian Affairs, who gave 17,200 for the upper Missouri tribes and thought the toll east of the Rocky Mountains could be twice as high). Low is the estimate of more than 15,000 deaths given by the State Historical Society of North Dakota. Deaths elsewhere, as the epidemic spread until 1840, are not included.
+    fr: >-
+      Estimations ; aucun décompte n’a été fait. L’estimation retenue est le chiffre couramment cité de plus de 17 000 morts le long du seul Missouri (Wikipédia, d’après le rapport de 1839 du commissaire américain aux Affaires indiennes, qui donnait 17 200 morts pour les tribus du haut Missouri et jugeait que le bilan à l’est des Rocheuses pouvait être deux fois plus élevé). Le bas est l’estimation de plus de 15 000 morts de la Société historique du Dakota du Nord. Les morts ailleurs, l’épidémie s’étant étendue jusqu’en 1840, ne sont pas comptés.
+countries:
+  - { code: US, deaths: 17000 }
+sources:
+  - title: 1837 Great Plains smallpox epidemic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1837_Great_Plains_smallpox_epidemic
+    accessed: "2026-10-22"
+  - title: "Section 4: Tragedy (North Dakota Studies)"
+    publisher: State Historical Society of North Dakota
+    url: https://www.ndstudies.gov/gr4/frontier-era-north-dakota/part-4-missouri-river-fur-trade/section-4-tragedy
+    accessed: "2026-10-22"
+  - title: "1837-38: Smallpox decimates tribes; survivors join together (Native Voices)"
+    publisher: U.S. National Library of Medicine
+    url: https://www.nlm.nih.gov/nativevoices/timeline/293.html
+    accessed: "2026-10-22"
+reviewed: false

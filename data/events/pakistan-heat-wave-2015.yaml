@@ -1,0 +1,41 @@
+id: pakistan-heat-wave-2015
+title:
+  en: 2015 Pakistan heat wave
+  fr: Canicule de 2015 au Pakistan
+description:
+  en: >-
+    In late June 2015, during the fasting month of Ramadan, a severe heat wave struck southern Pakistan, peaking on 20 June with temperatures up to 45 °C in Karachi, the city's highest since 1979, and up to 49 °C in the region. Long power cuts forced many residents to spend nights outdoors, hospitals treated tens of thousands of heatstroke patients, and morgues ran out of space. Most of the dead were in Karachi, many of them elderly.
+  fr: >-
+    Fin juin 2015, pendant le mois de jeûne du ramadan, une forte canicule a frappé le sud du Pakistan, culminant le 20 juin avec jusqu’à 45 °C à Karachi, record pour la ville depuis 1979, et jusqu’à 49 °C dans la région. De longues coupures de courant ont poussé de nombreux habitants à passer la nuit dehors, les hôpitaux ont soigné des dizaines de milliers de victimes de coups de chaleur et les morgues ont manqué de place. La plupart des morts étaient à Karachi, beaucoup d’entre eux âgés.
+categories: [natural-disaster]
+kind: event
+start: "2015-06-18"
+end: "2015-06"
+deaths:
+  best: 1332
+  high: 2000
+  note:
+    en: >-
+      Best is the Sindh government toll reported by Dawn on 30 June 2015: 1,332 deaths since 20 June, 1,234 in Karachi and 98 in other districts. High is the estimate of about 2,000 deaths (1,500 in Karachi and 500 elsewhere in Sindh) given on 24 June by the Edhi Foundation, which ran Karachi's largest ambulance service and morgue, and used by Wikipedia.
+    fr: >-
+      L’estimation centrale est le bilan du gouvernement du Sind rapporté par Dawn le 30 juin 2015 : 1 332 morts depuis le 20 juin, dont 1 234 à Karachi et 98 dans d’autres districts. La borne haute est l’estimation d’environ 2 000 morts (1 500 à Karachi et 500 ailleurs dans le Sind) donnée le 24 juin par la Fondation Edhi, qui gérait le principal service d’ambulances et la morgue de Karachi, et reprise par Wikipédia.
+countries:
+  - { code: PK, deaths: 1332 }
+sources:
+  - title: 2015 Pakistan heat wave
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2015_Pakistan_heat_wave
+    accessed: "2026-10-22"
+  - title: Heatstroke leaves another 26 dead in Sindh
+    publisher: Dawn
+    url: https://www.dawn.com/news/1191234/heatstroke-leaves-another-26-dead-in-sindh
+    accessed: "2026-10-22"
+  - title: "Heat Wave Death Toll Rises to 2,000 in Pakistan's Financial Hub"
+    publisher: Bloomberg (Internet Archive copy)
+    url: https://web.archive.org/web/20150822054339/http://www.bloomberg.com/news/articles/2015-06-24/heat-wave-death-toll-rises-to-2-000-in-pakistan-s-financial-hub
+    accessed: "2026-10-22"
+  - title: "Heat wave in southern Pakistan kills more than 1,200 people: official"
+    publisher: Global News (The Associated Press)
+    url: https://globalnews.ca/news/2079459/heat-wave-in-southern-pakistan-kills-more-than-1200-people-official/
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,37 @@
+id: holodomor
+title:
+  en: Holodomor
+  fr: Holodomor
+description:
+  en: >-
+    Man-made famine in Soviet Ukraine in 1932-1933, part of the wider Soviet famine. Excessive grain quotas, collectivisation, house searches that seized all food from peasant households, the blacklisting of villages and districts, and a ban on peasants leaving Ukraine and the Kuban turned harvest shortfalls into mass starvation, accompanied by repression of Ukrainian culture and elites. Whether the famine was deliberately aimed at Ukrainians is debated by historians; Ukraine, more than 30 other states and the European Parliament recognise it as a genocide.
+  fr: >-
+    Famine provoquée par l’homme en Ukraine soviétique en 1932-1933, dans le cadre de la famine soviétique. Quotas de grain excessifs, collectivisation, perquisitions saisissant toute la nourriture des foyers, mise à l’index de villages et de districts et interdiction aux paysans de quitter l’Ukraine et le Kouban ont mué les mauvaises récoltes en famine de masse, sur fond de répression de la culture et des élites ukrainiennes. Les historiens débattent de l’intention de viser les Ukrainiens ; l’Ukraine, plus de 30 autres États et le Parlement européen la reconnaissent comme un génocide.
+categories: [famine, genocide]
+kind: event
+start: "1932"
+end: "1933"
+deaths:
+  best: 3900000
+  low: 3000000
+  high: 5000000
+  note:
+    en: "Excess deaths in the Ukrainian SSR; deaths of Ukrainians in the Kuban (Russia) and Kazakhstan are not included. Best: 3.9 million, the estimate of a team of Ukrainian demographers cited by Britannica and Wikipedia. Low: 3 million, the World Peace Foundation figure and the bottom of Stanislav Kulchytsky's 3 to 3.5 million; Timothy Snyder estimates about 3.3 million. High: 5 million, the top of the 3.5 to 5 million range of recent scholarship given by Wikipedia. Older political claims of 7 to 10 million are rejected by historians such as Snyder and Stephen Wheatcroft."
+    fr: "Surmortalité en RSS d’Ukraine ; les morts ukrainiens du Kouban (Russie) et du Kazakhstan ne sont pas inclus. Valeur centrale : 3,9 millions, estimation d’une équipe de démographes ukrainiens citée par Britannica et Wikipédia. Bas : 3 millions, chiffre de la World Peace Foundation et bas de la fourchette de 3 à 3,5 millions de Stanislav Koultchytsky ; Timothy Snyder estime environ 3,3 millions. Haut : 5 millions, haut de la fourchette de 3,5 à 5 millions des travaux récents selon Wikipédia. Les chiffres politiques de 7 à 10 millions avancés autrefois sont rejetés par des historiens comme Snyder et Stephen Wheatcroft."
+countries:
+  - { code: UA, deaths: 3900000 }
+partOf: soviet-famine-1932
+sources:
+  - title: Holodomor
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Holodomor
+    accessed: "2026-10-22"
+  - title: Holodomor
+    publisher: Encyclopaedia Britannica
+    url: https://www.britannica.com/event/Holodomor
+    accessed: "2026-10-22"
+  - title: Famines and the deaths in them
+    publisher: Our World in Data (World Peace Foundation data)
+    url: https://ourworldindata.org/grapher/famines-and-the-deaths-in-them
+    accessed: "2026-10-22"
+reviewed: false

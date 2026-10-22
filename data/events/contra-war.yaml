@@ -1,0 +1,33 @@
+id: contra-war
+title:
+  en: Contra War
+  fr: Guerre des Contras
+description:
+  en: >-
+    War between the Sandinista government of Nicaragua and the Contras, rebel groups formed after the 1979 revolution and armed, trained and funded by the United States, operating largely from Honduras. The Contras attacked government forces, officials and civilians, while the government introduced conscription and relocated Miskito communities on the Atlantic coast. The CIA helped mine Nicaraguan harbours, and secret funding of the Contras led to the Iran-Contra affair. Peace accords from 1988 led to demobilisation and to the 1990 elections, which the Sandinistas lost.
+  fr: >-
+    Guerre entre le gouvernement sandiniste du Nicaragua et les Contras, groupes rebelles formés après la révolution de 1979, armés et financés par les États-Unis et basés surtout au Honduras. Les Contras attaquent forces gouvernementales, responsables et civils, tandis que le gouvernement instaure la conscription et déplace des communautés miskitos. La CIA aide à miner des ports nicaraguayens, et le financement secret des Contras mène à l’affaire Iran-Contra. Des accords de paix à partir de 1988 mènent à la démobilisation et aux élections de 1990, perdues par les sandinistes.
+categories: [war]
+kind: event
+start: "1981"
+end: "1990-04-25"
+deaths:
+  best: 30000
+  low: 29113
+  high: 43000
+  note:
+    en: Military and civilian deaths. Best is the 30,000 used as the best estimate by the PRIO Battle Deaths dataset, also the total given by Eckhardt and the SIPRI yearbooks' "more than 30,000" military fatalities. Low is the 29,113 deaths recorded up to 1 January 1989, after which Clodfelter judges the final toll "considerably above 30,000"; high is the 43,000 deaths of the Correlates of War dataset (all in PRIO's documentation). Wikipedia gives 32,000 to 43,000 killed in 1981-1990, including 3,800 civilians reported dead.
+    fr: Morts militaires et civiles. L’estimation centrale correspond aux 30 000 morts retenus comme meilleure estimation par le jeu de données PRIO sur les morts au combat, également le total d’Eckhardt et les « plus de 30 000 » morts militaires des annuaires du SIPRI. Le bas correspond aux 29 113 morts recensés jusqu’au 1er janvier 1989, Clodfelter estimant le bilan final « nettement supérieur à 30 000 » ; le haut aux 43 000 morts du jeu de données Correlates of War (tous cités par la documentation du PRIO). Wikipédia indique 32 000 à 43 000 tués en 1981-1990, dont 3 800 civils signalés.
+countries:
+  - { code: NI, deaths: 30000 }
+related: [nicaraguan-revolution, salvadoran-civil-war]
+sources:
+  - title: "Nicaraguan Revolution: Contra war"
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Nicaraguan_Revolution
+    accessed: "2026-10-22"
+  - title: "The PRIO Battle Deaths Dataset, 1946-2008, Version 3.0: Documentation of Coding Decisions (Lacina), Nicaragua"
+    publisher: Peace Research Institute Oslo (PRIO)
+    url: https://cdn.cloud.prio.org/files/91648bba-8885-40ce-8a78-fae75c850c55/PRIO%20Battle%20Deaths%20Dataset%2030%20Documentation.pdf
+    accessed: "2026-10-22"
+reviewed: false

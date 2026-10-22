@@ -1,0 +1,32 @@
+id: peshawar-school-massacre
+title:
+  en: 2014 Peshawar school massacre
+  fr: Massacre de l’école de Peshawar
+description:
+  en: >-
+    Attack on the Army Public School in Peshawar, in north-western Pakistan, by gunmen of the Pakistani Taliban (Tehrik-i-Taliban Pakistan) on 16 December 2014. Wearing explosive vests, they scaled the school walls during the morning and opened fire on pupils and staff, including children gathered in the auditorium. All the attackers were killed in an operation by army special forces, which rescued hundreds of pupils. The massacre led Pakistan to adopt a National Action Plan against terrorism.
+  fr: >-
+    Attaque de l’école publique de l’armée (Army Public School) de Peshawar, dans le nord-ouest du Pakistan, par des hommes armés des talibans pakistanais (Tehrik-i-Taliban Pakistan) le 16 décembre 2014. Portant des ceintures d’explosifs, ils escaladent les murs de l’école dans la matinée et ouvrent le feu sur les élèves et le personnel, notamment sur des enfants réunis dans l’auditorium. Tous les assaillants sont tués lors de l’intervention des forces spéciales de l’armée, qui évacuent des centaines d’élèves. Le massacre conduit le Pakistan à adopter un plan national contre le terrorisme.
+categories: [genocide]
+kind: event
+start: "2014-12-16"
+deaths:
+  best: 149
+  low: 141
+  note:
+    en: >-
+      People killed by the attackers, including 132 schoolchildren and 9 school staff members; best is the toll of 149 given by Wikipedia, whose total of 155 deaths includes the six attackers, who are not counted here. Low is the first toll announced by the army on the day of the attack, 141 dead including 132 children and nine staff (BBC News), which reported seven attackers.
+    fr: >-
+      Personnes tuées par les assaillants, dont 132 élèves et 9 membres du personnel ; l’estimation centrale est le bilan de 149 morts donné par Wikipédia, dont le total de 155 morts inclut les six assaillants, non comptés ici. Le bas est le premier bilan annoncé par l’armée le jour de l’attaque, 141 morts dont 132 enfants et neuf membres du personnel (BBC News), qui faisait état de sept assaillants.
+countries:
+  - { code: PK, deaths: 149 }
+sources:
+  - title: 2014 Peshawar school massacre
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2014_Peshawar_school_massacre
+    accessed: "2026-10-22"
+  - title: "Pakistan Taliban: Peshawar school attack leaves 141 dead"
+    publisher: BBC News
+    url: https://www.bbc.com/news/world-asia-30491435
+    accessed: "2026-10-22"
+reviewed: false

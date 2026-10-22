@@ -1,0 +1,32 @@
+id: backerganj-cyclone-1876
+title:
+  en: 1876 Backerganj cyclone
+  fr: Cyclone de Backerganj de 1876
+description:
+  en: >-
+    A severe cyclone from the Bay of Bengal struck the coast of Backerganj district in British India, near the Meghna estuary in present-day Bangladesh, on the night of 31 October 1876. A storm surge estimated at about 12 metres swept over the low-lying islands and coasts of Barisal, Noakhali and Chittagong, drowning people and cattle on a huge scale. Roughly half of the victims drowned; most of the others died in the epidemics and famine that followed in the devastated delta.
+  fr: >-
+    Un violent cyclone venu du golfe du Bengale a frappé la côte du district de Backerganj, en Inde britannique, près de l’estuaire de la Meghna dans l’actuel Bangladesh, dans la nuit du 31 octobre 1876. Une onde de tempête estimée à environ 12 mètres a submergé les îles basses et les côtes de Barisal, de Noakhali et de Chittagong, noyant hommes et bétail en masse. Environ la moitié des victimes se sont noyées ; la plupart des autres ont succombé aux épidémies et à la famine qui ont ensuite frappé le delta dévasté.
+categories: [natural-disaster]
+kind: event
+start: "1876-10-29"
+end: "1876-11-01"
+deaths:
+  best: 200000
+  note:
+    en: >-
+      About 200,000 deaths, half drowned by the storm surge and the rest from the famine that followed (Wikipedia, citing the SAARC Meteorological Research Centre and Banglapedia). Banglapedia says that about 200,000 people died during the storm itself and that perhaps more died of its after-effects, such as epidemics and famine, so the total may be higher. Higher, unsourced totals in the body of the Wikipedia article are not used.
+    fr: >-
+      Environ 200 000 morts, pour moitié noyés par l’onde de tempête et pour le reste victimes de la famine qui a suivi (Wikipédia, citant le Centre de recherche météorologique de l’ASACR et Banglapedia). Selon Banglapedia, environ 200 000 personnes sont mortes pendant la tempête elle-même et davantage encore, peut-être, de ses suites (épidémies et famine) : le total pourrait donc être plus élevé. Les totaux plus élevés et non sourcés du corps de l’article de Wikipédia ne sont pas retenus.
+countries:
+  - { code: BD, deaths: 200000 }
+sources:
+  - title: 1876 Bengal cyclone
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1876_Bengal_cyclone
+    accessed: "2026-10-22"
+  - title: Cyclone
+    publisher: Banglapedia (Asiatic Society of Bangladesh)
+    url: https://en.banglapedia.org/index.php/Cyclone
+    accessed: "2026-10-22"
+reviewed: false

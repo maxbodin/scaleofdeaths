@@ -1,0 +1,32 @@
+id: third-battle-of-nanking-1864
+title:
+  en: Third Battle of Nanking (1864)
+  fr: Troisième bataille de Nankin (1864)
+description:
+  en: >-
+    Final siege and capture of Nanjing (Tianjing), capital of the Taiping Heavenly Kingdom, by the Qing dynasty's Hunan Army under Zeng Guoquan, brother of Zeng Guofan. After months of blockade and the death of the Taiping leader Hong Xiuquan, Qing troops breached the walls with mines in July 1864. The city was then sacked: soldiers killed defenders and inhabitants, burned palaces and homes and carried off loot. The fall of Nanjing effectively ended the Taiping Rebellion.
+  fr: >-
+    Dernier siège et prise de Nankin (Tianjing), capitale du Royaume céleste des Taiping, par l’armée du Hunan de la dynastie Qing, menée par Zeng Guoquan, frère de Zeng Guofan. Après des mois de blocus et la mort du chef taiping Hong Xiuquan, les troupes Qing ouvrent une brèche dans les murailles à l’aide de mines en juillet 1864. La ville est alors mise à sac : les soldats tuent défenseurs et habitants, incendient palais et maisons et emportent le butin. La chute de Nankin met pratiquement fin à la révolte des Taiping.
+categories: [war]
+kind: event
+start: "1864-03-14"
+end: "1864-07-19"
+deaths:
+  best: 100000
+  high: 300000
+  note:
+    en: "Mostly Taiping fighters and inhabitants killed when the city fell. Best: 100,000 killed at Nanking, the figure of the 1992 Encyclopaedia Britannica (via Necrometrics), in line with Zeng Guofan's claim of 100,000 Taiping casualties (via Wikipedia). High: 300,000, the top of the 200,000 to 300,000 civilians massacred estimated by historian Guo Tingyi (via Wikipedia). On the Qing side, over 9,000 were killed and over 10,000 died of illness. These figures are rough."
+    fr: "Surtout des combattants taiping et des habitants tués lors de la chute de la ville. Estimation centrale : 100 000 tués à Nankin, chiffre de l’Encyclopaedia Britannica de 1992 (via Necrometrics), conforme à l’affirmation de Zeng Guofan de 100 000 pertes taiping (via Wikipédia). Haut : 300 000, sommet de l’estimation de 200 000 à 300 000 civils massacrés de l’historien Guo Tingyi (via Wikipédia). Côté Qing, plus de 9 000 hommes sont tués et plus de 10 000 meurent de maladie. Ces chiffres sont approximatifs."
+countries:
+  - { code: CN, deaths: 100000 }
+partOf: taiping-rebellion
+sources:
+  - title: Third Battle of Nanjing
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Third_Battle_of_Nanjing
+    accessed: "2026-10-22"
+  - title: Statistics of Wars, Oppressions and Atrocities of the Nineteenth Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/wars19c.htm
+    accessed: "2026-10-22"
+reviewed: false

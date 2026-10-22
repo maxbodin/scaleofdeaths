@@ -1,0 +1,31 @@
+id: east-timor-genocide
+title:
+  en: East Timor genocide
+  fr: Génocide au Timor oriental
+description:
+  en: >-
+    Mass killings, forced displacement and famine during Indonesia's invasion and occupation of East Timor, from December 1975 until the territory's vote for independence in 1999. Indonesian military campaigns against the Fretilin resistance in the late 1970s drove much of the population into Indonesian-controlled camps, where many died of famine and disease. Most deaths occurred in the late 1970s and early 1980s; later violence included the 1991 Santa Cruz massacre in Dili. Many scholars, such as Ben Kiernan, call the campaign a genocide; others dispute the term.
+  fr: >-
+    Massacres, déplacements forcés et famine pendant l’occupation indonésienne du Timor oriental, de l’invasion de décembre 1975 au vote pour l’indépendance de 1999. À la fin des années 1970, les offensives contre la résistance du Fretilin poussèrent une grande partie de la population dans des camps sous contrôle indonésien, où beaucoup moururent de faim et de maladie. La plupart des décès datent de la fin des années 1970 et du début des années 1980 ; suivit le massacre de Santa Cruz à Dili en 1991. Nombre de chercheurs, comme Ben Kiernan, parlent de génocide ; d’autres contestent le terme.
+categories: [genocide]
+kind: event
+start: "1975-12-07"
+end: "1999"
+deaths:
+  best: 102800
+  high: 183000
+  note:
+    en: Conflict-related civilian deaths over 1974-1999, the reference period of Timor-Leste's truth commission (CAVR), which also covers the brief 1975 civil war; combatant deaths are excluded. Best is the CAVR minimum estimate of 102,800 (plus or minus 12,000), computed by the Human Rights Data Analysis Group, of which about 18,600 were killings and disappearances and about 84,200 excess deaths from hunger and illness. High is the CAVR upper-bound estimate of 183,000 for hunger and illness deaths alone. Other published estimates range from 60,000 to 308,000 (Wikipedia); Ben Kiernan considers a toll of 150,000 likely close to the truth.
+    fr: Morts civiles liées au conflit sur 1974-1999, période de référence de la commission vérité du Timor-Leste (CAVR), qui inclut la brève guerre civile de 1975 ; les combattants tués ne sont pas comptés. L’estimation centrale est le minimum de la CAVR, 102 800 morts (à plus ou moins 12 000 près), calculé par le Human Rights Data Analysis Group, dont environ 18 600 tués et disparus et environ 84 200 morts de faim et de maladie en excès. La valeur haute est l’estimation maximale de la CAVR pour les seuls morts de faim et de maladie, 183 000. D’autres estimations publiées vont de 60 000 à 308 000 (Wikipédia) ; Ben Kiernan juge un bilan de 150 000 morts proche de la vérité.
+countries:
+  - { code: TL, deaths: 102800 }
+sources:
+  - title: East Timor genocide
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/East_Timor_genocide
+    accessed: "2026-10-22"
+  - title: Timor-Leste FAQs
+    publisher: Human Rights Data Analysis Group
+    url: https://hrdag.org/timorlestefaqs/
+    accessed: "2026-10-22"
+reviewed: false

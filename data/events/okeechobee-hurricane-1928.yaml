@@ -1,0 +1,45 @@
+id: okeechobee-hurricane-1928
+title:
+  en: 1928 Okeechobee hurricane
+  fr: Ouragan d’Okeechobee de 1928
+description:
+  en: >-
+    The hurricane struck Guadeloupe on 12 September 1928 and hit Puerto Rico the next day as a Category 5 storm, the only one on record to strike the island at that strength, leaving over 500,000 people homeless there. After crossing the Bahamas, it made landfall near West Palm Beach, Florida, early on 17 September. At Lake Okeechobee the storm surge overflowed the small dike on the south shore and flooded hundreds of square miles; about three quarters of the dead were migrant farm workers.
+  fr: >-
+    L’ouragan a frappé la Guadeloupe le 12 septembre 1928, puis Porto Rico le lendemain en catégorie 5, seul cyclone connu à avoir atteint l’île avec cette intensité, y laissant plus de 500 000 sans-abri. Après avoir traversé les Bahamas, il a touché terre près de West Palm Beach, en Floride, tôt le 17 septembre. Au lac Okeechobee, l’onde de tempête a submergé la petite digue de la rive sud et inondé des centaines de kilomètres carrés ; environ trois quarts des morts étaient des ouvriers agricoles saisonniers.
+categories: [natural-disaster]
+kind: event
+start: "1928-09-06"
+end: "1928-09-21"
+deaths:
+  best: 4114
+  low: 3411
+  note:
+    en: >-
+      Best is the total of at least 4,114 deaths given by Wikipedia, with per-country figures from the same source: at least 2,511 in the United States (2,500 in Florida, a figure revised upwards in 2003), 1,200 in Guadeloupe, 312 in Puerto Rico and smaller numbers on other islands. NOAA gives 2,500 to 3,000 deaths for Florida. Low is the total of 3,411 long cited by older sources and listed by the NOAA National Hurricane Center.
+    fr: >-
+      L’estimation centrale est le total d’au moins 4 114 morts donné par Wikipédia, avec les chiffres par pays de la même source : au moins 2 511 aux États-Unis (2 500 en Floride, chiffre revu à la hausse en 2003), 1 200 en Guadeloupe, 312 à Porto Rico et quelques dizaines sur d’autres îles. La NOAA donne 2 500 à 3 000 morts pour la Floride. L’estimation basse est le total de 3 411 longtemps cité par les sources anciennes et repris par le National Hurricane Center de la NOAA.
+countries:
+  - { code: US, deaths: 2511 }
+  - { code: GP, deaths: 1200 }
+  - { code: PR, deaths: 312 }
+  - { code: MS, deaths: 42 }
+  - { code: KN, deaths: 22 }
+  - { code: TC, deaths: 18 }
+  - { code: MQ, deaths: 3 }
+  - { code: BS, deaths: 3 }
+  - { code: DM, deaths: 1 }
+sources:
+  - title: 1928 Okeechobee hurricane
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1928_Okeechobee_hurricane
+    accessed: "2026-10-22"
+  - title: Hurricane FAQ
+    publisher: NOAA Atlantic Oceanographic and Meteorological Laboratory
+    url: https://www.aoml.noaa.gov/hrd-faq/
+    accessed: "2026-10-22"
+  - title: "The Deadliest Atlantic Tropical Cyclones, 1492-1996: Appendix 1"
+    publisher: NOAA National Hurricane Center
+    url: https://www.nhc.noaa.gov/pastdeadlyapp1.shtml
+    accessed: "2026-10-22"
+reviewed: false

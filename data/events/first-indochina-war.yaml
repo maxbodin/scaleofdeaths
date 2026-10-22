@@ -1,0 +1,35 @@
+id: first-indochina-war
+title:
+  en: First Indochina War
+  fr: Guerre d’Indochine
+description:
+  en: >-
+    War between France, with its French Union forces and the State of Vietnam it set up in 1949, and the Viet Minh independence movement led by Ho Chi Minh. Low-level fighting followed the French return to southern Vietnam in 1945, and all-out war broke out in December 1946. From 1950 it became largely a conventional war, with China aiding the Viet Minh and the United States aiding France. Both sides committed war crimes, including killings of civilians. The French defeat at Dien Bien Phu in 1954 led to the Geneva Conference and the partition of Vietnam.
+  fr: >-
+    Guerre opposant la France, avec les forces de l’Union française et l’État du Viêt Nam créé en 1949, au Viet Minh indépendantiste dirigé par Hô Chi Minh. Des combats de faible intensité suivent le retour des Français dans le sud du Viêt Nam en 1945, et la guerre ouverte éclate en décembre 1946. À partir de 1950, elle devient surtout conventionnelle, la Chine aidant le Viet Minh et les États-Unis la France. Les deux camps commettent des crimes de guerre, dont des massacres de civils. La défaite française à Diên Biên Phu en 1954 mène à la conférence de Genève et à la partition du Viêt Nam.
+categories: [war]
+kind: event
+start: "1946-12-19"
+end: "1954-08-11"
+deaths:
+  best: 400000
+  high: 842707
+  note:
+    en: Military and civilian deaths. Best is Matthew White's estimate (Necrometrics), also the figure given by Stanley Karnow and the low end of the 400,000 to 842,707 total on Wikipedia. High is T. Lomperis's total (92,707 French Union dead, over 500,000 Viet Minh and 250,000 civilians). Viet Minh losses are the most uncertain (175,000 to 300,000 dead or missing by Western estimates; 191,605 by the Vietnamese government), and civilian deaths range from 125,000 to 400,000. The French Union lost 74,220 dead (Clodfelter), of whom 20,685 were French; the others were legionnaires, African and Indochinese soldiers. The French figure is the only per-country figure shown.
+    fr: Morts militaires et civiles. L’estimation centrale est celle de Matthew White (Necrometrics), également avancée par Stanley Karnow et bas de la fourchette de 400 000 à 842 707 morts de Wikipédia. Le haut est le total de T. Lomperis (92 707 morts de l’Union française, plus de 500 000 du Viet Minh et 250 000 civils). Les pertes du Viet Minh sont les plus incertaines (175 000 à 300 000 morts ou disparus selon les estimations occidentales ; 191 605 selon le gouvernement vietnamien) et les morts civiles vont de 125 000 à 400 000. L’Union française a perdu 74 220 morts (Clodfelter), dont 20 685 Français ; les autres étaient des légionnaires et des soldats africains et indochinois. Le chiffre français est le seul chiffre par pays indiqué.
+countries:
+  - { code: VN }
+  - { code: FR, deaths: 20685 }
+  - { code: LA }
+  - { code: KH }
+related: [vietnam-war]
+sources:
+  - title: First Indochina War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/First_Indochina_War
+    accessed: "2026-10-22"
+  - title: "Secondary Wars and Atrocities of the Twentieth Century: First Indochina War (1945-54)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c300k.htm
+    accessed: "2026-10-22"
+reviewed: false

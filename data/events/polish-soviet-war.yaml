@@ -1,0 +1,39 @@
+id: polish-soviet-war
+title:
+  en: Polish-Soviet War
+  fr: Guerre soviéto-polonaise
+description:
+  en: >-
+    War between the newly independent Second Polish Republic and Soviet Russia over the borderlands of present-day Ukraine, Belarus and Lithuania. A Polish offensive took Kyiv in May 1920, but the Red Army counter-attacked and advanced to the gates of Warsaw, where it was defeated in August 1920. The Peace of Riga in 1921 divided the disputed territories. Large numbers of prisoners of war on both sides died of disease and hunger in captivity.
+  fr: >-
+    Guerre entre la Deuxième République de Pologne, nouvellement indépendante, et la Russie soviétique pour les confins correspondant à l’Ukraine, à la Biélorussie et à la Lituanie actuelles. Une offensive polonaise prend Kiev en mai 1920, mais l’Armée rouge contre-attaque et s’avance jusqu’aux portes de Varsovie, où elle est battue en août 1920. La paix de Riga, en 1921, partage les territoires disputés. De nombreux prisonniers de guerre des deux camps meurent de maladie et de faim en captivité.
+categories: [war]
+kind: event
+start: "1919-02"
+end: "1921-03-18"
+deaths:
+  best: 100000
+  note:
+    en: "Mostly military deaths. Best: about 100,000 people killed, the figure given by Wikipedia and by Singer and Small (via Necrometrics). Per-country figures are the Correlates of War project's battle deaths: 60,000 for Soviet Russia and 40,000 for Poland; Polish historian Andrzej Chwalba gives 47,551 Polish dead (via Wikipedia). Of the 80,000 to 85,000 Soviet prisoners held by Poland, 16,000 to 20,000 died in captivity; it is not clear whether they are included. Some deaths may also be counted in estimates of the Russian Civil War. No range was found."
+    fr: "Morts surtout militaires. Estimation centrale : environ 100 000 morts, chiffre donné par Wikipédia et par Singer et Small (via Necrometrics). Les chiffres par pays sont les morts au combat du projet Correlates of War : 60 000 pour la Russie soviétique et 40 000 pour la Pologne ; l’historien polonais Andrzej Chwalba donne 47 551 morts polonais (via Wikipédia). Sur les 80 000 à 85 000 prisonniers soviétiques détenus par la Pologne, 16 000 à 20 000 sont morts en captivité ; on ignore s’ils sont inclus. Certaines morts peuvent aussi être comptées dans les estimations de la guerre civile russe. Aucune fourchette n’a été trouvée."
+countries:
+  - { name: { en: Soviet Russia, fr: Russie soviétique }, deaths: 60000 }
+  - { code: PL, deaths: 40000 }
+  - { code: UA }
+  - { code: BY }
+  - { code: LT }
+related: [russian-civil-war]
+sources:
+  - title: Polish-Soviet War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Polish%E2%80%93Soviet_War
+    accessed: "2026-10-22"
+  - title: Inter-State War Data, v4.0 (war 109, Russo-Polish)
+    publisher: Correlates of War Project
+    url: https://correlatesofwar.org/wp-content/uploads/Inter-StateWarData_v4.0.csv
+    accessed: "2026-10-22"
+  - title: Twentieth Century Atlas - Death Tolls (100,000 to 300,000)
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c100k.htm
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,40 @@
+id: sudanese-civil-war-2023
+title:
+  en: Sudanese civil war (since 2023)
+  fr: Guerre civile soudanaise (depuis 2023)
+description:
+  en: >-
+    War between the Sudanese Armed Forces led by General Abdel Fattah al-Burhan and the paramilitary Rapid Support Forces (RSF) led by Mohamed Hamdan Dagalo (Hemedti), which broke out in Khartoum on 15 April 2023 and spread across the country. Fighting, air and drone strikes, sieges and mass killings in Darfur, including in El Geneina and El Fasher, together with the collapse of food supplies and health care, have caused famine and the world's largest displacement crisis.
+  fr: >-
+    Guerre entre les Forces armées soudanaises du général Abdel Fattah al-Burhan et les Forces de soutien rapide (FSR), paramilitaires dirigés par Mohamed Hamdan Daglo (Hemetti), qui éclate à Khartoum le 15 avril 2023 et s’étend à tout le pays. Combats, frappes aériennes et de drones, sièges et massacres au Darfour, notamment à El Geneina et El Fasher, ajoutés à l’effondrement de l’approvisionnement alimentaire et des soins, provoquent une famine et la plus grave crise de déplacement au monde.
+categories: [war]
+kind: event
+start: "2023-04-15"
+ongoing: true
+asOf: "2026-04-17"
+deaths:
+  best: 150000
+  low: 58000
+  high: 400000
+  note:
+    en: >-
+      Deaths from violence, hunger and disease; the toll is highly uncertain because of restricted access and communications. Best is the most widely cited estimate of over 150,000 deaths (BBC, November 2025), the low end of the 150,000 to 400,000 range of estimates cited by the Center for Strategic and International Studies in April 2026; high is the upper end of that range. Low is the number of fatalities reported in the media and tracked by ACLED (over 58,000 by April 2026), which counts only reported deaths from violence. A 2024 study by the London School of Hygiene and Tropical Medicine estimated over 61,000 deaths in Khartoum State alone between April 2023 and June 2024 (Wikipedia).
+    fr: >-
+      Morts dues à la violence, à la faim et aux maladies ; le bilan est très incertain en raison des restrictions d’accès et de communication. L’estimation centrale est le chiffre le plus cité, plus de 150 000 morts (BBC, novembre 2025), bas de la fourchette d’estimations de 150 000 à 400 000 citée par le Center for Strategic and International Studies en avril 2026 ; le haut est le sommet de cette fourchette. Le bas est le nombre de morts signalées et recensées par ACLED (plus de 58 000 en avril 2026), qui ne compte que les morts violentes rapportées. Une étude de la London School of Hygiene and Tropical Medicine (2024) estimait à plus de 61 000 le nombre de morts dans le seul État de Khartoum entre avril 2023 et juin 2024 (Wikipédia).
+countries:
+  - { code: SD, deaths: 150000 }
+related: [darfur-genocide]
+sources:
+  - title: Sudanese civil war (2023-present)
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Sudanese_civil_war_(2023%E2%80%93present)
+    accessed: "2026-10-22"
+  - title: The Sudan War in 10 Charts
+    publisher: Center for Strategic and International Studies (CSIS)
+    url: https://www.csis.org/analysis/sudan-war-10-charts
+    accessed: "2026-10-22"
+  - title: A simple guide to what is happening in Sudan
+    publisher: BBC News
+    url: https://www.bbc.com/news/articles/cjel2nn22z9o
+    accessed: "2026-10-22"
+reviewed: false

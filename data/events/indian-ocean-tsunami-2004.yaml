@@ -1,0 +1,47 @@
+id: indian-ocean-tsunami-2004
+title:
+  en: 2004 Indian Ocean earthquake and tsunami
+  fr: Séisme et tsunami de 2004 dans l’océan Indien
+description:
+  en: >-
+    On 26 December 2004 a magnitude 9.1 to 9.3 megathrust earthquake off the west coast of northern Sumatra, Indonesia, generated tsunami waves up to 30 metres high that struck coastlines around the Indian Ocean, from Indonesia, Sri Lanka, India and Thailand to Somalia and Tanzania. Most victims drowned and Aceh province was the worst hit. About 1.7 million people were displaced and thousands of foreign tourists died. It is the deadliest tsunami in recorded history.
+  fr: >-
+    Le 26 décembre 2004, un séisme de mégachevauchement de magnitude 9,1 à 9,3 au large de la côte ouest du nord de Sumatra (Indonésie) a provoqué des vagues atteignant 30 mètres qui ont frappé les côtes de l’océan Indien, de l’Indonésie, du Sri Lanka, de l’Inde et de la Thaïlande jusqu’à la Somalie et la Tanzanie. La plupart des victimes sont mortes noyées et la province d’Aceh a été la plus touchée. Environ 1,7 million de personnes ont été déplacées et des milliers de touristes étrangers ont péri. C’est le tsunami le plus meurtrier de l’histoire.
+categories: [natural-disaster]
+kind: event
+start: "2004-12-26"
+deaths:
+  best: 227898
+  high: 229866
+  note:
+    en: Dead plus missing presumed dead in 14 countries. Best is the final Tsunami Evaluation Coalition total, also used by USGS; high is the total of the UN Office of the Special Envoy for Tsunami Recovery. Recovered and confirmed bodies alone numbered about 184,000 to 187,000. A January 2005 count of 286,000 was revised down after Indonesia cut its number of missing by over 50,000. Per-country figures (dead and missing) come from the Wikipedia table; Myanmar is the low end of its 400 to 600 estimate (official count 61) and the UN gives 18,045 for India.
+    fr: Morts et disparus présumés morts dans 14 pays. L’estimation centrale est le bilan final de la Tsunami Evaluation Coalition, repris par l’USGS ; le haut de la fourchette est le total du Bureau de l’envoyé spécial de l’ONU pour le relèvement après le tsunami. Les seuls corps retrouvés et confirmés étaient environ 184 000 à 187 000. Un bilan de 286 000 en janvier 2005 a été revu à la baisse quand l’Indonésie a réduit de plus de 50 000 son nombre de disparus. Les chiffres par pays (morts et disparus) viennent du tableau de Wikipédia ; pour la Birmanie, bas de l’estimation de 400 à 600 (bilan officiel de 61) ; l’ONU donne 18 045 pour l’Inde.
+countries:
+  - { code: ID, deaths: 167540 }
+  - { code: LK, deaths: 35322 }
+  - { code: IN, deaths: 16269 }
+  - { code: TH, deaths: 8212 }
+  - { code: MM, deaths: 400 }
+  - { code: SO, deaths: 289 }
+  - { code: MV, deaths: 108 }
+  - { code: MY, deaths: 75 }
+  - { code: TZ, deaths: 13 }
+  - { code: SC, deaths: 3 }
+  - { code: BD, deaths: 2 }
+  - { code: ZA, deaths: 2 }
+  - { code: YE, deaths: 2 }
+  - { code: KE, deaths: 1 }
+sources:
+  - title: 2004 Indian Ocean earthquake and tsunami
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami
+    accessed: "2026-10-22"
+  - title: The Human Toll (archived)
+    publisher: UN Office of the Special Envoy for Tsunami Recovery
+    url: https://web.archive.org/web/20060423184048/http://www.tsunamispecialenvoy.org/country/humantoll.asp
+    accessed: "2026-10-22"
+  - title: Earthquakes with 50,000 or More Deaths (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20130507101448/http://earthquake.usgs.gov/earthquakes/world/most_destructive.php
+    accessed: "2026-10-22"
+reviewed: false

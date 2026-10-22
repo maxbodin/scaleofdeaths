@@ -1,0 +1,31 @@
+id: antioch-earthquake-526
+title:
+  en: 526 Antioch earthquake
+  fr: Séisme de 526 à Antioche
+description:
+  en: >-
+    An earthquake estimated at magnitude 7.0 struck Antioch, in the Byzantine Empire (now Antakya, Turkey), in late May 526. Only houses close to the mountain were said to have survived, and wind-driven fires burned for days, destroying most of what was left standing, including the Great Church. The city was crowded with visitors for Ascension Day. The Patriarch Euphrasius was among the dead, and survivors fleeing the ruins were robbed and killed. The main account is the chronicle of John Malalas, a native of Antioch.
+  fr: >-
+    Un séisme estimé à une magnitude de 7,0 a frappé Antioche, dans l’Empire byzantin (aujourd’hui Antakya, en Turquie), à la fin de mai 526. Seules les maisons proches de la montagne auraient résisté, et des incendies attisés par le vent ont brûlé pendant des jours, détruisant presque tout ce qui restait debout, dont la Grande Église. La ville était remplie de visiteurs venus pour l’Ascension. Le patriarche Euphrasius compte parmi les morts, et des survivants qui fuyaient les ruines ont été dépouillés et tués. Le récit principal est la chronique de Jean Malalas, natif d’Antioche.
+categories: [natural-disaster]
+kind: event
+start: "0526-05"
+deaths:
+  best: 250000
+  high: 300000
+  note:
+    en: Figures come from Byzantine chronicles, chiefly John Malalas, and cannot be checked. Best is the most commonly reported figure, also used by the NOAA NCEI database; estimates go up to 300,000. They include the victims of the fires that followed the shock. No source splits the toll between present-day Turkey and Syria, but most deaths were in Antioch itself.
+    fr: Les chiffres proviennent de chroniques byzantines, surtout celle de Jean Malalas, et sont invérifiables. L’estimation centrale est le chiffre le plus souvent cité, repris par la base de données NCEI de la NOAA ; les estimations montent jusqu’à 300 000. Elles incluent les victimes des incendies qui ont suivi la secousse. Aucune source ne répartit le bilan entre la Turquie et la Syrie actuelles, mais la plupart des morts se trouvaient à Antioche même.
+countries:
+  - { code: TR }
+  - { code: SY }
+sources:
+  - title: 526 Antioch earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/526_Antioch_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Antakya (Antioch), event 131"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/131
+    accessed: "2026-10-22"
+reviewed: false

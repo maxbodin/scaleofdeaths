@@ -1,0 +1,35 @@
+id: mexico-smallpox-epidemic-1520
+title:
+  en: 1520 Mexico smallpox epidemic
+  fr: Épidémie de variole de 1520 au Mexique
+description:
+  en: >-
+    One of the first smallpox epidemics in the Americas, brought to Mexico in 1520 by members of Pánfilo de Narváez's Spanish expedition. It spread from the Gulf coast to Tlaxcala and reached Tenochtitlan in the autumn of 1520, while Hernán Cortés was preparing to retake the city. The Indigenous population had no immunity: the Aztec ruler Cuitláhuac and many other leaders died, and the toll weakened resistance to the Spanish conquest. Contemporary witnesses wrote that in many provinces more than half the population died.
+  fr: >-
+    L’une des premières épidémies de variole des Amériques, apportée au Mexique en 1520 par des membres de l’expédition espagnole de Pánfilo de Narváez. Partie de la côte du golfe, elle a gagné Tlaxcala puis Tenochtitlan à l’automne 1520, alors que Hernán Cortés s’apprêtait à reprendre la ville. Les Autochtones n’avaient aucune immunité : le souverain aztèque Cuitláhuac et de nombreux autres dirigeants en sont morts, ce qui a affaibli la résistance à la conquête espagnole. Selon des témoins, plus de la moitié de la population est morte dans bien des provinces.
+categories: [epidemic]
+kind: event
+start: "1519"
+end: "1520"
+deaths:
+  best: 5000000
+  low: 5000000
+  high: 8000000
+  note:
+    en: >-
+      Sources only give a range: the CDC's Emerging Infectious Diseases journal (Acuna-Soto et al., 2002) states that 5 to 8 million people perished in the smallpox epidemic of 1519 to 1520, and other estimates put mortality at a quarter to a half of the population of central Mexico. No source states a central estimate, so best uses the low end; Mexico's figure is the same low end.
+    fr: >-
+      Les sources ne donnent qu’une fourchette : la revue Emerging Infectious Diseases des CDC (Acuna-Soto et al., 2002) indique que 5 à 8 millions de personnes ont péri lors de l’épidémie de variole de 1519-1520, et d’autres estimations parlent d’un quart à la moitié de la population du centre du Mexique. Aucune source ne donne d’estimation centrale : l’estimation retenue est le bas de la fourchette, de même que le chiffre du Mexique.
+countries:
+  - { code: MX, deaths: 5000000 }
+related: [cocoliztli-epidemic-1545, cocoliztli-epidemic-1576]
+sources:
+  - title: History of smallpox in Mexico
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/History_of_smallpox_in_Mexico
+    accessed: "2026-10-22"
+  - title: Megadrought and Megadeath in 16th Century Mexico
+    publisher: Emerging Infectious Diseases (CDC)
+    url: https://wwwnc.cdc.gov/eid/article/8/4/01-0175_article
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,34 @@
+id: guatemala-earthquake-1976
+title:
+  en: 1976 Guatemala earthquake
+  fr: Séisme de 1976 au Guatemala
+description:
+  en: >-
+    At 03:01 on 4 February 1976, when most people were asleep, a magnitude 7.5 earthquake on the Motagua fault struck Guatemala, breaking the ground surface for about 240 km. Most adobe houses in the highlands and in the outlying areas of Guatemala City collapsed, landslides blocked roads and railways and buried villages, and some areas were left without electricity and communications for days. Aftershocks caused further casualties and hampered relief efforts.
+  fr: >-
+    Le 4 février 1976 à 3 h 01, alors que la plupart des habitants dormaient, un séisme de magnitude 7,5 sur la faille de Motagua a frappé le Guatemala, rompant la surface du sol sur environ 240 km. La plupart des maisons en adobe des hautes terres et de la périphérie de Guatemala se sont effondrées, des glissements de terrain ont coupé routes et voies ferrées et enseveli des villages, et certaines zones sont restées privées d’électricité et de communications pendant des jours. Des répliques ont fait d’autres victimes et gêné les secours.
+categories: [natural-disaster]
+kind: event
+start: "1976-02-04"
+deaths:
+  best: 23000
+  low: 22400
+  note:
+    en: Best is the rounded figure given by Wikipedia, USGS and NOAA NCEI. More precise counts cited by NCEI range from 22,400 (low) to 22,870, and another reference it cites gives more than 22,700.
+    fr: L’estimation centrale est le chiffre arrondi donné par Wikipédia, l’USGS et la NCEI de la NOAA. Les décomptes plus précis cités par la NCEI vont de 22 400 (bas de la fourchette) à 22 870, et une autre référence qu’elle cite donne plus de 22 700.
+countries:
+  - { code: GT, deaths: 23000 }
+sources:
+  - title: 1976 Guatemala earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1976_Guatemala_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Chimaltenango, Guatemala City, event 4711"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/4711
+    accessed: "2026-10-22"
+  - title: Earthquakes with 1,000 or More Deaths 1900-2014 (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20170118110610/http://earthquake.usgs.gov/earthquakes/world/world_deaths.php
+    accessed: "2026-10-22"
+reviewed: false

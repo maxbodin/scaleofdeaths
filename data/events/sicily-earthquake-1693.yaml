@@ -1,0 +1,40 @@
+id: sicily-earthquake-1693
+title:
+  en: 1693 Sicily earthquake
+  fr: Séisme de 1693 en Sicile
+description:
+  en: >-
+    On 11 January 1693, two days after a damaging foreshock, a magnitude 7.4 earthquake, the most powerful in recorded Italian history, struck south-eastern Sicily. It destroyed at least 70 towns and cities, including most of Catania, where almost two-thirds of the inhabitants died, and set off tsunamis along the Ionian coast and in the Strait of Messina. Damage reached Calabria and Malta. The towns of the Val di Noto were then rebuilt in a unified late Baroque style.
+  fr: >-
+    Le 11 janvier 1693, deux jours après une forte secousse précurseur, un séisme de magnitude 7,4, le plus puissant de l’histoire connue de l’Italie, a frappé le sud-est de la Sicile. Il a détruit au moins 70 villes et bourgs, dont la majeure partie de Catane, où près des deux tiers des habitants ont péri, et provoqué des tsunamis sur la côte ionienne et dans le détroit de Messine. Les dégâts ont atteint la Calabre et Malte. Les villes du Val di Noto ont ensuite été reconstruites dans un style baroque tardif homogène.
+categories: [natural-disaster]
+kind: event
+start: "1693-01-09"
+end: "1693-01-11"
+deaths:
+  best: 60000
+  low: 54000
+  high: 93000
+  note:
+    en: Deaths from the shocks of 9 and 11 January and the tsunami, which sources do not separate. Low is the official count compiled in May 1693 (almost 12,000 in Catania alone); best is the figure of about 60,000 given by chronicles and used by USGS and most catalogues; high is the 93,000 of Robert Mallet's 1853 catalogue, an older figure repeated in some compilations.
+    fr: Morts des secousses des 9 et 11 janvier et du tsunami, que les sources ne distinguent pas. Le bas de la fourchette est le bilan officiel établi en mai 1693 (près de 12 000 morts à Catane seule) ; l’estimation centrale est le chiffre d’environ 60 000 donné par les chroniques et retenu par l’USGS et la plupart des catalogues ; le haut est le chiffre de 93 000 du catalogue de Robert Mallet (1853), plus ancien, repris par certaines compilations.
+countries:
+  - { code: IT, deaths: 60000 }
+sources:
+  - title: 1693 Sicily earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1693_Sicily_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Sicily, Calabria, event 10630"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/10630
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Sicily, Calabria, Catania, event 1129"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/1129
+    accessed: "2026-10-22"
+  - title: Earthquakes with 50,000 or More Deaths (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20130507101448/http://earthquake.usgs.gov/earthquakes/world/most_destructive.php
+    accessed: "2026-10-22"
+reviewed: false

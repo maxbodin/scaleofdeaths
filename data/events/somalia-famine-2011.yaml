@@ -1,0 +1,39 @@
+id: somalia-famine-2011
+title:
+  en: 2011 Somalia famine
+  fr: Famine de 2011 en Somalie
+description:
+  en: >-
+    Famine in southern and central Somalia during the 2011 East Africa drought, the worst in the region in decades. Failed rains came on top of conflict, and the Islamist militant group al-Shabaab, which controlled much of the south, denied the famine and banned several Western aid agencies, while Western donor restrictions also held back aid. The UN declared famine in July 2011 in Bakool and Lower Shabelle, later extended to other areas including displacement camps in Mogadishu, and declared it over in February 2012. About half of the deaths came before famine was declared.
+  fr: >-
+    Famine dans le sud et le centre de la Somalie lors de la sécheresse de 2011 en Afrique de l’Est, la pire de la région depuis des décennies. L’échec des pluies s’est ajouté au conflit : le groupe islamiste armé al-Shabaab, qui contrôlait une grande partie du sud, a nié la famine et banni plusieurs agences humanitaires occidentales, tandis que des restrictions imposées par les donateurs occidentaux freinaient aussi l’aide. L’ONU a déclaré la famine en juillet 2011, puis l’a déclarée terminée en février 2012. Environ la moitié des morts sont survenues avant cette déclaration.
+categories: [famine]
+kind: event
+start: "2010-10"
+end: "2012-04"
+deaths:
+  best: 258000
+  note:
+    en: "Excess deaths in southern and central Somalia from October 2010 to April 2012, estimated by a study for the FAO's Food Security and Nutrition Analysis Unit and FEWS NET, published in 2013; about half were children under five. It was the first scientific estimate of the toll and is also used by the World Peace Foundation; the BBC reported it as nearly 260,000."
+    fr: "Surmortalité dans le sud et le centre de la Somalie d’octobre 2010 à avril 2012, estimée par une étude pour l’unité d’analyse de la sécurité alimentaire et de la nutrition de la FAO et FEWS NET, publiée en 2013 ; environ la moitié des morts étaient des enfants de moins de cinq ans. C’était la première estimation scientifique du bilan, également retenue par la World Peace Foundation ; la BBC l’a rapportée comme près de 260 000."
+countries:
+  - { code: SO, deaths: 258000 }
+related: [somali-civil-war]
+sources:
+  - title: 2011 East Africa drought
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2011_East_Africa_drought
+    accessed: "2026-10-22"
+  - title: "258,000 died due to severe food insecurity"
+    publisher: FEWS NET and FSNAU
+    url: https://fews.net/east-africa/somalia/special-report/may-2013
+    accessed: "2026-10-22"
+  - title: "Somalia famine 'killed 260,000 people'"
+    publisher: BBC News
+    url: https://www.bbc.com/news/world-africa-22380352
+    accessed: "2026-10-22"
+  - title: Famines and the deaths in them
+    publisher: Our World in Data (World Peace Foundation data)
+    url: https://ourworldindata.org/grapher/famines-and-the-deaths-in-them
+    accessed: "2026-10-22"
+reviewed: false

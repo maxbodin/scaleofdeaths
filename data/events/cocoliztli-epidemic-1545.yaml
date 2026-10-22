@@ -1,0 +1,44 @@
+id: cocoliztli-epidemic-1545
+title:
+  en: Cocoliztli epidemic of 1545-1548
+  fr: Épidémie de cocoliztli de 1545-1548
+description:
+  en: >-
+    Epidemic of a disease the Aztecs called cocoliztli ("pestilence" in Nahuatl) that swept the highlands of New Spain, in present-day Mexico and Guatemala, a generation after the Spanish conquest. Victims suffered high fever and bleeding and often died within a week; Indigenous people were by far the most affected. Its cause is still debated: ancient DNA from an epidemic cemetery in Oaxaca points to Salmonella Paratyphi C (enteric fever), while other researchers favour a native haemorrhagic fever worsened by a severe drought.
+  fr: >-
+    Épidémie d’une maladie que les Aztèques appelaient cocoliztli (« pestilence » en nahuatl), qui a ravagé les hautes terres de la Nouvelle-Espagne, dans l’actuel Mexique et au Guatemala, une génération après la conquête espagnole. Les malades souffraient de forte fièvre et d’hémorragies, et mouraient souvent en moins d’une semaine ; les Autochtones ont été de loin les plus touchés. Sa cause reste débattue : l’ADN ancien d’un cimetière d’Oaxaca désigne Salmonella Paratyphi C, d’autres chercheurs penchent pour une fièvre hémorragique locale aggravée par une grave sécheresse.
+categories: [epidemic]
+kind: event
+start: "1545"
+end: "1548"
+deaths:
+  best: 5000000
+  low: 5000000
+  high: 15000000
+  note:
+    en: >-
+      Sources only give a range: the CDC's Emerging Infectious Diseases journal (Acuna-Soto et al., 2002) and later studies estimate that the epidemic killed 5 to 15 million people, up to 80% of the native population of Mexico. No source states a central estimate, so best uses the low end of that range. Mexico's per-country figure is the same low end; the epidemic also reached Chiapas and Guatemala.
+    fr: >-
+      Les sources ne donnent qu’une fourchette : la revue Emerging Infectious Diseases des CDC (Acuna-Soto et al., 2002) et des études ultérieures estiment que l’épidémie a tué de 5 à 15 millions de personnes, jusqu’à 80 % de la population autochtone du Mexique. Aucune source ne donne d’estimation centrale : l’estimation retenue est donc le bas de la fourchette. Le chiffre du Mexique reprend ce bas de fourchette ; l’épidémie a aussi atteint le Chiapas et le Guatemala.
+countries:
+  - { code: MX, deaths: 5000000 }
+  - { code: GT }
+related: [cocoliztli-epidemic-1576, mexico-smallpox-epidemic-1520]
+sources:
+  - title: Cocoliztli epidemics
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Cocoliztli_epidemics
+    accessed: "2026-10-22"
+  - title: Megadrought and Megadeath in 16th Century Mexico
+    publisher: Emerging Infectious Diseases (CDC)
+    url: https://wwwnc.cdc.gov/eid/article/8/4/01-0175_article
+    accessed: "2026-10-22"
+  - title: "When half of the population died: the epidemic of hemorrhagic fevers of 1576 in Mexico"
+    publisher: FEMS Microbiology Letters (via PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7110390/
+    accessed: "2026-10-22"
+  - title: Deadly Aztec Epidemic "Cocoliztli" Linked to Salmonella
+    publisher: National Geographic
+    url: https://www.nationalgeographic.com/history/article/cocoliztli-salmonella-outbreak-mexico-dna-spd
+    accessed: "2026-10-22"
+reviewed: false

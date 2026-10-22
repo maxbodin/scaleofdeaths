@@ -1,0 +1,36 @@
+id: war-in-the-vendee
+title:
+  en: War in the Vendée
+  fr: Guerre de Vendée
+description:
+  en: >-
+    Counter-revolutionary uprising in the west of France, triggered in March 1793 by mass conscription and by anger at the Republic's treatment of the Catholic Church. The royalist Catholic and Royal Army won early victories but was crushed after its failed march north across the Loire. The Republic then waged a campaign of repression: mass shootings and drownings in Nantes and Angers, and in 1794 the infernal columns of General Turreau, which burned villages and massacred civilians. Fighting continued sporadically until 1796.
+  fr: >-
+    Soulèvement contre-révolutionnaire dans l’ouest de la France, déclenché en mars 1793 par la levée en masse et par l’hostilité à la politique religieuse de la République. L’Armée catholique et royale remporte d’abord des victoires, puis est écrasée après l’échec de la Virée de Galerne au nord de la Loire. La République mène ensuite une répression massive : fusillades et noyades à Nantes et à Angers, puis, en 1794, les colonnes infernales du général Turreau, qui incendient les villages et massacrent les civils. Les combats se poursuivent sporadiquement jusqu’en 1796.
+categories: [war, genocide]
+kind: event
+start: "1793-03"
+end: "1796"
+deaths:
+  best: 200000
+  low: 117257
+  high: 450000
+  note:
+    en: "Military and civilian deaths on both sides, from fighting, massacres, executions and disease. Best: about 200,000 dead, including about 170,000 inhabitants of the insurgent Vendée (Jean-Clément Martin and David Bell, via Wikipedia); the World History Encyclopedia also gives at least 170,000 Vendeans killed. Low: 117,257, Reynald Secher's minimum population loss for the 773 communes involved. High: 450,000, from Jean-Clément Martin's estimate of up to 250,000 insurgents and 200,000 republicans (H-France Review); Pierre Chaunu's 500,000 rebel deaths is called 'ridiculous' by the reviewer and is not used."
+    fr: "Morts militaires et civiles des deux camps, dues aux combats, aux massacres, aux exécutions et aux maladies. Estimation centrale : environ 200 000 morts, dont quelque 170 000 habitants de la Vendée insurgée (Jean-Clément Martin et David Bell, via Wikipédia) ; la World History Encyclopedia donne aussi au moins 170 000 Vendéens tués. Bas : 117 257, perte de population minimale calculée par Reynald Secher pour les 773 communes concernées. Haut : 450 000, d’après l’estimation de Jean-Clément Martin de jusqu’à 250 000 insurgés et 200 000 républicains (H-France Review) ; les 500 000 morts rebelles avancés par Pierre Chaunu, jugés « ridicules » par l’auteur de la recension, ne sont pas retenus."
+countries:
+  - { code: FR, deaths: 200000 }
+sources:
+  - title: War in the Vendée
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/War_in_the_Vend%C3%A9e
+    accessed: "2026-10-22"
+  - title: War in the Vendée
+    publisher: World History Encyclopedia
+    url: https://www.worldhistory.org/War_in_the_Vendee/
+    accessed: "2026-10-22"
+  - title: "Review of Reynald Secher, A French Genocide: The Vendée (Peter McPhee)"
+    publisher: H-France Review
+    url: https://www.h-france.net/vol4reviews/vol4no26McPhee.pdf
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,35 @@
+id: bam-earthquake-2003
+title:
+  en: 2003 Bam earthquake
+  fr: Séisme de 2003 à Bam
+description:
+  en: >-
+    At 05:26 on 26 December 2003 a magnitude 6.6 earthquake struck Bam, in Kerman province, south-eastern Iran, and nearby Baravat. Up to 95% of buildings in the Bam area were damaged or destroyed. Most were made of mud brick: when the walls gave way the heavy roofs collapsed, leaving few air pockets, and many people were crushed in their sleep or suffocated. Half of Bam's health workers were killed and its hospitals collapsed or were badly damaged. It was the deadliest natural disaster in the world since 1999.
+  fr: >-
+    Le 26 décembre 2003 à 5 h 26, un séisme de magnitude 6,6 a frappé Bam, dans la province de Kerman (sud-est de l’Iran), et la ville voisine de Baravat. Jusqu’à 95 % des bâtiments de la région de Bam ont été endommagés ou détruits. La plupart étaient en briques de terre crue : quand les murs cédaient, les lourds toits s’effondraient en laissant peu de poches d’air, et beaucoup sont morts écrasés dans leur sommeil ou asphyxiés. La moitié des soignants de Bam ont péri et ses hôpitaux ont été détruits ou gravement endommagés. Ce fut la catastrophe naturelle la plus meurtrière au monde depuis 1999.
+categories: [natural-disaster]
+kind: event
+start: "2003-12-26"
+deaths:
+  best: 34000
+  low: 26271
+  high: 43000
+  note:
+    en: The toll was disputed for years. Best is the figure confirmed by Iran's Crisis Management Organization in 2020; the Statistical Center of Iran had earlier revised it to 26,271 (low), and USGS and NOAA NCEI give about 31,000. A reference cited by NCEI gives 31,000 to 43,000 (high). An early count of 56,230, and media estimates of up to 70,000, were inflated, partly because rescue groups counted some bodies twice.
+    fr: Le bilan a été contesté pendant des années. L’estimation centrale est le chiffre confirmé en 2020 par l’Organisation iranienne de gestion des crises ; le Centre statistique d’Iran l’avait auparavant ramené à 26 271 (bas de la fourchette), et l’USGS et la NCEI de la NOAA donnent environ 31 000. Une référence citée par la NCEI donne de 31 000 à 43 000 (haut de la fourchette). Un premier bilan de 56 230, et des estimations de presse allant jusqu’à 70 000, étaient gonflés, en partie parce que des équipes de secours avaient compté certains corps deux fois.
+countries:
+  - { code: IR, deaths: 34000 }
+sources:
+  - title: 2003 Bam earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2003_Bam_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Bam, Baravat, event 5751"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/5751
+    accessed: "2026-10-22"
+  - title: Earthquakes with 1,000 or More Deaths 1900-2014 (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20170118110610/http://earthquake.usgs.gov/earthquakes/world/world_deaths.php
+    accessed: "2026-10-22"
+reviewed: false

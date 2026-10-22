@@ -1,0 +1,36 @@
+id: typhoon-vera-1959
+title:
+  en: Typhoon Vera
+  fr: Typhon Vera
+description:
+  en: >-
+    Typhoon Vera, known in Japan as the Isewan Typhoon, made landfall at the tip of the Kii Peninsula on Honshu on the evening of 26 September 1959, the strongest typhoon on record to strike Japan. It drove a storm surge of 3.55 metres, the highest ever observed there, into the head of Ise Bay, breaking sea walls and flooding the low-lying districts of Nagoya and the coasts of Aichi and Mie prefectures, where 83% of the victims died. The disaster led to Japan's 1961 Disaster Countermeasures Basic Act.
+  fr: >-
+    Le typhon Vera, appelé au Japon typhon d’Isewan, a touché terre à la pointe de la péninsule de Kii, sur Honshu, le soir du 26 septembre 1959 : le plus puissant typhon jamais arrivé sur le Japon. Il a poussé au fond de la baie d’Ise une onde de tempête de 3,55 mètres, la plus haute jamais observée à cet endroit, qui a rompu les digues et inondé les quartiers bas de Nagoya et les côtes des préfectures d’Aichi et de Mie, où sont mortes 83 % des victimes. La catastrophe a conduit à la loi fondamentale de 1961 sur la gestion des catastrophes.
+categories: [natural-disaster]
+kind: event
+start: "1959-09-20"
+end: "1959-09-29"
+deaths:
+  best: 5098
+  note:
+    en: >-
+      Dead and missing: 5,098 according to the Japanese Cabinet Office's report on the disaster, also the figure in Wikipedia. NOAA gives a death toll of "nearly 5000".
+    fr: >-
+      Morts et disparus : 5 098 selon le rapport du Bureau du Cabinet japonais sur la catastrophe, chiffre repris par Wikipédia. La NOAA donne un bilan de « près de 5 000 » morts.
+countries:
+  - { code: JP, deaths: 5098 }
+sources:
+  - title: Typhoon Vera
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Typhoon_Vera
+    accessed: "2026-10-22"
+  - title: 報告書（1959 伊勢湾台風） (Report on the 1959 Isewan Typhoon)
+    publisher: Cabinet Office of Japan, Disaster Management
+    url: https://www.bousai.go.jp/kyoiku/kyokun/kyoukunnokeishou/rep/1959_isewan_typhoon/index.html
+    accessed: "2026-10-22"
+  - title: NOAA's Top Global Weather, Water and Climate Events of the 20th Century
+    publisher: NOAA (Internet Archive copy)
+    url: https://web.archive.org/web/20070628180206id_/http://www.noaanews.noaa.gov/stories/images/global.pdf
+    accessed: "2026-10-22"
+reviewed: false

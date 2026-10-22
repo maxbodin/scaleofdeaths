@@ -1,0 +1,37 @@
+id: first-nagorno-karabakh-war
+title:
+  en: First Nagorno-Karabakh War
+  fr: Première guerre du Haut-Karabakh
+description:
+  en: >-
+    Conflict over Nagorno-Karabakh, an Armenian-majority autonomous region of Soviet Azerbaijan whose leaders sought unification with Armenia in 1988. Pogroms and expulsions hit both communities, and after the collapse of the Soviet Union the conflict became a full-scale war between Azerbaijan and Karabakh Armenian forces backed by Armenia, with massacres of civilians such as at Khojaly in 1992. Armenian forces took Nagorno-Karabakh and seven surrounding districts. About a million people, mostly Azerbaijanis, were displaced. A Russian-brokered ceasefire took effect in May 1994.
+  fr: >-
+    Conflit autour du Haut-Karabakh, région autonome à majorité arménienne de l’Azerbaïdjan soviétique qui demande en 1988 son rattachement à l’Arménie. Pogroms et expulsions frappent les deux communautés, puis, après la chute de l’URSS, le conflit devient une guerre ouverte entre l’Azerbaïdjan et les Arméniens du Karabakh soutenus par l’Arménie, avec des massacres comme à Khodjaly en 1992. Les Arméniens prennent le Haut-Karabakh et sept districts voisins. Environ un million de personnes, surtout azerbaïdjanaises, sont déplacées. Un cessez-le-feu négocié par la Russie intervient en mai 1994.
+categories: [war]
+kind: event
+start: "1988-02-20"
+end: "1994-05-12"
+deaths:
+  best: 30000
+  low: 20000
+  note:
+    en: Military and civilian deaths. Best is the "about 30,000" killed given by the SIPRI Yearbook 2021; low is the 20,000 of the Correlates of War dataset, Eckhardt and Bercovitch and Jackson (PRIO Battle Deaths documentation, which notes that most sources use 10,000 to 20,000, 10,000 being probably military deaths only). Wikipedia gives 5,856 to 6,000 Armenian and 11,557 Azerbaijani military dead (Western and Russian estimates for Azerbaijan, 25,000 to 30,000), plus about 16,000 Azerbaijani and 4,000 Armenian civilians. Per-country figures are the military dead on each side (low end for Armenia), by nationality; civilians are not included.
+    fr: Morts militaires et civiles. L’estimation centrale correspond aux « environ 30 000 » tués indiqués par l’annuaire 2021 du SIPRI ; le bas aux 20 000 de Correlates of War, d’Eckhardt et de Bercovitch et Jackson (documentation du PRIO sur les morts au combat, qui note que la plupart des sources retiennent 10 000 à 20 000, le chiffre de 10 000 ne comptant sans doute que les militaires). Wikipédia indique 5 856 à 6 000 militaires arméniens et 11 557 militaires azerbaïdjanais morts (25 000 à 30 000 pour l’Azerbaïdjan selon des estimations occidentales et russes), ainsi qu’environ 16 000 civils azerbaïdjanais et 4 000 civils arméniens. Les chiffres par pays sont les militaires morts de chaque camp (bas de la fourchette pour l’Arménie), par nationalité ; les civils n’y figurent pas.
+countries:
+  - { code: AZ, deaths: 11557 }
+  - { code: AM, deaths: 5856 }
+related: [second-nagorno-karabakh-war]
+sources:
+  - title: First Nagorno-Karabakh War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/First_Nagorno-Karabakh_War
+    accessed: "2026-10-22"
+  - title: "SIPRI Yearbook 2021, chapter 5, section II: The interstate armed conflict between Armenia and Azerbaijan (Ian Davis)"
+    publisher: Stockholm International Peace Research Institute (SIPRI)
+    url: https://www.sipri.org/sites/default/files/SIPRIYB21c05sII.pdf
+    accessed: "2026-10-22"
+  - title: "The PRIO Battle Deaths Dataset, 1946-2008, Version 3.0: Documentation of Coding Decisions (Lacina), Azerbaijan"
+    publisher: Peace Research Institute Oslo (PRIO)
+    url: https://cdn.cloud.prio.org/files/91648bba-8885-40ce-8a78-fae75c850c55/PRIO%20Battle%20Deaths%20Dataset%2030%20Documentation.pdf
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,32 @@
+id: american-civil-war
+title:
+  en: American Civil War
+  fr: Guerre de Sécession
+description:
+  en: >-
+    Civil war in the United States between the Union and the Confederacy, formed by Southern states that seceded over the question of slavery. Fought mainly in the South, it ended with the defeat of the Confederacy and the abolition of slavery. About two-thirds of soldier deaths were caused by disease rather than combat, and many formerly enslaved people died of disease, hunger and exposure after fleeing or being freed.
+  fr: >-
+    Guerre civile aux États-Unis entre l’Union et la Confédération, formée par des États du Sud ayant fait sécession sur la question de l’esclavage. Menée surtout dans le Sud, elle s’achève par la défaite de la Confédération et l’abolition de l’esclavage. Environ deux tiers des soldats morts ont succombé à la maladie plutôt qu’au combat, et de nombreux anciens esclaves, enfuis ou libérés, sont morts de maladie, de faim et de froid.
+categories: [war]
+kind: event
+start: "1861-04-12"
+end: "1865-05-26"
+deaths:
+  best: 698000
+  low: 616222
+  high: 1000000
+  note:
+    en: Best is the 2024 full-census estimate of war-related deaths (about 698,000, bounds roughly 647,000 to 749,000), mostly soldiers but also some civilians killed in guerrilla fighting. Low is the traditional 19th-century count (Wikipedia gives 616,222; the PNAS paper cites 618,222). High (over 1 million) adds the tens of thousands of formerly enslaved people who died of disease, following historian Jim Downs. About 50,000 free civilians also died.
+    fr: L’estimation centrale est le calcul de 2024 fondé sur le recensement complet (environ 698 000 morts liés à la guerre, bornes d’environ 647 000 à 749 000), surtout des soldats mais aussi des civils tués dans la guérilla. Le bas est le décompte traditionnel du XIXe siècle (616 222 selon Wikipédia, 618 222 selon l’article des PNAS). Le haut (plus d’un million) ajoute les dizaines de milliers d’anciens esclaves morts de maladie, selon l’historien Jim Downs. Environ 50 000 civils libres sont aussi morts.
+countries:
+  - { code: US, deaths: 698000 }
+sources:
+  - title: American Civil War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/American_Civil_War
+    accessed: "2026-10-22"
+  - title: New estimates of US Civil War mortality from full-census records
+    publisher: Proceedings of the National Academy of Sciences (via PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11621511/
+    accessed: "2026-10-22"
+reviewed: false

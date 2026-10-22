@@ -1,0 +1,34 @@
+id: odisha-train-collision-2023
+title:
+  en: 2023 Odisha train collision
+  fr: Collision ferroviaire de 2023 en Odisha
+description:
+  en: >-
+    At about 19:00 on 2 June 2023 the Coromandel Express, running at full speed near Bahanaga Bazar station in Balasore district, Odisha, India, was wrongly switched onto a loop line and crashed into a stationary goods train loaded with iron ore. Twenty-one of its coaches derailed, and some struck the oncoming SMVT Bengaluru-Howrah Express on the adjacent track. Inquiries blamed faulty signalling and interlocking work at the station, and the CBI charged three railway signalling staff with culpable homicide. More than 1,200 people were injured.
+  fr: >-
+    Vers 19 h, le 2 juin 2023, le Coromandel Express, lancé à pleine vitesse près de la gare de Bahanaga Bazar (district de Balasore, Odisha, Inde), est aiguillé par erreur sur une voie d’évitement et percute un train de marchandises à l’arrêt chargé de minerai de fer. Vingt et une de ses voitures déraillent, et certaines heurtent l’express SMVT Bengaluru-Howrah qui arrive en sens inverse sur la voie voisine. Les enquêtes ont mis en cause des travaux de signalisation défectueux, et le CBI a inculpé trois agents de la signalisation d’homicide involontaire. Plus de 1 200 personnes ont été blessées.
+categories: [accident]
+kind: event
+start: "2023-06-02"
+deaths:
+  best: 296
+  low: 288
+  note:
+    en: Best is the toll of 296 reported when the Central Bureau of Investigation filed its charge sheet in September 2023 and given by Wikipedia. Low is the reconciled figure of 288 announced by the Odisha government on 6 June 2023, after an interim revision to 275.
+    fr: L’estimation centrale est le bilan de 296 morts annoncé lors du dépôt de l’acte d’accusation du Central Bureau of Investigation en septembre 2023 et donné par Wikipédia. Le bas de la fourchette est le chiffre de 288 arrêté par le gouvernement de l’Odisha le 6 juin 2023, après une révision provisoire à 275.
+countries:
+  - { code: IN, deaths: 296 }
+sources:
+  - title: 2023 Odisha train collision
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2023_Odisha_train_collision
+    accessed: "2026-10-22"
+  - title: "Odisha train accident: CBI charges 3 railway officials with culpable homicide"
+    publisher: Rediff.com (PTI)
+    url: https://m.rediff.com/news/report/odisha-train-accident-cbi-charges-3-railway-officials-with-culpable-homicide/20230902.htm
+    accessed: "2026-10-22"
+  - title: "Odisha train crash: Govt raises death toll to 288 again"
+    publisher: The New Indian Express
+    url: https://www.newindianexpress.com/odisha/2023/Jun/07/odisha-train-crash-govt-raises-death-toll-to-288-again-2582657.html
+    accessed: "2026-10-22"
+reviewed: false

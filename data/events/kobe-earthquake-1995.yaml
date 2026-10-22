@@ -1,0 +1,34 @@
+id: kobe-earthquake-1995
+title:
+  en: 1995 Great Hanshin earthquake (Kobe)
+  fr: Séisme de 1995 de Hanshin-Awaji (Kobe)
+description:
+  en: >-
+    At 05:46 on 17 January 1995 a magnitude 6.9 earthquake struck the south of Hyōgo Prefecture, Japan, from a hypocentre 17 km beneath the northern tip of Awaji Island, about 20 km from central Kobe. In about 20 seconds of shaking, nearly 400,000 buildings were irreparably damaged, sections of the elevated Hanshin Expressway toppled and 120 of the 150 quays of the port of Kobe were wrecked. About 300 fires spread across large parts of the city, and many traditional houses with heavy tiled roofs collapsed.
+  fr: >-
+    Le 17 janvier 1995 à 5 h 46, un séisme de magnitude 6,9 a frappé le sud de la préfecture de Hyōgo, au Japon, depuis un foyer situé à 17 km sous la pointe nord de l’île d’Awaji, à environ 20 km du centre de Kobe. En une vingtaine de secondes, près de 400 000 bâtiments ont été irrémédiablement endommagés, des tronçons de l’autoroute surélevée de Hanshin se sont renversés et 120 des 150 quais du port de Kobe ont été détruits. Quelque 300 incendies ont ravagé de grandes parties de la ville, et de nombreuses maisons traditionnelles aux lourds toits de tuiles se sont effondrées.
+categories: [natural-disaster]
+kind: event
+start: "1995-01-17"
+deaths:
+  best: 6434
+  low: 5502
+  note:
+    en: Best is the final official figure, used by NOAA NCEI and given as the upper end by Wikipedia; low is the 5,502 confirmed dead reported soon after the earthquake and used by USGS. EM-DAT, as quoted by NCEI, gives 5,297. More than 90% of deaths occurred along the coast between Kobe and Nishinomiya.
+    fr: L’estimation centrale est le chiffre officiel définitif, retenu par la NCEI de la NOAA et donné comme haut de fourchette par Wikipédia ; le bas est le nombre de 5 502 morts confirmés peu après le séisme, repris par l’USGS. EM-DAT, cité par la NCEI, donne 5 297. Plus de 90 % des morts se trouvaient sur la côte entre Kobe et Nishinomiya.
+countries:
+  - { code: JP, deaths: 6434 }
+sources:
+  - title: Kobe earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Kobe_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Kobe, Awaji-shima, Nishinomiya, event 5399"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/5399
+    accessed: "2026-10-22"
+  - title: Earthquakes with 1,000 or More Deaths 1900-2014 (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20170118110610/http://earthquake.usgs.gov/earthquakes/world/world_deaths.php
+    accessed: "2026-10-22"
+reviewed: false

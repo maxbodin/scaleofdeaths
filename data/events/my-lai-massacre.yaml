@@ -1,0 +1,33 @@
+id: my-lai-massacre
+title:
+  en: My Lai massacre
+  fr: Massacre de Mỹ Lai
+description:
+  en: >-
+    Mass killing of unarmed villagers, almost all women, children and elderly men, by US Army soldiers, mainly of C Company, during a search-and-destroy operation in the hamlets of Son My village, Quang Ngai province, South Vietnam, on 16 March 1968. Soldiers shot villagers in groups, raped women and girls, burned homes and killed livestock; a helicopter crew led by Warrant Officer Hugh Thompson tried to stop the killing. Revealed to the public in November 1969, it caused global outrage. Of 26 soldiers charged, only Lieutenant William Calley was convicted.
+  fr: >-
+    Massacre de villageois désarmés, presque tous des femmes, des enfants et des vieillards, par des soldats américains, surtout de la compagnie C, lors d’une opération de recherche et de destruction dans les hameaux du village de Sơn Mỹ, province de Quảng Ngãi (Sud-Vietnam), le 16 mars 1968. Les soldats abattent des groupes de villageois, violent des femmes et des fillettes, brûlent les maisons et tuent le bétail ; l’équipage d’hélicoptère de l’adjudant Hugh Thompson tente de les arrêter. Révélé en novembre 1969, il suscite une indignation mondiale.
+categories: [genocide]
+kind: event
+partOf: vietnam-war
+start: "1968-03-16"
+deaths:
+  best: 504
+  low: 347
+  note:
+    en: >-
+      Civilians killed in the hamlets of Son My. Estimates vary; 347 and 504 are the most commonly cited figures (Wikipedia). Best is the 504 names listed on the memorial at the site, the toll given by Vietnamese officials at the 50th anniversary (The World, with Reuters); low is the lower figure of 347 deaths reached by a later US Army investigation.
+    fr: >-
+      Civils tués dans les hameaux de Sơn Mỹ. Les estimations varient ; 347 et 504 sont les chiffres les plus cités (Wikipédia). L’estimation centrale correspond aux 504 noms inscrits sur le mémorial du site, bilan donné par les autorités vietnamiennes lors du 50e anniversaire (The World, avec Reuters) ; le bas est le chiffre inférieur de 347 morts établi par une enquête ultérieure de l’armée américaine.
+countries:
+  - { code: VN, deaths: 504 }
+sources:
+  - title: My Lai massacre
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/My_Lai_massacre
+    accessed: "2026-10-22"
+  - title: As ties with US grow, Vietnam marks 50th anniversary of My Lai massacre
+    publisher: The World (PRX), with Reuters
+    url: https://theworld.org/stories/2018/03/16/vietnam-marks-50th-anniversary-my-lai-massacre
+    accessed: "2026-10-22"
+reviewed: false

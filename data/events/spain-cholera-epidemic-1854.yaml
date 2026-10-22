@@ -1,0 +1,37 @@
+id: spain-cholera-epidemic-1854
+title:
+  en: 1854-1855 Spanish cholera epidemic
+  fr: Épidémie de choléra de 1854-1855 en Espagne
+description:
+  en: >-
+    Cholera epidemic in Spain during the third cholera pandemic. The disease returned to the country in November 1853 aboard a steamship that reached the port of Vigo and spread through the Rías Baixas of Galicia; in 1854 it killed about 3,000 people in A Coruña. In 1855 it swept across large areas of the interior, affecting roughly one Spaniard in nineteen. The poor and the new urban working classes were hit hardest. It was widely believed to spread through the air rather than through contaminated water, and sanitation was poor or non-existent.
+  fr: >-
+    Épidémie de choléra en Espagne pendant la troisième pandémie de choléra. La maladie est revenue dans le pays en novembre 1853 à bord d’un vapeur arrivé au port de Vigo, puis s’est répandue dans les Rías Baixas de Galice ; en 1854, elle a tué environ 3 000 personnes à La Corogne. En 1855, elle a ravagé une grande partie de l’intérieur, touchant environ un Espagnol sur dix-neuf. Les pauvres et la nouvelle classe ouvrière urbaine ont été les plus frappés. On croyait souvent qu’il se transmettait par l’air plutôt que par l’eau souillée, et l’assainissement était déficient ou inexistant.
+categories: [epidemic]
+kind: event
+start: "1854"
+end: "1855"
+deaths:
+  best: 236744
+  note:
+    en: >-
+      Best is the national total of 236,744 deaths among 829,189 people affected in 1854-1855, figures of the historian José Ramón Urquijo Goitia cited by eldiario.es; Wikipedia gives about 236,000 deaths. The figure does not include the first cases in Galicia in late 1853.
+    fr: >-
+      L’estimation retenue est le total national de 236 744 morts sur 829 189 personnes atteintes en 1854-1855, chiffres de l’historien José Ramón Urquijo Goitia cités par eldiario.es ; Wikipédia donne environ 236 000 morts. Le chiffre ne comprend pas les premiers cas en Galice fin 1853.
+countries:
+  - { code: ES, deaths: 236744 }
+related: [russia-cholera-epidemic-1847, india-cholera-epidemic-1891]
+sources:
+  - title: Cholera epidemics in Spain
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Cholera_epidemics_in_Spain
+    accessed: "2026-10-22"
+  - title: 1846-1860 cholera pandemic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1846%E2%80%931860_cholera_pandemic
+    accessed: "2026-10-22"
+  - title: "Memoria histórica de las epidemias: así fue la gestión del brote de cólera en Ciudad Real del siglo XIX"
+    publisher: eldiario.es
+    url: https://www.eldiario.es/castilla-la-mancha/memoria-historica-ciudad-real-xix_1_5962868.html
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,34 @@
+id: russian-typhus-epidemic-1918
+title:
+  en: 1918-1922 Russia typhus epidemic
+  fr: Épidémie de typhus en Russie (1918-1922)
+description:
+  en: >-
+    Epidemic of louse-borne typhus that spread across Russia at the end of the First World War and during the civil war that followed the Bolshevik Revolution. War, famine and mass movements of soldiers, refugees and prisoners crowded people together in cold, unwashed conditions in which the body lice carrying Rickettsia prowazekii thrived. Some 20 to 30 million people fell ill. Typhus had long been a major health problem in Russia, flaring up whenever war or famine caused hardship; it also struck those who nursed the sick.
+  fr: >-
+    Épidémie de typhus transmis par les poux, qui s’est répandue en Russie à la fin de la Première Guerre mondiale et pendant la guerre civile qui a suivi la révolution bolchevique. La guerre, la famine et les déplacements massifs de soldats, de réfugiés et de prisonniers entassaient les gens dans le froid et sans hygiène, conditions idéales pour les poux de corps porteurs de Rickettsia prowazekii. Quelque 20 à 30 millions de personnes sont tombées malades. Le typhus, fléau ancien en Russie, resurgissait à chaque guerre ou famine ; il frappait aussi ceux qui soignaient les malades.
+categories: [epidemic]
+kind: event
+start: "1918"
+end: "1922"
+deaths:
+  best: 2000000
+  high: 3000000
+  note:
+    en: >-
+      Sources only give a range: the historian Patterson (Medical History, 1993), quoted by the CDC's Emerging Infectious Diseases journal and by Wikipedia, writes that typhus claimed some 2 to 3 million lives from 1918 to 1922, out of 20 to 30 million cases. No source states a central estimate, so best uses the low end. Russia here means the territory of Soviet Russia, which became part of the Soviet Union in December 1922.
+    fr: >-
+      Les sources ne donnent qu’une fourchette : l’historien Patterson (Medical History, 1993), cité par la revue Emerging Infectious Diseases des CDC et par Wikipédia, écrit que le typhus a fait de 2 à 3 millions de morts entre 1918 et 1922, sur 20 à 30 millions de cas. Aucune source ne donne d’estimation centrale : l’estimation retenue est le bas de la fourchette. La Russie désigne ici le territoire de la Russie soviétique, intégrée à l’Union soviétique en décembre 1922.
+countries:
+  - { code: SU, name: { en: Soviet Russia, fr: Russie soviétique }, deaths: 2000000 }
+related: [spanish-flu, russian-civil-war]
+sources:
+  - title: Epidemic typhus
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Epidemic_typhus
+    accessed: "2026-10-22"
+  - title: Specter of Epidemic Typhus
+    publisher: Emerging Infectious Diseases (via PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10045682/
+    accessed: "2026-10-22"
+reviewed: false

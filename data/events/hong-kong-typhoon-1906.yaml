@@ -1,0 +1,37 @@
+id: hong-kong-typhoon-1906
+title:
+  en: 1906 Hong Kong typhoon
+  fr: Typhon de Hong Kong de 1906
+description:
+  en: >-
+    A small but violent typhoon struck Hong Kong on 18 September 1906 with almost no warning, as the Hong Kong Observatory was unable to raise the alarm in time. In about two hours its winds and storm surge wrecked thousands of fishing boats and hundreds of larger vessels in and around Victoria Harbour, and most of the victims were fishermen. Damage exceeded one million pounds sterling, and the governor afterwards agreed to develop an early warning system for typhoons.
+  fr: >-
+    Un typhon de petite taille mais violent a frappé Hong Kong le 18 septembre 1906 presque sans avertissement, l’Observatoire n’ayant pu donner l’alerte à temps. En deux heures environ, ses vents et son onde de tempête ont détruit des milliers de bateaux de pêche et des centaines de navires dans le port de Victoria et alentour ; la plupart des victimes étaient des pêcheurs. Les dégâts ont dépassé un million de livres sterling, et le gouverneur a ensuite accepté de mettre en place un système d’alerte aux typhons.
+categories: [natural-disaster]
+kind: event
+start: "1906-09-18"
+deaths:
+  best: 15000
+  low: 10000
+  high: 16000
+  note:
+    en: >-
+      Best is the "around 15,000" deaths given by Wikipedia, citing the Hong Kong Observatory's history "Weathering the Storm" (2003). Low is the "over 10,000" given by the Hong Kong Observatory's own exhibition, close to early press reports of "about 10,000"; high is the later estimate of 16,000, about 5% of a population of 320,000 (Wikipedia).
+    fr: >-
+      L’estimation centrale est le chiffre d’« environ 15 000 » morts donné par Wikipédia, d’après l’histoire de l’Observatoire de Hong Kong « Weathering the Storm » (2003). L’estimation basse est le chiffre de « plus de 10 000 » avancé par l’exposition de l’Observatoire lui-même, proche des premiers récits de presse (« environ 10 000 ») ; l’estimation haute est le chiffre ultérieur de 16 000, soit environ 5 % d’une population de 320 000 habitants (Wikipédia).
+countries:
+  - { code: HK, deaths: 15000 }
+sources:
+  - title: 1906 Hong Kong typhoon
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1906_Hong_Kong_typhoon
+    accessed: "2026-10-22"
+  - title: "Under the Same Sky 130 Years, Display Area 6: Natural Disasters in Hong Kong before WWII"
+    publisher: Hong Kong Observatory
+    url: https://www.hko.gov.hk/en/hko_virtualtour/vtour/vtour/details/p6_1.html
+    accessed: "2026-10-22"
+  - title: A historical re-analysis of the calamitous midget typhoon passing through Hong Kong on 18 September 1906 and its storm surge impact to Hong Kong
+    publisher: Tropical Cyclone Research and Review (NOAA Institutional Repository)
+    url: https://repository.library.noaa.gov/view/noaa/61974
+    accessed: "2026-10-22"
+reviewed: false

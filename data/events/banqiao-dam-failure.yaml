@@ -1,0 +1,39 @@
+id: banqiao-dam-failure
+title:
+  en: 1975 Banqiao Dam failure
+  fr: Rupture du barrage de Banqiao
+description:
+  en: >-
+    In August 1975 Typhoon Nina stalled over Henan province, China, and record rainfall caused the Banqiao Dam on the Ru River and 61 other dams, including Shimantan, to fail. In the early hours of 8 August a flood wave up to 10 metres high swept through villages downstream that had received no warning. More than a million people were still trapped by the water a week later, and epidemics from contaminated water and famine followed. The authorities kept the disaster secret for years.
+  fr: >-
+    En août 1975, le typhon Nina s’immobilise au-dessus du Henan, en Chine, et des pluies record provoquent la rupture du barrage de Banqiao, sur la rivière Ru, et de 61 autres barrages, dont celui de Shimantan. Dans la nuit du 8 août, une vague atteignant 10 mètres déferle sur des villages qui n’ont reçu aucune alerte. Plus d’un million de personnes sont encore piégées par les eaux une semaine plus tard, puis les épidémies dues à l’eau contaminée et la famine s’installent. Les autorités ont longtemps tenu la catastrophe secrète.
+categories: [accident, natural-disaster]
+kind: event
+start: "1975-08-08"
+deaths:
+  best: 230000
+  low: 26000
+  high: 240000
+  note:
+    en: Best is the total of about 230,000 given by eight senior Chinese water experts in the 1980s and reported by Human Rights Watch in 1995, covering both the flood and the epidemics and famine that followed. Low is the official toll of 26,000, which counts only people killed by the flood itself; Britannica adds an estimated 145,000 deaths from epidemics and famine, and a 1975 internal Henan figure was 85,600. High is the 240,000 cited by the Discovery Channel (140,000 of them from famine and disease), the top of the range given by Wikipedia.
+    fr: L’estimation centrale est le total d’environ 230 000 morts avancé dans les années 1980 par huit hauts experts chinois de l’hydraulique et repris par Human Rights Watch en 1995 ; il inclut l’inondation ainsi que les épidémies et la famine qui ont suivi. La borne basse est le bilan officiel de 26 000 morts, qui ne compte que les victimes de l’inondation elle-même ; Britannica y ajoute environ 145 000 morts dues aux épidémies et à la famine, et un chiffre interne du Henan de 1975 était de 85 600. La borne haute est le chiffre de 240 000 cité par Discovery Channel (dont 140 000 dus à la famine et aux maladies), haut de la fourchette donnée par Wikipédia.
+countries:
+  - { code: CN, deaths: 230000 }
+sources:
+  - title: 1975 Banqiao Dam failure
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1975_Banqiao_Dam_failure
+    accessed: "2026-10-22"
+  - title: Typhoon Nina-Banqiao dam failure
+    publisher: Encyclopaedia Britannica
+    url: https://www.britannica.com/event/Typhoon-Nina-Banqiao-dam-failure
+    accessed: "2026-10-22"
+  - title: "The Three Gorges Dam in China: Forced Resettlement, Suppression of Dissent and Labor Rights Concerns"
+    publisher: Human Rights Watch
+    url: https://www.hrw.org/reports/1995/China1.htm
+    accessed: "2026-10-22"
+  - title: Banqiao Dam (China, 1975)
+    publisher: Association of State Dam Safety Officials (damfailures.org)
+    url: https://damfailures.org/case-study/banqiao-dam-china-1975
+    accessed: "2026-10-22"
+reviewed: false

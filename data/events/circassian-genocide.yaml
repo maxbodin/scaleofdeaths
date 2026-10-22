@@ -1,0 +1,40 @@
+id: circassian-genocide
+title:
+  en: Circassian genocide
+  fr: Génocide circassien
+description:
+  en: >-
+    Mass killing, ethnic cleansing and deportation of the Circassians, a mainly Muslim people of the north-western Caucasus, by the Russian Empire in the final stage of its conquest of Circassia. Russian troops burned villages, destroyed crops and massacred inhabitants, and in 1864 began deporting the survivors to the Ottoman Empire; many died of hunger and epidemics while waiting on the coast, at sea or on arrival on the Ottoman shores of the Black Sea. Only a small fraction of the Circassians remained in their homeland. Georgia (2011) and Ukraine (2025) recognise it as genocide.
+  fr: >-
+    Massacres, nettoyage ethnique et déportation des Circassiens, peuple majoritairement musulman du nord-ouest du Caucase, par l’Empire russe lors de la dernière phase de la conquête de la Circassie. Les troupes russes brûlent les villages, détruisent les récoltes et massacrent les habitants, puis déportent à partir de 1864 les survivants vers l’Empire ottoman ; beaucoup meurent de faim et d’épidémies sur la côte, en mer ou à leur arrivée sur les rives ottomanes de la mer Noire. La Géorgie (2011) et l’Ukraine (2025) le reconnaissent comme génocide.
+categories: [genocide]
+kind: event
+start: "1863"
+end: "1867"
+circa: true
+deaths:
+  best: 600000
+  low: 400000
+  high: 1500000
+  note:
+    en: >-
+      Circassians killed in massacres or who died of hunger, exposure and disease during the final campaign and the deportations. Very uncertain, as no reliable counts exist. Best is historian Walter Richmond's estimate of at least 600,000 deaths (The Circassian Genocide, Rutgers University Press, 2013); in a 2013 article he gives at least 625,000 (Necrometrics). Low is the roughly 400,000 Muslims who died in the Caucasian expulsion according to Justin McCarthy (Wikipedia). High is the one and a half million of Stephen Shenfield, who writes that the deaths could hardly have been fewer than one million (Necrometrics, Wikipedia).
+    fr: >-
+      Circassiens tués lors de massacres ou morts de faim, de froid et de maladies pendant la dernière campagne et les déportations. Très incertain, faute de décompte fiable. L’estimation centrale est celle de l’historien Walter Richmond, au moins 600 000 morts (The Circassian Genocide, Rutgers University Press, 2013) ; dans un article de 2013, il avance au moins 625 000 morts (Necrometrics). Le bas correspond aux quelque 400 000 musulmans morts lors de l’expulsion du Caucase selon Justin McCarthy (Wikipédia). Le haut est le million et demi de Stephen Shenfield, qui juge que les morts n’ont guère pu être moins d’un million (Necrometrics, Wikipédia).
+countries:
+  - { code: RU }
+  - { code: TR }
+sources:
+  - title: Circassian genocide
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Circassian_genocide
+    accessed: "2026-10-22"
+  - title: The Circassian Genocide (Walter Richmond, 2013), publisher's description
+    publisher: Google Books (Rutgers University Press)
+    url: https://books.google.com/books/about/The_Circassian_Genocide.html?id=c1qCMAEACAAJ
+    accessed: "2026-10-22"
+  - title: "Statistics of Wars, Oppressions and Atrocities of the Nineteenth Century: Russia, Circassian genocide"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/wars19c.htm
+    accessed: "2026-10-22"
+reviewed: false

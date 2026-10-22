@@ -1,0 +1,33 @@
+id: bengal-famine-1770
+title:
+  en: Great Bengal famine of 1770
+  fr: Grande famine du Bengale de 1770
+description:
+  en: >-
+    Famine in Bengal and Bihar, then under the dual government of the East India Company, which held the right to collect revenue, and the Nawab of Bengal. Crop failures in 1768 and 1769 were followed by soaring rice prices, while the Company kept collecting land tax, bought rice for its army and provided little relief. Smallpox and other epidemics spread among the starving. North Bengal and Bihar were hit hardest, and many villages were deserted for years.
+  fr: >-
+    Famine au Bengale et au Bihar, alors sous le double gouvernement de la Compagnie des Indes orientales, qui percevait l’impôt, et du nawab du Bengale. Les mauvaises récoltes de 1768 et 1769 ont fait flamber le prix du riz, tandis que la Compagnie maintenait l’impôt foncier, achetait du riz pour son armée et apportait peu de secours. La variole et d’autres épidémies ont frappé une population affamée. Le nord du Bengale et le Bihar ont été les plus touchés et de nombreux villages sont restés désertés pendant des années.
+categories: [famine]
+kind: event
+start: "1769"
+end: "1770"
+deaths:
+  best: 10000000
+  low: 1000000
+  high: 10000000
+  note:
+    en: "Deaths from starvation and accompanying epidemics. Old and modern estimates differ greatly. Best and high: about 10 million, or a third of the population, the contemporary East India Company estimate of May 1770, still the most widely cited figure (Grove also writes of up to 10 million deaths in the 1768-1771 droughts). Low: at least 1 million; the historian Rajat Datta judged the contemporary figures inflated and proposed about 1.2 million deaths, and the demographer Tim Dyson calls 10 million barely credible, since there were no demographic data outside Calcutta and much of the apparent depopulation was migration."
+    fr: "Morts de faim et des épidémies associées. Les estimations anciennes et modernes divergent fortement. Valeur centrale et haute : environ 10 millions, soit un tiers de la population, estimation de la Compagnie des Indes orientales en mai 1770, toujours la plus citée (Grove évoque lui aussi jusqu’à 10 millions de morts lors des sécheresses de 1768-1771). Bas : au moins 1 million ; l’historien Rajat Datta juge les chiffres de l’époque gonflés et propose environ 1,2 million de morts, et le démographe Tim Dyson trouve le chiffre de 10 millions à peine crédible, faute de données hors de Calcutta et parce qu’une grande part du dépeuplement apparent était due aux migrations."
+countries:
+  - { code: IN }
+  - { code: BD }
+sources:
+  - title: Great Bengal famine of 1770
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Great_Bengal_famine_of_1770
+    accessed: "2026-10-22"
+  - title: "The Great El Niño of 1789-93 and its Global Consequences (Richard H. Grove)"
+    publisher: The Medieval History Journal (ANU Open Research)
+    url: https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/0a87a59a-ba84-4b19-88f0-f54208e02b1a/content
+    accessed: "2026-10-22"
+reviewed: false

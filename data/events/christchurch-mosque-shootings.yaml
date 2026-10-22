@@ -1,0 +1,31 @@
+id: christchurch-mosque-shootings
+title:
+  en: Christchurch mosque shootings
+  fr: Attentats de Christchurch
+description:
+  en: >-
+    Two consecutive mass shootings during Friday prayers on 15 March 2019 in Christchurch, New Zealand, first at the Al Noor Mosque and minutes later at the Linwood Islamic Centre. The gunman, an Australian white supremacist who had published a manifesto online and livestreamed the first attack, was arrested while driving to a third mosque. He pleaded guilty to 51 murders, 40 attempted murders and a terrorist act, and in 2020 became the first person in New Zealand sentenced to life imprisonment without parole. It is the deadliest mass shooting in modern New Zealand history.
+  fr: >-
+    Deux fusillades consécutives pendant la prière du vendredi, le 15 mars 2019 à Christchurch (Nouvelle-Zélande), d’abord à la mosquée Al Noor puis, quelques minutes plus tard, au centre islamique de Linwood. Le tireur, un suprémaciste blanc australien qui avait publié un manifeste en ligne et diffusé la première attaque en direct, est arrêté alors qu’il se dirigeait vers une troisième mosquée. Il plaide coupable de 51 meurtres, 40 tentatives de meurtre et d’un acte terroriste, et devient en 2020 le premier condamné à la perpétuité réelle en Nouvelle-Zélande.
+categories: [genocide]
+kind: event
+start: "2019-03-15"
+deaths:
+  best: 51
+  note:
+    en: >-
+      Worshippers killed at the two mosques, the figure of the murder charges to which the gunman pleaded guilty (Wikipedia, BBC News). The gunman survived and was arrested.
+    fr: >-
+      Fidèles tués dans les deux mosquées, nombre des meurtres dont le tireur a plaidé coupable (Wikipédia, BBC News). Le tireur a survécu et a été arrêté.
+countries:
+  - { code: NZ, deaths: 51 }
+sources:
+  - title: Christchurch mosque shootings
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Christchurch_mosque_shootings
+    accessed: "2026-10-22"
+  - title: "Christchurch mosque attack: Brenton Tarrant sentenced to life without parole"
+    publisher: BBC News
+    url: https://www.bbc.com/news/world-asia-53919624
+    accessed: "2026-10-22"
+reviewed: false

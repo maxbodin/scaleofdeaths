@@ -1,0 +1,39 @@
+id: indonesian-national-revolution
+title:
+  en: Indonesian National Revolution
+  fr: Révolution nationale indonésienne
+description:
+  en: >-
+    Struggle for the independence of Indonesia, proclaimed on 17 August 1945 after the Japanese surrender, against the return of Dutch colonial rule. British and Indian troops fought Indonesian forces in 1945-1946, and the Netherlands launched major offensives in 1947 and 1948. A 2022 Dutch-Indonesian study found that Dutch forces used systematic extreme violence, including executions and village burnings; Indonesian forces also killed about 6,000 people early on, mostly Eurasians, Moluccans and other minorities. The Netherlands recognised Indonesian sovereignty in December 1949.
+  fr: >-
+    Lutte pour l’indépendance de l’Indonésie, proclamée le 17 août 1945 après la capitulation japonaise, contre le retour des Néerlandais. Des troupes britanniques et indiennes affrontent les républicains en 1945-1946, puis les Pays-Bas lancent de grandes offensives en 1947 et 1948. Selon une étude néerlando-indonésienne de 2022, les forces néerlandaises ont exercé une violence extrême et systématique (exécutions, villages incendiés) ; les forces indonésiennes tuent aussi environ 6 000 personnes au début, surtout eurasiennes et moluquoises. Les Pays-Bas reconnaissent l’indépendance fin 1949.
+categories: [war]
+kind: event
+start: "1945-08-17"
+end: "1949-12-27"
+deaths:
+  best: 100000
+  high: 250000
+  note:
+    en: Indonesian military and civilian deaths, the bulk of the toll. Best is the "about 100,000 Indonesians" who died as a direct result of the war according to the 2022 Dutch-Indonesian study (Al Jazeera); Wikipedia gives 97,421 confirmed Indonesian dead and up to 250,000 as the highest estimate (high). Non-Indonesian deaths come on top and are shown per country at the low end of Wikipedia's ranges (Netherlands 4,585 to 5,281, or 15,000 including members of the colonial administration and collaborators; United Kingdom 980 to 1,200; Japan 1,743). Between 5,500 and 30,000 Eurasian and European civilians were killed, many in the 1945-1946 Bersiap violence. PRIO's battle-death sources give much lower counts limited to combat.
+    fr: Morts militaires et civiles indonésiennes, qui constituent l’essentiel du bilan. L’estimation centrale correspond aux « environ 100 000 Indonésiens » morts des suites directes de la guerre selon l’étude néerlando-indonésienne de 2022 (Al Jazeera) ; Wikipédia indique 97 421 morts indonésiens confirmés et jusqu’à 250 000 selon l’estimation la plus haute (le haut). Les morts non indonésiennes s’y ajoutent et figurent par pays, au bas des fourchettes de Wikipédia (Pays-Bas 4 585 à 5 281, ou 15 000 en comptant les membres de l’administration coloniale et les collaborateurs ; Royaume-Uni 980 à 1 200 ; Japon 1 743). Entre 5 500 et 30 000 civils eurasiens et européens ont été tués, beaucoup lors des violences du Bersiap en 1945-1946. Les sources du PRIO sur les morts au combat donnent des chiffres bien plus bas, limités aux combats.
+countries:
+  - { code: ID, deaths: 97421 }
+  - { code: NL, deaths: 4585 }
+  - { code: JP, deaths: 1743 }
+  - { code: GB, deaths: 980 }
+  - { code: AU, deaths: 2 }
+sources:
+  - title: Indonesian National Revolution
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Indonesian_National_Revolution
+    accessed: "2026-10-22"
+  - title: "Indonesia: Dutch sorry for independence war 'extreme violence'"
+    publisher: Al Jazeera
+    url: https://www.aljazeera.com/news/2022/2/18/indonesia-dutch-sorry-for-independence-war-extreme-violence
+    accessed: "2026-10-22"
+  - title: "The PRIO Battle Deaths Dataset, 1946-2008, Version 3.0: Documentation of Coding Decisions (Lacina), Indonesia"
+    publisher: Peace Research Institute Oslo (PRIO)
+    url: https://cdn.cloud.prio.org/files/91648bba-8885-40ce-8a78-fae75c850c55/PRIO%20Battle%20Deaths%20Dataset%2030%20Documentation.pdf
+    accessed: "2026-10-22"
+reviewed: false

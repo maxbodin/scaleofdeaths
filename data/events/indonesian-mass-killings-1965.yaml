@@ -1,0 +1,32 @@
+id: indonesian-mass-killings-1965
+title:
+  en: Indonesian mass killings of 1965-66
+  fr: Massacres de 1965-1966 en Indonésie
+description:
+  en: >-
+    Mass killings of members and suspected sympathisers of the Communist Party of Indonesia (PKI) and affiliated organisations, carried out by the Indonesian Army and allied militias and civilian groups after the failed 30 September Movement of 1965. The killings were concentrated in Central and East Java, Bali and North Sumatra, and up to a million more people were imprisoned. The violence helped General Suharto take power from Sukarno; declassified US embassy files show that American officials tracked the killings and supported the army's efforts to destroy the leftist labour movement.
+  fr: >-
+    Massacres de membres et de sympathisants présumés du Parti communiste indonésien (PKI), perpétrés par l’armée indonésienne et des milices et groupes civils alliés après l’échec du Mouvement du 30 septembre 1965. Les tueries se concentrèrent dans le centre et l’est de Java, à Bali et dans le nord de Sumatra, et jusqu’à un million de personnes furent en outre emprisonnées. Ces violences permirent au général Suharto d’écarter Sukarno ; des archives américaines déclassifiées montrent que l’ambassade suivait les tueries et que Washington aidait l’armée à détruire le syndicalisme de gauche.
+categories: [genocide]
+kind: event
+start: "1965-10"
+end: "1966-03"
+circa: true
+deaths:
+  best: 500000
+  high: 1000000
+  note:
+    en: People killed in the anti-communist purge. Best is the figure of 500,000 that historian Robert Cribb considers the most accurate and that most scholars accept as a minimum (Wikipedia); the National Security Archive also says up to 500,000. High is the upper end of the most widely published range of 500,000 to 1 million. Estimates have ranged from 78,500 (Indonesian Army, before the killings had ended) to 2 or 3 million.
+    fr: Personnes tuées lors de la purge anticommuniste. L’estimation centrale est le chiffre de 500 000 que l’historien Robert Cribb juge le plus exact et que la plupart des chercheurs retiennent comme minimum (Wikipédia) ; le National Security Archive parle aussi de 500 000 morts au plus. La valeur haute est le haut de la fourchette la plus souvent publiée, de 500 000 à 1 million. Les estimations vont de 78 500 (armée indonésienne, avant la fin des tueries) à 2 ou 3 millions.
+countries:
+  - { code: ID, deaths: 500000 }
+sources:
+  - title: Indonesian mass killings of 1965-66
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Indonesian_mass_killings_of_1965%E2%80%9366
+    accessed: "2026-10-22"
+  - title: U.S. Embassy Tracked Indonesia Mass Murder 1965
+    publisher: National Security Archive, George Washington University
+    url: https://nsarchive.gwu.edu/briefing-book/indonesia/2017-10-17/indonesia-mass-murder-1965-us-embassy-files
+    accessed: "2026-10-22"
+reviewed: false

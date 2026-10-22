@@ -1,0 +1,33 @@
+id: rabaa-massacre
+title:
+  en: Rabaa massacre
+  fr: Massacre de Rabaa
+description:
+  en: >-
+    Killing of protesters by Egyptian security forces during the dispersal of the sit-in at Rabaa al-Adawiya Square in Nasr City, Cairo, on 14 August 2013. Supporters of President Mohamed Morsi, overthrown by the military on 3 July, had occupied the square for six weeks. Police, backed by the army, under Defence Minister Abdel Fattah el-Sisi, cleared it within hours with armoured vehicles, bulldozers and live fire; a few protesters were armed. Human Rights Watch called the dispersals likely crimes against humanity and one of the largest killings of demonstrators in a single day in recent history.
+  fr: >-
+    Massacre de manifestants par les forces de sécurité égyptiennes lors de la dispersion du sit-in de la place Rabaa al-Adawiya, à Nasr City (Le Caire), le 14 août 2013. Des partisans du président Mohamed Morsi, renversé par l’armée le 3 juillet, occupaient la place depuis six semaines. La police, appuyée par l’armée, sous l’autorité du ministre de la Défense Abdel Fattah al-Sissi, l’évacue en quelques heures avec blindés, bulldozers et tirs à balles réelles ; quelques manifestants étaient armés. Human Rights Watch y voit de probables crimes contre l’humanité.
+categories: [genocide]
+kind: event
+start: "2013-08-14"
+deaths:
+  best: 817
+  low: 624
+  high: 1000
+  note:
+    en: >-
+      Protesters killed in the dispersal of the Rabaa sit-in. Best is the 817 deaths documented by Human Rights Watch for the Rabaa dispersal alone, from official death lists and survivors' records; HRW considers it likely that over 1,000 protesters were killed there, the high. Low is the at least 624 civilians killed according to Egypt's National Council for Human Rights (Wikipedia). Not counted are the 87 people killed the same day in the dispersal of the al-Nahda Square sit-in (HRW) and members of the security forces killed, eight police officers according to the Forensic Medical Authority (Wikipedia).
+    fr: >-
+      Manifestants tués lors de la dispersion du sit-in de Rabaa. L’estimation centrale correspond aux 817 morts documentés par Human Rights Watch pour la seule dispersion de Rabaa, à partir des listes officielles et des relevés des survivants ; HRW juge probable que plus de 1 000 manifestants y aient été tués, d’où le haut. Le bas correspond aux au moins 624 civils tués selon le Conseil national des droits de l’homme égyptien (Wikipédia). Ne sont pas comptés les 87 morts du même jour lors de la dispersion du sit-in de la place al-Nahda (HRW) ni les membres des forces de sécurité tués, huit policiers selon l’Autorité de médecine légale (Wikipédia).
+countries:
+  - { code: EG, deaths: 817 }
+sources:
+  - title: Rabaa massacre
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Rabaa_massacre
+    accessed: "2026-10-22"
+  - title: "All According to Plan: The Rab'a Massacre and Mass Killings of Protesters in Egypt"
+    publisher: Human Rights Watch
+    url: https://www.hrw.org/report/2014/08/12/all-according-plan/raba-massacre-and-mass-killings-protesters-egypt
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,29 @@
+id: grenfell-tower-fire
+title:
+  en: Grenfell Tower fire
+  fr: Incendie de la tour Grenfell
+description:
+  en: >-
+    At about 00:50 on 14 June 2017 a fridge-freezer caught fire in a fourth-floor flat of Grenfell Tower, a 24-storey council housing block in North Kensington, London. The fire escaped through a window and raced up the outside of the building through the aluminium composite cladding added in a 2015-2016 refurbishment, engulfing most of the tower; it burned for about 60 hours. The building was run under a "stay put" policy. It was the deadliest UK residential fire since the Second World War and led to a public inquiry and a national cladding crisis.
+  fr: >-
+    Vers 0 h 50, le 14 juin 2017, un réfrigérateur-congélateur prend feu dans un appartement du quatrième étage de la tour Grenfell, immeuble de logements sociaux de 24 étages à North Kensington (Londres). Le feu sort par une fenêtre et gagne l’extérieur de la tour par le bardage en composite d’aluminium posé lors d’une rénovation en 2015-2016, embrasant presque tout l’immeuble ; il brûle environ 60 heures. Les consignes étaient de rester chez soi. C’est l’incendie d’habitation le plus meurtrier au Royaume-Uni depuis la Seconde Guerre mondiale ; il a donné lieu à une enquête publique.
+categories: [accident]
+kind: event
+start: "2017-06-14"
+deaths:
+  best: 72
+  note:
+    en: Seventy people died at the scene and two later in hospital, the toll given by Wikipedia and the London Fire Brigade; 223 people escaped.
+    fr: Soixante-dix personnes sont mortes sur place et deux plus tard à l’hôpital, bilan donné par Wikipédia et la London Fire Brigade ; 223 personnes ont pu s’échapper.
+countries:
+  - { code: GB, deaths: 72 }
+sources:
+  - title: Grenfell Tower fire
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Grenfell_Tower_fire
+    accessed: "2026-10-22"
+  - title: London Fire Brigade's Response to the Grenfell Tower Inquiry Phase 2 Report
+    publisher: London Fire Brigade
+    url: https://www.london-fire.gov.uk/news/2024-news/september/grenfell-inquiry-report-phase-2/
+    accessed: "2026-10-22"
+reviewed: false

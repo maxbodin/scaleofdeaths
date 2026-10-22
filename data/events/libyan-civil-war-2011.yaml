@@ -1,0 +1,38 @@
+id: libyan-civil-war-2011
+title:
+  en: Libyan civil war (2011)
+  fr: Guerre civile libyenne (2011)
+description:
+  en: >-
+    Armed uprising against Muammar Gaddafi's rule, which began with protests in Benghazi in February 2011 that were met with force. Rebels organised under the National Transitional Council took the east and fought government forces in sieges such as that of Misrata. Under UN Security Council Resolution 1973, a NATO-led coalition carried out air strikes from March 2011. Rebel forces took Tripoli in August, Gaddafi was captured and killed near Sirte on 20 October, and the National Transitional Council declared the country liberated on 23 October 2011.
+  fr: >-
+    Soulèvement armé contre le pouvoir de Mouammar Kadhafi, qui commence par des manifestations à Benghazi en février 2011, réprimées par la force. Les rebelles, réunis autour du Conseil national de transition, prennent l’est et affrontent les forces gouvernementales, notamment à Misrata assiégée. En vertu de la résolution 1973 du Conseil de sécurité de l’ONU, une coalition menée par l’OTAN mène des frappes aériennes à partir de mars 2011. Les rebelles prennent Tripoli en août, Kadhafi est capturé et tué près de Syrte le 20 octobre, et la libération du pays est proclamée le 23 octobre 2011.
+categories: [war]
+kind: event
+start: "2011-02-15"
+end: "2011-10-23"
+deaths:
+  best: 21490
+  low: 6109
+  high: 25000
+  note:
+    en: >-
+      Military and civilian deaths; estimates vary widely. Best is a field survey published in the African Journal of Emergency Medicine (2015), which found 21,490 people killed between February 2011 and February 2012, counting direct and indirect deaths (Wikipedia). Low is the 6,109 fatalities reported from 15 February to 23 October 2011 in the ACLED database of media reports (Wikipedia). High is the 25,000 killed (plus 4,000 missing) announced by the National Transitional Council near the end of the war, earlier official claims having gone as high as 50,000. In January 2013 the Libyan Ministry of Martyrs and Missing Persons counted about 4,700 revolutionaries killed and 2,100 missing on both sides, losses on the Gaddafi side being possibly about the same or lower, and said earlier figures were exaggerated (Libya Herald). The Uppsala Conflict Data Program recorded 1,914 to 3,466 battle deaths (Wikipedia).
+    fr: >-
+      Morts militaires et civiles ; les estimations varient fortement. L’estimation centrale est une enquête de terrain publiée dans l’African Journal of Emergency Medicine (2015), qui recense 21 490 morts entre février 2011 et février 2012, directes et indirectes (Wikipédia). Le bas correspond aux 6 109 morts signalées du 15 février au 23 octobre 2011 dans la base ACLED, fondée sur la presse (Wikipédia). Le haut correspond aux 25 000 tués (plus 4 000 disparus) annoncés par le Conseil national de transition vers la fin de la guerre, des chiffres officiels antérieurs étant allés jusqu’à 50 000. En janvier 2013, le ministère libyen des Martyrs et Disparus comptait environ 4 700 révolutionnaires tués et 2 100 disparus des deux camps, les pertes du camp Kadhafi étant peut-être du même ordre ou inférieures, et jugeait exagérés les chiffres antérieurs (Libya Herald). L’Uppsala Conflict Data Program relevait 1 914 à 3 466 morts au combat (Wikipédia).
+countries:
+  - { code: LY, deaths: 21490 }
+sources:
+  - title: Libyan civil war (2011)
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Libyan_civil_war_(2011)
+    accessed: "2026-10-22"
+  - title: Casualties of the Libyan civil war (2011)
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Casualties_of_the_Libyan_civil_war_(2011)
+    accessed: "2026-10-22"
+  - title: Casualty figures exaggerated, says ministry
+    publisher: Libya Herald
+    url: https://libyaherald.com/2013/01/casualty-figures-exaggerated-says-ministry/
+    accessed: "2026-10-22"
+reviewed: false

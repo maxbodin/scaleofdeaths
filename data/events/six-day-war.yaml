@@ -1,0 +1,35 @@
+id: six-day-war
+title:
+  en: Six-Day War
+  fr: Guerre des Six Jours
+description:
+  en: >-
+    War fought from 5 to 10 June 1967 between Israel and Egypt, Jordan and Syria, after weeks of rising tension in which Egypt mobilised troops in Sinai and ordered UN peacekeepers out. Israel opened with air strikes that destroyed most of the Egyptian air force, then took the Gaza Strip and Sinai from Egypt, the West Bank including East Jerusalem from Jordan, and the Golan Heights from Syria. Around 280,000 to 325,000 Palestinians and 100,000 Syrians fled or were expelled from the captured territories.
+  fr: >-
+    Guerre menée du 5 au 10 juin 1967 entre Israël d’une part, l’Égypte, la Jordanie et la Syrie d’autre part, après des semaines de tension durant lesquelles l’Égypte masse des troupes dans le Sinaï et exige le départ des Casques bleus. Israël ouvre les hostilités par des frappes aériennes qui détruisent l’essentiel de l’aviation égyptienne, puis prend la bande de Gaza et le Sinaï à l’Égypte, la Cisjordanie et Jérusalem-Est à la Jordanie, et le plateau du Golan à la Syrie. Environ 280 000 à 325 000 Palestiniens et 100 000 Syriens fuient ou sont expulsés des territoires conquis.
+categories: [war]
+kind: event
+start: "1967-06-05"
+end: "1967-06-10"
+deaths:
+  best: 19600
+  note:
+    en: Military deaths, plus a few civilians and foreign personnel. Best is the total of the Correlates of War dataset (19,600, as reported in the PRIO Battle Deaths documentation), consistent with Wikipedia's "more than 15,000 Arab fatalities, and fewer than 1,000 Israeli". Estimates of Arab losses vary widely, from about 4,300 killed in action (Clodfelter, Dupuy) to 20,000 to 25,000 (Brogan; Bercovitch and Jackson), so no single total range is shown. Per-country figures are the low ends of Wikipedia's ranges (Israel 776 to 983, Syria 1,000 to 2,500, Jordan 696 to 700), Correlates of War's 10,000 for Egypt (Wikipedia gives 9,800 to 15,000 killed or missing) and the 34 US personnel killed on the USS Liberty; 20 Israeli civilians and 15 UN peacekeepers were also killed.
+    fr: Morts militaires, plus quelques civils et personnels étrangers. L’estimation centrale est le total du jeu de données Correlates of War (19 600, d’après la documentation du PRIO sur les morts au combat), cohérent avec les « plus de 15 000 morts arabes et moins de 1 000 morts israéliens » indiqués par Wikipédia. Les estimations des pertes arabes varient beaucoup, d’environ 4 300 tués au combat (Clodfelter, Dupuy) à 20 000 à 25 000 (Brogan ; Bercovitch et Jackson), si bien qu’aucune fourchette globale n’est indiquée. Les chiffres par pays sont le bas des fourchettes de Wikipédia (Israël 776 à 983, Syrie 1 000 à 2 500, Jordanie 696 à 700), les 10 000 morts égyptiens de Correlates of War (Wikipédia donne 9 800 à 15 000 tués ou disparus) et les 34 militaires américains tués sur l’USS Liberty ; 20 civils israéliens et 15 Casques bleus ont aussi été tués.
+countries:
+  - { code: EG, deaths: 10000 }
+  - { code: SY, deaths: 1000 }
+  - { code: IL, deaths: 776 }
+  - { code: JO, deaths: 696 }
+  - { code: US, deaths: 34 }
+related: [arab-israeli-war-1948, yom-kippur-war]
+sources:
+  - title: Six-Day War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Six-Day_War
+    accessed: "2026-10-22"
+  - title: "The PRIO Battle Deaths Dataset, 1946-2008, Version 3.0: Documentation of Coding Decisions (Lacina), Israel and Palestine"
+    publisher: Peace Research Institute Oslo (PRIO)
+    url: https://cdn.cloud.prio.org/files/91648bba-8885-40ce-8a78-fae75c850c55/PRIO%20Battle%20Deaths%20Dataset%2030%20Documentation.pdf
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,37 @@
+id: rwandan-genocide
+title:
+  en: Rwandan genocide
+  fr: Génocide des Tutsi au Rwanda
+description:
+  en: >-
+    Mass killing of Tutsi, and of moderate Hutu and Twa, in Rwanda over about 100 days during the Rwandan Civil War, also known as the genocide against the Tutsi. It began after the plane carrying President Juvénal Habyarimana was shot down on 6 April 1994. Army units, the Interahamwe and other Hutu militias, and ordinary civilians killed victims at roadblocks, in homes and in churches, often with machetes, incited by propaganda radio. It ended when the Rwandan Patriotic Front took control of the country in July 1994.
+  fr: >-
+    Massacre de masse des Tutsi, ainsi que de Hutu modérés et de Twa, au Rwanda pendant une centaine de jours, au cours de la guerre civile rwandaise. Il commença après la destruction de l’avion du président Juvénal Habyarimana, le 6 avril 1994. Des unités de l’armée, les Interahamwe et d’autres milices hutu, ainsi que des civils, tuèrent aux barrages routiers, dans les maisons et les églises, souvent à la machette, poussés par la propagande radiophonique. Il prit fin lorsque le Front patriotique rwandais prit le contrôle du pays en juillet 1994.
+categories: [genocide]
+kind: event
+start: "1994-04-07"
+end: "1994-07-19"
+deaths:
+  best: 800000
+  low: 500000
+  high: 1074017
+  note:
+    en: People killed during the genocide, overwhelmingly Tutsi. Best is the widely cited figure of about 800,000 (BBC). Low reflects scholarly estimates of 500,000 to 600,000 deaths (2020 Journal of Genocide Research symposium; Human Rights Watch estimated 507,000). High is the Rwandan government count of 1,074,017; the UN also states that more than one million people perished, but scholars consider the official figure an overestimate.
+    fr: Personnes tuées pendant le génocide, en très grande majorité des Tutsi. L’estimation centrale est le chiffre souvent cité d’environ 800 000 morts (BBC). La valeur basse reflète les estimations universitaires de 500 000 à 600 000 morts (symposium du Journal of Genocide Research, 2020 ; Human Rights Watch estimait 507 000 morts). La valeur haute est le décompte du gouvernement rwandais, 1 074 017 morts ; l’ONU évoque aussi plus d’un million de victimes, mais les chercheurs jugent le chiffre officiel surestimé.
+countries:
+  - { code: RW, deaths: 800000 }
+related: [ikiza-1972, first-congo-war]
+sources:
+  - title: Rwandan genocide
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Rwandan_genocide
+    accessed: "2026-10-22"
+  - title: "Rwanda genocide: 100 days of slaughter"
+    publisher: BBC News
+    url: https://www.bbc.com/news/world-africa-26875506
+    accessed: "2026-10-22"
+  - title: "Outreach Programme on the 1994 Genocide against the Tutsi in Rwanda: historical background"
+    publisher: United Nations
+    url: https://www.un.org/en/preventgenocide/rwanda/historical-background.shtml
+    accessed: "2026-10-22"
+reviewed: false

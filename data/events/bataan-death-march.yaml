@@ -1,0 +1,32 @@
+id: bataan-death-march
+title:
+  en: Bataan Death March
+  fr: Marche de la mort de Bataan
+description:
+  en: >-
+    Forced transfer by the Imperial Japanese Army of some 72,000 to 78,000 Filipino and American prisoners of war, captured after the fall of Bataan in April 1942, from Mariveles and Bagac to Camp O'Donnell. Already starved and sick, the prisoners walked about 105 km in tropical heat with little food or water, then were packed into boxcars from San Fernando to Capas. Guards beat, shot and bayoneted those who fell behind, and up to 400 prisoners were executed at the Pantingan River. General Masaharu Homma was tried and executed in 1946.
+  fr: >-
+    Transfert forcé par l’armée impériale japonaise de quelque 72 000 à 78 000 prisonniers de guerre philippins et américains, capturés après la chute de Bataan en avril 1942, de Mariveles et Bagac jusqu’au camp O’Donnell. Déjà affamés et malades, les prisonniers ont marché environ 105 km sous la chaleur tropicale, presque sans eau ni vivres, puis ont été entassés dans des wagons de San Fernando à Capas. Les gardes frappaient, abattaient ou tuaient à la baïonnette les traînards, et jusqu’à 400 prisonniers ont été exécutés à la rivière Pantingan. Le général Masaharu Homma a été exécuté en 1946.
+categories: [war]
+kind: event
+start: "1942-04-09"
+end: "1942-04-17"
+deaths:
+  best: 5500
+  high: 18650
+  note:
+    en: "Prisoners of war who died during the march, before reaching Camp O'Donnell; the far larger number who died later in the camps (about 26,000 Filipinos and 1,500 Americans at Camp O'Donnell, according to the US Army) is not included. Sources differ widely. Wikipedia gives 5,500 to 18,650 deaths (5,000 to 18,000 Filipinos and 500 to 650 Americans); best is the low end of that range, because the US Army gives an even lower estimate of roughly 2,500 Filipino and 500 American deaths during the march."
+    fr: "Prisonniers de guerre morts pendant la marche, avant d’atteindre le camp O’Donnell ; les morts, bien plus nombreuses, survenues ensuite dans les camps (environ 26 000 Philippins et 1 500 Américains au camp O’Donnell selon l’armée américaine) ne sont pas comptées. Les sources divergent fortement. Wikipédia donne 5 500 à 18 650 morts (5 000 à 18 000 Philippins et 500 à 650 Américains) ; la valeur centrale est le bas de cette fourchette, car l’armée américaine avance une estimation encore plus basse, d’environ 2 500 Philippins et 500 Américains morts pendant la marche."
+countries:
+  - { code: PH, deaths: 5500 }
+partOf: second-world-war
+sources:
+  - title: Bataan Death March
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Bataan_Death_March
+    accessed: "2026-10-22"
+  - title: History of the Bataan Death March
+    publisher: U.S. Army
+    url: https://www.army.mil/article/290116/history_of_the_bataan_death_march
+    accessed: "2026-10-22"
+reviewed: false

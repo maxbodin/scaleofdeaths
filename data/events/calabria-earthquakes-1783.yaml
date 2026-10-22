@@ -1,0 +1,35 @@
+id: calabria-earthquakes-1783
+title:
+  en: 1783 Calabrian earthquakes
+  fr: Séismes de 1783 en Calabre
+description:
+  en: >-
+    Between 5 February and 28 March 1783 a sequence of five strong earthquakes, the largest of estimated magnitude 7.0, struck Calabria in the Kingdom of Naples, along a line of nearly 100 km from the Strait of Messina towards Catanzaro. The first shock razed as many as 180 villages and badly damaged Messina. The following night a landslide into the sea near Scilla set off a tsunami that swept away residents camping on the beach for safety. Epidemics then spread among the survivors.
+  fr: >-
+    Entre le 5 février et le 28 mars 1783, une série de cinq forts séismes, dont le plus puissant est estimé à une magnitude de 7,0, a frappé la Calabre, dans le royaume de Naples, le long d’un axe de près de 100 km allant du détroit de Messine vers Catanzaro. La première secousse a rasé jusqu’à 180 villages et gravement endommagé Messine. La nuit suivante, un éboulement dans la mer près de Scilla a provoqué un tsunami qui a emporté les habitants réfugiés sur la plage. Des épidémies ont ensuite frappé les survivants.
+categories: [natural-disaster]
+kind: event
+start: "1783-02-05"
+end: "1783-03-28"
+deaths:
+  best: 50000
+  low: 32000
+  note:
+    en: Deaths from the five shocks and the Scilla tsunami (more than 1,500). Wikipedia gives a range of 32,000 to 50,000 (low); best is the USGS figure. Contemporary counts cited by NOAA NCEI give about 30,000 killed by the earthquakes, plus between 5,709 and 18,876 later deaths from epidemics, and one catalogue gives 60,000 for 1783 to 1786. Sources do not say clearly whether the totals include the epidemic deaths.
+    fr: Morts des cinq secousses et du tsunami de Scilla (plus de 1 500). Wikipédia donne une fourchette de 32 000 à 50 000 (bas de la fourchette) ; l’estimation centrale est celle de l’USGS. Des décomptes d’époque cités par la NCEI de la NOAA font état d’environ 30 000 tués par les séismes, plus 5 709 à 18 876 morts ultérieures dues aux épidémies, et un catalogue donne 60 000 pour 1783 à 1786. Les sources ne précisent pas clairement si les totaux incluent les morts des épidémies.
+countries:
+  - { code: IT, deaths: 50000 }
+sources:
+  - title: 1783 Calabrian earthquakes
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1783_Calabrian_earthquakes
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Tyrrhenian Calabria, event 1455"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/1455
+    accessed: "2026-10-22"
+  - title: Earthquakes with 50,000 or More Deaths (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20130507101448/http://earthquake.usgs.gov/earthquakes/world/most_destructive.php
+    accessed: "2026-10-22"
+reviewed: false

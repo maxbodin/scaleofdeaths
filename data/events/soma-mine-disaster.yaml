@@ -1,0 +1,29 @@
+id: soma-mine-disaster
+title:
+  en: Soma mine disaster
+  fr: Catastrophe minière de Soma
+description:
+  en: >-
+    On 13 May 2014, near a shift change, a fire broke out in the Eynez coal mine at Soma, Manisa province, Turkey, where 787 workers were underground. The mine filled with smoke and carbon monoxide, which killed most of the victims. Rescue operations lasted four days and 486 workers survived. Reports after the disaster found that coal had been smouldering for days and listed serious safety failures, including missing carbon monoxide detectors and poor ventilation. It is the deadliest mining accident in Turkey's history.
+  fr: >-
+    Le 13 mai 2014, peu avant une relève, un incendie se déclare dans la mine de charbon d’Eynez, à Soma, dans la province de Manisa, en Turquie, alors que 787 ouvriers sont au fond. La mine s’emplit de fumée et de monoxyde de carbone, qui tue la plupart des victimes. Les secours durent quatre jours et 486 mineurs survivent. Les rapports établis ensuite montrent que le charbon se consumait depuis des jours et relèvent de graves manquements, dont l’absence de détecteurs de monoxyde de carbone et une mauvaise ventilation. C’est l’accident minier le plus meurtrier de l’histoire turque.
+categories: [accident]
+kind: event
+start: "2014-05-13"
+deaths:
+  best: 301
+  note:
+    en: Miners killed, the toll given by Wikipedia and Al Jazeera, including five mining engineers. Most died of carbon monoxide poisoning.
+    fr: Mineurs tués, bilan donné par Wikipédia et Al Jazeera, dont cinq ingénieurs des mines. La plupart sont morts intoxiqués au monoxyde de carbone.
+countries:
+  - { code: TR, deaths: 301 }
+sources:
+  - title: Soma mine disaster
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Soma_mine_disaster
+    accessed: "2026-10-22"
+  - title: Turkey mine bosses sentenced to up to 22 years over Soma disaster
+    publisher: Al Jazeera
+    url: https://www.aljazeera.com/economy/2018/7/11/turkey-mine-bosses-sentenced-to-up-to-22-years-over-soma-disaster
+    accessed: "2026-10-22"
+reviewed: false

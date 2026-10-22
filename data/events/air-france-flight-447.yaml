@@ -1,0 +1,37 @@
+id: air-france-flight-447
+title:
+  en: Air France Flight 447
+  fr: Vol 447 Air France
+description:
+  en: >-
+    On 1 June 2009, Air France Flight 447, an Airbus A330 flying overnight from Rio de Janeiro to Paris, crashed into the Atlantic Ocean north-east of Brazil with no survivors. According to the French investigation bureau BEA, ice crystals blocked the pitot tubes, the airspeed readings became inconsistent and the autopilot disconnected; the crew reacted incorrectly and the aircraft entered a stall from which it never recovered. The flight recorders were only found on the ocean floor in 2011. In 2026 a Paris appeals court found Air France and Airbus guilty of involuntary manslaughter.
+  fr: >-
+    Le 1er juin 2009, le vol 447 Air France, un Airbus A330 reliant de nuit Rio de Janeiro à Paris, s’abîme dans l’océan Atlantique au nord-est du Brésil, sans survivant. Selon le BEA, des cristaux de glace obstruent les sondes Pitot, les mesures de vitesse deviennent incohérentes et le pilote automatique se déconnecte ; l’équipage réagit de façon inadaptée et l’avion part en décrochage sans jamais en sortir. Les enregistreurs de vol ne sont retrouvés au fond de l’océan qu’en 2011. En 2026, la cour d’appel de Paris déclare Air France et Airbus coupables d’homicides involontaires.
+categories: [accident]
+kind: event
+start: "2009-06-01"
+deaths:
+  best: 228
+  note:
+    en: All 216 passengers and 12 crew were killed (BEA final report, Wikipedia, France 24). Among them were 72 French and 58 Brazilian passengers and crew according to France 24 (59 Brazilians in the Air France list cited by Wikipedia) and 26 Germans. The crash site is in international waters of the Atlantic, near the Saint Peter and Saint Paul Archipelago.
+    fr: Les 216 passagers et 12 membres d’équipage ont tous été tués (rapport final du BEA, Wikipédia, France 24). Parmi eux, 72 Français et 58 Brésiliens selon France 24 (59 Brésiliens dans la liste d’Air France citée par Wikipédia) et 26 Allemands. L’épave se trouve dans les eaux internationales de l’Atlantique, près de l’archipel de Saint-Pierre-et-Saint-Paul.
+countries:
+  - {
+      name:
+        { en: Atlantic Ocean (north-east of Brazil), fr: Océan Atlantique (au nord-est du Brésil) },
+      deaths: 228,
+    }
+sources:
+  - title: Air France Flight 447
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Air_France_Flight_447
+    accessed: "2026-10-22"
+  - title: Final report on the accident on 1st June 2009 to the Airbus A330-203 registered F-GZCP operated by Air France flight AF 447 Rio de Janeiro - Paris
+    publisher: BEA (Bureau of Enquiry and Analysis for Civil Aviation Safety)
+    url: https://bea.aero/fileadmin/documents/docspa/2009/f-cp090601.en/pdf/f-cp090601.en.pdf
+    accessed: "2026-10-22"
+  - title: French court finds Air France, Airbus guilty of involuntary manslaughter over 2009 crash
+    publisher: France 24
+    url: https://www.france24.com/en/france/20260521-french-court-finds-air-france-airbus-guilty-of-involuntary-manslaughter-over-2009-crash
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,32 @@
+id: kosovo-war
+title:
+  en: Kosovo War
+  fr: Guerre du Kosovo
+description:
+  en: >-
+    War in Kosovo between Yugoslav and Serbian forces and the Kosovo Liberation Army (KLA), an ethnic Albanian insurgent group. Serbian counter-insurgency operations in 1998 displaced hundreds of thousands. From March 1999, as NATO bombed Yugoslavia for 78 days without UN Security Council approval, Yugoslav forces expelled about 850,000 Kosovo Albanians and killed thousands of civilians; NATO strikes also killed civilians. Yugoslav forces withdrew in June 1999 and the UN took over; reprisals then drove out many Serbs, Roma and other non-Albanians.
+  fr: >-
+    Guerre au Kosovo entre les forces yougoslaves et serbes et l’Armée de libération du Kosovo (UÇK), guérilla albanaise. En 1998, la contre-insurrection serbe déplace des centaines de milliers de personnes. À partir de mars 1999, pendant les 78 jours de bombardements de l’OTAN sur la Yougoslavie, menés sans l’aval de l’ONU, les forces yougoslaves expulsent quelque 850 000 Albanais et tuent des milliers de civils ; les frappes tuent aussi des civils. Après le retrait yougoslave de juin 1999 et la prise en main par l’ONU, des représailles chassent de nombreux Serbes, Roms et autres non-Albanais.
+categories: [war]
+kind: event
+start: "1998-02-28"
+end: "1999-06-11"
+deaths:
+  best: 13535
+  note:
+    en: People killed or missing in Kosovo, combatants and civilians of all ethnicities. Best is the Kosovo Memory Book database of the Humanitarian Law Center, which documents 13,535 people killed or disappeared from 1 January 1998 to 31 December 2000 (10,812 Albanians, 2,197 Serbs and 526 Roma, Bosniaks, Montenegrins and others), so it includes the reprisal killings after the war; Wikipedia gives about 13,548. Civilians killed by NATO bombing outside Kosovo, in the rest of Serbia, are not included (Human Rights Watch counted 489 to 528 civilian deaths from the bombing in all of Yugoslavia, Wikipedia).
+    fr: Personnes tuées ou disparues au Kosovo, combattants et civils de toutes origines. L’estimation centrale est celle de la base de données Kosovo Memory Book du Centre pour le droit humanitaire, qui recense 13 535 personnes tuées ou disparues du 1er janvier 1998 au 31 décembre 2000 (10 812 Albanais, 2 197 Serbes et 526 Roms, Bosniaques, Monténégrins et autres), ce qui inclut les meurtres de représailles d’après-guerre ; Wikipédia donne environ 13 548. Les civils tués par les bombardements de l’OTAN hors du Kosovo, dans le reste de la Serbie, ne sont pas comptés (Human Rights Watch a recensé 489 à 528 civils tués par les bombardements dans toute la Yougoslavie, Wikipédia).
+countries:
+  - { code: XK, deaths: 13535 }
+  - { code: RS }
+related: [bosnian-war, croatian-war-of-independence]
+sources:
+  - title: Kosovo War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Kosovo_War
+    accessed: "2026-10-22"
+  - title: 31,600 documents undoubtedly confirm death or disappearance of 13,535 individuals during war in Kosovo
+    publisher: Humanitarian Law Center
+    url: https://www.hlc-rdc.org/en/dokumentovanje-i-pamcenje-2/31600-documents-undoubtedly-confirm-death-or-disappearance-of-13535-individuals-during-war-in-kosovo/
+    accessed: "2026-10-22"
+reviewed: false

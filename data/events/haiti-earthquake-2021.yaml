@@ -1,0 +1,29 @@
+id: haiti-earthquake-2021
+title:
+  en: 2021 Haiti earthquake
+  fr: Séisme de 2021 en Haïti
+description:
+  en: >-
+    At 08:29 on 14 August 2021 a shallow magnitude 7.2 earthquake on the Enriquillo-Plantain Garden fault struck the Tiburon Peninsula of southern Haiti, about 150 km west of Port-au-Prince. Most deaths were in the Sud department around Les Cayes, where hotels, homes and churches collapsed, some during Mass. At least 137,500 buildings were damaged or destroyed and about 650,000 people needed assistance. It was the deadliest natural disaster of 2021 and the worst in Haiti since 2010.
+  fr: >-
+    Le 14 août 2021 à 8 h 29, un séisme superficiel de magnitude 7,2 sur la faille d’Enriquillo-Plantain Garden a frappé la péninsule de Tiburon, dans le sud d’Haïti, à environ 150 km à l’ouest de Port-au-Prince. La plupart des morts se trouvaient dans le département du Sud, autour des Cayes, où des hôtels, des maisons et des églises se sont effondrés, certaines pendant la messe. Au moins 137 500 bâtiments ont été endommagés ou détruits et environ 650 000 personnes ont eu besoin d’aide. Ce fut la catastrophe naturelle la plus meurtrière de 2021 et la pire en Haïti depuis 2010.
+categories: [natural-disaster]
+kind: event
+start: "2021-08-14"
+deaths:
+  best: 2248
+  note:
+    en: Confirmed deaths as of 1 September 2021 (1,852 in Sud, 227 in Grand'Anse, 167 in Nippes and 2 in Nord-Ouest), given by Wikipedia and NOAA NCEI. A further 329 people were reported missing. Two more people were killed by aftershocks in January 2022.
+    fr: Morts confirmés au 1er septembre 2021 (1 852 dans le Sud, 227 dans la Grand’Anse, 167 dans les Nippes et 2 dans le Nord-Ouest), selon Wikipédia et la NCEI de la NOAA. 329 autres personnes ont été portées disparues. Deux autres personnes ont été tuées par des répliques en janvier 2022.
+countries:
+  - { code: HT, deaths: 2248 }
+sources:
+  - title: 2021 Haiti earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2021_Haiti_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Haiti, event 10563"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/10563
+    accessed: "2026-10-22"
+reviewed: false

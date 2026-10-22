@@ -1,0 +1,59 @@
+id: romani-genocide
+title:
+  en: Romani Holocaust (Porajmos)
+  fr: Génocide des Roms (Porajmos)
+description:
+  en: >-
+    The genocide of European Roma and Sinti by Nazi Germany and its allies and collaborators. Classed with Jews as enemies of the race-based state under the Nuremberg Laws, Roma were registered, interned, forcibly sterilised and deported. About 21,000 of the 23,000 Roma and Sinti sent to the "Gypsy family camp" at Auschwitz-Birkenau died there. German units shot at least 30,000 in the occupied Soviet Union and thousands more in Serbia, the Ustaša regime killed almost all Roma in Croatia, and Romania deported about 26,000 to Transnistria, where thousands died.
+  fr: >-
+    Génocide des Roms et des Sintés d’Europe perpétré par l’Allemagne nazie, ses alliés et ses collaborateurs. Rangés avec les Juifs parmi les ennemis de l’État racial par les lois de Nuremberg, les Roms sont fichés, internés, stérilisés de force et déportés. Environ 21 000 des 23 000 Roms et Sintés envoyés au « camp des familles tsiganes » d’Auschwitz-Birkenau y meurent. Des unités allemandes en fusillent au moins 30 000 en URSS occupée et des milliers en Serbie, les oustachis tuent presque tous les Roms de Croatie et la Roumanie en déporte environ 26 000 en Transnistrie, où des milliers meurent.
+categories: [genocide]
+kind: event
+partOf: second-world-war
+start: "1939"
+end: "1945"
+deaths:
+  best: 250000
+  low: 130000
+  high: 500000
+  note:
+    en: Roma and Sinti killed by Nazi Germany and its allies and collaborators in camps, mass shootings and deportations. Best is the "at least 250,000" of the United States Holocaust Memorial Museum, also given in Wikipedia's lead; high is the 500,000 that some scholars cited by the museum consider possible. Low is 130,000, the bottom of the usual range given by Wikipedia and the low total (130,565) of the Columbia Guide to the Holocaust, whose authors call Roma loss statistics especially unreliable. Other estimates include about 200,000, often used as a reference point according to Fings, and 500,000 to 1.5 million (Ian Hancock). Per-country figures are the low estimates of the Columbia Guide, as tabulated in Wikipedia's World War II casualties article, by the victims' pre-war country (Soviet Union in 1939 borders).
+    fr: Roms et Sintés tués par l’Allemagne nazie, ses alliés et ses collaborateurs dans les camps, lors de fusillades de masse et de déportations. L’estimation centrale est le chiffre d’« au moins 250 000 » de l’United States Holocaust Memorial Museum, repris dans l’introduction de Wikipédia ; le haut de la fourchette est le chiffre de 500 000 que certains chercheurs cités par le musée jugent possible. Le bas de la fourchette, 130 000, est le bas de la fourchette habituelle donnée par Wikipédia et le total bas (130 565) du Columbia Guide to the Holocaust, dont les auteurs jugent les statistiques des pertes roms particulièrement peu fiables. D’autres estimations existent, dont environ 200 000, souvent pris comme référence selon Fings, et 500 000 à 1,5 million (Ian Hancock). Les chiffres par pays sont les estimations basses du Columbia Guide, reprises dans l’article de Wikipédia sur les pertes humaines de la Seconde Guerre mondiale, par pays d’avant-guerre des victimes (Union soviétique dans ses frontières de 1939).
+countries:
+  - { code: SU, name: { en: Soviet Union, fr: Union soviétique }, deaths: 30000 }
+  - { code: YU, name: { en: Yugoslavia, fr: Yougoslavie }, deaths: 26000 }
+  - { code: RO, deaths: 19000 }
+  - { code: FR, deaths: 15150 }
+  - { code: DE, deaths: 15000 }
+  - { code: PL, deaths: 8000 }
+  - { code: AT, deaths: 6800 }
+  - { code: CZ, deaths: 5000 }
+  - { code: LV, deaths: 1500 }
+  - { code: HU, deaths: 1000 }
+  - { code: IT, deaths: 1000 }
+  - { code: EE, deaths: 500 }
+  - { code: LT, deaths: 500 }
+  - { code: SK, deaths: 400 }
+  - { code: BE, deaths: 350 }
+  - { code: NL, deaths: 215 }
+  - { code: LU, deaths: 100 }
+  - { code: GR, deaths: 50 }
+related: [holocaust]
+sources:
+  - title: Romani Holocaust
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Romani_Holocaust
+    accessed: "2026-10-22"
+  - title: Genocide of European Roma (Gypsies), 1939-1945
+    publisher: United States Holocaust Memorial Museum
+    url: https://encyclopedia.ushmm.org/content/en/article/genocide-of-european-roma-gypsies-1939-1945
+    accessed: "2026-10-22"
+  - title: Documenting Numbers of Victims of the Holocaust and Nazi Persecution
+    publisher: United States Holocaust Memorial Museum
+    url: https://encyclopedia.ushmm.org/content/en/article/documenting-numbers-of-victims-of-the-holocaust-and-nazi-persecution
+    accessed: "2026-10-22"
+  - title: World War II casualties
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/World_War_II_casualties
+    accessed: "2026-10-22"
+reviewed: false

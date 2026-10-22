@@ -1,0 +1,34 @@
+id: syrian-civil-war
+title:
+  en: Syrian civil war
+  fr: Guerre civile syrienne
+description:
+  en: >-
+    Conflict that grew out of the 2011 protests against Bashar al-Assad's government and their violent repression. It involved government forces, rebel and Islamist groups, the Islamic State, Kurdish-led forces and foreign states including Russia, Iran, Turkey and a US-led coalition. Deaths resulted from fighting, air strikes and shelling, sieges, chemical attacks, and torture and executions in detention. The war ended when opposition forces took Damascus on 8 December 2024 and Assad fled.
+  fr: >-
+    Conflit né des manifestations de 2011 contre le gouvernement de Bachar el-Assad et de leur répression violente. Il implique les forces gouvernementales, des groupes rebelles et islamistes, l’État islamique, des forces à dominante kurde et des États étrangers, dont la Russie, l’Iran, la Turquie et une coalition menée par les États-Unis. Les morts sont dues aux combats, aux frappes aériennes et aux bombardements, aux sièges, aux attaques chimiques, à la torture et aux exécutions en détention. La guerre s’achève avec la prise de Damas par l’opposition le 8 décembre 2024 et la fuite d’Assad.
+categories: [war]
+kind: event
+start: "2011-03-15"
+end: "2024-12-08"
+deaths:
+  best: 656493
+  low: 546150
+  note:
+    en: >-
+      Military and civilian deaths of all parties. Best is the overall toll verified by the Syrian Observatory for Human Rights (SOHR) from March 2011 to March 2025 (a few months after the end of the war); low is the part of that toll documented by name. Deaths documented by name include 199,068 civilians, 93,612 government soldiers, 68,385 pro-government militiamen, 81,489 rebel and Islamist fighters, 41,459 Islamic State members, 28,463 other jihadists and 11,768 fighters of the Syrian Democratic Forces. SOHR says its figures exclude more than 26,000 civilians reported killed under torture in government detention and thousands of people missing. The UN human rights office estimated 306,887 civilian deaths from March 2011 to March 2021 (Wikipedia).
+    fr: >-
+      Morts militaires et civiles de toutes les parties. L’estimation centrale est le bilan global vérifié par l’Observatoire syrien des droits de l’homme (OSDH) de mars 2011 à mars 2025 (quelques mois après la fin de la guerre) ; le bas est la part de ce bilan documentée nominativement. Les morts documentées nominativement comprennent 199 068 civils, 93 612 soldats du gouvernement, 68 385 miliciens progouvernementaux, 81 489 combattants rebelles et islamistes, 41 459 membres de l’État islamique, 28 463 autres djihadistes et 11 768 combattants des Forces démocratiques syriennes. L’OSDH précise que ses chiffres excluent plus de 26 000 civils qui seraient morts sous la torture dans les prisons du gouvernement et des milliers de disparus. Le Haut-Commissariat des Nations unies aux droits de l’homme estimait à 306 887 le nombre de civils tués de mars 2011 à mars 2021 (Wikipédia).
+countries:
+  - { code: SY, deaths: 656493 }
+related: [war-in-iraq-2013]
+sources:
+  - title: Syrian civil war
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Syrian_civil_war
+    accessed: "2026-10-22"
+  - title: "14th anniversary of Syrian Revolution: Nearly 657,000 persons killed since the onset of the revolution in March 2011 (archived)"
+    publisher: Syrian Observatory for Human Rights
+    url: https://web.archive.org/web/20251219125605/https://www.syriahr.com/en/358243/
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,37 @@
+id: chaco-war
+title:
+  en: Chaco War
+  fr: Guerre du Chaco
+description:
+  en: >-
+    War between Bolivia and Paraguay for control of the northern Gran Chaco, a semi-arid lowland thought to be rich in oil. Known as the "War of Thirst", it was fought in harsh conditions where thirst and disease killed many soldiers alongside combat. Paraguay, though smaller, won about three-quarters of the disputed territory. It was the bloodiest South American war of the 20th century, killing around 2% of the Bolivian and 3% of the Paraguayan population.
+  fr: >-
+    Guerre entre la Bolivie et le Paraguay pour le contrôle du nord du Gran Chaco, une plaine semi-aride que l’on croyait riche en pétrole. Surnommée la « guerre de la soif », elle s’est déroulée dans des conditions extrêmes où la soif et les maladies ont tué de nombreux soldats, en plus des combats. Le Paraguay, pourtant plus petit, obtient environ les trois quarts du territoire disputé. Ce fut la guerre sud-américaine la plus meurtrière du XXe siècle, tuant environ 2 % de la population bolivienne et 3 % de la population paraguayenne.
+categories: [war]
+kind: event
+start: "1932-09-09"
+end: "1935-06-12"
+deaths:
+  best: 100000
+  low: 80000
+  high: 130000
+  note:
+    en: Military deaths from all causes, including disease and thirst. Best is the Necrometrics estimate of 100,000; the range is the 0.08 to 0.13 million on Wikipedia's list of wars by death toll. Wikipedia's article gives 50,000 to 80,000 Bolivian and 35,000 to 50,000 Paraguayan dead; per-country figures use the low ends.
+    fr: Morts militaires de toutes causes, y compris la maladie et la soif. L’estimation centrale est celle de Necrometrics (100 000) ; la fourchette est celle de 0,08 à 0,13 million de la liste des guerres de Wikipédia. L’article de Wikipédia donne 50 000 à 80 000 morts boliviens et 35 000 à 50 000 morts paraguayens ; les chiffres par pays reprennent le bas de ces fourchettes.
+countries:
+  - { code: BO, deaths: 50000 }
+  - { code: PY, deaths: 35000 }
+sources:
+  - title: Chaco War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Chaco_War
+    accessed: "2026-10-22"
+  - title: List of wars by death toll
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_wars_by_death_toll
+    accessed: "2026-10-22"
+  - title: "Mid-Range Wars and Atrocities of the Twentieth Century: Chaco War (1932-35)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c100k.htm
+    accessed: "2026-10-22"
+reviewed: false

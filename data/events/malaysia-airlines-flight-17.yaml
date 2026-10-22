@@ -1,0 +1,33 @@
+id: malaysia-airlines-flight-17
+title:
+  en: Downing of Malaysia Airlines Flight 17
+  fr: Destruction du vol 17 de Malaysia Airlines
+description:
+  en: >-
+    On 17 July 2014, Malaysia Airlines Flight 17, a Boeing 777 flying from Amsterdam to Kuala Lumpur, was shot down over eastern Ukraine during the war in Donbas, and crashed near Hrabove in Donetsk Oblast, killing everyone on board. Investigators found that it was hit by a Buk surface-to-air missile brought from Russia and fired from territory held by Russian-backed separatists. In 2022 a Dutch court sentenced two Russians and a Ukrainian separatist in absentia to life imprisonment for murder, finding that they had apparently believed the target was a military aircraft.
+  fr: >-
+    Le 17 juillet 2014, le vol 17 de Malaysia Airlines, un Boeing 777 reliant Amsterdam à Kuala Lumpur, est abattu au-dessus de l’est de l’Ukraine pendant la guerre du Donbass et s’écrase près de Hrabove, dans l’oblast de Donetsk, tuant tous ses occupants. Les enquêteurs établissent qu’il a été touché par un missile sol-air Buk venu de Russie et tiré depuis une zone tenue par les séparatistes soutenus par Moscou. En 2022, un tribunal néerlandais condamne par contumace deux Russes et un séparatiste ukrainien à la perpétuité pour meurtre, jugeant qu’ils croyaient sans doute viser un avion militaire.
+categories: [war]
+kind: event
+start: "2014-07-17"
+deaths:
+  best: 298
+  note:
+    en: All 283 passengers and 15 crew were killed, as established by the District Court of The Hague and reported by Wikipedia and Al Jazeera; 80 of them were children. By nationality (Dutch Safety Board list, via Wikipedia) 193 were Dutch, 43 Malaysian, 27 Australian, 12 Indonesian and 10 British, among others. All died in Ukraine.
+    fr: Les 283 passagers et 15 membres d’équipage ont tous été tués, selon le tribunal de district de La Haye, Wikipédia et Al Jazeera ; 80 d’entre eux étaient des enfants. Par nationalité (liste du Bureau néerlandais pour la sécurité, via Wikipédia), 193 étaient néerlandais, 43 malaisiens, 27 australiens, 12 indonésiens et 10 britanniques, entre autres. Tous sont morts en Ukraine.
+countries:
+  - { code: UA, deaths: 298 }
+sources:
+  - title: Malaysia Airlines Flight 17
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Malaysia_Airlines_Flight_17
+    accessed: "2026-10-22"
+  - title: Transcript of the MH17 judgment hearing
+    publisher: District Court of The Hague
+    url: https://www.courtmh17.com/en/summaries-and-news/news/transcript-of-the-mh17-judgment-hearing.htm
+    accessed: "2026-10-22"
+  - title: Dutch court convicts three MH17 suspects, acquits one
+    publisher: Al Jazeera
+    url: https://www.aljazeera.com/news/2022/11/17/dutch-court-convicts-three-mh17-suspects-acquits-one
+    accessed: "2026-10-22"
+reviewed: false

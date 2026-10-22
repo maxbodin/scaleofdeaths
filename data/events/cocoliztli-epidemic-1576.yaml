@@ -1,0 +1,39 @@
+id: cocoliztli-epidemic-1576
+title:
+  en: Cocoliztli epidemic of 1576-1580
+  fr: Épidémie de cocoliztli de 1576-1580
+description:
+  en: >-
+    Second great outbreak of cocoliztli, a haemorrhagic fever that struck New Spain three decades after the 1545 epidemic, during a severe drought. First reported in the Valley of Mexico in April 1576, it spread north to Sonora and south to Yucatán and Guatemala, peaking between September 1576 and March 1577. The physician Francisco Hernández, who witnessed it, described fever, jaundice, bleeding from the nose, eyes and mouth, and death within three or four days. Indigenous people were the main victims; census data suggest about half of the population died.
+  fr: >-
+    Deuxième grande flambée de cocoliztli, fièvre hémorragique qui a frappé la Nouvelle-Espagne trente ans après l’épidémie de 1545, en pleine sécheresse. Signalée dans la vallée de Mexico en avril 1576, elle a gagné la Sonora au nord, le Yucatán et le Guatemala au sud, avec un pic de septembre 1576 à mars 1577. Le médecin Francisco Hernández, témoin de l’épidémie, a décrit fièvre, jaunisse, saignements du nez, des yeux et de la bouche, et une mort en trois ou quatre jours. Les Autochtones en ont été les principales victimes ; près de la moitié de la population serait morte.
+categories: [epidemic]
+kind: event
+start: "1576-04"
+end: "1580"
+deaths:
+  best: 2000000
+  high: 2500000
+  note:
+    en: >-
+      Best is the contemporary estimate, based on the 1570 and 1579-1580 censuses, that 2 million of Mexico's 4 million inhabitants died (Acuna-Soto et al., 2004); the CDC's Emerging Infectious Diseases journal gives 2 to 2.5 million. A reconstruction from the surviving census data for 196 districts alone counts 1,077,902 deaths (51% of their population). The outbreak was declared over in December 1578 but returned in 1579 with fewer deaths.
+    fr: >-
+      L’estimation retenue est celle des contemporains, fondée sur les recensements de 1570 et 1579-1580 : 2 millions de morts sur 4 millions d’habitants (Acuna-Soto et al., 2004) ; la revue Emerging Infectious Diseases des CDC donne 2 à 2,5 millions. Une reconstitution à partir des recensements conservés pour 196 districts seulement compte 1 077 902 morts (51 % de leur population). La fin de l’épidémie a été proclamée en décembre 1578, mais elle est revenue en 1579, moins meurtrière.
+countries:
+  - { code: MX, deaths: 2000000 }
+  - { code: GT }
+related: [cocoliztli-epidemic-1545, mexico-smallpox-epidemic-1520]
+sources:
+  - title: Cocoliztli epidemics
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Cocoliztli_epidemics
+    accessed: "2026-10-22"
+  - title: "When half of the population died: the epidemic of hemorrhagic fevers of 1576 in Mexico"
+    publisher: FEMS Microbiology Letters (via PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7110390/
+    accessed: "2026-10-22"
+  - title: Megadrought and Megadeath in 16th Century Mexico
+    publisher: Emerging Infectious Diseases (CDC)
+    url: https://wwwnc.cdc.gov/eid/article/8/4/01-0175_article
+    accessed: "2026-10-22"
+reviewed: false

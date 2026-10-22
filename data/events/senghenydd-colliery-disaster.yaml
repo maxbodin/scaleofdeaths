@@ -1,0 +1,33 @@
+id: senghenydd-colliery-disaster
+title:
+  en: Senghenydd colliery disaster
+  fr: Catastrophe minière de Senghenydd
+description:
+  en: >-
+    On the morning of 14 October 1913 an explosion tore through the Universal Colliery at Senghenydd, near Caerphilly in the South Wales Coalfield, where about 950 men were underground. The inquiry thought a spark from underground signalling equipment had most likely ignited firedamp, and coal dust spread the blast. Men in the western workings were killed by the explosion, fire and afterdamp, and fires delayed rescue for days. Safety measures required after an 81-death explosion at the same pit in 1901 had not been carried out. It is the worst mining accident in the United Kingdom.
+  fr: >-
+    Le matin du 14 octobre 1913, une explosion ravage l’Universal Colliery de Senghenydd, près de Caerphilly, dans le bassin houiller du sud du pays de Galles, où quelque 950 hommes travaillent au fond. Selon l’enquête, une étincelle d’un appareil de signalisation a probablement enflammé le grisou, et la poussière de charbon a propagé l’explosion. Les mineurs du secteur ouest sont tués par le souffle, le feu et les gaz, et les incendies retardent les secours pendant des jours. Les mesures exigées après une explosion qui avait fait 81 morts dans la même mine en 1901 n’avaient pas été prises.
+categories: [accident]
+kind: event
+start: "1913-10-14"
+deaths:
+  best: 440
+  note:
+    en: 439 miners and one rescuer, the toll given by Wikipedia and the BBC; 432 miners died that day and 7 later of their injuries. Sixty of the dead were younger than 20.
+    fr: 439 mineurs et un sauveteur, bilan donné par Wikipédia et la BBC ; 432 mineurs sont morts le jour même et 7 plus tard de leurs blessures. Soixante des morts avaient moins de 20 ans.
+countries:
+  - { code: GB, deaths: 440 }
+sources:
+  - title: Senghenydd colliery disaster
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Senghenydd_colliery_disaster
+    accessed: "2026-10-22"
+  - title: "Senghenydd: Centenary of UK's worst pit disaster marked"
+    publisher: BBC News
+    url: https://www.bbc.co.uk/news/uk-wales-24506122
+    accessed: "2026-10-22"
+  - title: Site dedicated to thousands of lives lost officially recognised as the National Mining Disaster Memorial Garden of Wales
+    publisher: Cadw (Welsh Government)
+    url: https://cadw.gov.wales/about-us/news/site-dedicated-to-thousands-lives-lost-officially-recognised-national-mining-disaster
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,31 @@
+id: wayanad-landslides-2024
+title:
+  en: 2024 Wayanad landslides
+  fr: Glissements de terrain de 2024 au Wayanad
+description:
+  en: >-
+    In the early hours of 30 July 2024, after extremely heavy monsoon rain, a series of landslides and debris flows swept down the hills above Mundakkai, Chooralmala, Punjirimattom and Vellarimala in Wayanad district, Kerala, India, burying homes, schools and tea estate housing while people slept. Bodies and body parts were carried kilometres down the Chaliyar river, making identification difficult. Deforestation, fragile slopes and poorly built housing have been cited among the factors behind the toll.
+  fr: >-
+    Aux premières heures du 30 juillet 2024, après des pluies de mousson extrêmes, une série de glissements de terrain et de laves torrentielles a dévalé les collines au-dessus de Mundakkai, Chooralmala, Punjirimattom et Vellarimala, dans le district de Wayanad (Kerala, Inde), ensevelissant maisons, écoles et logements des plantations de thé pendant le sommeil des habitants. Des corps et des restes humains ont été emportés sur des kilomètres par la rivière Chaliyar, compliquant les identifications. Déforestation, pentes fragiles et constructions précaires figurent parmi les causes citées.
+categories: [natural-disaster]
+kind: event
+start: "2024-07-30"
+deaths:
+  best: 298
+  note:
+    en: >-
+      Best is the official death toll of 298 reported by Down To Earth on the second anniversary; it adds that 32 people who were never found were later declared dead by the Kerala government, without saying clearly whether they are included. Early counts were confused by the many body parts recovered; Wikipedia's infobox figure of 420 deaths appears to count recovered bodies and body parts rather than people and is not used.
+    fr: >-
+      L’estimation centrale est le bilan officiel de 298 morts rapporté par Down To Earth au deuxième anniversaire ; le magazine ajoute que 32 personnes jamais retrouvées ont ensuite été déclarées mortes par le gouvernement du Kerala, sans préciser clairement si elles sont incluses. Les premiers bilans ont été brouillés par les nombreux restes humains retrouvés ; le chiffre de 420 morts de l’infobox de Wikipédia semble compter des corps et des restes plutôt que des personnes et n’est pas retenu.
+countries:
+  - { code: IN, deaths: 298 }
+sources:
+  - title: 2024 Wayanad landslides
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2024_Wayanad_landslides
+    accessed: "2026-10-22"
+  - title: "Two years after the Mundakkai-Chooralmala catastrophe, Wayanad and Kerala are at a crossroads"
+    publisher: Down To Earth
+    url: https://www.downtoearth.org.in/climate-change/two-years-after-the-mundakkai-chooralmala-catastrophe-wayanad-and-kerala-are-at-a-crossroads
+    accessed: "2026-10-22"
+reviewed: false

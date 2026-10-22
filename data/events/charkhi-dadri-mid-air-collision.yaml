@@ -1,0 +1,29 @@
+id: charkhi-dadri-mid-air-collision
+title:
+  en: 1996 Charkhi Dadri mid-air collision
+  fr: Collision aérienne de Charkhi Dadri
+description:
+  en: >-
+    At about 18:40 on 12 November 1996 Saudia Flight 763, a Boeing 747 climbing out of Delhi for Dhahran and Jeddah, and Kazakhstan Airlines Flight 1907, an Ilyushin Il-76 descending towards Delhi from Shymkent, collided over Charkhi Dadri in Haryana, India, about 100 km west of the capital. The investigation found that the Kazakh crew had descended below its assigned altitude; poor English in its cockpit and the lack of secondary radar at Delhi, which could not show altitudes, contributed. There were no survivors. It is the deadliest mid-air collision in history.
+  fr: >-
+    Vers 18 h 40, le 12 novembre 1996, le vol Saudia 763, un Boeing 747 en montée après son décollage de Delhi vers Dhahran et Djeddah, et le vol Kazakhstan Airlines 1907, un Iliouchine Il-76 en descente vers Delhi depuis Chymkent, se percutent au-dessus de Charkhi Dadri, dans l’Haryana (Inde), à une centaine de kilomètres à l’ouest de la capitale. L’enquête conclut que l’équipage kazakh était descendu sous l’altitude autorisée ; son anglais insuffisant et l’absence à Delhi d’un radar secondaire indiquant l’altitude y ont contribué. Il n’y a aucun survivant.
+categories: [accident]
+kind: event
+start: "1996-11-12"
+deaths:
+  best: 349
+  note:
+    en: Everyone on board both aircraft, 312 of them on the Saudia flight, the toll given by Wikipedia and The Times of India. It is the deadliest mid-air collision and the deadliest aviation accident without survivors. Many Saudia passengers were Indians working in Saudi Arabia, but reports on their nationalities conflict.
+    fr: Tous les occupants des deux avions, dont 312 dans le vol Saudia, bilan donné par Wikipédia et The Times of India. C’est la collision aérienne la plus meurtrière et l’accident aérien sans survivant le plus meurtrier. Beaucoup de passagers du vol Saudia étaient des Indiens travaillant en Arabie saoudite, mais les informations sur leurs nationalités divergent.
+countries:
+  - { code: IN, deaths: 349 }
+sources:
+  - title: 1996 Charkhi Dadri mid-air collision
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1996_Charkhi_Dadri_mid-air_collision
+    accessed: "2026-10-22"
+  - title: Haryana's Charkhi Dadri plans a memorial for 1996 mid-air collision victims
+    publisher: The Times of India
+    url: https://timesofindia.indiatimes.com/city/chandigarh/haryanas-charkhi-dadri-plans-a-memorial-for-1996-mid-air-collision-victims/articleshow/81319907.cms
+    accessed: "2026-10-22"
+reviewed: false

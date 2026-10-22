@@ -1,0 +1,45 @@
+id: crusades
+title:
+  en: Crusades
+  fr: Croisades
+description:
+  en: >-
+    Series of religious wars launched by the Latin Church to conquer and hold Jerusalem and the Holy Land, from the First Crusade called by Pope Urban II in 1095 to the fall of Acre, the last crusader stronghold in the Levant, in 1291. Campaigns were fought in Anatolia, the Levant, Egypt and Tunisia, and the Fourth Crusade sacked Constantinople in 1204. Deaths came from battles, sieges and massacres such as Jerusalem in 1099, attacks on Jewish communities in Europe, and disease and hunger in crusading armies.
+  fr: >-
+    Série de guerres religieuses lancées par l’Église latine pour conquérir et conserver Jérusalem et la Terre sainte, de la première croisade prêchée par le pape Urbain II en 1095 à la chute d’Acre, dernier bastion croisé du Levant, en 1291. Les campagnes se déroulent en Anatolie, au Levant, en Égypte et en Tunisie, et la quatrième croisade met Constantinople à sac en 1204. Les morts sont dues aux batailles, aux sièges et aux massacres, comme à Jérusalem en 1099, aux attaques contre les communautés juives d’Europe, ainsi qu’aux maladies et à la faim dans les armées croisées.
+categories: [war]
+kind: event
+start: "1095"
+end: "1291"
+deaths:
+  best: 3000000
+  low: 1000000
+  high: 9000000
+  note:
+    en: "All deaths on all sides, military and civilian, including disease and hunger among crusading armies. These totals are rough and mostly come from 19th and early 20th century authors. Best: 3 million, the median of the published estimates compiled by Matthew White (Necrometrics). Low: 1 million (John S. Hittell, 1874). High: 9 million (J. M. Robertson, 1902); several authors give 5 million. White notes that no published estimate falls below 1 million or above 9 million. Wikipedia's list of wars by death toll gives the same 1 to 9 million range."
+    fr: "Ensemble des morts, de tous les camps, militaires et civiles, y compris les maladies et la faim dans les armées croisées. Ces totaux sont approximatifs et viennent surtout d’auteurs du XIXe et du début du XXe siècle. Estimation centrale : 3 millions, médiane des estimations publiées réunies par Matthew White (Necrometrics). Bas : 1 million (John S. Hittell, 1874). Haut : 9 millions (J. M. Robertson, 1902) ; plusieurs auteurs avancent 5 millions. White note qu’aucune estimation publiée n’est inférieure à 1 million ni supérieure à 9 millions. La liste des guerres par nombre de morts de Wikipédia donne la même fourchette de 1 à 9 millions."
+countries:
+  - { code: IL }
+  - { code: PS }
+  - { code: SY }
+  - { code: LB }
+  - { code: JO }
+  - { code: TR }
+  - { code: EG }
+  - { code: TN }
+  - { code: DE }
+related: [albigensian-crusade]
+sources:
+  - title: Crusades
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Crusades
+    accessed: "2026-10-22"
+  - title: List of wars by death toll
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_wars_by_death_toll
+    accessed: "2026-10-22"
+  - title: Selected Death Tolls for Wars, Massacres and Atrocities Before the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/pre1700a.htm
+    accessed: "2026-10-22"
+reviewed: false

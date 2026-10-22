@@ -1,0 +1,31 @@
+id: paris-attacks-2015
+title:
+  en: November 2015 Paris attacks
+  fr: Attentats du 13 novembre 2015
+description:
+  en: >-
+    Coordinated attacks carried out on the evening of 13 November 2015 in Paris and its northern suburb of Saint-Denis by three groups of Islamist militants. Three suicide bombers struck outside the Stade de France during an international football match, gunmen fired on the terraces of cafés and restaurants, and three attackers took hostages at the Bataclan theatre during a concert, where 90 people were killed. The Islamic State group claimed responsibility. The attacks were the deadliest in the European Union since the 2004 Madrid train bombings.
+  fr: >-
+    Attaques coordonnées menées le soir du 13 novembre 2015 à Paris et à Saint-Denis par trois commandos islamistes. Trois kamikazes se font exploser aux abords du Stade de France pendant un match international de football, des hommes armés tirent sur des terrasses de cafés et de restaurants, et trois assaillants prennent en otage le public d’un concert au Bataclan, où 90 personnes sont tuées. L’organisation État islamique revendique les attentats, les plus meurtriers dans l’Union européenne depuis ceux de Madrid en 2004.
+categories: [genocide]
+kind: event
+start: "2015-11-13"
+deaths:
+  best: 130
+  note:
+    en: >-
+      People killed by the attackers, including 90 at the Bataclan theatre (Wikipedia, BBC News). The seven attackers who died that night are not counted. More than 400 people were injured.
+    fr: >-
+      Personnes tuées par les assaillants, dont 90 au Bataclan (Wikipédia, BBC News). Les sept assaillants morts ce soir-là ne sont pas comptés. Plus de 400 personnes ont été blessées.
+countries:
+  - { code: FR, deaths: 130 }
+sources:
+  - title: November 2015 Paris attacks
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/November_2015_Paris_attacks
+    accessed: "2026-10-22"
+  - title: "Paris attacks: What happened on the night"
+    publisher: BBC News
+    url: https://www.bbc.com/news/world-europe-34818994
+    accessed: "2026-10-22"
+reviewed: false

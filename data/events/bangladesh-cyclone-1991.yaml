@@ -1,0 +1,33 @@
+id: bangladesh-cyclone-1991
+title:
+  en: 1991 Bangladesh cyclone
+  fr: Cyclone de 1991 au Bangladesh
+description:
+  en: >-
+    One of the strongest cyclones recorded in the Bay of Bengal crossed the coast of south-eastern Bangladesh near Chittagong on the night of 29 to 30 April 1991, with winds of about 240 km/h. A storm surge of about 6 metres flooded the coast and offshore islands such as Kutubdia, where most homes were destroyed. An estimated 2 to 3 million people had been evacuated beforehand. The disaster prompted Operation Sea Angel, one of the largest military relief efforts ever carried out.
+  fr: >-
+    L’un des cyclones les plus puissants jamais enregistrés dans le golfe du Bengale a touché la côte sud-est du Bangladesh, près de Chittagong, dans la nuit du 29 au 30 avril 1991, avec des vents d’environ 240 km/h. Une onde de tempête d’environ 6 mètres a submergé la côte et les îles comme Kutubdia, où la plupart des habitations ont été détruites. Deux à trois millions de personnes avaient été évacuées au préalable. La catastrophe a donné lieu à l’opération Sea Angel, l’une des plus vastes opérations militaires de secours jamais menées.
+categories: [natural-disaster]
+kind: event
+start: "1991-04-24"
+end: "1991-04-30"
+deaths:
+  best: 138866
+  high: 150000
+  note:
+    en: >-
+      Best is the toll of at least 138,866 deaths given by Wikipedia. Banglapedia gives 140,000 deaths in one passage and an estimated 150,000 in another; high is 150,000.
+    fr: >-
+      L’estimation centrale est le bilan d’au moins 138 866 morts donné par Wikipédia. Banglapedia donne 140 000 morts dans un passage et environ 150 000 dans un autre ; l’estimation haute est de 150 000.
+countries:
+  - { code: BD, deaths: 138866 }
+sources:
+  - title: 1991 Bangladesh cyclone
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1991_Bangladesh_cyclone
+    accessed: "2026-10-22"
+  - title: Cyclone
+    publisher: Banglapedia (Asiatic Society of Bangladesh)
+    url: https://en.banglapedia.org/index.php/Cyclone
+    accessed: "2026-10-22"
+reviewed: false

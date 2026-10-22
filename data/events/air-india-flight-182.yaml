@@ -1,0 +1,32 @@
+id: air-india-flight-182
+title:
+  en: Air India Flight 182 bombing
+  fr: Attentat du vol 182 d’Air India
+description:
+  en: >-
+    Bombing of an Air India Boeing 747 on the Montreal to London leg of a flight from Toronto to Delhi and Bombay. A bomb hidden in a suitcase checked in at Vancouver exploded in the forward cargo hold, and the aircraft broke up and fell into the Atlantic Ocean off the coast of Ireland, leaving no survivors. The attack was attributed to Sikh militants of the Khalistan separatist movement, and the group Babbar Khalsa was implicated; Inderjit Singh Reyat, who assembled the bombs, is the only person convicted. It is the deadliest terrorist attack in Canadian history.
+  fr: >-
+    Attentat contre un Boeing 747 d’Air India sur l’étape Montréal-Londres d’un vol Toronto-Delhi-Bombay. Une bombe cachée dans une valise enregistrée à Vancouver explosa dans la soute avant, et l’avion se disloqua et tomba dans l’Atlantique au large de l’Irlande, sans survivants. L’attentat a été attribué à des militants sikhs du mouvement séparatiste du Khalistan, et le groupe Babbar Khalsa a été mis en cause ; Inderjit Singh Reyat, qui avait assemblé les bombes, est le seul condamné. C’est l’attentat le plus meurtrier de l’histoire du Canada.
+categories: [genocide]
+kind: event
+start: "1985-06-23"
+deaths:
+  best: 329
+  note:
+    en: All 329 passengers and crew on board, including 268 Canadian, 27 British and 22 Indian citizens (Wikipedia). Not counted are the two baggage handlers killed the same day at Tokyo's Narita airport by a second bomb from the same plot (331 deaths in total according to the RCMP).
+    fr: Les 329 passagers et membres d’équipage à bord, dont 268 Canadiens, 27 Britanniques et 22 Indiens (Wikipédia). Ne sont pas comptés les deux bagagistes tués le même jour à l’aéroport de Narita, à Tokyo, par une seconde bombe du même complot (331 morts au total selon la GRC).
+countries:
+  - {
+      name: { en: Atlantic Ocean (off Ireland), fr: Océan Atlantique (au large de l’Irlande) },
+      deaths: 329,
+    }
+sources:
+  - title: Air India Flight 182
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Air_India_Flight_182
+    accessed: "2026-10-22"
+  - title: "Honouring a tragic legacy: 40 years after the Air India bombing"
+    publisher: Royal Canadian Mounted Police
+    url: https://rcmp.ca/en/news/2025/06/honouring-tragic-legacy-40-years-after-air-india-bombing
+    accessed: "2026-10-22"
+reviewed: false

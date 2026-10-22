@@ -1,0 +1,29 @@
+id: beirut-port-explosion
+title:
+  en: 2020 Beirut port explosion
+  fr: Explosion du port de Beyrouth
+description:
+  en: >-
+    On 4 August 2020 about 2,750 tonnes of ammonium nitrate, confiscated from the cargo ship Rhosus and stored at the port of Beirut, Lebanon, without adequate safety measures since 2014, detonated after a fire broke out nearby. One of the most powerful non-nuclear explosions ever recorded, it destroyed the port, damaged more than half of the city and was felt as far as Cyprus. About 7,000 people were injured and some 300,000 displaced. Human Rights Watch found evidence that several Lebanese authorities had been at least criminally negligent.
+  fr: >-
+    Le 4 août 2020, environ 2 750 tonnes de nitrate d’ammonium, saisies sur le cargo Rhosus et stockées sans mesures de sécurité adéquates dans le port de Beyrouth, au Liban, depuis 2014, explosent après un incendie voisin. L’une des plus puissantes explosions non nucléaires jamais enregistrées détruit le port, endommage plus de la moitié de la ville et est ressentie jusqu’à Chypre. Environ 7 000 personnes sont blessées et quelque 300 000 déplacées. Selon Human Rights Watch, plusieurs autorités libanaises ont fait preuve, au minimum, de négligence criminelle.
+categories: [accident]
+kind: event
+start: "2020-08-04"
+deaths:
+  best: 218
+  note:
+    en: Confirmed deaths, the toll given by Wikipedia and Human Rights Watch. The dead included nationals of at least 14 countries, among them Lebanese, Syrians, Egyptians, Ethiopians, Bangladeshis and Filipinos; the sources give no death count by nationality.
+    fr: Morts confirmés, bilan donné par Wikipédia et Human Rights Watch. Les victimes comptaient des ressortissants d’au moins 14 pays, dont des Libanais, des Syriens, des Égyptiens, des Éthiopiens, des Bangladais et des Philippins ; les sources ne donnent pas de bilan par nationalité.
+countries:
+  - { code: LB, deaths: 218 }
+sources:
+  - title: 2020 Beirut explosion
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2020_Beirut_explosion
+    accessed: "2026-10-22"
+  - title: '"They Killed Us From the Inside": An Investigation into the August 4 Beirut Blast'
+    publisher: Human Rights Watch
+    url: https://www.hrw.org/report/2021/08/03/they-killed-us-inside/investigation-august-4-beirut-blast
+    accessed: "2026-10-22"
+reviewed: false

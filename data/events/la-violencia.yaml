@@ -1,0 +1,31 @@
+id: la-violencia
+title:
+  en: La Violencia
+  fr: La Violencia
+description:
+  en: >-
+    Decade of civil conflict in Colombia between supporters of the Conservative and Liberal parties, fought mainly in the countryside. It is usually dated from the assassination of Liberal leader Jorge Eliécer Gaitán on 9 April 1948, which set off the Bogotazo riots in the capital, although partisan violence had begun after the Conservatives returned to power in 1946. Police, party militias, guerrillas and bandits killed peasants of the opposing party and seized their land. A power-sharing pact between the two parties, the National Front, ended the worst of the violence in 1958.
+  fr: >-
+    Décennie de conflit civil en Colombie entre partisans des partis conservateur et libéral, surtout dans les campagnes. On la fait généralement commencer avec l’assassinat du dirigeant libéral Jorge Eliécer Gaitán le 9 avril 1948, qui déclenche les émeutes du Bogotazo dans la capitale, même si les violences partisanes avaient commencé après le retour des conservateurs au pouvoir en 1946. Policiers, milices partisanes, guérilleros et bandits tuent des paysans du parti adverse et s’emparent de leurs terres. Un pacte de partage du pouvoir, le Front national, met fin au pire des violences en 1958.
+categories: [war]
+kind: event
+start: "1948-04-09"
+end: "1958"
+deaths:
+  best: 200000
+  note:
+    en: Deaths from political violence, mostly of civilians. Best is the "at least 200,000" killed given by Wikipedia, which breaks it down into 200,000 civilians and several thousand soldiers, police officers, paramilitaries and rebels; the US Library of Congress country study gives "over 200,000 lives" for the eighteen years from 1948, with the bloodiest period in 1948-1958. No reliable range was found in the sources consulted.
+    fr: Morts dues aux violences politiques, surtout des civils. L’estimation centrale correspond aux « au moins 200 000 » tués indiqués par Wikipédia, qui les ventile en 200 000 civils et plusieurs milliers de soldats, policiers, paramilitaires et rebelles ; l’étude pays de la Bibliothèque du Congrès américain donne « plus de 200 000 vies » sur les dix-huit années suivant 1948, la période la plus meurtrière se situant en 1948-1958. Aucune fourchette fiable n’a été trouvée dans les sources consultées.
+countries:
+  - { code: CO, deaths: 200000 }
+related: [colombian-conflict]
+sources:
+  - title: La Violencia
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/La_Violencia
+    accessed: "2026-10-22"
+  - title: "Colombia: A Country Study, La Violencia (mirror of the Library of Congress text)"
+    publisher: US Library of Congress, Federal Research Division
+    url: https://countrystudies.us/colombia/22.htm
+    accessed: "2026-10-22"
+reviewed: false

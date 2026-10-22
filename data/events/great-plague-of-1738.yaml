@@ -1,0 +1,42 @@
+id: great-plague-of-1738
+title:
+  en: Great Plague of 1738
+  fr: Grande peste de 1738
+description:
+  en: >-
+    Bubonic plague epidemic in the Habsburg lands of the middle Danube, which came from the Ottoman Empire. It struck the Banat in February 1738, reportedly carried by the imperial army then at war with the Ottomans, and killed a sixth of the population of Timișoara. It then moved north along the Tisza, into Transylvania and as far as the Adriatic island of Brač, prompting quarantines such as the lockdown of Debrecen from May 1739 to April 1740. It lasted until 1743.
+  fr: >-
+    Épidémie de peste bubonique dans les possessions des Habsbourg du Danube moyen, venue de l’Empire ottoman. Elle frappa le Banat en février 1738, apportée selon les sources par l’armée impériale, alors en guerre contre les Ottomans, et tua un sixième des habitants de Timișoara. Elle remonta ensuite la Tisza, gagna la Transylvanie et atteignit jusqu’à l’île adriatique de Brač, entraînant des quarantaines comme le confinement de Debrecen de mai 1739 à avril 1740. Elle dura jusqu’en 1743.
+categories: [epidemic]
+kind: event
+start: "1738"
+end: "1743"
+deaths:
+  best: 250000
+  note:
+    en: Best is the estimate of the Hungarian National Archives, about 250,000 deaths in the Kingdom of Hungary from 1738 to 1743, some 5% of a population of about 5 million, rising to 20% or more in the Tisza counties of Békés, Máramaros, Bihar and Szatmár. It does not include Transylvania, then a separate principality, where the 1740 diet counted 36,000 deaths (History of Transylvania, Hungarian Academy of Sciences); Wikipedia presents those 36,000 as the toll of the whole epidemic. No overall estimate or range covering all affected lands was found.
+    fr: L’estimation retenue est celle des Archives nationales de Hongrie, environ 250 000 morts dans le royaume de Hongrie de 1738 à 1743, soit quelque 5 % d’une population d’environ 5 millions, et 20 % ou plus dans les comitats de la Tisza (Békés, Máramaros, Bihar et Szatmár). Elle n’inclut pas la Transylvanie, alors principauté distincte, où la diète de 1740 a compté 36 000 morts (Histoire de la Transylvanie, Académie hongroise des sciences) ; Wikipédia présente ces 36 000 morts comme le bilan de toute l’épidémie. Aucune estimation globale ni fourchette couvrant toutes les régions touchées n’a été trouvée.
+countries:
+  - { code: HU }
+  - { code: RO }
+  - { code: SK }
+  - { code: RS }
+  - { code: UA }
+  - { code: HR }
+  - { code: CZ }
+  - { code: AT }
+related: [black-death]
+sources:
+  - title: Great Plague of 1738
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Great_Plague_of_1738
+    accessed: "2026-10-22"
+  - title: "Jelentések a 18. század közepén kitört pestisjárványról (Reports on the plague epidemic of the mid-18th century), archived"
+    publisher: Hungarian National Archives (MNL)
+    url: https://web.archive.org/web/20241205063831/https://mnl.gov.hu/mnl/ol/hirek/jelentesek_a_18_szazad_kozepen_kitort_pestisjarvanyrol
+    accessed: "2026-10-22"
+  - title: "History of Transylvania, Volume II: Demographic Changes (archived)"
+    publisher: Institute of History of the Hungarian Academy of Sciences, via Hungarian Electronic Library
+    url: https://web.archive.org/web/20201111181603/http://mek.oszk.hu/03400/03407/html/280.html
+    accessed: "2026-10-22"
+reviewed: false

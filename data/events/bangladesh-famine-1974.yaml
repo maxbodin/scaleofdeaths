@@ -1,0 +1,35 @@
+id: bangladesh-famine-1974
+title:
+  en: Bangladesh famine of 1974
+  fr: Famine de 1974 au Bangladesh
+description:
+  en: >-
+    Famine in newly independent Bangladesh, centred on the northern district of Rangpur, from March to about December 1974. Floods along the Brahmaputra destroyed crops in a country still ravaged by the 1971 war, while grain smuggling to neighbouring countries, speculative hoarding and failures of the state rationing system pushed rice prices out of reach. Landless labourers suffered the highest mortality. United States food aid was withheld until it was too late, and cholera, malaria and diarrhoeal diseases caused many deaths.
+  fr: >-
+    Famine dans le Bangladesh tout juste indépendant, centrée sur le district de Rangpur, dans le nord, de mars à décembre 1974 environ. Les crues du Brahmapoutre ont détruit les récoltes d’un pays encore dévasté par la guerre de 1971, tandis que la contrebande de grain vers les pays voisins, la spéculation et les défaillances du rationnement public rendaient le riz inabordable. Les ouvriers agricoles sans terre ont connu la plus forte mortalité. L’aide alimentaire américaine, retenue, est arrivée trop tard, et le choléra, le paludisme et les diarrhées ont causé de nombreux morts.
+categories: [famine]
+kind: event
+start: "1974-03"
+end: "1974-12"
+deaths:
+  best: 1500000
+  low: 500000
+  note:
+    en: "Deaths from starvation and famine-related disease, including post-famine mortality. Best: 1.5 million, the independent estimate given by Wikipedia as reasonable and used by the World Peace Foundation. Low: 500,000 (Ó Gráda). The government of Bangladesh officially counted only 27,000 deaths."
+    fr: "Morts de faim et des maladies liées à la famine, y compris la mortalité après la famine. Valeur centrale : 1,5 million, estimation indépendante jugée raisonnable par Wikipédia et retenue par la World Peace Foundation. Bas : 500 000 (Ó Gráda). Le gouvernement du Bangladesh n’a officiellement compté que 27 000 morts."
+countries:
+  - { code: BD, deaths: 1500000 }
+sources:
+  - title: Bangladesh famine of 1974
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Bangladesh_famine_of_1974
+    accessed: "2026-10-22"
+  - title: Famines and the deaths in them
+    publisher: Our World in Data (World Peace Foundation data)
+    url: https://ourworldindata.org/grapher/famines-and-the-deaths-in-them
+    accessed: "2026-10-22"
+  - title: Making Famine History (Cormac Ó Gráda)
+    publisher: Journal of Economic Literature (UCD Research Repository)
+    url: https://researchrepository.ucd.ie/server/api/core/bitstreams/f57a2154-08a1-44a8-b865-75d1d51a4fcb/content
+    accessed: "2026-10-22"
+reviewed: false

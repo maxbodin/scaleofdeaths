@@ -1,0 +1,29 @@
+id: sulawesi-earthquake-2018
+title:
+  en: 2018 Sulawesi earthquake and tsunami
+  fr: Séisme et tsunami de 2018 à Sulawesi
+description:
+  en: >-
+    At 18:02 on 28 September 2018 a magnitude 7.5 strike-slip earthquake on the Palu-Koro fault struck Central Sulawesi, Indonesia, about 80 km north of the city of Palu. A tsunami up to about 7 metres high, probably amplified by underwater landslides, swept the shore of Palu during a beach festival and devastated Donggala. Massive soil liquefaction turned neighbourhoods such as Balaroa and Petobo into mudflows that submerged many buildings, causing most of the deaths.
+  fr: >-
+    Le 28 septembre 2018 à 18 h 02, un séisme de décrochement de magnitude 7,5 sur la faille de Palu-Koro a frappé Sulawesi central, en Indonésie, à environ 80 km au nord de la ville de Palu. Un tsunami atteignant environ 7 mètres, probablement amplifié par des glissements sous-marins, a balayé le rivage de Palu pendant un festival de plage et dévasté Donggala. Une liquéfaction massive des sols a transformé des quartiers comme Balaroa et Petobo en coulées de boue qui ont englouti de nombreux bâtiments, causant la plupart des morts.
+categories: [natural-disaster]
+kind: event
+start: "2018-09-28"
+deaths:
+  best: 4340
+  note:
+    en: Final count reported by the Central Sulawesi governor to the national disaster management agency (BNPB), also used by NOAA NCEI and Wikipedia; a further 667 people were listed as missing. An earlier BNPB count of 21 October 2018 gave 2,256 dead and 1,309 missing. Almost 80% of the deaths were caused by liquefaction flowslides; one estimate attributes about 1,252 deaths to the tsunami.
+    fr: Bilan final transmis par le gouverneur de Sulawesi central à l’agence nationale de gestion des catastrophes (BNPB), repris par la NCEI de la NOAA et Wikipédia ; 667 autres personnes ont été portées disparues. Un bilan antérieur de la BNPB, au 21 octobre 2018, donnait 2 256 morts et 1 309 disparus. Près de 80 % des morts sont dus aux coulées de liquéfaction ; une estimation attribue environ 1 252 morts au tsunami.
+countries:
+  - { code: ID, deaths: 4340 }
+sources:
+  - title: 2018 Sulawesi earthquake and tsunami
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2018_Sulawesi_earthquake_and_tsunami
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Sulawesi, event 10369"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/10369
+    accessed: "2026-10-22"
+reviewed: false

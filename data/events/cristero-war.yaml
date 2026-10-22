@@ -1,0 +1,36 @@
+id: cristero-war
+title:
+  en: Cristero War
+  fr: Guerre des Cristeros
+description:
+  en: >-
+    Armed rebellion in central and western Mexico, mainly in Jalisco, Michoacán, Guanajuato and neighbouring states, against the anticlerical laws of President Plutarco Elías Calles, which restricted Catholic worship and the clergy. Catholic peasants, the Cristeros, fought the federal army and agrarian militias in a guerrilla war marked by executions, reprisals against civilians and the killing of priests. The war ended in 1929 with an agreement between the government and the Church, mediated by the US ambassador Dwight Morrow.
+  fr: >-
+    Rébellion armée dans le centre et l’ouest du Mexique, surtout dans le Jalisco, le Michoacán, le Guanajuato et les États voisins, contre les lois anticléricales du président Plutarco Elías Calles, qui restreignaient le culte catholique et le clergé. Des paysans catholiques, les Cristeros, affrontent l’armée fédérale et les milices agraristes dans une guérilla marquée par des exécutions, des représailles contre les civils et des assassinats de prêtres. La guerre prend fin en 1929 par un accord entre le gouvernement et l’Église, négocié avec l’aide de l’ambassadeur américain Dwight Morrow.
+categories: [war]
+kind: event
+start: "1926-08-03"
+end: "1929-06-21"
+deaths:
+  best: 90000
+  high: 250000
+  note:
+    en: "Best: some 90,000 deaths, the commonly cited figure based on Jean Meyer's work: 56,882 federal soldiers, 30,000 Cristeros and a number of civilians (via Wikipedia). High: about 250,000 dead, combatants and civilians, a figure Jean Meyer presented in 2026 based on official information (Conciencia Pública) and also given by Juan González Morfín (via Wikipedia). The Correlates of War project counts far fewer battle deaths (6,000 on the government side and 4,000 Cristeros). No lower overall estimate was found."
+    fr: "Estimation centrale : quelque 90 000 morts, chiffre couramment cité fondé sur les travaux de Jean Meyer : 56 882 soldats fédéraux, 30 000 Cristeros et un certain nombre de civils (via Wikipédia). Haut : environ 250 000 morts, combattants et civils, chiffre présenté par Jean Meyer en 2026 d’après des informations officielles (Conciencia Pública) et également avancé par Juan González Morfín (via Wikipédia). Le projet Correlates of War compte bien moins de morts au combat (6 000 côté gouvernemental et 4 000 Cristeros). Aucune estimation globale plus basse n’a été trouvée."
+countries:
+  - { code: MX, deaths: 90000 }
+related: [mexican-revolution]
+sources:
+  - title: Cristero War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Cristero_War
+    accessed: "2026-10-22"
+  - title: Jean Meyer cifra en 250 mil los muertos de la Cristiada
+    publisher: Conciencia Pública
+    url: https://concienciapublica.com.mx/2026/10/20/jean-meyer-cristiada/
+    accessed: "2026-10-22"
+  - title: Intra-State War Data, v4.1 (war 701, Cristeros Revolt)
+    publisher: Correlates of War Project
+    url: https://correlatesofwar.org/wp-content/uploads/Intra-StateWarData_v4.1.csv
+    accessed: "2026-10-22"
+reviewed: false

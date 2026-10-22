@@ -1,0 +1,45 @@
+id: war-of-the-austrian-succession
+title:
+  en: War of the Austrian Succession
+  fr: Guerre de Succession d’Autriche
+description:
+  en: >-
+    European war over Maria Theresa's right to inherit the Habsburg lands after the death of Emperor Charles VI in 1740. Prussia seized Silesia, and France, Spain and Bavaria fought Austria, Britain, the Dutch Republic and Sardinia in Central Europe, the Low Countries and Italy, with related fighting at sea, in North America and in India. The Treaty of Aix-la-Chapelle in 1748 confirmed Maria Theresa's succession but left Silesia to Prussia, setting the stage for the Seven Years' War.
+  fr: >-
+    Guerre européenne autour du droit de Marie-Thérèse à hériter des terres des Habsbourg après la mort de l’empereur Charles VI en 1740. La Prusse s’empare de la Silésie, et la France, l’Espagne et la Bavière affrontent l’Autriche, la Grande-Bretagne, les Provinces-Unies et la Sardaigne en Europe centrale, aux Pays-Bas et en Italie, avec des combats liés sur mer, en Amérique du Nord et en Inde. Le traité d’Aix-la-Chapelle, en 1748, confirme la succession de Marie-Thérèse mais laisse la Silésie à la Prusse, préparant la guerre de Sept Ans.
+categories: [war]
+kind: event
+start: "1740-12-16"
+end: "1748-10-18"
+deaths:
+  best: 500000
+  low: 359000
+  note:
+    en: "Military and civilian deaths. Best: half a million, the estimate of Reed Browning (1993), about 100,000 soldiers and 400,000 civilians, also given by Armstrong Starkey (via Necrometrics) and by the Oxford Companion to British History (via Encyclopedia.com). Low: 359,000 (Jack S. Levy, via Necrometrics), which counts only battle deaths of the great powers. Boris Urlanis puts military deaths alone, including disease, at 450,000, more than Browning's military figure, so the total may be higher. The 750,000 given by Wikipedia (Clodfelter) counts killed and wounded and is not used."
+    fr: "Morts militaires et civiles. Estimation centrale : un demi-million, estimation de Reed Browning (1993), soit environ 100 000 soldats et 400 000 civils, reprise par Armstrong Starkey (via Necrometrics) et par l’Oxford Companion to British History (via Encyclopedia.com). Bas : 359 000 (Jack S. Levy, via Necrometrics), qui ne compte que les morts au combat des grandes puissances. Boris Urlanis évalue les seules morts militaires, maladies comprises, à 450 000, plus que le chiffre militaire de Browning, si bien que le total pourrait être plus élevé. Les 750 000 donnés par Wikipédia (Clodfelter) comptent tués et blessés et ne sont pas retenus."
+countries:
+  - { code: AT }
+  - { code: CZ }
+  - { code: PL }
+  - { code: DE }
+  - { code: BE }
+  - { code: NL }
+  - { code: IT }
+  - { code: FR }
+  - { code: IN }
+  - { code: CA }
+related: [seven-years-war]
+sources:
+  - title: War of the Austrian Succession
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/War_of_the_Austrian_Succession
+    accessed: "2026-10-22"
+  - title: "Austrian Succession, War of the (The Oxford Companion to British History)"
+    publisher: Encyclopedia.com
+    url: https://www.encyclopedia.com/history/modern-europe/wars-and-battles/war-austrian-succession
+    accessed: "2026-10-22"
+  - title: Statistics of Wars, Oppressions and Atrocities of the Eighteenth Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/wars18c.htm
+    accessed: "2026-10-22"
+reviewed: false

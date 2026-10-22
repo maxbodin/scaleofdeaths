@@ -1,0 +1,31 @@
+id: unzen-eruption-1792
+title:
+  en: 1792 Unzen landslide and tsunami
+  fr: Effondrement et tsunami de l’Unzen en 1792
+description:
+  en: >-
+    During a period of volcanic activity at Mount Unzen, on the Shimabara Peninsula of Kyushu, Japan, the Mayuyama lava dome collapsed on 21 May 1792, possibly shaken loose by earthquakes. The huge landslide swept down to the sea and raised a tsunami in the Ariake Sea that struck Higo Province (now Kumamoto) on the opposite shore and then rebounded onto Shimabara. Remembered as "Shimabara suffered, Higo affected", it is the worst volcanic disaster in Japanese history.
+  fr: >-
+    Lors d’une période d’activité volcanique de l’Unzen, sur la péninsule de Shimabara (Kyushu, Japon), le dôme de lave du Mayuyama s’est effondré le 21 mai 1792, peut-être sous l’effet de séismes. L’énorme glissement de terrain a dévalé jusqu’à la mer et soulevé dans la mer d’Ariake un tsunami qui a frappé la province de Higo (actuelle Kumamoto), sur la rive opposée, avant de revenir sur Shimabara. Restée dans les mémoires comme « Shimabara a souffert, Higo en a pâti », c’est la pire catastrophe volcanique de l’histoire du Japon.
+categories: [natural-disaster]
+kind: event
+start: "1792-05-21"
+deaths:
+  best: 15000
+  note:
+    en: >-
+      Estimate of about 15,000 deaths (Wikipedia; NOAA's volcano and tsunami databases): around 5,000 killed by the landslide, around 5,000 by the tsunami in Higo Province and around 5,000 by the tsunami returning to Shimabara (Wikipedia).
+    fr: >-
+      Estimation d’environ 15 000 morts (Wikipédia ; bases de données volcans et tsunamis de la NOAA) : environ 5 000 tués par le glissement de terrain, environ 5 000 par le tsunami dans la province de Higo et environ 5 000 par le tsunami revenu frapper Shimabara (Wikipédia).
+countries:
+  - { code: JP, deaths: 15000 }
+sources:
+  - title: 1792 Unzen landslide and tsunami
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1792_Unzen_landslide_and_tsunami
+    accessed: "2026-10-22"
+  - title: "Global Significant Volcanic Eruptions Database: Unzendake, 1792"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/volcanoes?minYear=1792&maxYear=1792&country=Japan
+    accessed: "2026-10-22"
+reviewed: false

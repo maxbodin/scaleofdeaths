@@ -1,0 +1,33 @@
+id: herat-earthquakes-2023
+title:
+  en: 2023 Herat earthquakes
+  fr: Séismes de 2023 dans la province d’Herat
+description:
+  en: >-
+    On 7 October 2023 two magnitude 6.3 earthquakes, followed by many aftershocks, struck near the city of Herat in western Afghanistan; two more magnitude 6.3 shocks hit the same area on 11 and 15 October. Entire villages of mud-brick houses collapsed, notably in Zinda Jan District, and more than 21,000 houses were destroyed. According to the World Health Organization, most of the dead were women and children who were at home while most men were working outdoors. The disaster struck amid a deep humanitarian crisis.
+  fr: >-
+    Le 7 octobre 2023, deux séismes de magnitude 6,3, suivis de nombreuses répliques, ont frappé les environs d’Herat, dans l’ouest de l’Afghanistan ; deux autres secousses de magnitude 6,3 ont touché la même zone les 11 et 15 octobre. Des villages entiers de maisons en pisé se sont effondrés, notamment dans le district de Zinda Jan, et plus de 21 000 maisons ont été détruites. Selon l’Organisation mondiale de la santé, la plupart des morts étaient des femmes et des enfants restés chez eux, la plupart des hommes travaillant dehors. La catastrophe a frappé un pays en pleine crise humanitaire.
+categories: [natural-disaster]
+kind: event
+start: "2023-10-07"
+end: "2023-10-15"
+deaths:
+  best: 1489
+  low: 1000
+  note:
+    en: >-
+      Best is Wikipedia's total of 1,489 deaths: the 1,482 reported by the World Health Organization for the 7 October earthquakes (confirmed in its health situation report) plus 7 deaths in the later shocks. Low is the "about 1,000" deaths given by Taliban officials after they withdrew an earlier figure of over 3,000, which they said had counted victims twice.
+    fr: >-
+      L’estimation centrale est le total de 1 489 morts de Wikipédia : les 1 482 morts des séismes du 7 octobre recensés par l’Organisation mondiale de la santé (confirmés dans son rapport de situation sanitaire) et 7 morts lors des secousses suivantes. L’estimation basse correspond aux « environ 1 000 » morts annoncés par les talibans après le retrait d’un premier chiffre de plus de 3 000, qui comptait selon eux des victimes en double.
+countries:
+  - { code: AF, deaths: 1489 }
+sources:
+  - title: 2023 Herat earthquakes
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2023_Herat_earthquakes
+    accessed: "2026-10-22"
+  - title: "Afghanistan: Earthquakes in Herat Province, Health Situation Report 11"
+    publisher: World Health Organization, Eastern Mediterranean Region
+    url: https://www.emro.who.int/images/stories/afghanistan/Earthquake_in_Herat_AFGHANISTAN_Health_Sitrep_11.pdf
+    accessed: "2026-10-22"
+reviewed: false

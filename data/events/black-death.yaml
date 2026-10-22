@@ -1,0 +1,67 @@
+id: black-death
+title:
+  en: Black Death
+  fr: Peste noire
+description:
+  en: >-
+    Pandemic of plague caused by the bacterium Yersinia pestis, spread mainly by flea bites. Probably originating in Central Asia, it reached the Crimea and Constantinople in 1347, then swept along trade routes through most of Europe, the Middle East and North Africa until 1353. It killed 30% to 60% of Europe's population and about a third of the Middle East's, and began the second plague pandemic, whose outbreaks recurred for centuries.
+  fr: >-
+    Pandémie de peste causée par la bactérie Yersinia pestis, transmise surtout par les piqûres de puces. Probablement partie d’Asie centrale, elle atteint la Crimée et Constantinople en 1347, puis se répand le long des routes commerciales dans la majeure partie de l’Europe, au Moyen-Orient et en Afrique du Nord jusqu’en 1353. Elle tue 30 à 60 % des Européens et environ un tiers de la population du Moyen-Orient, et ouvre la deuxième pandémie de peste, qui resurgit pendant des siècles.
+categories: [epidemic]
+kind: event
+start: "1346"
+end: "1353"
+deaths:
+  best: 50000000
+  low: 25000000
+  high: 200000000
+  note:
+    en: "Europe only: 25 to 50 million (Wikipedia, citing Aberth and Benedictow). Best is Ole Benedictow's estimate of about 50 million, 60% of some 80 million Europeans; National Geographic gives 25 million, close to the 23.84 million dead counted in Christian Europe in 1351 by agents of Pope Clement VI. Eurasia-wide, including the Middle East, North Africa and Asia: 75 to 200 million (review in Microorganisms, 2024; flagged on Wikipedia as needing a better source), which sets the high bound. No source consulted gives national death tolls."
+    fr: "Europe seule : 25 à 50 millions (Wikipédia, d’après Aberth et Benedictow). L’estimation retenue est celle d’Ole Benedictow, environ 50 millions, soit 60 % de quelque 80 millions d’Européens ; National Geographic donne 25 millions, proche des 23,84 millions de morts comptés en 1351 dans l’Europe chrétienne par les agents du pape Clément VI. À l’échelle de l’Eurasie, Moyen-Orient, Afrique du Nord et Asie compris : 75 à 200 millions (revue publiée dans Microorganisms en 2024 ; chiffre signalé comme mal sourcé sur Wikipédia), retenus comme borne haute. Aucune source consultée ne donne de bilan par pays."
+countries:
+  - { code: IT }
+  - { code: FR }
+  - { code: ES }
+  - { code: PT }
+  - { code: GB }
+  - { code: IE }
+  - { code: DE }
+  - { code: NL }
+  - { code: BE }
+  - { code: CH }
+  - { code: AT }
+  - { code: CZ }
+  - { code: PL }
+  - { code: HU }
+  - { code: DK }
+  - { code: NO }
+  - { code: SE }
+  - { code: RU }
+  - { code: UA }
+  - { code: GR }
+  - { code: TR }
+  - { code: CY }
+  - { code: EG }
+  - { code: SY }
+  - { code: LB }
+  - { code: IL }
+  - { code: PS }
+  - { code: IQ }
+  - { code: TN }
+  - { code: LY }
+  - { code: DZ }
+  - { code: MA }
+sources:
+  - title: Black Death
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Black_Death
+    accessed: "2026-10-22"
+  - title: "Black Death: Plague history, causes, and treatments"
+    publisher: National Geographic
+    url: https://www.nationalgeographic.com/science/article/the-plague
+    accessed: "2026-10-22"
+  - title: "Towards a Comprehensive Definition of Pandemics and Strategies for Prevention: A Historical Review and Future Perspectives (Microorganisms, 2024)"
+    publisher: PubMed Central
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11433773/
+    accessed: "2026-10-22"
+reviewed: false

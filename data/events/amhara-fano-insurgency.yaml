@@ -1,0 +1,34 @@
+id: amhara-fano-insurgency
+title:
+  en: Fano insurgency
+  fr: Insurrection Fano
+description:
+  en: >-
+    Armed conflict in Ethiopia's Amhara region between the federal government and Fano, loosely organised Amhara nationalist militias that had fought alongside the army in the Tigray war. It broke out in April 2023 after the government moved to dissolve regional special forces, and a state of emergency followed in August. Fighting has spread across much of the region, with drone strikes on villages, mass killings and widespread abuses reported against civilians, and has disrupted health care and farming.
+  fr: >-
+    Conflit armé dans la région Amhara, en Éthiopie, entre le gouvernement fédéral et les Fano, milices nationalistes amhara peu structurées qui avaient combattu aux côtés de l’armée pendant la guerre du Tigré. Il éclate en avril 2023 après la décision du gouvernement de dissoudre les forces spéciales régionales, et l’état d’urgence est décrété en août. Les combats gagnent une grande partie de la région ; frappes de drones sur des villages, massacres et exactions contre les civils sont signalés, et les soins comme les cultures sont perturbés.
+categories: [war]
+kind: event
+start: "2023-04-09"
+ongoing: true
+asOf: "2026-02-04"
+deaths:
+  best: 12028
+  note:
+    en: >-
+      Best is the number of fatalities recorded by ACLED in the Amhara region between 1 April 2023 and 4 February 2026, as computed by the Development Data Partnership's conflict analysis of ACLED data. It counts all reported conflict deaths in the region, including some not directly linked to the Fano insurgency, and excludes deaths in neighbouring regions; reporting is limited by communication blackouts and restricted access. In July 2024 the UN reported that more than 2,000 civilians had been killed in 2024 alone (Wikipedia). Figures of over 15,000 "casualties" cited by Wikipedia include the wounded and are not used.
+    fr: >-
+      L’estimation centrale est le nombre de morts recensées par ACLED dans la région Amhara entre le 1er avril 2023 et le 4 février 2026, calculé par l’analyse des données d’ACLED de la Development Data Partnership. Il compte toutes les morts liées aux conflits signalées dans la région, dont certaines sans lien direct avec l’insurrection Fano, et exclut les morts dans les régions voisines ; l’information est limitée par les coupures de communication et les restrictions d’accès. En juillet 2024, l’ONU faisait état de plus de 2 000 civils tués depuis le début de l’année (Wikipédia). Le chiffre de plus de 15 000 « victimes » cité par Wikipédia inclut les blessés et n’est pas utilisé.
+countries:
+  - { code: ET, deaths: 12028 }
+related: [tigray-war]
+sources:
+  - title: Fano insurgency
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Fano_insurgency
+    accessed: "2026-10-22"
+  - title: National and Subnational Conflict Trends in Ethiopia
+    publisher: Development Data Partnership (ACLED data)
+    url: https://datapartnership.org/ethiopia-economic-monitoring/notebooks/conflict/acled.html
+    accessed: "2026-10-22"
+reviewed: false

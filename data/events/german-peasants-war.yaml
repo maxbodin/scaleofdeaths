@@ -1,0 +1,38 @@
+id: german-peasants-war
+title:
+  en: German Peasants' War
+  fr: Guerre des Paysans allemands
+description:
+  en: >-
+    Widespread uprising of peasants, miners and townspeople in the German-speaking lands of the Holy Roman Empire, from Swabia and Franconia to Thuringia, Alsace, Tyrol and Salzburg, against feudal dues, serfdom and the power of lords and clergy, partly inspired by the Reformation and summed up in the Twelve Articles. Poorly armed peasant bands were crushed by the professional troops of the Swabian League and the princes, notably at Frankenhausen in May 1525, and the repression that followed was harsh.
+  fr: >-
+    Vaste soulèvement de paysans, de mineurs et de citadins dans les pays de langue allemande du Saint-Empire, de la Souabe et de la Franconie à la Thuringe, à l’Alsace, au Tyrol et à Salzbourg, contre les redevances féodales, le servage et le pouvoir des seigneurs et du clergé, en partie inspiré par la Réforme et résumé dans les Douze Articles. Les bandes paysannes, mal armées, sont écrasées par les troupes professionnelles de la Ligue souabe et des princes, notamment à Frankenhausen en mai 1525, et la répression qui suit est dure.
+categories: [war]
+kind: event
+start: "1524"
+end: "1525"
+deaths:
+  best: 100000
+  low: 70000
+  note:
+    en: "Peasants killed in battle and in the repression. Best: about 100,000, the estimate given by the World History Encyclopedia; Wikipedia, citing Peter Blickle, says up to 100,000 of some 300,000 rebels were killed. Low: 70,000, the low end of Douglas Miller's 70,000 to 100,000 (via Necrometrics). Losses of the lords' armies were small. Later deaths from hunger after the destruction of farmland are not counted."
+    fr: "Paysans tués au combat et lors de la répression. Estimation centrale : environ 100 000, estimation de la World History Encyclopedia ; Wikipédia, citant Peter Blickle, indique que jusqu’à 100 000 des quelque 300 000 insurgés ont été tués. Bas : 70 000, bas de la fourchette de 70 000 à 100 000 de Douglas Miller (via Necrometrics). Les pertes des armées seigneuriales sont faibles. Les morts de faim ultérieures, après la destruction des terres agricoles, ne sont pas comptées."
+countries:
+  - { code: DE }
+  - { code: AT }
+  - { code: CH }
+  - { code: FR }
+sources:
+  - title: German Peasants' War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/German_Peasants%27_War
+    accessed: "2026-10-22"
+  - title: German Peasants' War
+    publisher: World History Encyclopedia
+    url: https://www.worldhistory.org/German_Peasants%27_War/
+    accessed: "2026-10-22"
+  - title: Selected Death Tolls for Wars, Massacres and Atrocities Before the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/pre1700a.htm
+    accessed: "2026-10-22"
+reviewed: false

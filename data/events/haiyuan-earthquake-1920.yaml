@@ -1,0 +1,35 @@
+id: haiyuan-earthquake-1920
+title:
+  en: 1920 Haiyuan earthquake
+  fr: Séisme de 1920 à Haiyuan
+description:
+  en: >-
+    On the evening of 16 December 1920 a magnitude 7.9 earthquake struck Haiyuan County, then in Gansu province and now in Ningxia, in the Republic of China, reaching the maximum intensity of XII. Landslides buried villages, nearly all houses collapsed in several towns and over 73,000 people died in Haiyuan County alone; damage extended over seven provinces. Many survivors then died of cold in a severe winter, as frequent aftershocks made them afraid to build anything but temporary shelters.
+  fr: >-
+    Le soir du 16 décembre 1920, un séisme de magnitude 7,9 a frappé le district de Haiyuan (Gansu à l’époque, Ningxia aujourd’hui), en République de Chine, atteignant l’intensité maximale de XII. Des glissements de terrain ont enseveli des villages, presque toutes les maisons se sont effondrées dans plusieurs villes et plus de 73 000 personnes sont mortes dans le seul district de Haiyuan ; les dégâts ont touché sept provinces. Beaucoup de survivants sont ensuite morts de froid pendant un hiver rigoureux, les répliques fréquentes les dissuadant de bâtir autre chose que des abris de fortune.
+categories: [natural-disaster]
+kind: event
+start: "1920-12-16"
+deaths:
+  best: 235502
+  low: 200000
+  high: 273407
+  note:
+    en: Best is the figure stated by the NOAA NCEI database, an older Chinese count (another older figure is 234,117). USGS gives about 200,000 (low). Since 2003 Chinese seismologists have put the verifiable toll at 258,707 to 273,407 (high). The Wikipedia article adds that many more survivors died of cold during the winter; it is not clear whether they are included.
+    fr: L’estimation centrale est le chiffre retenu par la base NCEI de la NOAA, un ancien décompte chinois (un autre ancien chiffre est de 234 117). L’USGS donne environ 200 000 (bas de la fourchette). Depuis 2003, des sismologues chinois situent le bilan vérifiable entre 258 707 et 273 407 (haut de la fourchette). L’article de Wikipédia ajoute que de nombreux survivants sont ensuite morts de froid pendant l’hiver ; on ne sait pas s’ils sont inclus.
+countries:
+  - { code: CN, deaths: 235502 }
+sources:
+  - title: 1920 Haiyuan earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1920_Haiyuan_earthquake
+    accessed: "2026-10-22"
+  - title: "Global Significant Earthquake Database: Gansu Province, event 3165"
+    publisher: NOAA National Centers for Environmental Information
+    url: https://www.ngdc.noaa.gov/hazel/hazard-service/api/v1/earthquakes/3165
+    accessed: "2026-10-22"
+  - title: Earthquakes with 50,000 or More Deaths (archived)
+    publisher: United States Geological Survey
+    url: https://web.archive.org/web/20130507101448/http://earthquake.usgs.gov/earthquakes/world/most_destructive.php
+    accessed: "2026-10-22"
+reviewed: false

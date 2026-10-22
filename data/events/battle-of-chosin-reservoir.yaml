@@ -1,0 +1,31 @@
+id: battle-of-chosin-reservoir
+title:
+  en: Battle of Chosin Reservoir
+  fr: Bataille du réservoir de Chosin
+description:
+  en: >-
+    Battle in the mountains around the Chosin (Changjin) Reservoir in northeastern North Korea, where the Chinese People's Volunteer Army, newly entered into the war, surrounded the US 1st Marine Division and US Army units advancing north. In temperatures far below freezing, the UN troops fought their way out along a single mountain road to the port of Hungnam, from where they were evacuated by sea along with North Korean refugees. The Chinese drove UN forces out of northeastern Korea, at the cost of heavy losses in combat and from frostbite.
+  fr: >-
+    Bataille dans les montagnes autour du réservoir de Chosin (Changjin), dans le nord-est de la Corée du Nord, où l’Armée des volontaires du peuple chinois, tout juste entrée en guerre, encercle la 1re division de Marines et des unités de l’armée américaine qui avançaient vers le nord. Par un froid extrême, les troupes de l’ONU se frayent un chemin le long d’une unique route de montagne jusqu’au port de Hungnam, d’où elles sont évacuées par mer avec des réfugiés nord-coréens. Les Chinois chassent les forces de l’ONU du nord-est de la Corée, au prix de lourdes pertes au combat et dues aux gelures.
+categories: [war]
+kind: event
+start: "1950-11-27"
+end: "1950-12-13"
+deaths:
+  best: 28000
+  note:
+    en: "Military deaths on both sides, very uncertain. Best: 28,000, from the Associated Press (25 December 2002): about 3,000 Americans and 25,000 Chinese and North Korean soldiers killed (via Necrometrics), the only total found. Official figures are much lower: the US side counted 1,029 killed and 4,894 missing, and Chinese official figures give 7,304 killed, 14,062 wounded and 30,732 non-battle casualties, mostly from frostbite (via Wikipedia); how many of the missing and of the non-battle casualties died is not known. No source gives a lower total for both sides."
+    fr: "Morts militaires des deux camps, très incertaines. Estimation centrale : 28 000, d’après l’Associated Press (25 décembre 2002) : environ 3 000 Américains et 25 000 soldats chinois et nord-coréens tués (via Necrometrics), seul total trouvé. Les chiffres officiels sont bien plus bas : le camp américain compte 1 029 tués et 4 894 disparus, et les chiffres officiels chinois donnent 7 304 tués, 14 062 blessés et 30 732 pertes hors combat, surtout dues aux gelures (via Wikipédia) ; on ignore combien de disparus et de pertes hors combat sont morts. Aucune source ne donne de total plus bas pour les deux camps."
+countries:
+  - { code: KP, deaths: 28000 }
+partOf: korean-war
+sources:
+  - title: Battle of Chosin Reservoir
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Battle_of_Chosin_Reservoir
+    accessed: "2026-10-22"
+  - title: Death Tolls for the Man-made Megadeaths of the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/battles.htm
+    accessed: "2026-10-22"
+reviewed: false

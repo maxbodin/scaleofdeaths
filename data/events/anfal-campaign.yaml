@@ -1,0 +1,32 @@
+id: anfal-campaign
+title:
+  en: Anfal campaign
+  fr: Campagne d’Anfal
+description:
+  en: >-
+    Military campaign waged by Ba'athist Iraq against the Kurds of northern Iraq at the end of the Iran-Iraq War, under the command of Ali Hassan al-Majid. Army units, security services and pro-government Kurdish militias destroyed some 2,000 villages, used chemical weapons, and arrested villagers in "prohibited areas"; tens of thousands of non-combatants were executed or disappeared. Human Rights Watch described the campaign as genocide, and the Iraqi High Tribunal convicted al-Majid of genocide in 2007; a Dutch appeals court found the evidence insufficient to establish genocide.
+  fr: >-
+    Campagne militaire menée par l’Irak baasiste contre les Kurdes du nord de l’Irak à la fin de la guerre Iran-Irak, sous la direction d’Ali Hassan al-Majid. Armée, services de sécurité et milices kurdes progouvernementales détruisirent quelque 2 000 villages, employèrent des armes chimiques et arrêtèrent les villageois des « zones interdites » ; des dizaines de milliers de non-combattants furent exécutés ou disparurent. HRW parle de génocide et le Haut Tribunal pénal irakien condamna al-Majid pour génocide en 2007 ; une cour d’appel néerlandaise jugea les preuves insuffisantes pour l’établir.
+categories: [genocide]
+kind: event
+start: "1988-02-23"
+end: "1988-09-06"
+deaths:
+  best: 50000
+  high: 100000
+  note:
+    en: Kurds killed or disappeared during the Anfal operations of 1988, mostly rural non-combatants. Best is the "most conservative" estimate of 50,000 rural Kurds dead by Human Rights Watch (1993), which adds that the toll is "very possibly twice that number"; high is that 100,000. A 1995 report by a Kurdish victims' committee documented 63,000 disappeared and put the total below 70,000. The figure of 182,000 put forward by Kurdish leaders was an extrapolation that HRW says has no empirical basis. The chemical attack on the town of Halabja (16 March 1988), which HRW says was not technically part of Anfal, is counted separately.
+    fr: Kurdes tués ou disparus lors des opérations d’Anfal en 1988, pour la plupart des non-combattants des zones rurales. L’estimation centrale est l’estimation « la plus prudente » de Human Rights Watch (1993), 50 000 Kurdes des campagnes morts, qui ajoute que le bilan est « très possiblement le double » ; la valeur haute est ces 100 000 morts. Un rapport de 1995 d’un comité kurde de défense des victimes a recensé 63 000 disparus et situe le total sous les 70 000. Le chiffre de 182 000 avancé par des dirigeants kurdes est une extrapolation sans fondement empirique selon HRW. L’attaque chimique contre la ville de Halabja (16 mars 1988), qui selon HRW ne faisait pas techniquement partie d’Anfal, est comptée à part.
+countries:
+  - { code: IQ, deaths: 50000 }
+related: [halabja-chemical-attack, iran-iraq-war]
+sources:
+  - title: Anfal campaign
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Anfal_campaign
+    accessed: "2026-10-22"
+  - title: "Genocide in Iraq: The Anfal Campaign Against the Kurds (introduction)"
+    publisher: Human Rights Watch
+    url: https://www.hrw.org/reports/1993/iraqanfal/ANFALINT.htm
+    accessed: "2026-10-22"
+reviewed: false

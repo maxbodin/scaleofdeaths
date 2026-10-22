@@ -1,0 +1,49 @@
+id: new-south-wales-smallpox-epidemic-1789
+title:
+  en: 1789 New South Wales smallpox epidemic
+  fr: Épidémie de variole de 1789 en Nouvelle-Galles du Sud
+description:
+  en: >-
+    Epidemic among Aboriginal peoples that broke out around Port Jackson (Sydney) in April 1789, 15 months after the First Fleet founded the British penal colony. Colonists found the dead on beaches and in rock shelters; Governor Arthur Phillip estimated that about half of the Aboriginal people around Sydney died, while the British were spared. Whether the disease was smallpox or chickenpox, and whether it came from the smallpox material carried by the First Fleet, from Makassan traders in the north or elsewhere, has long been debated; a 2026 modelling study supports a Sydney origin.
+  fr: >-
+    Épidémie parmi les peuples aborigènes, apparue autour de Port Jackson (Sydney) en avril 1789, 15 mois après la fondation de la colonie pénitentiaire britannique par la First Fleet. Des morts gisaient sur les plages et dans les abris sous roche ; le gouverneur Arthur Phillip estimait que la moitié des Aborigènes des environs de Sydney avaient péri, alors que les Britanniques étaient épargnés. La nature de la maladie (variole ou varicelle) et son origine (matière variolique de la First Fleet, marins makassar ou autre) restent débattues ; une modélisation de 2026 conclut à une origine à Sydney.
+categories: [epidemic]
+kind: event
+start: "1789-04"
+end: "1790"
+deaths:
+  best: 40000
+  high: 220000
+  note:
+    en: >-
+      No count exists and the sources are contested. Contemporary observers only reported proportions (about half of the Aboriginal people around Sydney; up to 70% according to the National Museum of Australia). A 2026 modelling study in Nature Human Behaviour (Nitschke et al.) estimates 40,000 to 220,000 deaths across south-eastern Australia, assuming 60% lethality, and suggests the epidemic may have persisted for many years; Wikipedia's list of epidemics gives 125,251 to 175,351 (50-70% of the native population). Best uses the low end of the modelled range.
+    fr: >-
+      Aucun décompte n’existe et les sources sont contestées. Les observateurs de l’époque ne donnaient que des proportions (environ la moitié des Aborigènes des environs de Sydney ; jusqu’à 70 % selon le National Museum of Australia). Une modélisation publiée en 2026 dans Nature Human Behaviour (Nitschke et al.) estime de 40 000 à 220 000 morts dans le sud-est de l’Australie, avec une létalité de 60 %, et suggère que l’épidémie a pu durer des années ; la liste des épidémies de Wikipédia donne 125 251 à 175 351 morts (50 à 70 % de la population autochtone). L’estimation retenue est le bas de la fourchette modélisée.
+countries:
+  - { code: AU, deaths: 40000 }
+sources:
+  - title: Smallpox in Australia
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Smallpox_in_Australia
+    accessed: "2026-10-22"
+  - title: 1789 Sydney smallpox outbreak
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1789_Sydney_smallpox_outbreak
+    accessed: "2026-10-22"
+  - title: List of epidemics and pandemics
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_epidemics_and_pandemics
+    accessed: "2026-10-22"
+  - title: Smallpox epidemic
+    publisher: National Museum of Australia
+    url: https://www.nma.gov.au/defining-moments/resources/smallpox-epidemic
+    accessed: "2026-10-22"
+  - title: Modeling reveals Sydney's 1789 smallpox outbreak killed as many as 220,000 Indigenous Australians
+    publisher: Phys.org (Flinders University)
+    url: https://phys.org/news/2026-07-reveals-sydney-smallpox-outbreak-indigenous.html
+    accessed: "2026-10-22"
+  - title: Sydney's 1789 smallpox epidemic came from the First Fleet and killed up to 220,000 Indigenous Australians
+    publisher: UNSW Sydney (The Conversation)
+    url: https://www.unsw.edu.au/newsroom/news/2026/07/sydneys-1789-smallpox-epidemic-came-from-first-fleet-killed-up-to-220000-indigenous-australians-new-research
+    accessed: "2026-10-22"
+reviewed: false

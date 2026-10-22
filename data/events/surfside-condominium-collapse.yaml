@@ -1,0 +1,29 @@
+id: surfside-condominium-collapse
+title:
+  en: Surfside condominium collapse
+  fr: Effondrement de l’immeuble de Surfside
+description:
+  en: >-
+    At about 1:22 a.m. on 24 June 2021, much of Champlain Towers South, a 12-story beachfront condominium built in 1981 in Surfside, Florida, near Miami, partially collapsed in the middle of the night. Four people were pulled alive from the rubble. The US National Institute of Standards and Technology found in 2026 that two slab-column connections under the pool deck had failed weeks earlier, and that the design and construction had left margins against failure that were too narrow from the start. Long-term water damage and corrosion of the garage concrete had been reported in 2018.
+  fr: >-
+    Vers 1 h 22 le 24 juin 2021, une grande partie de Champlain Towers South, une copropriété de 12 étages construite en 1981 en bord de mer à Surfside, près de Miami (Floride), s’effondre en pleine nuit. Quatre personnes sont sorties vivantes des décombres. En 2026, l’Institut national américain des normes et de la technologie (NIST) conclut que deux liaisons dalle-poteau sous la terrasse de la piscine avaient cédé des semaines plus tôt, et que la conception et la construction laissaient dès l’origine des marges de sécurité trop faibles.
+categories: [accident]
+kind: event
+start: "2021-06-24"
+deaths:
+  best: 98
+  note:
+    en: Toll given by Wikipedia and NIST; it includes one of the four people rescued from the rubble, who died shortly after reaching hospital. Eleven others were injured.
+    fr: Bilan donné par Wikipédia et le NIST ; il inclut l’une des quatre personnes sorties des décombres, morte peu après son arrivée à l’hôpital. Onze autres personnes ont été blessées.
+countries:
+  - { code: US, deaths: 98 }
+sources:
+  - title: Surfside condominium collapse
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Surfside_condominium_collapse
+    accessed: "2026-10-22"
+  - title: NIST Releases Technical Findings on What Caused the 2021 Partial Collapse of Champlain Towers South
+    publisher: National Institute of Standards and Technology (NIST)
+    url: https://www.nist.gov/news-events/news/2026/06/nist-releases-technical-findings-what-caused-2021-partial-collapse
+    accessed: "2026-10-22"
+reviewed: false

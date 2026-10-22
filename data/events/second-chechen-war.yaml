@@ -1,0 +1,42 @@
+id: second-chechen-war
+title:
+  en: Second Chechen War
+  fr: Seconde guerre de Tchétchénie
+description:
+  en: >-
+    War launched by Russia in 1999 after incursions by Chechnya-based militants into Dagestan and a series of deadly apartment bombings in Russian cities. Russian forces retook Grozny in early 2000 and installed a pro-Moscow administration, followed by a long insurgency marked by abductions, disappearances and other abuses against civilians, and by attacks in Russia such as the Moscow theatre and Beslan school sieges. Russia formally ended its counter-terrorism operation in April 2009.
+  fr: >-
+    Guerre lancée par la Russie en 1999 après des incursions au Daghestan de combattants basés en Tchétchénie et une série d’attentats meurtriers contre des immeubles dans des villes russes. Les forces russes reprennent Grozny début 2000 et installent une administration favorable à Moscou ; suit une longue insurrection marquée par des enlèvements, des disparitions et d’autres exactions contre les civils, ainsi que par des attaques en Russie comme les prises d’otages du théâtre de Moscou et de l’école de Beslan. La Russie met officiellement fin à son opération antiterroriste en avril 2009.
+categories: [war]
+kind: event
+start: "1999-08-07"
+end: "2009-04-16"
+deaths:
+  best: 50000
+  high: 80000
+  note:
+    en: >-
+      Military and civilian deaths in Chechnya; figures are very uncertain and politically contested. Best is the low end of the 50,000 to 80,000 total military and civilian deaths given by Wikipedia; high is the estimate of about 80,000 deaths by the Society for Threatened Peoples (cited by Wikipedia). Amnesty International (2007) reported up to 25,000 civilians killed since 1999, and Memorial between 3,000 and 5,000 people disappeared; Russian military data list about 6,000 soldiers and 1,072 Chechen police killed. In 2002, John B. Dunlop (Hoover Institution) tentatively estimated 36,000 to 41,000 deaths up to early 2002. A 2005 claim by an official of the Moscow-backed Chechen administration of 300,000 deaths in both wars could not be verified (Al Jazeera).
+    fr: >-
+      Morts militaires et civiles en Tchétchénie ; les chiffres sont très incertains et politiquement contestés. L’estimation centrale est le bas de la fourchette de 50 000 à 80 000 morts militaires et civiles donnée par Wikipédia ; le haut est l’estimation d’environ 80 000 morts de la Société pour les peuples menacés (citée par Wikipédia). Amnesty International (2007) faisait état de jusqu’à 25 000 civils tués depuis 1999, et Memorial de 3 000 à 5 000 disparus ; les données militaires russes recensent environ 6 000 soldats et 1 072 policiers tchétchènes tués. En 2002, John B. Dunlop (Hoover Institution) estimait provisoirement le nombre de morts à 36 000 à 41 000 jusqu’au début de 2002. Le chiffre de 300 000 morts pour les deux guerres avancé en 2005 par un responsable de l’administration tchétchène soutenue par Moscou n’a pas pu être vérifié (Al Jazeera).
+countries:
+  - { code: RU, deaths: 50000 }
+related: [first-chechen-war]
+sources:
+  - title: Second Chechen War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Second_Chechen_War
+    accessed: "2026-10-22"
+  - title: Amnesty International Issues Reports on Disappearances (Chechnya Weekly, archived)
+    publisher: Jamestown Foundation
+    url: https://web.archive.org/web/20081010022751/http://www.jamestown.org/chechnya_weekly/article.php?articleid=2373419
+    accessed: "2026-10-22"
+  - title: The Forgotten War
+    publisher: Hoover Institution
+    url: https://www.hoover.org/research/forgotten-war
+    accessed: "2026-10-22"
+  - title: "Official: Chechen wars killed 300,000"
+    publisher: Al Jazeera
+    url: https://www.aljazeera.com/news/2005/6/26/official-chechen-wars-killed-300000
+    accessed: "2026-10-22"
+reviewed: false

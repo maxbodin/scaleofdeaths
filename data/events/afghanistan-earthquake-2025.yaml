@@ -1,0 +1,32 @@
+id: afghanistan-earthquake-2025
+title:
+  en: 2025 Kunar earthquake
+  fr: Séisme de 2025 dans la province de Kunar
+description:
+  en: >-
+    Shortly before midnight on 31 August 2025, a shallow magnitude 6.0 earthquake struck Nurgal District in Kunar Province, eastern Afghanistan, near the border with Pakistan. Despite its moderate size, it was the deadliest earthquake in Afghanistan since 1998: thousands of houses collapsed in the night, almost all in five districts of Kunar where most buildings were damaged or destroyed. Landslides blocked roads, including the one to Jalalabad, cutting off mountain villages from rescuers.
+  fr: >-
+    Peu avant minuit le 31 août 2025, un séisme peu profond de magnitude 6,0 a frappé le district de Nurgal, dans la province de Kunar (est de l’Afghanistan), près de la frontière pakistanaise. Malgré sa magnitude modérée, c’est le séisme le plus meurtrier en Afghanistan depuis 1998 : des milliers de maisons se sont effondrées en pleine nuit, presque toutes dans cinq districts de Kunar où la plupart des bâtiments ont été endommagés ou détruits. Des glissements de terrain ont bloqué les routes, dont celle de Jalalabad, coupant des villages de montagne des secours.
+categories: [natural-disaster]
+kind: event
+start: "2025-08-31"
+deaths:
+  best: 2217
+  low: 2205
+  note:
+    en: >-
+      Best is the 2,217 deaths announced by the Taliban authorities (Wikipedia). Low is the "at least 2,205 deaths" in the World Health Organization's response report. Wikipedia also quotes an early WHO statement of "nearly 3,000" deaths, not used here.
+    fr: >-
+      L’estimation centrale est le bilan de 2 217 morts annoncé par les autorités talibanes (Wikipédia). L’estimation basse correspond aux « au moins 2 205 morts » du rapport de réponse de l’Organisation mondiale de la santé. Wikipédia cite aussi une première déclaration de l’OMS évoquant « près de 3 000 » morts, non retenue ici.
+countries:
+  - { code: AF, deaths: 2217 }
+sources:
+  - title: 2025 Kunar earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2025_Kunar_earthquake
+    accessed: "2026-10-22"
+  - title: WHO Emergency Health Response to the Eastern Afghanistan Earthquake, September 2025 - March 2026
+    publisher: World Health Organization, Eastern Mediterranean Region
+    url: https://www.emro.who.int/images/stories/afghanistan/WHO-Emergency-Health-Response-to-the-Eastern-Afghanistan-Earthquake-September-2025-March-2026.pdf
+    accessed: "2026-10-22"
+reviewed: false

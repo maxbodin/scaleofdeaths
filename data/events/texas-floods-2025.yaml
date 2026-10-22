@@ -1,0 +1,33 @@
+id: texas-floods-2025
+title:
+  en: July 2025 Central Texas floods
+  fr: Inondations de juillet 2025 au Texas
+description:
+  en: >-
+    Before dawn on 4 July 2025, torrential rain from a storm system fed by tropical moisture fell on the Texas Hill Country. The Guadalupe River rose about 8 metres in 45 minutes, sweeping away riverside homes, campgrounds and summer camps, including Camp Mystic, where many young girls died. Kerr County, around Kerrville, was by far the worst hit; other rivers flooded the following day.
+  fr: >-
+    Avant l’aube du 4 juillet 2025, des pluies torrentielles venues d’un système orageux nourri d’humidité tropicale se sont abattues sur la région de Hill Country, au Texas. Le Guadalupe a monté d’environ 8 mètres en 45 minutes, emportant maisons riveraines, campings et colonies de vacances, dont le Camp Mystic, où de nombreuses fillettes sont mortes. Le comté de Kerr, autour de Kerrville, a été de loin le plus touché ; d’autres rivières ont débordé le lendemain.
+categories: [natural-disaster]
+kind: event
+start: "2025-07-04"
+end: "2025-07-05"
+deaths:
+  best: 136
+  high: 139
+  note:
+    en: >-
+      Best is the 136 deaths given in the body of Wikipedia's article (with 3 missing), 117 of them in Kerr County; its infobox gives 139. In August 2025 the Texas Rangers released the names of 119 people killed in Kerr County alone, with 2 still missing (Texas Tribune), so the total may be slightly higher than 136.
+    fr: >-
+      L’estimation centrale correspond aux 136 morts du corps de l’article de Wikipédia (et 3 disparus), dont 117 dans le comté de Kerr ; son infobox en donne 139. En août 2025, les Texas Rangers ont publié les noms de 119 personnes tuées dans le seul comté de Kerr, 2 personnes restant disparues (Texas Tribune) : le total pourrait donc être un peu supérieur à 136.
+countries:
+  - { code: US, deaths: 136 }
+sources:
+  - title: July 2025 Central Texas floods
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/July_2025_Central_Texas_floods
+    accessed: "2026-10-22"
+  - title: Texas identifies the 119 people killed in Kerr County floods
+    publisher: The Texas Tribune
+    url: https://www.texastribune.org/2025/08/08/texas-hill-country-floods-victims-names/
+    accessed: "2026-10-22"
+reviewed: false

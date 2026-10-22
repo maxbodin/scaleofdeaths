@@ -1,0 +1,36 @@
+id: mexican-american-war
+title:
+  en: Mexican-American War
+  fr: Guerre américano-mexicaine
+description:
+  en: >-
+    War between the United States and Mexico that followed the US annexation of Texas in 1845 and a dispute over its border. US armies occupied New Mexico and California, invaded northern Mexico and, after landing at Veracruz, took Mexico City in September 1847. Disease, especially dysentery and yellow fever, killed far more American soldiers than combat. Under the Treaty of Guadalupe Hidalgo in 1848, Mexico ceded about half of its territory, including California and New Mexico, to the United States.
+  fr: >-
+    Guerre entre les États-Unis et le Mexique, consécutive à l’annexion du Texas par les États-Unis en 1845 et à un différend sur sa frontière. Les armées américaines occupent le Nouveau-Mexique et la Californie, envahissent le nord du Mexique puis, après un débarquement à Veracruz, prennent Mexico en septembre 1847. Les maladies, surtout la dysenterie et la fièvre jaune, tuent bien plus de soldats américains que les combats. Par le traité de Guadalupe Hidalgo, en 1848, le Mexique cède environ la moitié de son territoire aux États-Unis, dont la Californie et le Nouveau-Mexique.
+categories: [war]
+kind: event
+start: "1846-04-25"
+end: "1848-02-02"
+deaths:
+  best: 21000
+  low: 17000
+  note:
+    en: "Military deaths from all causes and some civilian deaths. Best: 21,000, William Eckhardt's estimate of 17,000 military and 4,000 civilian deaths. Low: 17,000 military deaths (Singer and Small, OnWar.com), both via Necrometrics. Per-country figures are military deaths from the Correlates of War project: 13,283 Americans (1,733 killed in action and 11,550 other deaths, mostly disease, the US Department of Defense count) and 6,000 Mexicans. Mexican losses are poorly known: Douglas Meed gives 12,000 to 15,000 Mexican battle losses, which would make the toll higher. No higher overall estimate was found."
+    fr: "Morts militaires de toutes causes et quelques morts civiles. Estimation centrale : 21 000, estimation de William Eckhardt de 17 000 morts militaires et 4 000 civiles. Bas : 17 000 morts militaires (Singer et Small, OnWar.com), tous deux via Necrometrics. Les chiffres par pays sont des morts militaires du projet Correlates of War : 13 283 Américains (1 733 tués au combat et 11 550 autres décès, surtout de maladie, selon le département de la Défense) et 6 000 Mexicains. Les pertes mexicaines sont mal connues : Douglas Meed avance 12 000 à 15 000 pertes mexicaines au combat, ce qui alourdirait le bilan. Aucune estimation globale plus élevée n’a été trouvée."
+countries:
+  - { code: US, deaths: 13283 }
+  - { code: MX, deaths: 6000 }
+sources:
+  - title: Mexican-American War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Mexican%E2%80%93American_War
+    accessed: "2026-10-22"
+  - title: Inter-State War Data, v4.0 (war 7, Mexican-American)
+    publisher: Correlates of War Project
+    url: https://correlatesofwar.org/wp-content/uploads/Inter-StateWarData_v4.0.csv
+    accessed: "2026-10-22"
+  - title: Statistics of Wars, Oppressions and Atrocities of the Nineteenth Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/wars19c.htm
+    accessed: "2026-10-22"
+reviewed: false

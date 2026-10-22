@@ -1,0 +1,40 @@
+id: lebanon-war-2026
+title:
+  en: 2026 Lebanon war
+  fr: Guerre du Liban de 2026
+description:
+  en: >-
+    Renewed war between Israel and Hezbollah in Lebanon, part of the wider 2026 Iran war. Hostilities resumed on 2 March 2026, days after US and Israeli strikes on Iran killed Ali Khamenei, with Israeli air strikes across Lebanon and ground operations in the south, and Hezbollah rocket and drone fire on northern Israel. More than a million people were displaced in Lebanon. A temporary ceasefire took effect on 16 April 2026, but Israeli air strikes have continued.
+  fr: >-
+    Reprise de la guerre entre Israël et le Hezbollah au Liban, dans le cadre de la guerre d’Iran de 2026. Les hostilités reprennent le 2 mars 2026, quelques jours après les frappes américaines et israéliennes sur l’Iran qui tuent Ali Khamenei, avec des frappes aériennes israéliennes sur tout le Liban et des opérations terrestres dans le sud, et des tirs de roquettes et de drones du Hezbollah sur le nord d’Israël. Plus d’un million de personnes sont déplacées au Liban. Un cessez-le-feu temporaire entre en vigueur le 16 avril 2026, mais les frappes israéliennes continuent.
+categories: [war]
+kind: event
+partOf: iran-war-2026
+start: "2026-03-02"
+ongoing: true
+asOf: "2026-10-12"
+deaths:
+  best: 4389
+  note:
+    en: >-
+      Best is the toll of Lebanon's health ministry: 4,389 people killed in Lebanon by Israeli attacks from 2 March to 12 October 2026, without distinguishing civilians from combatants (WAFA; LBCI reported 4,387 a day earlier). The ministry puts the toll since 8 October 2023 at 8,956, which includes the 2023-2024 war. Hezbollah fighters' deaths are estimated at over 1,000 by independent sources and 2,500 by Israel (Wikipedia). Not included: 41 Israeli soldiers and a contractor killed in northern Israel or southern Lebanon, civilians killed in Israel by Hezbollah fire, and about 190 Syrian civilians killed by Israel (Wikipedia).
+    fr: >-
+      L’estimation centrale est le bilan du ministère libanais de la Santé : 4 389 personnes tuées au Liban par des attaques israéliennes du 2 mars au 12 octobre 2026, sans distinction entre civils et combattants (WAFA ; LBCI donnait 4 387 la veille). Le ministère évalue à 8 956 le bilan depuis le 8 octobre 2023, qui inclut la guerre de 2023-2024. Les morts parmi les combattants du Hezbollah sont estimées à plus de 1 000 par des sources indépendantes et à 2 500 par Israël (Wikipédia). Ne sont pas comptés : 41 soldats israéliens et un sous-traitant tués dans le nord d’Israël ou le sud du Liban, les civils tués en Israël par des tirs du Hezbollah et environ 190 civils syriens tués par Israël (Wikipédia).
+countries:
+  - { code: LB, deaths: 4389 }
+  - { code: IL }
+related: [israel-hezbollah-war]
+sources:
+  - title: 2026 Lebanon war
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2026_Lebanon_war
+    accessed: "2026-10-22"
+  - title: "Lebanon's Health Ministry: Israeli aggression since March 2 has killed 4,389"
+    publisher: WAFA
+    url: https://english.wafa.ps/Pages/Details/175808
+    accessed: "2026-10-22"
+  - title: Lebanon's Health Ministry says 4,387 killed, 12,424 wounded since March 2
+    publisher: LBCI
+    url: https://www.lbcgroup.tv/news/lebanon-news/962291/lebanons-health-ministry-says-4387-killed-12424-wounded-since-march-2/en
+    accessed: "2026-10-22"
+reviewed: false

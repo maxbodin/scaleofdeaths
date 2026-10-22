@@ -1,0 +1,40 @@
+id: hurricane-maria-2017
+title:
+  en: Hurricane Maria
+  fr: Ouragan Maria
+description:
+  en: >-
+    Hurricane Maria struck Dominica as a Category 5 storm on 18 September 2017 and made landfall in Puerto Rico two days later as a high-end Category 4 hurricane, two weeks after Hurricane Irma had crossed the region. It devastated Puerto Rico's housing, roads and power grid, causing the largest blackout in United States history, which lasted for months. Most deaths in Puerto Rico came in the following months, as people lost access to electricity, clean water and medical care, which made the death toll a matter of fierce dispute.
+  fr: >-
+    L’ouragan Maria a frappé la Dominique en catégorie 5 le 18 septembre 2017, puis Porto Rico deux jours plus tard en catégorie 4, deux semaines après le passage de l’ouragan Irma dans la région. Il a dévasté les logements, les routes et le réseau électrique de Porto Rico, provoquant la plus grande panne d’électricité de l’histoire des États-Unis, qui a duré des mois. La plupart des morts à Porto Rico sont survenues dans les mois suivants, faute d’électricité, d’eau potable et de soins, ce qui a rendu le bilan très controversé.
+categories: [natural-disaster]
+kind: event
+start: "2017-09-16"
+end: "2017-10-02"
+deaths:
+  best: 3059
+  low: 2658
+  high: 8498
+  note:
+    en: >-
+      Contested. Puerto Rico's government first counted 64 deaths directly caused by the storm. In August 2018 it adopted the estimate of George Washington University, which found 2,975 excess deaths on the island between September 2017 and February 2018 (range 2,658 to 3,290, Wikipedia). A Harvard household survey estimated 793 to 8,498 excess deaths in the following months (95% confidence interval). Best is Wikipedia's total of 3,059: 2,975 in Puerto Rico, 65 in Dominica, 5 in the Dominican Republic, 4 in Guadeloupe, 4 in the mainland United States, 3 in the US Virgin Islands and 3 in Haiti. Low and high are the lowest and highest bounds of the two studies, for Puerto Rico only.
+    fr: >-
+      Contesté. Le gouvernement de Porto Rico a d’abord compté 64 morts directement causées par l’ouragan. En août 2018, il a adopté l’estimation de l’université George Washington, qui a recensé 2 975 morts en excès sur l’île entre septembre 2017 et février 2018 (fourchette de 2 658 à 3 290, Wikipédia). Une enquête auprès des ménages de Harvard a estimé la surmortalité des mois suivants entre 793 et 8 498 morts (intervalle de confiance à 95 %). L’estimation centrale est le total de 3 059 de Wikipédia : 2 975 à Porto Rico, 65 à la Dominique, 5 en République dominicaine, 4 en Guadeloupe, 4 sur le continent américain, 3 aux îles Vierges des États-Unis et 3 en Haïti. Les estimations basse et haute sont les bornes extrêmes des deux études, pour Porto Rico seul.
+countries:
+  - { code: PR, deaths: 2975 }
+  - { code: DM, deaths: 65 }
+  - { code: DO, deaths: 5 }
+  - { code: GP, deaths: 4 }
+  - { code: US, deaths: 4 }
+  - { code: VI, deaths: 3 }
+  - { code: HT, deaths: 3 }
+sources:
+  - title: Hurricane Maria
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Hurricane_Maria
+    accessed: "2026-10-22"
+  - title: "GW Researchers: 2,975 Excess Deaths Linked to Hurricane Maria"
+    publisher: George Washington University (GW Today)
+    url: https://gwtoday.gwu.edu/gw-researchers-2975-excess-deaths-linked-hurricane-maria
+    accessed: "2026-10-22"
+reviewed: false

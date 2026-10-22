@@ -1,0 +1,33 @@
+id: sinking-of-ms-estonia
+title:
+  en: Sinking of the MS Estonia
+  fr: Naufrage de l’Estonia
+description:
+  en: >-
+    Shortly after 1:00 on 28 September 1994 the ferry MS Estonia, sailing overnight from Tallinn to Stockholm in rough seas, lost the locks of its bow visor. Water flooded the car deck and the ship capsized quickly, sinking at about 1:50 in international waters south of the Finnish island of Utö. Of the 989 people on board, most of them Swedish or Estonian, only 138 were rescued; most victims drowned or died of hypothermia in water of 10 to 11 °C. It is the deadliest peacetime shipwreck in European waters.
+  fr: >-
+    Peu après 1 h, le 28 septembre 1994, le ferry Estonia, qui fait route de nuit de Tallinn à Stockholm par mer forte, perd les verrous de sa porte d’étrave. L’eau envahit le pont des voitures et le navire chavire rapidement, sombrant vers 1 h 50 dans les eaux internationales au sud de l’île finlandaise d’Utö. Sur les 989 personnes à bord, en majorité suédoises ou estoniennes, seules 138 sont secourues ; la plupart des victimes se noient ou meurent d’hypothermie dans une eau à 10 ou 11 °C. C’est le naufrage le plus meurtrier en temps de paix dans les eaux européennes.
+categories: [accident]
+kind: event
+start: "1994-09-28"
+deaths:
+  best: 852
+  note:
+    en: Passengers and crew, the toll given by the Swedish Accident Investigation Authority and Wikipedia; it includes one rescued person who later died in hospital. Only 94 bodies were recovered. Most passengers were Swedish and most of the crew Estonian, but the sources consulted give no death count by nationality. Listed under Estonia, the ship's flag state.
+    fr: Passagers et équipage, bilan donné par l’autorité suédoise d’enquête sur les accidents et par Wikipédia ; il inclut une personne secourue morte ensuite à l’hôpital. Seuls 94 corps ont été retrouvés. La plupart des passagers étaient suédois et la plupart des membres d’équipage estoniens, mais les sources consultées ne donnent pas de bilan par nationalité. Événement rattaché à l’Estonie, État du pavillon du navire.
+countries:
+  - { code: EE, deaths: 852 }
+sources:
+  - title: Sinking of MS Estonia
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Sinking_of_MS_Estonia
+    accessed: "2026-10-22"
+  - title: The MV ESTONIA Accident 1994
+    publisher: Swedish Accident Investigation Authority (Statens haverikommission)
+    url: https://shk.se/engelska/the-swedish-accident-investigation-authority/areas-of-investigation/maritime/the-mv-estonia--accident-1994
+    accessed: "2026-10-22"
+  - title: Official investigation finds no new causes in 1994 Estonia ferry sinking
+    publisher: ERR News
+    url: https://news.err.ee/1609886623/official-investigation-finds-no-new-causes-in-1994-estonia-ferry-sinking
+    accessed: "2026-10-22"
+reviewed: false

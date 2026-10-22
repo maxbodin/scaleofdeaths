@@ -1,0 +1,39 @@
+id: armenian-genocide
+title:
+  en: Armenian genocide
+  fr: Génocide arménien
+description:
+  en: >-
+    Systematic destruction of the Armenian people in the Ottoman Empire during the First World War, led by the ruling Committee of Union and Progress. After the arrest of Armenian intellectuals in Constantinople in April 1915, an estimated 800,000 to 1.2 million Armenians were sent on death marches to the Syrian desert, deprived of food and water and subjected to robbery, rape and massacres; others, mostly women and children, were forcibly converted. Almost all historians outside Turkey accept it as a genocide; the Turkish government denies it.
+  fr: >-
+    Destruction systématique du peuple arménien dans l’Empire ottoman pendant la Première Guerre mondiale, menée par le Comité Union et Progrès au pouvoir. Après l’arrestation des intellectuels arméniens à Constantinople en avril 1915, environ 800 000 à 1,2 million d’Arméniens sont envoyés dans des marches de la mort vers le désert syrien, privés d’eau et de nourriture, pillés, violés et massacrés ; d’autres, surtout des femmes et des enfants, sont convertis de force. Presque tous les historiens hors de Turquie le reconnaissent comme un génocide ; le gouvernement turc le nie.
+categories: [genocide, war]
+kind: event
+start: "1915"
+end: "1917"
+deaths:
+  best: 1000000
+  low: 600000
+  high: 1500000
+  note:
+    en: Armenian deaths from massacres, death marches, starvation and disease. Best is the "around one million" given by Wikipedia's article; the range is its 600,000 to 1.5 million (Morris and Ze'evi). Wikipedia's casualties article says most estimates for 1915 to 1918 are 1.3 to 1.5 million, and the Armenian Genocide Museum-Institute gives about 1.5 million killed from 1915 to 1923. Official Ottoman statistics of 1919 gave 800,000.
+    fr: Morts arméniens dus aux massacres, aux marches de la mort, à la faim et aux maladies. L’estimation centrale est le chiffre d’« environ un million » de l’article de Wikipédia ; la fourchette est sa fourchette de 600 000 à 1,5 million (Morris et Ze’evi). L’article de Wikipédia sur les victimes indique que la plupart des estimations pour 1915-1918 vont de 1,3 à 1,5 million, et le Musée-Institut du génocide arménien avance environ 1,5 million de tués entre 1915 et 1923. Les statistiques ottomanes officielles de 1919 donnaient 800 000.
+countries:
+  - { code: TR }
+  - { code: SY }
+partOf: first-world-war
+related: [assyrian-genocide, greek-genocide]
+sources:
+  - title: Armenian genocide
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Armenian_genocide
+    accessed: "2026-10-22"
+  - title: Casualties of the Armenian genocide
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Casualties_of_the_Armenian_genocide
+    accessed: "2026-10-22"
+  - title: The Armenian Genocide
+    publisher: Armenian Genocide Museum-Institute
+    url: https://www.genocide-museum.am/eng/armenian_genocide.php
+    accessed: "2026-10-22"
+reviewed: false

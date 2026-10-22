@@ -1,0 +1,38 @@
+id: copd-deaths
+title:
+  en: Deaths from chronic obstructive pulmonary disease (COPD) per year
+  fr: Décès dus à la bronchopneumopathie chronique obstructive (BPCO) par an
+description:
+  en: >-
+    People who died from chronic obstructive pulmonary disease (COPD) worldwide in one year, as estimated by the Global Burden of Disease study (IHME) and reported by the World Health Organization. COPD, sometimes called emphysema or chronic bronchitis, is a lung disease that narrows the airways and makes breathing difficult; it is not curable. Tobacco smoking causes over 70% of cases in high-income countries, while in low- and middle-income countries household air pollution from cooking and heating fuels is a major cause. COPD is the third leading cause of death worldwide.
+  fr: >-
+    Personnes mortes d’une bronchopneumopathie chronique obstructive (BPCO) dans le monde en un an, selon l’étude Global Burden of Disease (IHME) reprise par l’Organisation mondiale de la santé. La BPCO, parfois appelée emphysème ou bronchite chronique, est une maladie pulmonaire qui rétrécit les voies respiratoires et gêne la respiration ; elle est incurable. Le tabac cause plus de 70 % des cas dans les pays à revenu élevé, tandis que dans les pays à revenu faible ou intermédiaire la pollution de l’air domestique due aux combustibles de cuisson et de chauffage est une cause majeure.
+categories: [annual]
+kind: endemic-total
+start: "2023"
+end: "2023"
+deaths:
+  best: 3400000
+  note:
+    en: >-
+      WHO COPD fact sheet, citing GBD 2023 (IHME): 3.4 million deaths in 2023, about 6% of all deaths. No range is given. Per-country: a GBD 2023 analysis of 48 Asian locations (International Journal of COPD, 2026) finds that India had the largest number of COPD deaths in Asia in 2023 (1,023,485); a second GBD 2023 study (iScience, 2026) reports nearly 1.0 million COPD deaths in China, listed without a number because no exact figure is given in its text.
+    fr: >-
+      Fiche de l’OMS sur la BPCO, citant GBD 2023 (IHME) : 3,4 millions de décès en 2023, environ 6 % de tous les décès. Aucune fourchette n’est donnée. Par pays : une analyse GBD 2023 de 48 pays et territoires d’Asie (International Journal of COPD, 2026) indique que l’Inde comptait le plus de décès par BPCO en Asie en 2023 (1 023 485) ; une autre étude GBD 2023 (iScience, 2026) fait état de près d’un million de décès en Chine, listée sans nombre faute de chiffre exact dans son texte.
+countries:
+  - { code: IN, deaths: 1023485 }
+  - { code: CN }
+related: [tobacco-deaths, air-pollution-deaths]
+sources:
+  - title: Chronic obstructive pulmonary disease (COPD) fact sheet
+    publisher: World Health Organization
+    url: https://www.who.int/news-room/fact-sheets/detail/chronic-obstructive-pulmonary-disease-(copd)
+    accessed: "2026-10-22"
+  - title: "COPD Burden Across 48 Asian Locations, 2009-2023: Demographic Drivers and Socioeconomic Inequality"
+    publisher: International Journal of Chronic Obstructive Pulmonary Disease (PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13676174/
+    accessed: "2026-10-22"
+  - title: COPD burden trends in China and G20 countries from GBD 2023 and Mendelian randomization
+    publisher: iScience (PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13486890/
+    accessed: "2026-10-22"
+reviewed: false

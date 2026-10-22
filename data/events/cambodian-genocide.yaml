@@ -1,0 +1,37 @@
+id: cambodian-genocide
+title:
+  en: Cambodian genocide
+  fr: Génocide cambodgien
+description:
+  en: >-
+    Persecution and killing of Cambodians by the Khmer Rouge regime led by Pol Pot, from the fall of Phnom Penh in April 1975 until Vietnamese forces took the city in January 1979. Cities were emptied and the population forced into collective farm labour; people died from executions, starvation, overwork and untreated disease. Former officials, intellectuals and ethnic and religious minorities such as the Cham, Vietnamese and Chinese were particularly targeted.
+  fr: >-
+    Persécutions et massacres de Cambodgiens par le régime khmer rouge de Pol Pot, de la chute de Phnom Penh en avril 1975 à la prise de la ville par l’armée vietnamienne en janvier 1979. Les villes furent vidées et la population astreinte au travail agricole collectif ; les victimes moururent d’exécutions, de faim, d’épuisement et de maladies non soignées. Anciens fonctionnaires, intellectuels et minorités ethniques et religieuses, comme les Cham, les Vietnamiens et les Chinois, furent particulièrement visés.
+categories: [genocide]
+kind: event
+start: "1975-04-17"
+end: "1979-01-07"
+deaths:
+  best: 2000000
+  low: 1200000
+  high: 2800000
+  note:
+    en: Deaths from executions, starvation, forced labour and disease under Khmer Rouge rule. Best is the "approximately 2 million" given by Wikipedia (the US Holocaust Memorial Museum says "nearly two million"). Ben Kiernan estimates 1.671 to 1.871 million; the most widely accepted range is 1.5 to 2 million; demographer Patrick Heuveline's 2015 estimate of 1.2 to 2.8 million excess deaths sets the range. The 3.3 million claimed by the successor regime is generally considered exaggerated.
+    fr: Morts par exécution, famine, travail forcé et maladie sous le régime khmer rouge. L’estimation centrale est celle d’« environ 2 millions » donnée par Wikipédia (le musée du Mémorial de l’Holocauste des États-Unis parle de « près de deux millions »). Ben Kiernan estime 1,671 à 1,871 million de morts ; la fourchette la plus admise va de 1,5 à 2 millions ; l’estimation du démographe Patrick Heuveline (2015), de 1,2 à 2,8 millions de morts en excès, fixe la fourchette. Le chiffre de 3,3 millions avancé par le régime suivant est généralement jugé exagéré.
+countries:
+  - { code: KH, deaths: 2000000 }
+related: [cambodian-civil-war]
+sources:
+  - title: Cambodian genocide
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Cambodian_genocide
+    accessed: "2026-10-22"
+  - title: "Cambodia 1975-1979"
+    publisher: United States Holocaust Memorial Museum
+    url: https://www.ushmm.org/genocide-prevention/countries/cambodia/case-study/introduction/cambodia-1975
+    accessed: "2026-10-22"
+  - title: "Cambodia: 1975 - 1979"
+    publisher: Holocaust Memorial Day Trust
+    url: https://hmd.org.uk/learn-about-the-holocaust-and-genocides/cambodia/
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,29 @@
+id: daulatpur-saturia-tornado-1989
+title:
+  en: 1989 Daulatpur-Saturia tornado
+  fr: Tornade de Daulatpur-Saturia (1989)
+description:
+  en: >-
+    On the evening of 26 April 1989 a violent tornado, rated F3 to F4, touched down near Daulatpur in Manikganj District, Bangladesh, and tracked about 80 km east and then north-east into Saturia, which was hardest hit. It devastated some 150 km² across three upazilas; every home within about six square kilometres of its path was destroyed, and about 80,000 people were left homeless. The area had been in drought for six months. It is considered the deadliest tornado on record.
+  fr: >-
+    Le soir du 26 avril 1989, une tornade violente, classée F3 à F4, a touché le sol près de Daulatpur, dans le district de Manikganj (Bangladesh), et parcouru environ 80 km vers l’est puis le nord-est jusqu’à Saturia, la plus touchée. Elle a dévasté quelque 150 km² sur trois upazilas ; toutes les maisons sur environ six kilomètres carrés de son trajet ont été détruites, et environ 80 000 personnes se sont retrouvées sans abri. La région connaissait une sécheresse depuis six mois. Elle est considérée comme la tornade la plus meurtrière connue.
+categories: [natural-disaster]
+kind: event
+start: "1989-04-26"
+deaths:
+  best: 1300
+  note:
+    en: Approximate figure, recognised by the World Meteorological Organization as the world record for tornado mortality ("estimated 1,300 individuals"). Wikipedia stresses that there is great uncertainty about the toll, and no other estimate was found. A separate tornado the same day in Narsingdi District killed 5 people and is not included.
+    fr: Chiffre approximatif, reconnu par l’Organisation météorologique mondiale comme record mondial de mortalité pour une tornade (« environ 1 300 personnes »). Wikipédia souligne la grande incertitude sur le bilan, et aucune autre estimation n’a été trouvée. Une autre tornade le même jour dans le district de Narsingdi a fait 5 morts et n’est pas incluse.
+countries:
+  - { code: BD, deaths: 1300 }
+sources:
+  - title: Daulatpur-Saturia tornado
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Daulatpur%E2%80%93Saturia_tornado
+    accessed: "2026-10-22"
+  - title: Records of Weather and Climate Extremes Table (as of 31 July 2025)
+    publisher: World Meteorological Organization
+    url: https://wmo.int/sites/default/files/2025-07/Table_Records_25Jul2025.pdf
+    accessed: "2026-10-22"
+reviewed: false

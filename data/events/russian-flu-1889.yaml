@@ -1,0 +1,41 @@
+id: russian-flu-1889
+title:
+  en: 1889-1890 pandemic ("Russian flu")
+  fr: Pandémie de 1889-1890 (« grippe russe »)
+description:
+  en: >-
+    Respiratory pandemic that emerged in the Asian part of the Russian Empire in 1889, reached St Petersburg in the autumn and circled the globe in about four months along railways and steamship routes. It was the first pandemic of the industrial era to be followed with statistics: clinical attack rates averaged about 60% in cities, but only 0.1 to 0.28% of cases died. Its cause is uncertain: long attributed to an influenza virus (H3N8 or H2N2), it may have been a coronavirus (OC43). Further waves continued until 1894.
+  fr: >-
+    Pandémie respiratoire apparue en 1889 dans la partie asiatique de l’Empire russe, qui a atteint Saint-Pétersbourg à l’automne puis fait le tour du monde en quatre mois environ grâce aux chemins de fer et aux bateaux à vapeur. Première pandémie de l’ère industrielle suivie par des statistiques, elle a touché environ 60 % des citadins, mais seuls 0,1 à 0,28 % des malades en sont morts. Sa cause reste incertaine : longtemps attribuée à un virus grippal (H3N8 ou H2N2), elle pourrait être due à un coronavirus (OC43). D’autres vagues ont suivi jusqu’en 1894.
+categories: [epidemic]
+kind: event
+start: "1889-10"
+end: "1890-12"
+deaths:
+  best: 1000000
+  note:
+    en: >-
+      About 1 million deaths worldwide is the figure given by Wikipedia and by Berche (La Presse Médicale, 2022); no published range was found. Berche gives 250,000 deaths in Europe, including 125,000 in England and Wales (the United Kingdom figure here), and 100,000 in the United States; these country figures may include the later waves up to 1894. The Russian Empire figure is the low end of an excess-mortality estimate of 60,000 to 90,000 for 1889-1890.
+    fr: >-
+      Environ 1 million de morts dans le monde : c’est le chiffre de Wikipédia et de Berche (La Presse Médicale, 2022) ; aucune fourchette publiée n’a été trouvée. Berche compte 250 000 morts en Europe, dont 125 000 en Angleterre et au pays de Galles (chiffre utilisé ici pour le Royaume-Uni), et 100 000 aux États-Unis ; ces chiffres nationaux peuvent inclure les vagues suivantes, jusqu’en 1894. Le chiffre de l’Empire russe est le bas d’une estimation de la surmortalité de 60 000 à 90 000 morts pour 1889-1890.
+countries:
+  - { code: GB, deaths: 125000 }
+  - { code: US, deaths: 100000 }
+  - { name: { en: Russian Empire, fr: Empire russe }, deaths: 60000 }
+  - { code: FR }
+  - { code: DE }
+related: [spanish-flu, asian-flu-1957, hong-kong-flu-1968, swine-flu-2009]
+sources:
+  - title: 1889-1890 pandemic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1889%E2%80%931890_pandemic
+    accessed: "2026-10-22"
+  - title: "The enigma of the 1889 Russian flu pandemic: A coronavirus?"
+    publisher: La Presse Médicale (via PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC8813723/
+    accessed: "2026-10-22"
+  - title: Transmissibility and geographic spread of the 1889 influenza pandemic
+    publisher: PNAS (via PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC2889325/
+    accessed: "2026-10-22"
+reviewed: false

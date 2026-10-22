@@ -1,0 +1,42 @@
+id: hurricane-mitch-1998
+title:
+  en: Hurricane Mitch
+  fr: Ouragan Mitch
+description:
+  en: >-
+    Hurricane Mitch reached Category 5 strength in the western Caribbean in late October 1998, then slowed and weakened before making landfall in Honduras. For several days it drifted over Central America, dropping extreme amounts of rain. The resulting floods and mudslides devastated Honduras and Nicaragua, where a mudslide on the Casita volcano buried ten communities, and also hit Guatemala and El Salvador, leaving about 2.7 million people homeless. It is the second-deadliest Atlantic hurricane on record.
+  fr: >-
+    L’ouragan Mitch a atteint la catégorie 5 dans l’ouest de la mer des Caraïbes fin octobre 1998, puis a ralenti et faibli avant de toucher terre au Honduras. Pendant plusieurs jours, il a stagné au-dessus de l’Amérique centrale, déversant des pluies extrêmes. Les inondations et glissements de terrain qui ont suivi ont dévasté le Honduras et le Nicaragua, où une coulée de boue sur le volcan Casita a enseveli dix communautés, et touché le Guatemala et le Salvador, laissant environ 2,7 millions de sans-abri. C’est le deuxième ouragan atlantique le plus meurtrier connu.
+categories: [natural-disaster]
+kind: event
+start: "1998-10-22"
+end: "1998-11-09"
+deaths:
+  best: 11374
+  low: 9086
+  note:
+    en: >-
+      Best is the 11,374 confirmed deaths given by Wikipedia, with per-country figures from the same source (31 people lost at sea with the schooner Fantome are not assigned to a country); more than 11,000 more people were reported missing and are not included. Low is the 9,086 deaths in the National Hurricane Center report, based on USAID figures from December 1998 (Honduras 5,677, Nicaragua 2,863), which also lists 9,191 missing.
+    fr: >-
+      L’estimation centrale est le bilan de 11 374 morts confirmés donné par Wikipédia, avec les chiffres par pays de la même source (les 31 personnes disparues en mer avec la goélette Fantome ne sont attribuées à aucun pays) ; plus de 11 000 autres personnes ont été portées disparues et ne sont pas comptées. L’estimation basse est le bilan de 9 086 morts du rapport du National Hurricane Center, fondé sur les chiffres de l’USAID de décembre 1998 (Honduras 5 677, Nicaragua 2 863), qui compte aussi 9 191 disparus.
+countries:
+  - { code: HN, deaths: 7000 }
+  - { code: NI, deaths: 3800 }
+  - { code: GT, deaths: 268 }
+  - { code: SV, deaths: 240 }
+  - { code: BZ, deaths: 11 }
+  - { code: MX, deaths: 9 }
+  - { code: CR, deaths: 7 }
+  - { code: JM, deaths: 3 }
+  - { code: PA, deaths: 3 }
+  - { code: US, deaths: 2 }
+sources:
+  - title: Hurricane Mitch
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Hurricane_Mitch
+    accessed: "2026-10-22"
+  - title: "Preliminary Report: Hurricane Mitch, 22 October - 05 November 1998"
+    publisher: NOAA National Hurricane Center
+    url: https://www.nhc.noaa.gov/data/tcr/AL131998_Mitch.pdf
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,33 @@
+id: hurricane-katrina-2005
+title:
+  en: Hurricane Katrina
+  fr: Ouragan Katrina
+description:
+  en: >-
+    Hurricane Katrina crossed south Florida, strengthened to Category 5 over the Gulf of Mexico and made landfall in south-eastern Louisiana on 29 August 2005 as a Category 3 hurricane, before striking the Mississippi coast. Its storm surge devastated coastal Mississippi, and breaches in the levees and floodwalls of New Orleans left about 80% of the city flooded. Most of the loss of life was due to flooding caused by engineering flaws in the federally built flood protection system. Katrina is one of the costliest hurricanes on record.
+  fr: >-
+    L’ouragan Katrina a traversé le sud de la Floride, atteint la catégorie 5 dans le golfe du Mexique puis touché terre dans le sud-est de la Louisiane le 29 août 2005 en catégorie 3, avant de frapper la côte du Mississippi. Son onde de tempête a dévasté le littoral du Mississippi, et la rupture des digues et murs anti-crues de La Nouvelle-Orléans a inondé environ 80 % de la ville. La plupart des morts sont dues aux inondations causées par les défauts du système fédéral de protection. Katrina est l’un des ouragans les plus coûteux jamais enregistrés.
+categories: [natural-disaster]
+kind: event
+start: "2005-08-23"
+end: "2005-08-31"
+deaths:
+  best: 1392
+  high: 1836
+  note:
+    en: >-
+      Best is the 1,392 deaths (520 direct, 565 indirect and 307 of undetermined cause) in the National Hurricane Center report as updated in January 2023, after studies by Rappaport and Blanchard. High is the 1,836 deaths the NHC originally attributed to the storm (Wikipedia; often cited as 1,833).
+    fr: >-
+      L’estimation centrale est le bilan de 1 392 morts (520 directes, 565 indirectes et 307 de cause indéterminée) du rapport du National Hurricane Center mis à jour en janvier 2023 d’après les études de Rappaport et Blanchard. L’estimation haute correspond aux 1 836 morts initialement attribuées à l’ouragan par le NHC (Wikipédia ; souvent cité comme 1 833).
+countries:
+  - { code: US, deaths: 1392 }
+sources:
+  - title: Hurricane Katrina
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Hurricane_Katrina
+    accessed: "2026-10-22"
+  - title: "Tropical Cyclone Report: Hurricane Katrina, 23-30 August 2005"
+    publisher: NOAA National Hurricane Center
+    url: https://www.nhc.noaa.gov/data/tcr/AL122005_Katrina.pdf
+    accessed: "2026-10-22"
+reviewed: false

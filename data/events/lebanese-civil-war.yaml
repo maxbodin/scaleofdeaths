@@ -1,0 +1,31 @@
+id: lebanese-civil-war
+title:
+  en: Lebanese Civil War
+  fr: Guerre du Liban
+description:
+  en: >-
+    Multi-sided war rooted in sectarian tensions within Lebanon's confessional political system and the presence of Palestinian armed groups. Fighting began between Christian militias and the PLO with its Lebanese Muslim and leftist allies, then grew into a war of shifting alliances with military intervention by Syria, Israel, Iran and others; Israel invaded in 1978 and 1982. The violence included massacres such as Sabra and Shatila in 1982 and bombings, and nearly a million people were displaced. The 1989 Taif Agreement laid the basis for peace, and the war ended in 1990.
+  fr: >-
+    Guerre née des tensions confessionnelles du système politique libanais et de la présence de groupes armés palestiniens. Les combats opposent d’abord des milices chrétiennes à l’OLP et à ses alliés libanais musulmans et de gauche, puis la guerre, aux alliances changeantes, voit intervenir la Syrie, Israël, l’Iran et d’autres ; Israël envahit le pays en 1978 et 1982. Elle comprend des massacres, comme à Sabra et Chatila en 1982, et des attentats ; près d’un million de personnes sont déplacées. L’accord de Taëf de 1989 ouvre la voie à la paix ; la guerre s’achève en 1990.
+categories: [war]
+kind: event
+start: "1975-04-13"
+end: "1990-10-13"
+deaths:
+  best: 150000
+  low: 120000
+  note:
+    en: Military and civilian deaths in Lebanon over the whole war. Best is the figure most often given by the sources compiled by Matthew White (Necrometrics), close to the more than 144,000 killed reported by the Associated Press in 1992 from Lebanese police statistics (which also listed 17,415 missing presumed dead). Low is the 120,000 deaths in Wikipedia's lead; Wikipedia's infobox gives 120,000 to 150,000.
+    fr: Morts militaires et civiles au Liban sur toute la durée de la guerre. L’estimation centrale est le chiffre le plus souvent donné par les sources recensées par Matthew White (Necrometrics), proche des plus de 144 000 tués rapportés par l’Associated Press en 1992 d’après les statistiques de la police libanaise (qui comptaient aussi 17 415 disparus présumés morts). Le bas correspond aux 120 000 morts du résumé de Wikipédia ; l’infobox de Wikipédia donne 120 000 à 150 000.
+countries:
+  - { code: LB, deaths: 150000 }
+sources:
+  - title: Lebanese Civil War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Lebanese_Civil_War
+    accessed: "2026-10-22"
+  - title: "Mid-Range Wars and Atrocities of the Twentieth Century: Lebanon (1975-90)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c100k.htm
+    accessed: "2026-10-22"
+reviewed: false

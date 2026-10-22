@@ -1,0 +1,36 @@
+id: derna-floods-2023
+title:
+  en: 2023 Libya floods (Derna)
+  fr: Inondations de 2023 en Libye (Derna)
+description:
+  en: >-
+    On the night of 10 to 11 September 2023, torrential rain from Storm Daniel, a Mediterranean cyclone, caused two ageing dams above Derna in eastern Libya to collapse. A flood wave of some 30 million cubic metres swept down the Wadi Derna, destroying bridges and washing whole neighbourhoods into the sea; officials said a quarter of the city had disappeared. Other north-eastern towns such as Al-Bayda and Soussa were also flooded. A precautionary curfew had kept residents at home, in a country split between rival governments.
+  fr: >-
+    Dans la nuit du 10 au 11 septembre 2023, les pluies torrentielles de la tempête Daniel, un cyclone méditerranéen, ont provoqué la rupture de deux barrages vieillissants en amont de Derna, dans l’est de la Libye. Une vague d’environ 30 millions de mètres cubes a dévalé le wadi Derna, détruisant des ponts et emportant des quartiers entiers dans la mer ; selon les autorités, un quart de la ville avait disparu. D’autres villes du nord-est, comme Al-Bayda et Soussa, ont aussi été inondées. Un couvre-feu préventif avait maintenu les habitants chez eux, dans un pays divisé entre gouvernements rivaux.
+categories: [natural-disaster]
+kind: event
+start: "2023-09-10"
+end: "2023-09-11"
+deaths:
+  best: 5923
+  low: 4540
+  high: 20000
+  note:
+    en: The toll is contested and thousands of people remain missing. Best is the figure in the final UN OCHA report on the flood response (more than 5,923 killed in Libya), also given by Wikipedia's Storm Daniel article. Government figures give 4,540 dead (low) and 3,297 missing, over 7,800 in all. Early estimates were much higher; OCHA cited 11,300 dead but withdrew it, Derna's mayor said the city's toll could reach 18,000 to 20,000 (high), and a Libyan analyst later suggested 14,000 to 24,000. Deaths from Storm Daniel in Greece, Turkey and Bulgaria are not included.
+    fr: Le bilan est contesté et des milliers de personnes restent disparues. L’estimation centrale est le chiffre du rapport final de l’OCHA (ONU) sur la réponse aux inondations (plus de 5 923 morts en Libye), repris par l’article de Wikipédia sur la tempête Daniel. Les chiffres gouvernementaux donnent 4 540 morts (bas de la fourchette) et 3 297 disparus, soit plus de 7 800 au total. Les premières estimations étaient bien plus élevées ; l’OCHA a cité 11 300 morts avant de retirer ce chiffre, le maire de Derna a estimé que le bilan de la ville pourrait atteindre 18 000 à 20 000 (haut de la fourchette), et un analyste libyen a avancé ensuite 14 000 à 24 000. Les morts de la tempête Daniel en Grèce, en Turquie et en Bulgarie ne sont pas inclus.
+countries:
+  - { code: LY, deaths: 5923 }
+sources:
+  - title: Derna dam collapses
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Derna_dam_collapses
+    accessed: "2026-10-22"
+  - title: Storm Daniel
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Storm_Daniel
+    accessed: "2026-10-22"
+  - title: Libya Flood Response Flash Appeal Final Report Sept 2023 - June 2024 (Issued November 2024)
+    publisher: UN Office for the Coordination of Humanitarian Affairs
+    url: https://www.unocha.org/publications/report/libya/libya-flood-response-flash-appeal-final-report-sept-2023-june-2024-issued-november-2024
+    accessed: "2026-10-22"
+reviewed: false

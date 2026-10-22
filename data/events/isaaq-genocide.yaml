@@ -1,0 +1,34 @@
+id: isaaq-genocide
+title:
+  en: Isaaq genocide
+  fr: Génocide des Isaaq
+description:
+  en: >-
+    Systematic killing of civilians of the Isaaq clan in northern Somalia, now Somaliland, by the government of Siad Barre during its war against the Somali National Movement (SNM) rebels. After the SNM offensive of May 1988, the army shelled and bombed the main cities, destroying about 90% of Hargeisa and 70% of Burao, executed civilians, and attacked villages, wells and grazing areas. Up to 500,000 people fled to Ethiopia, creating what was then the world's largest refugee camp, and 400,000 were internally displaced. It is also called the Hargeisa Holocaust.
+  fr: >-
+    Massacres systématiques de civils du clan Isaaq dans le nord de la Somalie, l’actuel Somaliland, par le régime de Siad Barre pendant sa guerre contre les rebelles du Mouvement national somalien (SNM). Après l’offensive du SNM de mai 1988, l’armée bombarde les grandes villes, détruisant environ 90 % de Hargeisa et 70 % de Burao, exécute des civils et attaque villages, puits et pâturages. Jusqu’à 500 000 personnes fuient en Éthiopie, où naît le plus grand camp de réfugiés du monde d’alors, et 400 000 sont déplacées à l’intérieur du pays.
+categories: [genocide]
+kind: event
+start: "1987"
+end: "1989"
+deaths:
+  best: 50000
+  high: 200000
+  note:
+    en: >-
+      Civilians killed, mostly Isaaq. Estimates range from 50,000 to 200,000 civilian deaths (Wikipedia). Best is the lower end of that range, consistent with the estimate of Human Rights Watch's Africa Watch that 50,000 to 60,000 people had been killed in the war in the north by the beginning of 1990 (Human Rights Watch World Report 1990). High is the 200,000 upper estimate given by Wikipedia.
+    fr: >-
+      Civils tués, surtout des Isaaq. Les estimations vont de 50 000 à 200 000 morts civiles (Wikipédia). L’estimation centrale est le bas de cette fourchette, cohérent avec l’estimation d’Africa Watch (Human Rights Watch), selon laquelle 50 000 à 60 000 personnes avaient été tuées dans la guerre du Nord au début de 1990 (rapport mondial 1990 de Human Rights Watch). Le haut est l’estimation maximale de 200 000 morts donnée par Wikipédia.
+countries:
+  - { code: SO, deaths: 50000 }
+related: [somali-civil-war]
+sources:
+  - title: Isaaq genocide
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Isaaq_genocide
+    accessed: "2026-10-22"
+  - title: "World Report 1990: Somalia"
+    publisher: Human Rights Watch
+    url: https://www.hrw.org/reports/1990/WR90/AFRICA.BOU-09.htm
+    accessed: "2026-10-22"
+reviewed: false

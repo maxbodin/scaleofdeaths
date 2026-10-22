@@ -1,0 +1,37 @@
+id: saint-domingue-yellow-fever-epidemic-1802
+title:
+  en: 1802-1803 Saint-Domingue yellow fever epidemic
+  fr: Épidémie de fièvre jaune de 1802-1803 à Saint-Domingue
+description:
+  en: >-
+    Yellow fever epidemic that devastated the French expedition sent by Napoleon Bonaparte to Saint-Domingue (now Haiti) in 1802 under his brother-in-law General Charles Leclerc, to depose Toussaint Louverture and restore slavery. The European veterans had no immunity to the mosquito-borne disease, while many people of African descent on the island had been exposed in childhood. Revolutionary leaders withdrew to the mountains, leaving French troops in the coastal towns where mosquitoes thrived. Leclerc died of the fever in November 1802; the French defeat led to Haitian independence in 1804.
+  fr: >-
+    Épidémie de fièvre jaune qui a décimé l’expédition envoyée par Napoléon Bonaparte à Saint-Domingue (actuelle Haïti) en 1802, sous les ordres de son beau-frère le général Charles Leclerc, pour renverser Toussaint Louverture et rétablir l’esclavage. Les vétérans européens n’avaient aucune immunité contre cette maladie transmise par les moustiques, alors que beaucoup d’habitants d’ascendance africaine y avaient été exposés enfants. Les chefs révolutionnaires se sont retirés dans les montagnes, laissant les Français dans les villes côtières. Leclerc est mort de la fièvre en novembre 1802.
+categories: [epidemic]
+kind: event
+start: "1802"
+end: "1803"
+deaths:
+  best: 27000
+  high: 55000
+  note:
+    en: >-
+      Deaths among the French expeditionary forces only. Best is the estimate that 27,000 of the 30,000 soldiers first sent died of yellow fever, from a review in Biomedicines (Biselli et al., 2022). High is the top of the 29,000 to 55,000 range in Wikipedia's list of epidemics (citing Marr and Cathey, 2013), which also counts reinforcements; Wikipedia's article states that France had lost over 50,000 men by autumn 1803, from all causes. Deaths among the island's population are not included.
+    fr: >-
+      Morts parmi les forces expéditionnaires françaises seulement. L’estimation retenue est celle de 27 000 morts de la fièvre jaune sur les 30 000 soldats envoyés au départ, tirée d’une revue de Biomedicines (Biselli et al., 2022). Le haut est la borne supérieure de la fourchette de 29 000 à 55 000 de la liste des épidémies de Wikipédia (d’après Marr et Cathey, 2013), qui compte aussi les renforts ; l’article de Wikipédia indique que la France avait perdu plus de 50 000 hommes à l’automne 1803, toutes causes confondues. Les morts parmi la population de l’île ne sont pas comptés.
+countries:
+  - { code: HT, deaths: 27000 }
+sources:
+  - title: Yellow fever in the Haitian Revolution
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Yellow_fever_in_the_Haitian_Revolution
+    accessed: "2026-10-22"
+  - title: List of epidemics and pandemics
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_epidemics_and_pandemics
+    accessed: "2026-10-22"
+  - title: "A Historical Review of Military Medical Strategies for Fighting Infectious Diseases: From Battlefields to Global Health"
+    publisher: Biomedicines (via PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC9405556/
+    accessed: "2026-10-22"
+reviewed: false

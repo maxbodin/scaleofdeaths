@@ -1,0 +1,43 @@
+id: bhola-cyclone-1970
+title:
+  en: 1970 Bhola cyclone
+  fr: Cyclone de Bhola de 1970
+description:
+  en: >-
+    A tropical cyclone from the Bay of Bengal struck the coast of East Pakistan (now Bangladesh) and India's West Bengal on 12 November 1970, at high tide. Its storm surge, up to about 10 metres high, swept over the low-lying islands of the Ganges Delta, where most victims drowned. Anger at the central government's slow and inadequate relief response helped the Awami League win a landslide in the election held a month later and contributed to the Bangladesh Liberation War of 1971.
+  fr: >-
+    Un cyclone tropical venu du golfe du Bengale a frappé le 12 novembre 1970, à marée haute, les côtes du Pakistan oriental (actuel Bangladesh) et du Bengale-Occidental indien. Son onde de tempête, haute de près de 10 mètres, a submergé les îles basses du delta du Gange, où la plupart des victimes se sont noyées. La colère suscitée par la lenteur et l’insuffisance des secours du gouvernement central a contribué à la victoire écrasante de la Ligue Awami aux élections un mois plus tard, puis à la guerre de libération du Bangladesh en 1971.
+categories: [natural-disaster]
+kind: event
+start: "1970-11-08"
+end: "1970-11-13"
+deaths:
+  best: 300000
+  low: 224000
+  high: 500000
+  note:
+    en: >-
+      The exact toll is unknown: at least 300,000 and possibly as many as 500,000 (Wikipedia; Banglapedia gives 0.5 million). Best is the 300,000 recorded by the World Meteorological Organization as the highest mortality from any tropical cyclone, a figure NOAA also gives for Bangladesh ("300,000+"). Low is the minimum of 224,000 deaths from a post-disaster survey by the Pakistan-SEATO Cholera Research Laboratory (Wikipedia). Deaths in India are not counted separately.
+    fr: >-
+      Le bilan exact est inconnu : au moins 300 000 morts et peut-être jusqu’à 500 000 (Wikipédia ; Banglapedia donne 0,5 million). L’estimation centrale est le chiffre de 300 000 retenu par l’Organisation météorologique mondiale comme record de mortalité pour un cyclone tropical, que la NOAA donne aussi pour le Bangladesh (« plus de 300 000 »). L’estimation basse est le minimum de 224 000 morts établi par une enquête du laboratoire de recherche sur le choléra Pakistan-OTASE après la catastrophe (Wikipédia). Les morts en Inde ne sont pas comptées à part.
+countries:
+  - { code: BD, deaths: 300000 }
+  - { code: IN }
+sources:
+  - title: 1970 Bhola cyclone
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1970_Bhola_cyclone
+    accessed: "2026-10-22"
+  - title: Records of Weather and Climate Extremes (as of 31 July 2025)
+    publisher: World Meteorological Organization
+    url: https://wmo.int/sites/default/files/2025-07/Table_Records_25Jul2025.pdf
+    accessed: "2026-10-22"
+  - title: Hurricane FAQ
+    publisher: NOAA Atlantic Oceanographic and Meteorological Laboratory
+    url: https://www.aoml.noaa.gov/hrd-faq/
+    accessed: "2026-10-22"
+  - title: Cyclone
+    publisher: Banglapedia (Asiatic Society of Bangladesh)
+    url: https://en.banglapedia.org/index.php/Cyclone
+    accessed: "2026-10-22"
+reviewed: false

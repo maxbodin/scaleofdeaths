@@ -1,0 +1,32 @@
+id: tajikistani-civil-war
+title:
+  en: Tajikistani Civil War
+  fr: Guerre civile du Tadjikistan
+description:
+  en: >-
+    Civil war that broke out in Tajikistan in May 1992, soon after independence from the Soviet Union, between the government, backed by Russia and Uzbekistan, and the United Tajik Opposition, an alliance of Islamist, democratic and regional groups. Fighting along regional and clan lines was most intense in 1992 and 1993, with killings of civilians identified by their region of origin. About 1.2 million people were displaced and many fled to Afghanistan, from where the opposition continued a guerrilla war. A UN-mediated peace agreement was signed in June 1997.
+  fr: >-
+    Guerre civile qui éclate au Tadjikistan en mai 1992, peu après l’indépendance, entre le gouvernement, soutenu par la Russie et l’Ouzbékistan, et l’Opposition tadjike unie, alliance de groupes islamistes, démocrates et régionaux. Les combats, menés selon des clivages régionaux et claniques, sont les plus intenses en 1992 et 1993, avec des meurtres de civils visés pour leur région d’origine. Environ 1,2 million de personnes sont déplacées et beaucoup fuient en Afghanistan, d’où l’opposition poursuit la guérilla. Un accord de paix négocié sous l’égide de l’ONU est signé en juin 1997.
+categories: [war]
+kind: event
+start: "1992-05-05"
+end: "1997-06-27"
+deaths:
+  best: 50000
+  low: 20000
+  high: 100000
+  note:
+    en: Military and civilian deaths. Best is the figure of about 50,000 given by the Correlates of War dataset, Bercovitch and Jackson and Project Ploughshares, which say most deaths occurred in 1992 (PRIO Battle Deaths documentation); Leitenberg gives 60,000, Brogan 35,000 and Clodfelter 30,000. The range comes from Wikipedia, which gives 20,000 to 150,000 in its summary and 50,000 to 100,000 in its infobox; the infobox's upper figure is used as high. Russian forces lost 302 soldiers (Wikipedia).
+    fr: Morts militaires et civiles. L’estimation centrale correspond aux quelque 50 000 morts avancés par le jeu de données Correlates of War, Bercovitch et Jackson et Project Ploughshares, selon qui la plupart des morts datent de 1992 (documentation du PRIO sur les morts au combat) ; Leitenberg donne 60 000, Brogan 35 000 et Clodfelter 30 000. La fourchette est celle de Wikipédia, 20 000 à 150 000 dans son résumé et 50 000 à 100 000 dans son infobox, dont le chiffre supérieur sert de haut. Les forces russes ont perdu 302 soldats (Wikipédia).
+countries:
+  - { code: TJ, deaths: 50000 }
+sources:
+  - title: Tajikistani Civil War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Tajikistani_Civil_War
+    accessed: "2026-10-22"
+  - title: "The PRIO Battle Deaths Dataset, 1946-2008, Version 3.0: Documentation of Coding Decisions (Lacina), Tajikistan"
+    publisher: Peace Research Institute Oslo (PRIO)
+    url: https://cdn.cloud.prio.org/files/91648bba-8885-40ce-8a78-fae75c850c55/PRIO%20Battle%20Deaths%20Dataset%2030%20Documentation.pdf
+    accessed: "2026-10-22"
+reviewed: false

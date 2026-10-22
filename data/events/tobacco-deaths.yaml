@@ -1,0 +1,35 @@
+id: tobacco-deaths
+title:
+  en: Deaths from tobacco per year
+  fr: Décès dus au tabac par an
+description:
+  en: >-
+    Deaths worldwide in one year attributable to tobacco exposure, through smoking, chewing tobacco or second-hand smoke, as estimated by the Global Burden of Disease study (IHME) for 204 countries and territories. Tobacco damages nearly every organ and causes cancers, heart disease, stroke and lung disease. It was the leading risk factor for death among men in 2023, linked to about one in six male deaths, and tobacco deaths have risen by about a quarter since 1990. About 80% of the world's tobacco users live in low- and middle-income countries.
+  fr: >-
+    Décès attribuables au tabac dans le monde en un an, qu’il soit fumé, chiqué ou subi par tabagisme passif, selon l’étude Global Burden of Disease (IHME) portant sur 204 pays et territoires. Le tabac abîme presque tous les organes et cause cancers, maladies cardiaques, AVC et maladies pulmonaires. C’était en 2023 le premier facteur de risque de décès chez les hommes, lié à environ un décès masculin sur six, et ces décès ont augmenté d’environ un quart depuis 1990. Environ 80 % des consommateurs de tabac vivent dans des pays à revenu faible ou intermédiaire.
+categories: [annual]
+kind: endemic-total
+start: "2023"
+end: "2023"
+deaths:
+  best: 7360000
+  low: 6370000
+  high: 8300000
+  note:
+    en: >-
+      GBD 2023 (IHME, Tobacco Induced Diseases, 2025): 7.36 million deaths attributable to tobacco in 2023, with a 95% uncertainty interval of 6.37 to 8.30 million (5.59 million men, 1.77 million women). These are attributable deaths, estimated from exposure surveys and disease risks, not a count of death certificates. WHO gives a rounded "more than 7 million each year", including over 1.6 million non-smokers exposed to second-hand smoke. No per-country figures were found for 2023; the United Kingdom and Egypt are listed without numbers because the IHME abstract names them among countries with over 50,000 tobacco deaths (largest fall and largest rise since 1990).
+    fr: >-
+      GBD 2023 (IHME, Tobacco Induced Diseases, 2025) : 7,36 millions de décès attribuables au tabac en 2023, avec un intervalle d’incertitude à 95 % de 6,37 à 8,30 millions (5,59 millions d’hommes, 1,77 million de femmes). Ce sont des décès attribuables, estimés à partir d’enquêtes d’exposition et des risques de maladie, pas un décompte de certificats de décès. L’OMS indique « plus de 7 millions par an », dont plus de 1,6 million de non-fumeurs exposés au tabagisme passif. Aucun chiffre par pays n’a été trouvé pour 2023 ; le Royaume-Uni et l’Égypte sont listés sans nombre car le résumé de l’IHME les cite parmi les pays comptant plus de 50 000 morts du tabac (plus forte baisse et plus forte hausse depuis 1990).
+countries:
+  - { code: GB }
+  - { code: EG }
+sources:
+  - title: "Morbidity and mortality attributable to tobacco exposure: An analysis from the Global Burden of Disease Study 2023"
+    publisher: Tobacco Induced Diseases (Institute for Health Metrics and Evaluation)
+    url: https://www.tobaccoinduceddiseases.org/Morbidity-and-mortality-attributable-to-tobacco-exposure-an-analysis-from-the-Global,206601,0,2.html
+    accessed: "2026-10-22"
+  - title: Tobacco fact sheet
+    publisher: World Health Organization
+    url: https://www.who.int/news-room/fact-sheets/detail/tobacco
+    accessed: "2026-10-22"
+reviewed: false

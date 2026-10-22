@@ -1,0 +1,34 @@
+id: lombok-earthquakes-2018
+title:
+  en: 2018 Lombok earthquakes
+  fr: Séismes de 2018 à Lombok
+description:
+  en: >-
+    A sequence of shallow earthquakes struck the Indonesian island of Lombok in the summer of 2018. After a magnitude 6.4 foreshock on 29 July, a magnitude 6.9 mainshock on 5 August, the strongest ever recorded on the island, devastated North Lombok, where at least 80% of structures were damaged or destroyed, and caused a small tsunami. Strong aftershocks and another magnitude 6.9 earthquake on 19 August added to the damage, and more than 400,000 people were displaced. Most victims were crushed by collapsing buildings.
+  fr: >-
+    Une série de séismes peu profonds a frappé l’île indonésienne de Lombok à l’été 2018. Après un précurseur de magnitude 6,4 le 29 juillet, le choc principal de magnitude 6,9 du 5 août, le plus fort jamais enregistré sur l’île, a dévasté le nord de Lombok, où au moins 80 % des constructions ont été endommagées ou détruites, et provoqué un petit tsunami. De fortes répliques et un autre séisme de magnitude 6,9 le 19 août ont aggravé les dégâts, et plus de 400 000 personnes ont été déplacées. La plupart des victimes ont été écrasées par l’effondrement de bâtiments.
+categories: [natural-disaster]
+kind: event
+start: "2018-08-05"
+end: "2018-08-19"
+deaths:
+  best: 563
+  low: 561
+  high: 565
+  note:
+    en: >-
+      Deaths in the August 2018 earthquakes (5 August mainshock and later shocks), including 2 in Bali: 563 according to Wikipedia, 561 verified by Indonesia's disaster agency BNPB at the end of the emergency phase on 25 August (AHA Centre), and 565 according to the Ministry of Social Affairs (Wikipedia). The 29 July foreshock, which killed about 20 people, is not included.
+    fr: >-
+      Morts des séismes d’août 2018 (choc principal du 5 août et secousses suivantes), dont 2 à Bali : 563 selon Wikipédia, 561 vérifiés par l’agence indonésienne de gestion des catastrophes (BNPB) à la fin de la phase d’urgence, le 25 août (AHA Centre), et 565 selon le ministère des Affaires sociales (Wikipédia). Le précurseur du 29 juillet, qui a fait environ 20 morts, n’est pas compté.
+countries:
+  - { code: ID, deaths: 563 }
+sources:
+  - title: 5 August 2018 Lombok earthquake
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/5_August_2018_Lombok_earthquake
+    accessed: "2026-10-22"
+  - title: "Situation Update No. 8: M 7.0 Lombok Earthquake"
+    publisher: AHA Centre (ASEAN Coordinating Centre for Humanitarian Assistance)
+    url: https://ahacentre.org/wp-content/uploads/2018/08/AHA-Situation_Update_no_8_M-7.0-Lombok-Earthquake-final.pdf
+    accessed: "2026-10-22"
+reviewed: false

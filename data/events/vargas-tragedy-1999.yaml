@@ -1,0 +1,33 @@
+id: vargas-tragedy-1999
+title:
+  en: Vargas tragedy
+  fr: Tragédie de Vargas
+description:
+  en: >-
+    Torrential rain on 14 to 16 December 1999, after two weeks of rainfall, triggered thousands of landslides on the steep slopes of the coastal mountains north of Caracas, Venezuela. Massive debris flows and flash floods swept through the towns built on alluvial fans along the Caribbean coast of Vargas state, burying neighbourhoods under metres of mud and boulders and carrying houses and people out to sea. More than 8,000 homes and 700 apartment buildings were destroyed or damaged.
+  fr: >-
+    Des pluies torrentielles du 14 au 16 décembre 1999, après deux semaines de précipitations, ont déclenché des milliers de glissements de terrain sur les pentes abruptes des montagnes côtières au nord de Caracas, au Venezuela. D’énormes laves torrentielles et des crues éclair ont balayé les localités bâties sur les cônes alluviaux de la côte caraïbe de l’État de Vargas, ensevelissant des quartiers sous des mètres de boue et de blocs et emportant maisons et habitants vers la mer. Plus de 8 000 maisons et 700 immeubles ont été détruits ou endommagés.
+categories: [natural-disaster]
+kind: event
+start: "1999-12-14"
+end: "1999-12-16"
+deaths:
+  best: 30000
+  low: 10000
+  note:
+    en: >-
+      Highly uncertain: only about 1,000 bodies were recovered, many victims were buried or swept out to sea, and there was no recent census. Early estimates ranged from 5,000 to 50,000; according to the U.S. Geological Survey, 30,000 became the generally cited approximate figure (USAID, 2000), used here as best. Low is the bottom of the 10,000 to 30,000 range given by Wikipedia.
+    fr: >-
+      Très incertain : seuls environ 1 000 corps ont été retrouvés, de nombreuses victimes ayant été ensevelies ou emportées en mer, et il n’existait pas de recensement récent. Les premières estimations allaient de 5 000 à 50 000 ; selon l’Institut d’études géologiques des États-Unis, le chiffre de 30 000 s’est imposé comme estimation approximative (USAID, 2000) et sert ici d’estimation centrale. L’estimation basse est le bas de la fourchette de 10 000 à 30 000 donnée par Wikipédia.
+countries:
+  - { code: VE, deaths: 30000 }
+sources:
+  - title: Vargas tragedy
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Vargas_tragedy
+    accessed: "2026-10-22"
+  - title: Debris-flow and flooding hazards associated with the December 1999 storm in coastal Venezuela and strategies for mitigation
+    publisher: U.S. Geological Survey
+    url: https://pubs.usgs.gov/of/2001/ofr-01-0144/
+    accessed: "2026-10-22"
+reviewed: false

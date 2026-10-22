@@ -1,0 +1,55 @@
+id: mongol-invasions-and-conquests
+title:
+  en: Mongol invasions and conquests
+  fr: Invasions et conquêtes mongoles
+description:
+  en: >-
+    Wars of expansion launched by Genghis Khan and continued by his successors, which created the largest contiguous land empire in history, stretching from Korea and China to Iran, Iraq, Russia and Eastern Europe. Campaigns against the Jin and Song dynasties, Western Xia, the Khwarazmian Empire, the Rus' principalities and the Abbasid Caliphate brought the destruction of cities such as Merv, Nishapur, Kyiv and Baghdad and the massacre of their inhabitants, followed by famine and displacement.
+  fr: >-
+    Guerres d’expansion lancées par Gengis Khan et poursuivies par ses successeurs, qui ont formé le plus vaste empire terrestre d’un seul tenant de l’histoire, de la Corée et de la Chine à l’Iran, à l’Irak, à la Russie et à l’Europe orientale. Les campagnes contre les Jin et les Song, les Xia occidentaux, l’Empire khwarezmien, les principautés de la Rus’ et le califat abbasside entraînent la destruction de villes comme Merv, Nichapour, Kiev et Bagdad et le massacre de leurs habitants, suivis de famines et de déplacements.
+categories: [war]
+kind: event
+start: "1206"
+end: "1368"
+deaths:
+  best: 40000000
+  low: 20000000
+  high: 60000000
+  note:
+    en: "Mostly estimates of population decline, which include famine, disease and displacement, rather than counted deaths. Best: 40 million, Matthew White's figure, loosely based on Colin McEvedy's estimate of a 35 million decline in China plus about 2.75 million in the western conquered regions (Necrometrics). The commonly cited 40 to 60 million goes back to McEvedy and Jones (1978), whose figures have been criticised: Mongol-era censuses were incomplete, and some historians attribute part of the decline to registration failures or to the Black Death. Low: 20 million and high: 60 million, from Wikipedia's list of wars by death toll. China: low end of the 30 to 60 million range given by White."
+    fr: "Surtout des estimations de baisse de population, qui incluent famines, maladies et déplacements, plutôt que des morts comptées. Estimation centrale : 40 millions, chiffre de Matthew White, fondé sur l’estimation par Colin McEvedy d’une baisse de 35 millions en Chine et d’environ 2,75 millions dans les régions conquises à l’ouest (Necrometrics). La fourchette souvent citée de 40 à 60 millions remonte à McEvedy et Jones (1978), dont les chiffres sont critiqués : les recensements de l’époque mongole étaient incomplets et certains historiens imputent une partie de la baisse aux défaillances de l’enregistrement ou à la peste noire. Bas : 20 millions et haut : 60 millions, d’après la liste des guerres par nombre de morts de Wikipédia. Chine : bas de la fourchette de 30 à 60 millions donnée par White."
+countries:
+  - { code: CN, deaths: 30000000 }
+  - { code: IR }
+  - { code: IQ }
+  - { code: AF }
+  - { code: UZ }
+  - { code: TM }
+  - { code: KZ }
+  - { code: RU }
+  - { code: UA }
+  - { code: PL }
+  - { code: HU }
+  - { code: KR }
+  - { code: GE }
+  - { code: AM }
+  - { code: SY }
+related: [conquests-of-timur]
+sources:
+  - title: Mongol invasions and conquests
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Mongol_invasions_and_conquests
+    accessed: "2026-10-22"
+  - title: Destruction under the Mongol Empire
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Destruction_under_the_Mongol_Empire
+    accessed: "2026-10-22"
+  - title: List of wars by death toll
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_wars_by_death_toll
+    accessed: "2026-10-22"
+  - title: Selected Death Tolls for Wars, Massacres and Atrocities Before the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/pre1700a.htm
+    accessed: "2026-10-22"
+reviewed: false

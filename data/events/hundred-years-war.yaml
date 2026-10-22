@@ -1,0 +1,39 @@
+id: hundred-years-war
+title:
+  en: Hundred Years' War
+  fr: Guerre de Cent Ans
+description:
+  en: >-
+    Intermittent series of wars between the kings of England and France, fought mostly in France over the English claim to the French throne and English lands on the continent. Marked by English victories at Crécy, Poitiers and Agincourt, then by the French recovery inspired by Joan of Arc, it ended with the English driven out of all of France except Calais. Besides battles, the war brought sieges, raids that laid waste the countryside, banditry by unpaid soldiers, famine and disease, on top of the Black Death.
+  fr: >-
+    Série intermittente de guerres entre les rois d’Angleterre et de France, livrées surtout en France, autour de la prétention anglaise au trône de France et des possessions anglaises sur le continent. Marquée par les victoires anglaises de Crécy, Poitiers et Azincourt, puis par le redressement français porté par Jeanne d’Arc, elle s’achève par l’expulsion des Anglais de toute la France sauf Calais. Outre les batailles, la guerre apporte sièges, chevauchées dévastant les campagnes, brigandage des routiers, famines et maladies, en plus de la peste noire.
+categories: [war]
+kind: event
+start: "1337-05-24"
+end: "1453-10-19"
+deaths:
+  best: 3000000
+  low: 2300000
+  high: 3500000
+  note:
+    en: "Very uncertain. Military deaths are estimated at about 556,000, including 185,250 soldiers killed in combat (Sorokin, via Wikipedia). Larger totals are derived from the collapse of France's population, from about 17 to 20 million in the 14th century to 9 or 10 million around 1440, which was mostly caused by the Black Death: Matthew White (Necrometrics) estimates the war's share by subtracting a plague loss of one third, which gives anything from almost nothing to 3.3 million depending on the source. Best: 3 million, White's figure. Range: 2.3 to 3.5 million, from Wikipedia's list of wars by death toll."
+    fr: "Très incertain. Les morts militaires sont estimées à environ 556 000, dont 185 250 soldats tués au combat (Sorokin, via Wikipédia). Les totaux plus élevés sont déduits de l’effondrement de la population française, d’environ 17 à 20 millions au XIVe siècle à 9 ou 10 millions vers 1440, dû surtout à la peste noire : Matthew White (Necrometrics) estime la part de la guerre en retranchant une perte d’un tiers due à la peste, ce qui donne de presque rien à 3,3 millions selon la source. Estimation centrale : 3 millions, chiffre de White. Fourchette : 2,3 à 3,5 millions, d’après la liste des guerres par nombre de morts de Wikipédia."
+countries:
+  - { code: FR }
+  - { code: GB }
+  - { code: BE }
+related: [wars-of-the-roses]
+sources:
+  - title: Hundred Years' War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Hundred_Years%27_War
+    accessed: "2026-10-22"
+  - title: List of wars by death toll
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_wars_by_death_toll
+    accessed: "2026-10-22"
+  - title: Selected Death Tolls for Wars, Massacres and Atrocities Before the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/pre1700a.htm
+    accessed: "2026-10-22"
+reviewed: false

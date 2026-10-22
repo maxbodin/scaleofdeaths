@@ -1,0 +1,35 @@
+id: great-plague-of-seville
+title:
+  en: Great Plague of Seville
+  fr: Grande peste de Séville
+description:
+  en: >-
+    Bubonic plague epidemic in Spain, probably arriving from Algeria, that struck the Mediterranean coast first, starting in Valencia in 1647, before spreading through Andalusia, Aragon and Catalonia. Seville, then one of the world's leading cities and Spain's gateway to the Americas, lost about half of its 120,000 inhabitants in a few months of 1649 and did not regain its earlier population until the late 19th century.
+  fr: >-
+    Épidémie de peste bubonique en Espagne, probablement venue d’Algérie, qui frappa d’abord la côte méditerranéenne, à partir de Valence en 1647, avant de gagner l’Andalousie, l’Aragon et la Catalogne. Séville, alors l’une des premières villes du monde et la porte de l’Espagne vers les Amériques, perdit environ la moitié de ses 120 000 habitants en quelques mois de 1649 et ne retrouva sa population d’avant qu’à la fin du XIXe siècle.
+categories: [epidemic]
+kind: event
+start: "1647"
+end: "1652"
+deaths:
+  best: 500000
+  note:
+    en: "Deaths across Spain, nearly 5% of a population of slightly under 10 million, as estimated by historian Antonio Domínguez Ortiz (cited by Wikipedia). City figures vary by source: about 60,000 in Seville (University of Seville, Diario de Sevilla) or up to 150,000 for Seville and its rural districts (Wikipedia), 30,000 in Valencia, 15,000 in Córdoba. Domínguez Ortiz put deaths in lower Andalusia alone at about 200,000. No range for the national total was found."
+    fr: "Morts dans toute l’Espagne, près de 5 % d’une population d’un peu moins de 10 millions, selon l’historien Antonio Domínguez Ortiz (cité par Wikipédia). Les chiffres par ville varient selon les sources : environ 60 000 à Séville (université de Séville, Diario de Sevilla) ou jusqu’à 150 000 pour Séville et ses campagnes (Wikipédia), 30 000 à Valence, 15 000 à Cordoue. Domínguez Ortiz estimait les morts de la seule basse Andalousie à environ 200 000. Aucune fourchette n’a été trouvée pour le total national."
+countries:
+  - { code: ES, deaths: 500000 }
+related: [black-death, naples-plague-1656]
+sources:
+  - title: Great Plague of Seville
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Great_Plague_of_Seville
+    accessed: "2026-10-22"
+  - title: "Peste e impacto social: la epidemia en Andalucía a mediados del siglo XVII"
+    publisher: Encrucijada, Universidad de Sevilla
+    url: https://grupo.us.es/encrucijada/peste-e-impacto-social-la-epidemia-en-andalucia-a-mediados-del-siglo-xvii/
+    accessed: "2026-10-22"
+  - title: "La peste de 1649: Un punto de no retorno"
+    publisher: Diario de Sevilla
+    url: https://www.diariodesevilla.es/sevilla/peste-punto-retorno_0_770323509.html
+    accessed: "2026-10-22"
+reviewed: false

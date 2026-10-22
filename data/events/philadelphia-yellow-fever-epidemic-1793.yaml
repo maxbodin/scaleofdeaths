@@ -1,0 +1,36 @@
+id: philadelphia-yellow-fever-epidemic-1793
+title:
+  en: 1793 Philadelphia yellow fever epidemic
+  fr: Épidémie de fièvre jaune de 1793 à Philadelphie
+description:
+  en: >-
+    Yellow fever epidemic in Philadelphia, then the largest city and the capital of the United States, with about 50,000 inhabitants. It began near the Delaware River wharves in August 1793, after the arrival of refugees from Saint-Domingue and ships from the Caribbean; contemporaries blamed bad air, but Aedes aegypti mosquitoes probably arrived with the ships. About 20,000 residents fled, including federal officials, and city, state and federal government largely stopped working. Free African Americans, wrongly thought to be immune, did most of the nursing. The epidemic abated in November.
+  fr: >-
+    Épidémie de fièvre jaune à Philadelphie, alors plus grande ville et capitale des États-Unis, avec environ 50 000 habitants. Elle a commencé près des quais de la Delaware en août 1793, après l’arrivée de réfugiés de Saint-Domingue et de navires des Caraïbes ; on accusait alors le mauvais air, mais les moustiques Aedes aegypti sont sans doute arrivés avec les navires. Environ 20 000 habitants ont fui, dont des responsables fédéraux, et les pouvoirs publics ont presque cessé de fonctionner. Les Afro-Américains libres, crus à tort immunisés, ont assuré l’essentiel des soins.
+categories: [epidemic]
+kind: event
+start: "1793-08-01"
+end: "1793-11-09"
+deaths:
+  best: 5000
+  note:
+    en: >-
+      Best is the commonly cited figure of 5,000 or more deaths between 1 August and 9 November 1793, most of them from yellow fever (Wikipedia; "more than 5,000" according to an editorial in the Proceedings of the National Academy of Sciences, 2025). No precise count or range was found.
+    fr: >-
+      L’estimation retenue est le chiffre couramment cité d’au moins 5 000 morts entre le 1er août et le 9 novembre 1793, la plupart de la fièvre jaune (Wikipédia ; « plus de 5 000 » selon un éditorial des Proceedings of the National Academy of Sciences, 2025). Aucun décompte précis ni fourchette n’a été trouvé.
+countries:
+  - { code: US, deaths: 5000 }
+sources:
+  - title: 1793 Philadelphia yellow fever epidemic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1793_Philadelphia_yellow_fever_epidemic
+    accessed: "2026-10-22"
+  - title: Political and biological reality checks
+    publisher: Proceedings of the National Academy of Sciences (via PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12280939/
+    accessed: "2026-10-22"
+  - title: Politics of Yellow Fever in Alexander Hamilton's America
+    publisher: U.S. National Library of Medicine
+    url: https://www.nlm.nih.gov/exhibition/politicsofyellowfever/index.html
+    accessed: "2026-10-22"
+reviewed: false

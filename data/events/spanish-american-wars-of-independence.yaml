@@ -1,0 +1,36 @@
+id: spanish-american-wars-of-independence
+title:
+  en: Spanish American wars of independence
+  fr: Guerres d’indépendance en Amérique espagnole
+description:
+  en: >-
+    Series of conflicts across Spain's American empire, triggered by the French invasion of Spain in 1808 and the collapse of royal authority. Royalists loyal to the Spanish Crown fought patriots led by figures such as Hidalgo, Bolívar and San Martín, in wars that were largely civil wars between Spanish Americans. They ended Spanish rule on the mainland and created independent states from Mexico to Argentina. Fighting and reprisals caused heavy losses, especially in Mexico and Venezuela, which may have lost a quarter of its population.
+  fr: >-
+    Série de conflits dans l’empire espagnol d’Amérique, déclenchés par l’invasion française de l’Espagne en 1808 et l’effondrement du pouvoir royal. Les royalistes fidèles à la Couronne affrontent les patriotes menés notamment par Hidalgo, Bolívar et San Martín, dans des guerres largement civiles entre Hispano-Américains. Elles mettent fin à la domination espagnole sur le continent et donnent naissance à des États indépendants du Mexique à l’Argentine. Combats et représailles font de lourdes pertes, surtout au Mexique et au Venezuela, qui aurait perdu un quart de sa population.
+categories: [war]
+kind: event
+start: "1808-09-25"
+end: "1833-09-29"
+deaths:
+  best: 1000000
+  note:
+    en: Military and civilian deaths. Best is the "1,000,000 total dead" in Wikipedia's infobox, made of 600,000 in New Spain (Mexico) and 400,000 in New Granada (Gran Colombia); no other source found gives an overall total, and other regions are not counted. Lower regional estimates compiled by Necrometrics are used per country, the low ends of the ranges found, 400,000 for Mexico (Clodfelter, 400,000 to 500,000 violent deaths) and 250,000 for Gran Colombia (Harvey, "more than a quarter of a million").
+    fr: Morts militaires et civiles. L’estimation centrale est le « 1 000 000 de morts au total » de l’infobox de Wikipédia, soit 600 000 en Nouvelle-Espagne (Mexique) et 400 000 en Nouvelle-Grenade (Grande Colombie) ; aucune autre source trouvée ne donne de total, et les autres régions ne sont pas comptées. Les estimations régionales plus basses compilées par Necrometrics servent pour les pays, en retenant le bas des fourchettes trouvées, 400 000 pour le Mexique (Clodfelter, 400 000 à 500 000 morts violentes) et 250 000 pour la Grande Colombie (Harvey, « plus d’un quart de million »).
+countries:
+  - { code: MX, deaths: 400000 }
+  - { name: { en: Gran Colombia, fr: Grande Colombie }, deaths: 250000 }
+  - { code: PE }
+  - { code: BO }
+  - { code: AR }
+  - { code: CL }
+related: [napoleonic-wars]
+sources:
+  - title: Spanish American wars of independence
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Spanish_American_wars_of_independence
+    accessed: "2026-10-22"
+  - title: "Statistics of Wars, Oppressions and Atrocities of the Nineteenth Century: New Spain (Mexico) and New Granada (Grand Colombia) wars of independence"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/wars19c.htm
+    accessed: "2026-10-22"
+reviewed: false

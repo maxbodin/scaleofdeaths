@@ -1,0 +1,38 @@
+id: arab-israeli-war-1948
+title:
+  en: 1948 Arab-Israeli War
+  fr: Guerre israélo-arabe de 1948
+description:
+  en: >-
+    War that followed the end of the British Mandate in Palestine and Israel's declaration of independence on 14 May 1948, when Egypt, Transjordan, Syria, Iraq and Lebanon sent forces into the former mandate. It continued months of civil war between Jewish and Palestinian Arab forces that began after the 1947 UN partition plan. More than 750,000 Palestinian Arabs fled or were expelled, an event known to Palestinians as the Nakba, and civilians were killed in massacres. Armistice agreements in 1949 left Israel in control of most of the former mandate.
+  fr: >-
+    Guerre qui suit la fin du mandat britannique en Palestine et la proclamation de l’indépendance d’Israël le 14 mai 1948, lorsque l’Égypte, la Transjordanie, la Syrie, l’Irak et le Liban y envoient leurs troupes. Elle prolonge des mois de guerre civile entre forces juives et arabes palestiniennes, commencée après le plan de partage de l’ONU de 1947. Plus de 750 000 Arabes palestiniens fuient ou sont expulsés, ce que les Palestiniens appellent la Nakba, et des civils sont tués lors de massacres. Les accords d’armistice de 1949 laissent à Israël la majeure partie de l’ancien mandat.
+categories: [war]
+kind: event
+start: "1948-05-15"
+end: "1949-03-10"
+deaths:
+  best: 21111
+  low: 7700
+  note:
+    en: Military and civilian deaths, including those of the civil war phase that began in November 1947, which the main counts cover. Best is the PRIO Battle Deaths estimate, based on Dupuy's and Clodfelter's figures of about 15,000 Arab dead (mostly Palestinian irregulars and civilians) plus 4,074 Israeli soldiers and over 2,000 Israeli civilians. Low is PRIO's estimate counting only regular Arab armies and Israeli military deaths. Per-country figures are Israel's 6,373 dead (about 4,000 fighters and 2,400 civilians, Wikipedia), the low end of Wikipedia's 3,000 to 13,000 Palestinian Arab dead, and Clodfelter's approximate losses of the Arab armies (Egypt at least 1,500).
+    fr: Morts militaires et civiles, y compris celles de la phase de guerre civile commencée en novembre 1947, que couvrent les principaux décomptes. L’estimation centrale est celle du jeu de données PRIO sur les morts au combat, fondée sur les chiffres de Dupuy et Clodfelter, soit environ 15 000 morts arabes (surtout des combattants irréguliers et des civils palestiniens), 4 074 soldats et plus de 2 000 civils israéliens. Le bas est l’estimation du PRIO limitée aux armées arabes régulières et aux militaires israéliens. Les chiffres par pays sont les 6 373 morts israéliens (environ 4 000 combattants et 2 400 civils, Wikipédia), le bas de la fourchette de 3 000 à 13 000 morts arabes palestiniens de Wikipédia et les pertes approximatives des armées arabes selon Clodfelter (Égypte au moins 1 500).
+countries:
+  - { code: IL, deaths: 6373 }
+  - { code: PS, deaths: 3000 }
+  - { code: EG, deaths: 1500 }
+  - { code: SY, deaths: 1000 }
+  - { code: JO, deaths: 1000 }
+  - { code: IQ, deaths: 500 }
+  - { code: LB, deaths: 500 }
+related: [six-day-war]
+sources:
+  - title: 1948 Arab-Israeli War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1948_Arab%E2%80%93Israeli_War
+    accessed: "2026-10-22"
+  - title: "The PRIO Battle Deaths Dataset, 1946-2008, Version 3.0: Documentation of Coding Decisions (Lacina), Israel and Palestine"
+    publisher: Peace Research Institute Oslo (PRIO)
+    url: https://cdn.cloud.prio.org/files/91648bba-8885-40ce-8a78-fae75c850c55/PRIO%20Battle%20Deaths%20Dataset%2030%20Documentation.pdf
+    accessed: "2026-10-22"
+reviewed: false

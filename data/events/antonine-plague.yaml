@@ -1,0 +1,70 @@
+id: antonine-plague
+title:
+  en: Antonine Plague
+  fr: Peste antonine
+description:
+  en: >-
+    The first known pandemic of the Roman Empire, probably smallpox, described by the physician Galen. Traditionally said to have been carried back by troops returning from the Parthian campaign of Lucius Verus, it was first documented in Smyrna in 165, reached Rome in 166 and nearly every corner of the empire by 172, hitting cities and the army hardest. A later outbreak in Rome around 189 killed up to 2,000 people a day according to Cassius Dio.
+  fr: >-
+    Première pandémie connue de l’Empire romain, probablement la variole, décrite par le médecin Galien. Rapportée selon la tradition par les troupes revenant de la campagne parthique de Lucius Verus, elle est attestée à Smyrne en 165, atteint Rome en 166 et presque tout l’empire vers 172, frappant surtout les villes et l’armée. Une résurgence à Rome vers 189 aurait tué jusqu’à 2 000 personnes par jour selon Dion Cassius.
+categories: [epidemic]
+kind: event
+start: "0165"
+end: "0180"
+deaths:
+  best: 7500000
+  low: 5000000
+  high: 10000000
+  note:
+    en: Deaths across the Roman Empire. Best is 7.5 million, the "10 percent of 75 million people" given by historian Edward Watts (Smithsonian Magazine); Wikipedia likewise says that most estimates converge on about 10% of an empire of some 75 million. 5 to 10 million is the usual range (Wikipedia, National Geographic). More extreme estimates run from 1.5 to 25 million (Wikipedia). The possibly related outbreak of 189 is not counted separately.
+    fr: Morts dans l’ensemble de l’Empire romain. L’estimation retenue, 7,5 millions, correspond aux « 10 % de 75 millions d’habitants » avancés par l’historien Edward Watts (Smithsonian Magazine) ; Wikipédia indique aussi que la plupart des estimations convergent vers environ 10 % d’un empire d’environ 75 millions d’habitants. La fourchette habituelle est de 5 à 10 millions (Wikipédia, National Geographic). Des estimations extrêmes vont de 1,5 à 25 millions (Wikipédia). La résurgence de 189, peut-être liée, n’est pas comptée à part.
+countries:
+  - { code: IT }
+  - { code: FR }
+  - { code: ES }
+  - { code: PT }
+  - { code: GB }
+  - { code: BE }
+  - { code: NL }
+  - { code: LU }
+  - { code: DE }
+  - { code: CH }
+  - { code: AT }
+  - { code: HU }
+  - { code: SI }
+  - { code: HR }
+  - { code: BA }
+  - { code: RS }
+  - { code: ME }
+  - { code: AL }
+  - { code: MK }
+  - { code: BG }
+  - { code: RO }
+  - { code: GR }
+  - { code: CY }
+  - { code: TR }
+  - { code: SY }
+  - { code: LB }
+  - { code: IL }
+  - { code: PS }
+  - { code: JO }
+  - { code: EG }
+  - { code: LY }
+  - { code: TN }
+  - { code: DZ }
+  - { code: MA }
+  - { code: IQ }
+sources:
+  - title: Antonine Plague
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Antonine_Plague
+    accessed: "2026-10-22"
+  - title: Is This the Real Reason the Roman Empire Collapsed?
+    publisher: National Geographic
+    url: https://www.nationalgeographic.com/history/article/fall-of-ancient-roman-empire
+    accessed: "2026-10-22"
+  - title: What Rome Learned From the Deadly Antonine Plague of 165 A.D.
+    publisher: Smithsonian Magazine
+    url: https://www.smithsonianmag.com/history/what-rome-learned-deadly-antonine-plague-165-d-180974758/
+    accessed: "2026-10-22"
+reviewed: false

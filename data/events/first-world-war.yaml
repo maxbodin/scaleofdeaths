@@ -1,0 +1,65 @@
+id: first-world-war
+title:
+  en: First World War
+  fr: Première Guerre mondiale
+description:
+  en: >-
+    Global conflict between the Allies, led by France, the British Empire, Russia, Italy and later the United States, and the Central Powers: Germany, Austria-Hungary, the Ottoman Empire and Bulgaria. Trench warfare on the Western Front, machine guns, artillery and poison gas caused massive military losses, while civilians died from famine, blockade, disease, massacres and genocide, notably of the Armenians. The war brought down the German, Austro-Hungarian, Russian and Ottoman empires.
+  fr: >-
+    Conflit mondial opposant les Alliés, menés par la France, l’Empire britannique, la Russie, l’Italie puis les États-Unis, aux Empires centraux : Allemagne, Autriche-Hongrie, Empire ottoman et Bulgarie. La guerre des tranchées sur le front de l’Ouest, les mitrailleuses, l’artillerie et les gaz de combat ont causé d’énormes pertes militaires, tandis que les civils mouraient de faim, du blocus, de maladies, de massacres et de génocides, notamment celui des Arméniens. La guerre a fait tomber les empires allemand, austro-hongrois, russe et ottoman.
+categories: [war]
+kind: event
+start: "1914-07-28"
+end: "1918-11-11"
+deaths:
+  best: 16000000
+  low: 15000000
+  high: 22000000
+  note:
+    en: Military deaths from all causes and civilian deaths from military action, war-related famine and disease, and genocide. Best is the Imperial War Museums estimate of 16 million; the range is Wikipedia's 15 to 22 million (9 to 11 million military, 6 to 13 million civilian). Per-country figures are the low end of the total-deaths column of Wikipedia's table by 1914 borders, which excludes the 1918 influenza pandemic; they add up to more than 16 million but stay within the range; the table includes, for example, 2 million war-related famine deaths in Persia. Empires are listed by their own names; the United Kingdom figure includes Ireland and the colonies.
+    fr: Morts militaires de toutes causes et morts civiles dues aux opérations militaires, aux famines et maladies liées à la guerre et aux génocides. L’estimation centrale est celle des Imperial War Museums (16 millions) ; la fourchette est celle de Wikipédia, de 15 à 22 millions (9 à 11 millions de militaires, 6 à 13 millions de civils). Les chiffres par pays sont le bas de la colonne des morts totales du tableau de Wikipédia selon les frontières de 1914, qui exclut la grippe de 1918 ; leur somme dépasse 16 millions tout en restant dans la fourchette ; le tableau compte par exemple 2 millions de morts de famine liées à la guerre en Perse. Les empires figurent sous leur nom ; le chiffre du Royaume-Uni inclut l’Irlande et les colonies.
+countries:
+  - { name: { en: Russian Empire, fr: Empire russe }, deaths: 2840000 }
+  - { name: { en: Ottoman Empire, fr: Empire ottoman }, deaths: 2825000 }
+  - { code: DE, deaths: 2198420 }
+  - { code: IR, deaths: 2000000 }
+  - { name: { en: Austria-Hungary, fr: Autriche-Hongrie }, deaths: 1787000 }
+  - { code: FR, deaths: 1697000 }
+  - { code: IT, deaths: 1052400 }
+  - { code: GB, deaths: 867829 }
+  - { code: RS, deaths: 750000 }
+  - { code: RO, deaths: 580000 }
+  - { code: BG, deaths: 187500 }
+  - { code: GR, deaths: 155000 }
+  - { code: BE, deaths: 123870 }
+  - { code: US, deaths: 117466 }
+  - { code: PT, deaths: 89235 }
+  - { code: AL, deaths: 70000 }
+  - { code: IN, name: { en: British India, fr: Inde britannique }, deaths: 64449 }
+  - { code: AU, deaths: 59330 }
+  - { code: CA, deaths: 58639 }
+  - { code: NZ, deaths: 16711 }
+  - { code: ZA, deaths: 7121 }
+  - { code: ME, deaths: 3000 }
+  - { name: { en: Dominion of Newfoundland, fr: Dominion de Terre-Neuve }, deaths: 1204 }
+  - { code: NO, deaths: 1180 }
+  - { code: SE, deaths: 800 }
+  - { code: DK, deaths: 700 }
+  - { code: JP, deaths: 300 }
+  - { code: LI, deaths: 4 }
+  - { code: LU }
+related: [spanish-flu]
+sources:
+  - title: World War I casualties
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/World_War_I_casualties
+    accessed: "2026-10-22"
+  - title: World War I
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/World_War_I
+    accessed: "2026-10-22"
+  - title: First World War key facts
+    publisher: Imperial War Museums
+    url: https://www.iwm.org.uk/history/first-world-war/key-facts
+    accessed: "2026-10-22"
+reviewed: false

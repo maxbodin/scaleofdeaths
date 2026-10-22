@@ -1,0 +1,34 @@
+id: war-in-afghanistan-2001
+title:
+  en: War in Afghanistan (2001-2021)
+  fr: Guerre d’Afghanistan (2001-2021)
+description:
+  en: >-
+    War that began in October 2001 with the US-led invasion of Afghanistan after the September 11 attacks, which overthrew the Taliban government. US and NATO-led forces and the new Afghan government then fought a Taliban insurgency for two decades, with fighting, air strikes, roadside bombs and suicide attacks. After the 2020 Doha agreement and the withdrawal of foreign troops, the Taliban took Kabul in August 2021 and the last US forces left on 30 August.
+  fr: >-
+    Guerre commencée en octobre 2001 par l’invasion de l’Afghanistan menée par les États-Unis après les attentats du 11 septembre, qui renverse le gouvernement taliban. Les forces américaines et de l’OTAN et le nouveau gouvernement afghan combattent ensuite pendant deux décennies une insurrection talibane, faite de combats, de frappes aériennes, d’engins explosifs et d’attentats-suicides. Après l’accord de Doha de 2020 et le retrait des troupes étrangères, les talibans prennent Kaboul en août 2021 et les dernières forces américaines partent le 30 août.
+categories: [war]
+kind: event
+start: "2001-10-07"
+end: "2021-08-30"
+deaths:
+  best: 176206
+  high: 212191
+  note:
+    en: >-
+      Deaths caused directly by war violence in Afghanistan, October 2001 to August 2021. Best is the count of the Costs of War Project (Brown University, 2021): 69,095 Afghan military and police, 46,319 civilians, 52,893 opposition fighters, 2,324 US soldiers, 3,917 US contractors, 1,144 other allied troops, and journalists and aid workers. High is the Uppsala Conflict Data Program figure of more than 212,191 deaths (cited by Wikipedia). Indirect deaths from disease, hunger and loss of infrastructure are not included, nor are the 66,650 deaths of the related war in Pakistan.
+    fr: >-
+      Morts causées directement par la violence de la guerre en Afghanistan, d’octobre 2001 à août 2021. L’estimation centrale est le décompte du Costs of War Project (Université Brown, 2021) : 69 095 militaires et policiers afghans, 46 319 civils, 52 893 combattants de l’opposition, 2 324 soldats américains, 3 917 contractuels américains, 1 144 soldats alliés et des journalistes et humanitaires. Le haut est le chiffre de plus de 212 191 morts de l’Uppsala Conflict Data Program (cité par Wikipédia). Les morts indirectes dues aux maladies, à la faim et à la destruction des infrastructures ne sont pas comptées, pas plus que les 66 650 morts du conflit connexe au Pakistan.
+countries:
+  - { code: AF, deaths: 176206 }
+related: [iraq-war, september-11-attacks, soviet-afghan-war]
+sources:
+  - title: War in Afghanistan (2001-2021)
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/War_in_Afghanistan_(2001%E2%80%932021)
+    accessed: "2026-10-22"
+  - title: "Human Cost of Post-9/11 Wars: Direct War Deaths in Major War Zones (September 2021)"
+    publisher: Costs of War Project, Watson Institute, Brown University
+    url: https://costsofwar.watson.brown.edu/sites/default/files/papers/Costs-of-War_Direct-War-Deaths_9-1-21.pdf
+    accessed: "2026-10-22"
+reviewed: false

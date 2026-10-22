@@ -1,0 +1,40 @@
+id: guatemalan-civil-war
+title:
+  en: Guatemalan Civil War
+  fr: Guerre civile guatémaltèque
+description:
+  en: >-
+    Conflict between the government of Guatemala and leftist guerrilla groups, rooted in long-standing disputes over land. Much of the violence was a campaign by the state against civilians: massacres and the destruction of villages in rural areas, especially in the mostly Maya western highlands from 1978, and the killing or forced disappearance of activists, students, trade unionists and other suspected opponents. A UN-sponsored truth commission attributed 93% of the documented violations to state forces and related paramilitary groups. The war ended with a peace accord in December 1996.
+  fr: >-
+    Conflit entre l’État guatémaltèque et des guérillas de gauche, sur fond de conflits fonciers anciens. L’essentiel des violences est le fait de l’État contre les civils : massacres et villages détruits dans les campagnes, surtout dans les hautes terres mayas de l’Ouest à partir de 1978, assassinats et disparitions forcées de militants, d’étudiants, de syndicalistes et d’autres opposants présumés. Une commission de vérité parrainée par l’ONU attribue 93 % des violations documentées aux forces de l’État et aux paramilitaires liés. Un accord de paix met fin à la guerre en décembre 1996.
+categories: [war]
+kind: event
+start: "1960-11-13"
+end: "1996-12-29"
+deaths:
+  best: 200000
+  low: 140000
+  note:
+    en: People killed or forcibly disappeared, mostly civilians. Best is the estimate of the UN-sponsored Commission for Historical Clarification (CEH), "over 200,000", obtained by combining its own data with other studies of political violence; 83% of the fully identified victims were Maya. Low is the 140,000 dead given by the Center for Defense Information (Necrometrics); press reports at the end of the war gave 100,000 dead and 40,000 disappeared. Documented counts are lower (the CEH registered 42,275 named victims, 23,671 of them arbitrary executions and 6,159 forced disappearances), and a 2008 BMJ survey study estimated only 20,000 violent war deaths; Wikipedia gives a range of 40,000 to 200,000.
+    fr: Personnes tuées ou victimes de disparition forcée, surtout des civils. L’estimation centrale est celle de la Commission pour l’éclaircissement historique (CEH), parrainée par l’ONU, « plus de 200 000 », obtenue en combinant ses propres données avec d’autres études sur la violence politique ; 83 % des victimes pleinement identifiées étaient mayas. Le bas correspond aux 140 000 morts indiqués par le Center for Defense Information (Necrometrics) ; la presse donnait à la fin de la guerre 100 000 morts et 40 000 disparus. Les décomptes nominatifs sont plus bas (la CEH a enregistré 42 275 victimes, dont 23 671 exécutions arbitraires et 6 159 disparitions forcées), et une étude du BMJ de 2008, fondée sur des enquêtes, n’estime que 20 000 morts violentes de guerre ; Wikipédia donne une fourchette de 40 000 à 200 000.
+countries:
+  - { code: GT, deaths: 200000 }
+related: [salvadoran-civil-war]
+sources:
+  - title: Guatemalan Civil War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Guatemalan_Civil_War
+    accessed: "2026-10-22"
+  - title: "Guatemala: Memory of Silence, Conclusions (archived)"
+    publisher: Commission for Historical Clarification (CEH), via AAAS
+    url: https://web.archive.org/web/20110201001305/http://shr.aaas.org/guatemala/ceh/report/english/conc1.html
+    accessed: "2026-10-22"
+  - title: "Mid-Range Wars and Atrocities of the Twentieth Century: Guatemala (1960-1996)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c100k.htm
+    accessed: "2026-10-22"
+  - title: "Fifty years of violent war deaths from Vietnam to Bosnia: analysis of data from the world health survey programme (Obermeyer, Murray and Gakidou, 2008)"
+    publisher: BMJ (via PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC2440905/
+    accessed: "2026-10-22"
+reviewed: false

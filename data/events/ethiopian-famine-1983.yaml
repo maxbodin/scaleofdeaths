@@ -1,0 +1,42 @@
+id: ethiopian-famine-1983
+title:
+  en: 1983-1985 famine in Ethiopia
+  fr: Famine de 1983-1985 en Éthiopie
+description:
+  en: >-
+    The worst famine in Ethiopia in a century, which affected about 7.75 million people in the north, especially Wollo, Tigray and Eritrea. Drought struck regions already ravaged by civil war, and the military government of Mengistu Haile Mariam, the Derg, restricted food supplies to areas held by insurgents such as the Tigray People's Liberation Front and carried out forced resettlement. Human Rights Watch attributed more than half of the deaths to human rights abuses. About 2.5 million people were displaced and 400,000 became refugees.
+  fr: >-
+    La pire famine en Éthiopie depuis un siècle a touché environ 7,75 millions de personnes dans le nord, surtout le Wollo, le Tigré et l’Érythrée. La sécheresse a frappé des régions déjà ravagées par la guerre civile, et le gouvernement militaire de Mengistu Haile Mariam, le Derg, a restreint l’approvisionnement des zones tenues par des insurgés comme le Front populaire de libération du Tigré et imposé des déplacements forcés. Human Rights Watch impute plus de la moitié des morts à des violations des droits humains. Environ 2,5 millions de personnes ont été déplacées et 400 000 ont fui le pays.
+categories: [famine]
+kind: event
+start: "1983"
+end: "1985"
+deaths:
+  best: 1000000
+  low: 300000
+  high: 1200000
+  note:
+    en: "Deaths from starvation and disease. Best: about 1 million, the figure given by Encyclopaedia Britannica. Low: 300,000 and high: 1.2 million, the range given by Wikipedia. The World Peace Foundation uses 800,000 and Ó Gráda gives 0.6 to 1 million."
+    fr: "Morts de faim et de maladie. Valeur centrale : environ 1 million, chiffre donné par l’Encyclopaedia Britannica. Bas : 300 000 et haut : 1,2 million, fourchette donnée par Wikipédia. La World Peace Foundation retient 800 000 et Ó Gráda 0,6 à 1 million."
+countries:
+  - { code: ET }
+  - { code: ER }
+related: [ethiopian-civil-war]
+sources:
+  - title: 1983-1985 famine in Ethiopia
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1983%E2%80%931985_famine_in_Ethiopia
+    accessed: "2026-10-22"
+  - title: Famine
+    publisher: Encyclopaedia Britannica
+    url: https://www.britannica.com/science/famine
+    accessed: "2026-10-22"
+  - title: Famines and the deaths in them
+    publisher: Our World in Data (World Peace Foundation data)
+    url: https://ourworldindata.org/grapher/famines-and-the-deaths-in-them
+    accessed: "2026-10-22"
+  - title: Making Famine History (Cormac Ó Gráda)
+    publisher: Journal of Economic Literature (UCD Research Repository)
+    url: https://researchrepository.ucd.ie/server/api/core/bitstreams/f57a2154-08a1-44a8-b865-75d1d51a4fcb/content
+    accessed: "2026-10-22"
+reviewed: false

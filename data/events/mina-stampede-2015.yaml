@@ -1,0 +1,35 @@
+id: mina-stampede-2015
+title:
+  en: 2015 Mina stampede
+  fr: Bousculade de Mina de 2015
+description:
+  en: >-
+    On the morning of 24 September 2015, during the Hajj, two large groups of pilgrims heading for the stoning ritual at the Jamaraat Bridge converged at the junction of streets 204 and 223 in Mina, near Mecca, Saudi Arabia. In the crowd crush that followed, during the hottest Hajj in 20 years, many pilgrims were suffocated or trampled. It is the deadliest disaster in the history of the Hajj. Saudi Arabia never updated its official toll, and the gap with the tolls reported by other countries fuelled tensions, notably with Iran.
+  fr: >-
+    Le matin du 24 septembre 2015, pendant le hajj, deux grands groupes de pèlerins se rendant au rite de la lapidation, au pont des Jamarat, se rejoignent au croisement des rues 204 et 223 à Mina, près de La Mecque, en Arabie saoudite. Dans la bousculade qui suit, par les plus fortes chaleurs depuis 20 ans, de nombreux pèlerins meurent étouffés ou piétinés. C’est la catastrophe la plus meurtrière de l’histoire du hajj. L’Arabie saoudite n’a jamais révisé son bilan officiel, et l’écart avec les bilans des autres pays a attisé les tensions, notamment avec l’Iran.
+categories: [accident]
+kind: event
+start: "2015-09-24"
+deaths:
+  best: 2411
+  low: 769
+  high: 2431
+  note:
+    en: Best is the Associated Press tally of at least 2,411 dead, based on official statements and state media in 36 countries. Low is the official Saudi toll of 769, announced two days after the crush and never updated. High is the total of national reports compiled by Wikipedia; Agence France-Presse counted 2,236. Per-country figures are deaths of each country's pilgrims (all died in Saudi Arabia), from the AP tally; many other countries also lost pilgrims.
+    fr: L’estimation centrale est le décompte de l’Associated Press, au moins 2 411 morts, fondé sur les déclarations officielles et les médias d’État de 36 pays. La borne basse est le bilan officiel saoudien de 769 morts, annoncé deux jours après la bousculade et jamais révisé. La borne haute est le total des bilans nationaux compilé par Wikipédia ; l’Agence France-Presse comptait 2 236 morts. Les chiffres par pays sont les morts parmi les pèlerins de chaque pays (tous morts en Arabie saoudite), selon le décompte de l’AP ; de nombreux autres pays ont aussi perdu des pèlerins.
+countries:
+  - { code: SA }
+  - { code: IR, deaths: 464 }
+  - { code: ML, deaths: 305 }
+  - { code: NG, deaths: 274 }
+  - { code: EG, deaths: 190 }
+sources:
+  - title: 2015 Mina crowd crush
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2015_Mina_crowd_crush
+    accessed: "2026-10-22"
+  - title: "Mecca Hajj Stampede Death Toll Is 2,411, Three Times Figure Reported By Saudi Government"
+    publisher: International Business Times (reporting an Associated Press tally)
+    url: https://www.ibtimes.com/mecca-hajj-stampede-death-toll-2411-three-times-figure-reported-saudi-government-2222089
+    accessed: "2026-10-22"
+reviewed: false

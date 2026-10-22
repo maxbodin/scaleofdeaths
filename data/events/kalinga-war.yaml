@@ -1,0 +1,36 @@
+id: kalinga-war
+title:
+  en: Kalinga War
+  fr: Guerre du Kalinga
+description:
+  en: >-
+    War waged by the Mauryan emperor Ashoka to conquer the independent kingdom of Kalinga, on the east coast of India in what is now Odisha. According to Ashoka's own Major Rock Edict 13, the conquest caused immense suffering, with many people killed, deported or dying afterwards. His remorse is traditionally said to have turned him toward Buddhism and a policy of rule by dharma rather than conquest. The edict is the main source on the war.
+  fr: >-
+    Guerre menée par l’empereur maurya Ashoka pour conquérir le royaume indépendant du Kalinga, sur la côte est de l’Inde, dans l’actuel Odisha. Selon le treizième édit sur rocher d’Ashoka lui-même, la conquête a causé d’immenses souffrances, avec de nombreuses personnes tuées, déportées ou mortes par la suite. Ses remords l’auraient, selon la tradition, tourné vers le bouddhisme et vers un gouvernement fondé sur le dharma plutôt que sur la conquête. L’édit est la principale source sur cette guerre.
+categories: [war]
+kind: event
+start: "-0262"
+end: "-0261"
+circa: true
+deaths:
+  best: 100000
+  high: 250000
+  note:
+    en: "Ashoka's Major Rock Edict 13 states that 150,000 people were deported, 100,000 were killed and many times that number died afterwards. Best: the 100,000 killed of the edict (via Wikipedia, World History Encyclopedia and Necrometrics). High: 250,000 killed, the figure attributed to the historian Hemchandra Raychaudhuri (via Wikipedia), which may also count the deportees. These numbers come from the victor's own inscription and cannot be checked, and modern scholars question how literally Ashoka's account should be read."
+    fr: "Le treizième édit sur rocher d’Ashoka indique que 150 000 personnes ont été déportées, 100 000 tuées et bien plus encore sont mortes ensuite. Estimation centrale : les 100 000 tués de l’édit (via Wikipédia, la World History Encyclopedia et Necrometrics). Haut : 250 000 tués, chiffre attribué à l’historien Hemchandra Raychaudhuri (via Wikipédia), qui compte peut-être aussi les déportés. Ces chiffres proviennent de l’inscription du vainqueur lui-même et ne peuvent être vérifiés, et des chercheurs modernes s’interrogent sur la manière littérale de lire le récit d’Ashoka."
+countries:
+  - { code: IN, deaths: 100000 }
+sources:
+  - title: Kalinga War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Kalinga_War
+    accessed: "2026-10-22"
+  - title: Ashoka the Great
+    publisher: World History Encyclopedia
+    url: https://www.worldhistory.org/Ashoka_the_Great/
+    accessed: "2026-10-22"
+  - title: Selected Death Tolls for Wars, Massacres and Atrocities Before the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/pre1700a.htm
+    accessed: "2026-10-22"
+reviewed: false

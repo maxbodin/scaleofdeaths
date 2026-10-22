@@ -1,0 +1,38 @@
+id: vietnamese-famine-1945
+title:
+  en: Vietnamese famine of 1945
+  fr: Famine vietnamienne de 1945
+description:
+  en: >-
+    Famine in northern Vietnam (Tonkin) from October 1944 to late 1945, under Japanese occupation and Vichy French administration. Compulsory rice purchases at fixed prices, food seizures by the French and Japanese armies, the burning of rice and maize as fuel in power stations, Allied air strikes that cut transport from the rice-growing south, and poor harvests left the north without food. The Viet Minh channelled anger at the famine by seizing granaries, which helped it take power in the August Revolution of 1945.
+  fr: >-
+    Famine dans le nord du Vietnam (Tonkin) d’octobre 1944 à la fin de 1945, sous occupation japonaise et administration de la France de Vichy. Achats forcés de riz à prix plafonnés, saisies de vivres par les armées française et japonaise, riz et maïs brûlés comme combustible dans les centrales, frappes aériennes alliées coupant les transports depuis le sud rizicole et mauvaises récoltes ont privé le nord de nourriture. Le Viet Minh a canalisé la colère en s’emparant des greniers, ce qui l’a aidé à prendre le pouvoir lors de la révolution d’Août 1945.
+categories: [famine]
+kind: event
+start: "1944-10"
+end: "1945"
+deaths:
+  best: 1000000
+  low: 400000
+  high: 2000000
+  note:
+    en: "Deaths from starvation and related disease in northern Vietnam. Best: about 1 million, the World Peace Foundation estimate, also the figure given by Governor General Jean Decoux in his memoirs; Huff (Modern Asian Studies, 2020) puts the Vietnam and Java famines together at about 3.4 million. Low: 400,000, the bottom of the range given by Wikipedia (twenty provinces reported 380,000 starvation deaths and 20,000 disease deaths by May 1945). High: 2 million, the figure quoted by Ho Chi Minh in the 1945 Proclamation of Independence."
+    fr: "Morts de faim et des maladies associées dans le nord du Vietnam. Valeur centrale : environ 1 million, estimation de la World Peace Foundation, chiffre également avancé par le gouverneur général Jean Decoux dans ses mémoires ; Huff (Modern Asian Studies, 2020) estime à environ 3,4 millions les morts des famines du Vietnam et de Java réunies. Bas : 400 000, bas de la fourchette donnée par Wikipédia (vingt provinces signalaient 380 000 morts de faim et 20 000 morts de maladie en mai 1945). Haut : 2 millions, chiffre cité par Hô Chi Minh dans la proclamation d’indépendance de 1945."
+countries:
+  - { code: VN, deaths: 1000000 }
+partOf: second-world-war
+related: [java-famine-1944]
+sources:
+  - title: Vietnamese famine of 1945
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Vietnamese_famine_of_1945
+    accessed: "2026-10-22"
+  - title: The Great Second World War Vietnam and Java Famines (Gregg Huff)
+    publisher: Modern Asian Studies (Cambridge University Press)
+    url: https://doi.org/10.1017/S0026749X18000148
+    accessed: "2026-10-22"
+  - title: Famines and the deaths in them
+    publisher: Our World in Data (World Peace Foundation data)
+    url: https://ourworldindata.org/grapher/famines-and-the-deaths-in-them
+    accessed: "2026-10-22"
+reviewed: false

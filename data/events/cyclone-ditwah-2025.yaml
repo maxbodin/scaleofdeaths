@@ -1,0 +1,41 @@
+id: cyclone-ditwah-2025
+title:
+  en: Cyclone Ditwah
+  fr: Cyclone Ditwah
+description:
+  en: >-
+    Cyclone Ditwah formed off the south-eastern coast of Sri Lanka on 26 November 2025 struck the island's eastern coast on 28 November and crossed it, before tracking north along the coast of Tamil Nadu, India, and weakening in early December. Though weak in wind terms, it brought days of extreme rain to Sri Lanka, affecting all 25 districts with floods and causing deadly landslides in the central highlands, above all in Kandy, Nuwara Eliya and Badulla. It was Sri Lanka's deadliest natural disaster since the 2004 tsunami.
+  fr: >-
+    Le cyclone Ditwah s’est formé au large de la côte sud-est du Sri Lanka le 26 novembre 2025 a frappé la côte est de l’île le 28 novembre et l’a traversée, avant de remonter le long de la côte du Tamil Nadu, en Inde, et de s’affaiblir début décembre. Faible par ses vents, il a apporté des jours de pluies extrêmes au Sri Lanka, touchant les 25 districts par des inondations et provoquant des glissements de terrain meurtriers sur les hauts plateaux du centre, surtout à Kandy, Nuwara Eliya et Badulla. Ce fut la pire catastrophe naturelle au Sri Lanka depuis le tsunami de 2004.
+categories: [natural-disaster]
+kind: event
+start: "2025-11-26"
+end: "2025-12-04"
+deaths:
+  best: 647
+  note:
+    en: >-
+      Best is Wikipedia's total: 644 deaths in Sri Lanka, per the Disaster Management Centre in mid-December 2025, with 183 people then missing, and 3 in Tamil Nadu, India. Sri Lanka's post-disaster needs assessment, cited by the UN in 2026, gives 646 deaths and 173 missing as of 19 January 2026; a UNICEF report of April 2026 mentioned 687 deaths and 147 missing. Missing people are not counted.
+    fr: >-
+      L’estimation centrale est le total de Wikipédia : 644 morts au Sri Lanka selon le Centre de gestion des catastrophes mi-décembre 2025, avec alors 183 disparus, et 3 au Tamil Nadu, en Inde. L’évaluation post-catastrophe du Sri Lanka, citée par l’ONU en 2026, donne 646 morts et 173 disparus au 19 janvier 2026 ; un rapport de l’UNICEF d’avril 2026 mentionnait 687 morts et 147 disparus. Les disparus ne sont pas comptés.
+countries:
+  - { code: LK, deaths: 644 }
+  - { code: IN, deaths: 3 }
+sources:
+  - title: Cyclone Ditwah
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Cyclone_Ditwah
+    accessed: "2026-10-22"
+  - title: Death toll due to Cyclone Ditwah continues to rise
+    publisher: Ada Derana
+    url: https://www.adaderana.lk/news/115985
+    accessed: "2026-10-22"
+  - title: "Sri Lanka Humanitarian Situation Report No. 13 (Cyclone Ditwah), 11 June 2026"
+    publisher: UNICEF
+    url: https://www.unicef.org/media/181241/file/Sri-Lanka-Humanitarian-Situation-Report-No.13(Cyclone-Ditwah),11-June-2026.pdf.pdf
+    accessed: "2026-10-22"
+  - title: "Sri Lanka Humanitarian Situation Report No. 12 (Cyclone Ditwah), 29 April 2026"
+    publisher: UNICEF
+    url: https://www.unicef.org/media/180461/file/Sri-Lanka-Humanitarian-Situation-Report-No.12(Cyclone-DITWAH),29-April-2026.pdf.pdf
+    accessed: "2026-10-22"
+reviewed: false

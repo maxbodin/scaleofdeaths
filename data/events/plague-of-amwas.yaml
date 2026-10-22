@@ -1,0 +1,39 @@
+id: plague-of-amwas
+title:
+  en: Plague of Amwas
+  fr: Peste d’Amwas
+description:
+  en: >-
+    Bubonic plague epidemic that struck Syria and Palestine in 638-639, during the first plague pandemic and the final stage of the Muslim conquest of the Levant. Named after Amwas (Emmaus Nicopolis), the main camp of the Arab army, it killed most of the army's high command, including Abu Ubayda ibn al-Jarrah, and spread to Iraq and Egypt. The deaths of the commanders opened the way for Mu'awiya, later founder of the Umayyad Caliphate.
+  fr: >-
+    Épidémie de peste bubonique qui frappa la Syrie et la Palestine en 638-639, pendant la première pandémie de peste et à la fin de la conquête musulmane du Levant. Nommée d’après Amwas (Emmaüs Nicopolis), principal camp de l’armée arabe, elle emporta la plupart de ses chefs, dont Abou Ubayda ibn al-Jarrah, et gagna l’Irak et l’Égypte. La mort de ces commandants ouvrit la voie à Muawiya, futur fondateur du califat omeyyade.
+categories: [epidemic]
+kind: event
+start: "0638"
+end: "0639"
+deaths:
+  best: 25000
+  low: 20000
+  high: 25000
+  note:
+    en: Muslim soldiers and their families, as reported by early Islamic chroniclers. Best is the "about 25,000" cited by historian Michael Dols (Fordham Medieval Sourcebook); Wikipedia gives 20,000 to 25,000. Deaths among the local Christian population and in Iraq and Egypt were not counted by the sources and are not included.
+    fr: Soldats musulmans et leurs familles, selon les chroniqueurs musulmans des premiers siècles. L’estimation retenue est celle d’« environ 25 000 » citée par l’historien Michael Dols (Fordham Medieval Sourcebook) ; Wikipédia donne 20 000 à 25 000. Les morts parmi la population chrétienne locale et en Irak et en Égypte, non chiffrées par les sources, ne sont pas incluses.
+countries:
+  - { code: SY }
+  - { code: IL }
+  - { code: PS }
+  - { code: JO }
+  - { code: LB }
+  - { code: IQ }
+  - { code: EG }
+related: [plague-of-justinian]
+sources:
+  - title: Plague of Amwas
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Plague_of_Amwas
+    accessed: "2026-10-22"
+  - title: "The Plague of 'Amwas 638 or 639 CE (from Michael Dols, The Black Death in the Middle East)"
+    publisher: Internet Medieval Sourcebook, Fordham University
+    url: https://sourcebooks.fordham.edu/source/dols-plagueofamwas.asp
+    accessed: "2026-10-22"
+reviewed: false

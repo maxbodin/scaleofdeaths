@@ -1,0 +1,49 @@
+id: seven-years-war
+title:
+  en: Seven Years' War
+  fr: Guerre de Sept Ans
+description:
+  en: >-
+    Global conflict between Britain, Prussia and their allies and a coalition of France, Austria, Russia, Sweden and later Spain. In Europe, Frederick II of Prussia fought to keep Silesia against Austria and its allies; overseas, Britain and France fought for colonies and trade in North America, the Caribbean, West Africa and India. Disease killed more soldiers than battle. The treaties of Paris and Hubertusburg in 1763 left Britain the leading colonial power and confirmed Prussia's hold on Silesia.
+  fr: >-
+    Conflit mondial opposant la Grande-Bretagne, la Prusse et leurs alliés à une coalition de la France, de l’Autriche, de la Russie, de la Suède puis de l’Espagne. En Europe, Frédéric II de Prusse lutte pour conserver la Silésie face à l’Autriche et à ses alliés ; outre-mer, Britanniques et Français se disputent colonies et commerce en Amérique du Nord, aux Antilles, en Afrique de l’Ouest et en Inde. Les maladies tuent plus de soldats que les combats. Les traités de Paris et d’Hubertusburg, en 1763, font de la Grande-Bretagne la première puissance coloniale et confirment la Silésie à la Prusse.
+categories: [war]
+kind: event
+start: "1756-05-17"
+end: "1763-02-15"
+deaths:
+  best: 1300000
+  low: 1000000
+  high: 1500000
+  note:
+    en: "Military and civilian deaths. Range: 1 to 1.5 million (Danley and Speelman, via Wikipedia's list of wars by death toll). Best: 1.3 million, Matthew White's median of published estimates, about 600,000 military and 700,000 civilian deaths (Necrometrics). Per-country figures are military deaths by army (Danley and Speelman, and Peter Wilson for Spain, via Wikipedia): the British figure includes allied German contingents such as Hanover and Hesse-Kassel, the Habsburg figure includes 25,000 from other Imperial states, and Spain lost at least 29,000. Civilian deaths by country are not known."
+    fr: "Morts militaires et civiles. Fourchette : 1 à 1,5 million (Danley et Speelman, via la liste des guerres par nombre de morts de Wikipédia). Estimation centrale : 1,3 million, médiane des estimations publiées selon Matthew White, soit environ 600 000 morts militaires et 700 000 morts civiles (Necrometrics). Les chiffres par pays sont les morts militaires par armée (Danley et Speelman, et Peter Wilson pour l’Espagne, via Wikipédia) : le chiffre britannique inclut les contingents allemands alliés comme ceux du Hanovre et de la Hesse-Cassel, celui des Habsbourg inclut 25 000 morts d’autres États de l’Empire, et l’Espagne a perdu au moins 29 000 hommes. Les morts civiles par pays ne sont pas connues."
+countries:
+  - { code: FR, deaths: 200000 }
+  - { name: { en: Kingdom of Prussia, fr: Royaume de Prusse }, deaths: 180000 }
+  - { name: { en: Habsburg monarchy, fr: Monarchie des Habsbourg }, deaths: 165000 }
+  - { code: GB, deaths: 160000 }
+  - { name: { en: Russian Empire, fr: Empire russe }, deaths: 120000 }
+  - { code: ES, deaths: 29000 }
+  - { code: SE, deaths: 28000 }
+  - { code: DE }
+  - { code: CZ }
+  - { code: PL }
+  - { code: CA }
+  - { code: US }
+  - { code: IN }
+related: [american-revolutionary-war, war-of-the-austrian-succession]
+sources:
+  - title: Seven Years' War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Seven_Years%27_War
+    accessed: "2026-10-22"
+  - title: List of wars by death toll
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_wars_by_death_toll
+    accessed: "2026-10-22"
+  - title: Statistics of Wars, Oppressions and Atrocities of the Eighteenth Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/wars18c.htm
+    accessed: "2026-10-22"
+reviewed: false

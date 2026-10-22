@@ -1,0 +1,33 @@
+id: sampoong-department-store-collapse
+title:
+  en: Sampoong Department Store collapse
+  fr: Effondrement du grand magasin Sampoong
+description:
+  en: >-
+    At about 5:52 p.m. on 29 June 1995 the south wing of the Sampoong Department Store in Seocho District, Seoul, South Korea, collapsed into its basement, trapping more than 1,500 people. Cracks had appeared for months, and alarms were raised only moments before. Investigators blamed changes to the support columns made during construction, other unsafe modifications, and the dragging of heavy air-conditioning towers across the roof. The chairman was convicted of criminal negligence. It is the deadliest peacetime disaster in South Korea's history.
+  fr: >-
+    Vers 17 h 52, le 29 juin 1995, l’aile sud du grand magasin Sampoong, dans l’arrondissement de Seocho, à Séoul (Corée du Sud), s’effondre jusque dans les sous-sols, piégeant plus de 1 500 personnes. Des fissures apparaissaient depuis des mois et l’alerte n’a été donnée qu’au dernier moment. Les enquêteurs ont mis en cause des modifications des piliers lors de la construction, d’autres transformations dangereuses et de lourdes tours de climatisation traînées sur le toit. Le président du groupe a été condamné pour négligence. C’est la pire catastrophe de temps de paix en Corée du Sud.
+categories: [accident]
+kind: event
+start: "1995-06-29"
+deaths:
+  best: 502
+  note:
+    en: Toll given by Wikipedia and The Korea Herald, with 937 injured. The BBC described it as the deadliest structural failure of modern times, excluding the 11 September attacks, until the Rana Plaza collapse in 2013.
+    fr: Bilan donné par Wikipédia et The Korea Herald, avec 937 blessés. La BBC le décrivait comme l’effondrement accidentel le plus meurtrier de l’époque moderne, hors attentats du 11 septembre, jusqu’à celui du Rana Plaza en 2013.
+countries:
+  - { code: KR, deaths: 502 }
+sources:
+  - title: Sampoong Department Store collapse
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Sampoong_Department_Store_collapse
+    accessed: "2026-10-22"
+  - title: 1995 collapse of Sampoong Department Store still holds the title of the biggest 'peacetime' death toll in S. Korea
+    publisher: The Korea Herald
+    url: https://www.koreaherald.com/article/3188019
+    accessed: "2026-10-22"
+  - title: Bangladesh building collapse death toll passes 700
+    publisher: BBC News
+    url: https://www.bbc.co.uk/news/world-asia-22431151
+    accessed: "2026-10-22"
+reviewed: false

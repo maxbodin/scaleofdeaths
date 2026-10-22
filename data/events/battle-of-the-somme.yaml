@@ -1,0 +1,38 @@
+id: battle-of-the-somme
+title:
+  en: Battle of the Somme
+  fr: Bataille de la Somme
+description:
+  en: >-
+    Anglo-French offensive against the German army on both sides of the River Somme in northern France, intended in part to relieve the French at Verdun. After a week-long bombardment, the first day, 1 July 1916, became the bloodiest in British military history, with about 19,000 British soldiers killed. The battle turned into a war of attrition and, after 141 days, the Allies had advanced only about 10 kilometres. Tanks were used for the first time.
+  fr: >-
+    Offensive franco-britannique contre l’armée allemande sur les deux rives de la Somme, dans le nord de la France, destinée notamment à soulager les Français à Verdun. Après une semaine de bombardements, le premier jour, le 1er juillet 1916, est le plus meurtrier de l’histoire militaire britannique, avec environ 19 000 soldats britanniques tués. La bataille devient une guerre d’usure et, au bout de 141 jours, les Alliés n’ont avancé que d’une dizaine de kilomètres. Les chars y sont utilisés pour la première fois.
+categories: [war]
+kind: event
+start: "1916-07-01"
+end: "1916-11-18"
+deaths:
+  best: 300000
+  high: 306000
+  note:
+    en: Soldiers killed (including missing presumed dead), not counting the wounded; total casualties exceeded one million. Best is Martin Gilbert's "300,000+" killed (95,675 British and dominion, just over 50,000 French, 160,000+ German), as compiled by Necrometrics, whose own estimate (306,000) is used as high. Wikipedia's casualty table gives similar killed-and-missing figures (95,675 Commonwealth, 50,729 French, 164,055 German). The British and dominion figure is listed under the United Kingdom.
+    fr: Soldats tués (y compris les disparus présumés morts), sans les blessés ; les pertes totales ont dépassé un million. L’estimation centrale reprend les « plus de 300 000 » tués de Martin Gilbert (95 675 Britanniques et soldats des dominions, un peu plus de 50 000 Français, plus de 160 000 Allemands), compilés par Necrometrics, dont la propre estimation (306 000) sert de borne haute. Le tableau de Wikipédia donne des tués et disparus comparables (95 675 pour le Commonwealth, 50 729 Français, 164 055 Allemands). Le chiffre britannique et des dominions figure sous le Royaume-Uni.
+countries:
+  - { code: DE, deaths: 160000 }
+  - { code: GB, deaths: 95675 }
+  - { code: FR, deaths: 50000 }
+partOf: first-world-war
+sources:
+  - title: Battle of the Somme
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Battle_of_the_Somme
+    accessed: "2026-10-22"
+  - title: "Bloodiest Battles of the 20th Century: Somme (1916)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/battles.htm
+    accessed: "2026-10-22"
+  - title: "Battle of the Somme in numbers: Key facts as the battle marks its centenary"
+    publisher: The Independent
+    url: https://www.independent.co.uk/news/uk/home-news/battle-of-the-somme-facts-numbers-centenary-100-years-casualties-dead-number-britain-uk-germany-france-a7109096.html
+    accessed: "2026-10-22"
+reviewed: false

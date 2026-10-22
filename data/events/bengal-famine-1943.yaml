@@ -1,0 +1,34 @@
+id: bengal-famine-1943
+title:
+  en: Bengal famine of 1943
+  fr: Famine du Bengale de 1943
+description:
+  en: >-
+    Famine in the Bengal Province of British India, today Bangladesh and the Indian state of West Bengal, during the Second World War. Wartime inflation, the loss of rice imports after the Japanese occupation of Burma, British "denial policies" that removed rice and boats from eastern and coastal Bengal, trade barriers between provinces, limited relief and imports, a cyclone and a rice crop disease pushed food beyond the reach of the rural poor. Most victims died of starvation, malaria and other diseases aggravated by malnutrition and displacement.
+  fr: >-
+    Famine de la Seconde Guerre mondiale dans la province du Bengale, en Inde britannique (aujourd’hui le Bangladesh et l’État indien du Bengale-Occidental). L’inflation de guerre, la perte des importations de riz après l’occupation japonaise de la Birmanie, la « politique de déni » britannique qui retire riz et bateaux de l’est et du littoral du Bengale, les barrières commerciales entre provinces, des secours et importations limités, un cyclone et une maladie du riz mettent la nourriture hors de portée des ruraux pauvres. La plupart des victimes meurent de faim, de paludisme et d’autres maladies.
+categories: [famine]
+kind: event
+partOf: second-world-war
+start: "1943"
+end: "1944"
+deaths:
+  best: 2100000
+  low: 800000
+  high: 3800000
+  note:
+    en: Famine-related excess deaths in Bengal; Orissa is not included. Best is the 2.1 million that Cormac Ó Gráda calls the scholarly consensus, from Tim Dyson and Arup Maharatna's recalculation based on monthly demographic data. Low and high are the full range of published estimates (0.8 to 3.8 million). The government's Famine Inquiry Commission estimated about 1.5 million deaths from January 1943 to June 1944; Amartya Sen's widely quoted figure is 3 million (2.7 to 3 million for 1943-1946), and Stephen Devereux's survey of 20th-century famines gives 2.1 to 3 million. These deaths are counted in the Second World War total for India (British India). No source splits the toll between present-day Bangladesh and India.
+    fr: Surmortalité liée à la famine au Bengale ; l’Orissa n’est pas compté. L’estimation centrale est celle de 2,1 millions que Cormac Ó Gráda présente comme le consensus des chercheurs, issue du recalcul de Tim Dyson et Arup Maharatna à partir de données démographiques mensuelles. La fourchette couvre l’ensemble des estimations publiées (0,8 à 3,8 millions). La commission d’enquête du gouvernement (Famine Inquiry Commission) estimait environ 1,5 million de morts de janvier 1943 à juin 1944 ; le chiffre souvent cité d’Amartya Sen est de 3 millions (2,7 à 3 millions pour 1943-1946), et l’étude de Stephen Devereux sur les famines du XXe siècle donne 2,1 à 3 millions. Ces morts sont comptés dans le bilan de la Seconde Guerre mondiale pour l’Inde (Inde britannique). Aucune source ne répartit le bilan entre le Bangladesh et l’Inde actuels.
+countries:
+  - { code: BD }
+  - { code: IN }
+sources:
+  - title: Bengal famine of 1943
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Bengal_famine_of_1943
+    accessed: "2026-10-22"
+  - title: "Famine in the Twentieth Century (IDS Working Paper 105, archived)"
+    publisher: Institute of Development Studies
+    url: https://web.archive.org/web/20170516151220/http://www.eldis.org/vfile/upload/1/document/0708/DOC7538.pdf
+    accessed: "2026-10-22"
+reviewed: false

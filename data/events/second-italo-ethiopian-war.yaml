@@ -1,0 +1,41 @@
+id: second-italo-ethiopian-war
+title:
+  en: Second Italo-Ethiopian War
+  fr: Seconde Guerre italo-éthiopienne
+description:
+  en: >-
+    Invasion of the Ethiopian Empire by Fascist Italy, launched from Eritrea and Italian Somaliland in October 1935 despite League of Nations sanctions. Italian forces used aircraft, artillery and poison gas, including mustard gas against soldiers and civilians, and defeated the Ethiopian armies; Addis Ababa fell in May 1936 and Emperor Haile Selassie went into exile. Ethiopia was annexed into Italian East Africa, and resistance and harsh repression continued during the occupation until 1941.
+  fr: >-
+    Invasion de l’Empire éthiopien par l’Italie fasciste, lancée depuis l’Érythrée et la Somalie italienne en octobre 1935 malgré les sanctions de la Société des Nations. Les forces italiennes emploient l’aviation, l’artillerie et les gaz de combat, dont l’ypérite contre les soldats et les civils, et battent les armées éthiopiennes ; Addis-Abeba tombe en mai 1936 et l’empereur Hailé Sélassié part en exil. L’Éthiopie est rattachée à l’Afrique orientale italienne, et la résistance et une répression sévère se poursuivent pendant l’occupation jusqu’en 1941.
+categories: [war]
+kind: event
+start: "1935-10-03"
+end: "1936-05-05"
+deaths:
+  best: 290000
+  low: 250000
+  note:
+    en: "Deaths in the 1935-1936 war; those of the occupation (1936-1941) are not included. Best: 290,000 battle deaths, Alberto Sbacchi's estimate of 275,000 Ethiopians and 15,000 on the Italian side including colonial troops (via Necrometrics); Clodfelter also accepts 275,000 Ethiopian dead. Low: 250,000, the low end of the 250,000 to 270,000 Ethiopian deaths given by Wikipedia (Traverso, Del Boca). Much lower figures exist: the Italian estimate of 70,000 Ethiopian battle deaths and the 20,000 battle deaths of the Correlates of War project. Angelo Del Boca counts 8,231 dead on the Italian side (3,731 Italians and 4,500 askaris). Ethiopia's 1946 memorandum claimed 760,300 deaths for 1935-1941, figures Del Boca considers unreliable."
+    fr: "Morts de la guerre de 1935-1936 ; celles de l’occupation (1936-1941) ne sont pas comprises. Estimation centrale : 290 000 morts au combat, estimation d’Alberto Sbacchi de 275 000 Éthiopiens et 15 000 morts côté italien, troupes coloniales comprises (via Necrometrics) ; Clodfelter retient aussi 275 000 morts éthiopiens. Bas : 250 000, bas de la fourchette de 250 000 à 270 000 morts éthiopiens donnée par Wikipédia (Traverso, Del Boca). Il existe des chiffres bien plus bas : l’estimation italienne de 70 000 Éthiopiens tués au combat et les 20 000 morts au combat du projet Correlates of War. Angelo Del Boca compte 8 231 morts côté italien (3 731 Italiens et 4 500 ascaris). Le mémorandum éthiopien de 1946 revendiquait 760 300 morts pour 1935-1941, chiffres que Del Boca juge peu fiables."
+countries:
+  - { code: ET, deaths: 275000 }
+  - {
+      code: IT,
+      name: { en: Italy (incl. colonial troops), fr: Italie (troupes coloniales comprises) },
+      deaths: 15000,
+    }
+related: [second-world-war]
+sources:
+  - title: Second Italo-Ethiopian War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Second_Italo-Ethiopian_War
+    accessed: "2026-10-22"
+  - title: Inter-State War Data, v4.0 (war 127, Conquest of Ethiopia)
+    publisher: Correlates of War Project
+    url: https://correlatesofwar.org/wp-content/uploads/Inter-StateWarData_v4.0.csv
+    accessed: "2026-10-22"
+  - title: Twentieth Century Atlas - Death Tolls and Casualty Statistics for Wars, Dictatorships and Genocides
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/20c300k.htm
+    accessed: "2026-10-22"
+reviewed: false

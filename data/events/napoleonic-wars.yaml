@@ -1,0 +1,46 @@
+id: napoleonic-wars
+title:
+  en: Napoleonic Wars
+  fr: Guerres napoléoniennes
+description:
+  en: >-
+    Series of wars between Napoleon's French Empire and its allies and shifting coalitions of European powers led by Britain, Austria, Russia and Prussia. After victories such as Austerlitz, France dominated much of the continent, but the Peninsular War in Spain and Portugal and the disastrous invasion of Russia in 1812 weakened it; Napoleon was defeated at Leipzig in 1813 and finally at Waterloo in 1815. Disease, cold and hunger killed more soldiers than combat, and civilians died in guerrilla warfare and reprisals.
+  fr: >-
+    Série de guerres entre l’Empire français de Napoléon et ses alliés et des coalitions changeantes de puissances européennes menées par le Royaume-Uni, l’Autriche, la Russie et la Prusse. Après des victoires comme Austerlitz, la France domine une grande partie du continent, mais la guerre d’Espagne et du Portugal et la désastreuse campagne de Russie de 1812 l’affaiblissent ; Napoléon est battu à Leipzig en 1813, puis définitivement à Waterloo en 1815. Maladies, froid et faim ont tué plus de soldats que les combats, et des civils sont morts dans la guérilla et les représailles.
+categories: [war]
+kind: event
+start: "1803-05-18"
+end: "1815-11-20"
+deaths:
+  best: 3500000
+  low: 2380000
+  high: 7000000
+  note:
+    en: Military and civilian deaths. Best is the total in Wikipedia's casualties article, 2.5 million military dead in Europe plus 1 million civilians (after Ellis and Esdaile, via Necrometrics). Low is Eckhardt's 2,380,000; high is historian Charles Esdaile's 5 to 7 million. Fröhlich's table, reproduced by Dumas and Vedel-Petersen (1923), gives 5,925,084 for 1801-1815. Per-country figures are military deaths only (low ends), mostly Urlanis's; the French figure includes its allies, so it may overlap with the German one.
+    fr: Morts militaires et civiles. L’estimation centrale est le total de l’article de Wikipédia sur les pertes, 2,5 millions de militaires morts en Europe et 1 million de civils (d’après Ellis et Esdaile, via Necrometrics). Le bas est le chiffre d’Eckhardt (2 380 000) ; le haut, les 5 à 7 millions de l’historien Charles Esdaile. Le tableau de Fröhlich, repris par Dumas et Vedel-Petersen (1923), donne 5 925 084 morts pour 1801-1815. Les chiffres par pays ne comptent que les militaires (bas des fourchettes), surtout d’après Urlanis ; le chiffre français inclut ses alliés et peut donc recouper le chiffre allemand.
+countries:
+  - { code: FR, deaths: 1000000 }
+  - { name: { en: Russian Empire, fr: Empire russe }, deaths: 450000 }
+  - { code: DE, deaths: 400000 }
+  - { code: GB, deaths: 311806 }
+  - { code: ES, deaths: 300000 }
+  - { name: { en: Austrian Empire, fr: Empire d’Autriche }, deaths: 200000 }
+  - { code: PT, deaths: 50000 }
+sources:
+  - title: Napoleonic Wars casualties
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Napoleonic_Wars_casualties
+    accessed: "2026-10-22"
+  - title: Napoleonic Wars
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Napoleonic_Wars
+    accessed: "2026-10-22"
+  - title: "Statistics of Wars, Oppressions and Atrocities of the Nineteenth Century: Napoleonic Wars (1803-15)"
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/wars19c.htm
+    accessed: "2026-10-22"
+  - title: "Losses of Life Caused by War (S. Dumas and K. O. Vedel-Petersen, 1923), pp. 32-34"
+    publisher: Clarendon Press (via Internet Archive)
+    url: https://archive.org/details/lossesoflifecaus00samu
+    accessed: "2026-10-22"
+reviewed: false

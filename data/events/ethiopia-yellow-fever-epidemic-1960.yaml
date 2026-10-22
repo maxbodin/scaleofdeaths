@@ -1,0 +1,32 @@
+id: ethiopia-yellow-fever-epidemic-1960
+title:
+  en: 1960-1962 Ethiopia yellow fever epidemic
+  fr: Épidémie de fièvre jaune de 1960-1962 en Éthiopie
+description:
+  en: >-
+    Yellow fever epidemic in western and southern Ethiopia, mainly around Gamo Gofa, Jinka, Kaffa and Wollega. The viral haemorrhagic disease, transmitted by Aedes mosquitoes, affected about 100,000 people, and roughly three in ten of them died; adults were slightly more often affected than children, and men more than women. A smaller outbreak followed in 1966 near Arba Minch, east of Lake Abaya, in an area the first epidemic had spared. Yellow fever was not reported again in Ethiopia until it re-emerged in South Omo in 2012-2013.
+  fr: >-
+    Épidémie de fièvre jaune dans l’ouest et le sud de l’Éthiopie, surtout autour de Gamo Gofa, Jinka, Kaffa et du Wollega. Cette fièvre hémorragique virale, transmise par les moustiques Aedes, a touché environ 100 000 personnes, dont près de trois sur dix sont mortes ; les adultes étaient un peu plus touchés que les enfants, et les hommes que les femmes. Une flambée plus petite a suivi en 1966 près d’Arba Minch, à l’est du lac Abaya, dans une zone épargnée par la première. La fièvre jaune n’a plus été signalée en Éthiopie avant sa réapparition dans le Sud-Omo en 2012-2013.
+categories: [epidemic]
+kind: event
+start: "1960"
+end: "1962"
+deaths:
+  best: 30000
+  note:
+    en: >-
+      Approximate figure: Lilay et al. (BMC Infectious Diseases, 2017) state that the 1960-1962 outbreak affected about 100,000 people and killed 30,000 (case fatality 30%), a figure also used by Wikipedia's list of epidemics. No range or detailed count was found. The 1966 outbreak (2,200 cases, 450 deaths) is not included.
+    fr: >-
+      Chiffre approximatif : Lilay et al. (BMC Infectious Diseases, 2017) indiquent que l’épidémie de 1960-1962 a touché environ 100 000 personnes et en a tué 30 000 (létalité de 30 %), chiffre repris par la liste des épidémies de Wikipédia. Aucune fourchette ni décompte détaillé n’a été trouvé. L’épidémie de 1966 (2 200 cas, 450 morts) n’est pas incluse.
+countries:
+  - { code: ET, deaths: 30000 }
+sources:
+  - title: List of epidemics and pandemics
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_epidemics_and_pandemics
+    accessed: "2026-10-22"
+  - title: "Reemergence of yellow fever in Ethiopia after 50 years, 2013: epidemiological and entomological investigations"
+    publisher: BMC Infectious Diseases (via PubMed Central)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC5432991/
+    accessed: "2026-10-22"
+reviewed: false

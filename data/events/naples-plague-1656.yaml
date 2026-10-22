@@ -1,0 +1,37 @@
+id: naples-plague-1656
+title:
+  en: Naples plague of 1656
+  fr: Peste de Naples de 1656
+description:
+  en: >-
+    Plague epidemic in the Kingdom of Naples. The plague that had struck Spain since 1647 reached Sardinia in 1652 and crossed to the city of Naples in April 1656, then spread through most of southern Italy until 1658. In the capital, 150,000 to 200,000 people died in 1656, more than half the population. The same wave struck Rome and Genoa, outside the kingdom, and severely disrupted the economy and society of the affected areas.
+  fr: >-
+    Épidémie de peste dans le royaume de Naples. La peste qui frappait l’Espagne depuis 1647 atteignit la Sardaigne en 1652, puis la ville de Naples en avril 1656, avant de gagner la majeure partie de l’Italie du Sud jusqu’en 1658. Dans la capitale, 150 000 à 200 000 personnes moururent en 1656, plus de la moitié de la population. La même vague frappa Rome et Gênes, hors du royaume, et désorganisa gravement l’économie et la société des régions touchées.
+categories: [epidemic]
+kind: event
+start: "1656"
+end: "1658"
+deaths:
+  best: 1250000
+  low: 870000
+  high: 1250000
+  note:
+    en: Deaths throughout the Kingdom of Naples, 30% to 43% of its population. Guido Alfani estimates 0.87 to 1.25 million victims (cited by Alfani and Percoco, Bocconi University); Wikipedia gives up to 1.25 million, the figure used in its list of epidemics and retained as best. Deaths in Rome (about 23,000) and Genoa (about 60,000), outside the kingdom, are not included.
+    fr: Morts dans l’ensemble du royaume de Naples, 30 à 43 % de sa population. Guido Alfani estime le nombre de victimes entre 0,87 et 1,25 million (cité par Alfani et Percoco, université Bocconi) ; Wikipédia donne jusqu’à 1,25 million, chiffre de sa liste des épidémies retenu ici. Les morts de Rome (environ 23 000) et de Gênes (environ 60 000), hors du royaume, ne sont pas inclus.
+countries:
+  - { code: IT, deaths: 1250000 }
+related: [black-death, italian-plague-1629, great-plague-of-seville]
+sources:
+  - title: Naples Plague (1656)
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Naples_Plague_(1656)
+    accessed: "2026-10-22"
+  - title: List of epidemics and pandemics
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_epidemics_and_pandemics
+    accessed: "2026-10-22"
+  - title: "Plague and long-term development: the lasting effects of the 1629-30 epidemic on the Italian cities (Alfani and Percoco, IGIER Working Paper 508)"
+    publisher: IGIER, Bocconi University
+    url: https://igier.unibocconi.eu/sites/default/files/media/publication/508.pdf
+    accessed: "2026-10-22"
+reviewed: false

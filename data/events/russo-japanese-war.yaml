@@ -1,0 +1,38 @@
+id: russo-japanese-war
+title:
+  en: Russo-Japanese War
+  fr: Guerre russo-japonaise
+description:
+  en: >-
+    War between the Russian Empire and the Empire of Japan over rival ambitions in Manchuria and Korea. Fought mainly in Manchuria and at sea, it included the long siege of Port Arthur, the Battle of Mukden and the destruction of the Russian fleet at Tsushima. Japan's victory, ended by the Treaty of Portsmouth, was the first defeat of a European great power by an Asian nation in modern times. Disease killed many soldiers, and Chinese civilians in Manchuria also suffered.
+  fr: >-
+    Guerre entre l’Empire russe et l’empire du Japon pour le contrôle de la Mandchourie et de la Corée. Menée surtout en Mandchourie et sur mer, elle comprend le long siège de Port-Arthur, la bataille de Moukden et la destruction de la flotte russe à Tsushima. La victoire japonaise, scellée par le traité de Portsmouth, est la première défaite d’une grande puissance européenne face à une nation asiatique à l’époque moderne. Les maladies ont tué de nombreux soldats, et les civils chinois de Mandchourie ont aussi souffert.
+categories: [war]
+kind: event
+start: "1904-02-08"
+end: "1905-09-05"
+deaths:
+  best: 130000
+  low: 120000
+  high: 170000
+  note:
+    en: Military deaths from all causes (killed, died of wounds and disease); civilian deaths are not counted. Wikipedia states the total for both sides is generally put at around 130,000 to 170,000, and its list of wars gives 0.12 to 0.16 million. Dumas and Vedel-Petersen (1923) give 43,300 Russian dead (official statistics; 71,453 according to Gaedke) and 80,378 to 86,100 Japanese dead. Per-country figures use the low end of each range.
+    fr: Morts militaires de toutes causes (tués, morts de blessures et de maladie) ; les morts civiles ne sont pas comptées. Wikipédia indique que le total pour les deux camps est généralement situé entre environ 130 000 et 170 000, et sa liste des guerres donne 0,12 à 0,16 million. Dumas et Vedel-Petersen (1923) donnent 43 300 morts russes (statistiques officielles ; 71 453 selon Gaedke) et 80 378 à 86 100 morts japonais. Les chiffres par pays reprennent le bas de chaque fourchette.
+countries:
+  - { code: JP, deaths: 80378 }
+  - { name: { en: Russian Empire, fr: Empire russe }, deaths: 43300 }
+  - { code: CN }
+sources:
+  - title: Russo-Japanese War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Russo-Japanese_War
+    accessed: "2026-10-22"
+  - title: List of wars by death toll
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/List_of_wars_by_death_toll
+    accessed: "2026-10-22"
+  - title: "Losses of Life Caused by War (S. Dumas and K. O. Vedel-Petersen, 1923), pp. 57-58"
+    publisher: Clarendon Press (via Internet Archive)
+    url: https://archive.org/details/lossesoflifecaus00samu
+    accessed: "2026-10-22"
+reviewed: false

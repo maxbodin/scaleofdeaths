@@ -1,0 +1,37 @@
+id: nanjing-massacre
+title:
+  en: Nanjing Massacre
+  fr: Massacre de Nankin
+description:
+  en: >-
+    Mass killing and rape of Chinese prisoners of war and civilians by the Imperial Japanese Army in and around Nanjing, then capital of the Republic of China, after the city fell on 13 December 1937 during the Second Sino-Japanese War. Over about six weeks, Japanese units summarily executed tens of thousands of captured soldiers and men suspected of being soldiers, murdered civilians, raped women and girls on a mass scale and burned about a third of the city. Atrocities in the surrounding countryside continued until March 1938.
+  fr: >-
+    Massacres et viols de masse de prisonniers de guerre et de civils chinois commis par l’Armée impériale japonaise à Nankin, alors capitale de la République de Chine, et dans ses environs, après la prise de la ville le 13 décembre 1937, pendant la guerre sino-japonaise. En six semaines environ, les unités japonaises exécutent sommairement des dizaines de milliers de soldats capturés et d’hommes soupçonnés d’en être, tuent des civils, violent en masse femmes et jeunes filles et incendient près d’un tiers de la ville. Les atrocités se poursuivent dans les campagnes voisines jusqu’en mars 1938.
+categories: [genocide, war]
+kind: event
+partOf: second-world-war
+start: "1937-12-13"
+end: "1938-01"
+deaths:
+  best: 200000
+  low: 40000
+  high: 300000
+  note:
+    en: Chinese prisoners of war and civilians killed in Nanjing and its vicinity. The toll is contested and depends on the area, period and victims counted. Best is the "over 200,000" civilians and prisoners of war murdered in the first six weeks of the occupation according to the International Military Tribunal for the Far East, whose findings many scholars accept. Newer scholarship (Tokushi Kasahara, Bob Wakabayashi) puts the toll at more than 100,000 but under 200,000 for Nanjing and six rural counties up to March 1938. Low is 40,000, the order of estimates limited to the city itself (in 1938 Miner Searle Bates counted close to 40,000 unarmed people killed within and near the walls). High is the 300,000 of the 1947 Nanjing War Crimes Tribunal, the figure endorsed by the Chinese government; estimates above 340,000 cover the whole Shanghai-Nanjing region, and the lowest revisionist counts of about 10,000 are not used. The event predates the September 1939 start of the war in Europe but belongs to the Second Sino-Japanese War, whose deaths are counted in China's Second World War toll.
+    fr: Prisonniers de guerre et civils chinois tués à Nankin et dans ses environs. Le bilan est contesté et dépend de la zone, de la période et des victimes prises en compte. L’estimation centrale est celle du Tribunal militaire international pour l’Extrême-Orient, selon lequel « plus de 200 000 » civils et prisonniers de guerre ont été assassinés pendant les six premières semaines de l’occupation ; de nombreux historiens acceptent ses conclusions. Des travaux plus récents (Tokushi Kasahara, Bob Wakabayashi) situent le bilan entre plus de 100 000 et moins de 200 000 pour Nankin et six districts ruraux jusqu’en mars 1938. Le bas de la fourchette, 40 000, correspond aux estimations limitées à la ville elle-même (en 1938, Miner Searle Bates comptait près de 40 000 personnes désarmées tuées dans les murs et aux abords). Le haut est le chiffre de 300 000 du tribunal des crimes de guerre de Nankin de 1947, adopté officiellement par la Chine ; les estimations de plus de 340 000 couvrent toute la région de Shanghai à Nankin, et les chiffres révisionnistes les plus bas, autour de 10 000, ne sont pas retenus. L’événement précède le début de la guerre en Europe en septembre 1939 mais appartient à la guerre sino-japonaise, dont les morts sont comptés dans le bilan chinois de la Seconde Guerre mondiale.
+countries:
+  - { code: CN, deaths: 200000 }
+sources:
+  - title: Nanjing Massacre
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Nanjing_Massacre
+    accessed: "2026-10-22"
+  - title: Death toll of the Nanjing Massacre
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Death_toll_of_the_Nanjing_Massacre
+    accessed: "2026-10-22"
+  - title: "Judgment of the International Military Tribunal for the Far East, Chapter VIII: Conventional War Crimes (Atrocities)"
+    publisher: HyperWar Foundation
+    url: https://www.ibiblio.org/hyperwar/PTO/IMTFE/IMTFE-8.html
+    accessed: "2026-10-22"
+reviewed: false

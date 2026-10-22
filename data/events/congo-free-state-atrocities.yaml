@@ -1,0 +1,32 @@
+id: congo-free-state-atrocities
+title:
+  en: Atrocities in the Congo Free State
+  fr: Atrocités dans l’État indépendant du Congo
+description:
+  en: >-
+    Abuses committed in the Congo Free State, the territory of today's Democratic Republic of the Congo ruled personally by King Leopold II of Belgium, mainly to force the population to collect wild rubber. Villagers who missed quotas faced killings, hostage-taking, flogging and mutilation by the Force Publique and company militias. Combined with epidemics such as sleeping sickness and smallpox, famine, displacement and falling birth rates, they caused a sharp population decline. International outcry led Belgium to annex the territory in 1908.
+  fr: >-
+    Exactions commises dans l’État indépendant du Congo (actuelle RDC), possession personnelle du roi des Belges Léopold II, surtout pour forcer la population à récolter le caoutchouc sauvage. Les villageois qui ne remplissaient pas les quotas subissaient meurtres, prises d’otages, fouet et mutilations de la part de la Force publique et des milices des compagnies. Avec les épidémies (maladie du sommeil, variole), la famine, les déplacements et la baisse des naissances, elles causèrent un fort déclin démographique. Le scandale international conduisit la Belgique à annexer le territoire en 1908.
+categories: [genocide]
+kind: event
+start: "1885"
+end: "1908"
+deaths:
+  best: 5000000
+  low: 1000000
+  high: 10000000
+  note:
+    en: Very uncertain. No census exists before 1924, so estimates measure the population decline (deaths from violence, famine and disease, plus fewer births) rather than counted deaths, and disease killed far more people than violence. Best is the figure of at least five million deaths given by Peter Forbath, which is also the lower bound of historian Isidore Ndaywel è Nziem's 5 to 10 million and the upper bound of demographer Jean-Paul Sanderson's 1 to 5 million (Sanderson considers the lower end most plausible). Low is Sanderson's 1 million; high is the 10 million used by Adam Hochschild and cited by the BBC.
+    fr: Très incertain. Faute de recensement avant 1924, les estimations mesurent le déclin de la population (morts dues aux violences, à la famine et aux maladies, et baisse des naissances) plutôt que des décès comptés, et les maladies tuèrent bien plus que les violences. L’estimation centrale est le chiffre d’au moins cinq millions de morts avancé par Peter Forbath, qui est aussi la borne basse des 5 à 10 millions de l’historien Isidore Ndaywel è Nziem et la borne haute des 1 à 5 millions du démographe Jean-Paul Sanderson (qui juge la borne basse la plus plausible). La valeur basse est le million de Sanderson ; la valeur haute est le chiffre de 10 millions retenu par Adam Hochschild et cité par la BBC.
+countries:
+  - { code: CD, deaths: 5000000 }
+sources:
+  - title: Atrocities in the Congo Free State
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Atrocities_in_the_Congo_Free_State
+    accessed: "2026-10-22"
+  - title: "Leopold II: Belgium 'wakes up' to its bloody colonial past"
+    publisher: BBC News
+    url: https://www.bbc.com/news/world-europe-53017188
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,33 @@
+id: us-polio-epidemic-1916
+title:
+  en: 1916 United States polio epidemic
+  fr: Épidémie de poliomyélite de 1916 aux États-Unis
+description:
+  en: >-
+    Polio epidemic in the United States, centred on New York City, where an epidemic was officially announced in Brooklyn on 17 June 1916. Cases peaked in early August and declined until November. Most victims were young children: in New York, 83% of those who died were under five. With no vaccine and the cause poorly understood, authorities quarantined patients and their families, placarded their homes, closed cinemas, kept children away from public places and disinfected affected areas; thousands of residents fled the city, and neighbouring towns barred New Yorkers.
+  fr: >-
+    Épidémie de poliomyélite aux États-Unis, centrée sur New York, où l’épidémie a été officiellement annoncée à Brooklyn le 17 juin 1916. Les cas ont culminé début août puis décliné jusqu’en novembre. Les victimes étaient surtout de jeunes enfants : à New York, 83 % des morts avaient moins de cinq ans. Sans vaccin et sans connaître la cause, les autorités ont mis en quarantaine malades et familles, signalé leurs logements par des affiches, fermé les cinémas, tenu les enfants à l’écart des lieux publics et désinfecté les lieux touchés ; des milliers d’habitants ont fui la ville.
+categories: [epidemic]
+kind: event
+start: "1916-06"
+end: "1916-11"
+deaths:
+  best: 7130
+  low: 6000
+  note:
+    en: >-
+      Reported deaths from paralytic polio in the United States in 1916. Best is the 7,130 deaths among 27,363 reported cases in Our World in Data's series of US polio statistics; Wikipedia gives more than 6,000 deaths among more than 27,000 cases (used as low), including over 2,000 in New York City. The yearly figure also includes the few hundred polio deaths of an ordinary year (691 in 1915).
+    fr: >-
+      Décès déclarés de poliomyélite paralytique aux États-Unis en 1916. L’estimation retenue est celle de 7 130 morts sur 27 363 cas déclarés dans la série de statistiques américaines d’Our World in Data ; Wikipédia donne plus de 6 000 morts sur plus de 27 000 cas (bas de la fourchette), dont plus de 2 000 à New York. Le chiffre annuel inclut aussi les quelques centaines de morts d’une année ordinaire (691 en 1915).
+countries:
+  - { code: US, deaths: 7130 }
+sources:
+  - title: 1916 New York City polio epidemic
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/1916_New_York_City_polio_epidemic
+    accessed: "2026-10-22"
+  - title: Reported polio cases and deaths, United States, since 1910
+    publisher: Our World in Data
+    url: https://ourworldindata.org/grapher/reported-paralytic-polio-cases-and-deaths-in-the-united-states-since-1910
+    accessed: "2026-10-22"
+reviewed: false

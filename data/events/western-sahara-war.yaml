@@ -1,0 +1,36 @@
+id: western-sahara-war
+title:
+  en: Western Sahara War
+  fr: Guerre du Sahara occidental
+description:
+  en: >-
+    War over the former Spanish Sahara between the Polisario Front, the Sahrawi independence movement backed by Algeria, and Morocco and Mauritania, which divided the territory when Spain withdrew in 1975 after Morocco's Green March. Tens of thousands of Sahrawis fled, many to refugee camps in Algeria. Mauritania made peace with the Polisario in 1979, while Morocco held most of the territory and built long fortified sand walls in the 1980s. A UN-brokered ceasefire took effect in September 1991; the referendum on self-determination it foresaw has never been held.
+  fr: >-
+    Guerre pour l’ancien Sahara espagnol entre le Front Polisario, mouvement indépendantiste sahraoui soutenu par l’Algérie, et le Maroc et la Mauritanie, qui se partagent le territoire au départ de l’Espagne en 1975, après la Marche verte marocaine. Des dizaines de milliers de Sahraouis fuient vers des camps en Algérie. La Mauritanie signe la paix en 1979 ; le Maroc, qui tient l’essentiel du territoire, y bâtit de longs murs de sable fortifiés dans les années 1980. Un cessez-le-feu négocié par l’ONU entre en vigueur en septembre 1991 ; le référendum d’autodétermination prévu n’a jamais eu lieu.
+categories: [war]
+kind: event
+start: "1975-10-31"
+end: "1991-09-06"
+deaths:
+  best: 16000
+  low: 10000
+  high: 20000
+  note:
+    en: Military and civilian deaths. Best is the 16,000 total deaths of the Correlates of War dataset (1975-1983) and of Eckhardt (1975-1987, of which 3,000 civilians), both reported in the PRIO Battle Deaths documentation, which considers 10,000 to 16,000 the consistent range of most sources and uses 13,000 as its battle-death estimate. The range is the 10,000 to 20,000 deaths given on Wikipedia. Per-country figures are the Correlates of War military deaths (Morocco 9,500, Mauritania 2,000, Algeria 500), the "more than 3,000" Sahrawi civilians killed (Eckhardt, via Wikipedia) and 3 West German pilots; Polisario losses are unknown.
+    fr: Morts militaires et civiles. L’estimation centrale correspond au total de 16 000 morts du jeu de données Correlates of War (1975-1983) et d’Eckhardt (1975-1987, dont 3 000 civils), tous deux cités par la documentation du PRIO sur les morts au combat, qui juge la fourchette de 10 000 à 16 000 cohérente avec la plupart des sources et retient 13 000 morts au combat. La fourchette est celle de 10 000 à 20 000 morts indiquée par Wikipédia. Les chiffres par pays sont les morts militaires selon Correlates of War (Maroc 9 500, Mauritanie 2 000, Algérie 500), les « plus de 3 000 » civils sahraouis tués (Eckhardt, via Wikipédia) et 3 pilotes ouest-allemands ; les pertes du Polisario sont inconnues.
+countries:
+  - { code: MA, deaths: 9500 }
+  - { code: EH, deaths: 3000 }
+  - { code: MR, deaths: 2000 }
+  - { code: DZ, deaths: 500 }
+  - { code: DE, deaths: 3 }
+sources:
+  - title: Western Sahara War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Western_Sahara_War
+    accessed: "2026-10-22"
+  - title: "The PRIO Battle Deaths Dataset, 1946-2008, Version 3.0: Documentation of Coding Decisions (Lacina), Morocco and Mauritania"
+    publisher: Peace Research Institute Oslo (PRIO)
+    url: https://cdn.cloud.prio.org/files/91648bba-8885-40ce-8a78-fae75c850c55/PRIO%20Battle%20Deaths%20Dataset%2030%20Documentation.pdf
+    accessed: "2026-10-22"
+reviewed: false

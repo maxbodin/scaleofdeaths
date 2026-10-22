@@ -1,0 +1,35 @@
+id: rhodesian-bush-war
+title:
+  en: Rhodesian Bush War
+  fr: Guerre du Bush de Rhodésie
+description:
+  en: >-
+    Guerrilla war against the white-minority government of Rhodesia, which had declared independence from Britain unilaterally in 1965, fought by the armed wings of the two main African nationalist movements, ZANU's ZANLA and ZAPU's ZIPRA. After sporadic fighting in the 1960s, the war escalated from December 1972. Rhodesian forces also raided guerrilla camps in Mozambique and Zambia, and land mines and attacks killed many civilians. The Lancaster House Agreement of December 1979 ended the war, and elections in 1980 led to the independence of Zimbabwe.
+  fr: >-
+    Guérilla contre le gouvernement de la minorité blanche de Rhodésie, qui avait proclamé unilatéralement son indépendance en 1965, menée par les branches armées des deux grands mouvements nationalistes africains, la ZANLA (ZANU) et la ZIPRA (ZAPU). Après des combats sporadiques dans les années 1960, la guerre s’intensifie à partir de décembre 1972. Les forces rhodésiennes frappent aussi des camps au Mozambique et en Zambie, et mines et attaques tuent de nombreux civils. L’accord de Lancaster House de décembre 1979 met fin à la guerre, et les élections de 1980 mènent à l’indépendance du Zimbabwe.
+categories: [war]
+kind: event
+start: "1964-07-04"
+end: "1979-12-12"
+deaths:
+  best: 20000
+  low: 12000
+  high: 30000
+  note:
+    en: Military and civilian deaths, mostly from December 1972. Best is the "more than 20,000" killed according to Rhodesian government statistics (Wikipedia); for December 1972 to December 1979, Wikipedia lists 1,120 security force members, 10,050 guerrillas killed inside Rhodesia, 7,790 black civilians and 468 white civilians. Low is the 12,000 deaths of the Correlates of War dataset, Brogan and Eckhardt; high is the "more than 30,000" of Bercovitch and Jackson. The PRIO Battle Deaths dataset uses Clodfelter's 27,000 (21,000 inside Rhodesia and 6,000 in neighbouring countries) as its best estimate (all in PRIO's documentation). The per-country figure covers deaths inside Rhodesia; deaths in Mozambique and Zambia are not given separately.
+    fr: Morts militaires et civiles, surtout à partir de décembre 1972. L’estimation centrale correspond aux « plus de 20 000 » tués selon les statistiques du gouvernement rhodésien (Wikipédia) ; pour décembre 1972 à décembre 1979, Wikipédia compte 1 120 membres des forces de sécurité, 10 050 guérilleros tués en Rhodésie, 7 790 civils noirs et 468 civils blancs. Le bas correspond aux 12 000 morts du jeu de données Correlates of War, de Brogan et d’Eckhardt ; le haut aux « plus de 30 000 » de Bercovitch et Jackson. Le jeu de données PRIO sur les morts au combat retient comme meilleure estimation les 27 000 morts de Clodfelter (21 000 en Rhodésie et 6 000 dans les pays voisins) (tous cités par la documentation du PRIO). Le chiffre par pays couvre les morts en Rhodésie ; celles du Mozambique et de la Zambie ne sont pas détaillées.
+countries:
+  - { code: ZW, name: { en: Rhodesia (Zimbabwe), fr: Rhodésie (Zimbabwe) }, deaths: 20000 }
+  - { code: MZ }
+  - { code: ZM }
+related: [mozambican-civil-war]
+sources:
+  - title: Rhodesian Bush War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Rhodesian_Bush_War
+    accessed: "2026-10-22"
+  - title: "The PRIO Battle Deaths Dataset, 1946-2008, Version 3.0: Documentation of Coding Decisions (Lacina), Rhodesia (Zimbabwe)"
+    publisher: Peace Research Institute Oslo (PRIO)
+    url: https://cdn.cloud.prio.org/files/91648bba-8885-40ce-8a78-fae75c850c55/PRIO%20Battle%20Deaths%20Dataset%2030%20Documentation.pdf
+    accessed: "2026-10-22"
+reviewed: false

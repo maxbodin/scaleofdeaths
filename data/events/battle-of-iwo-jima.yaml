@@ -1,0 +1,35 @@
+id: battle-of-iwo-jima
+title:
+  en: Battle of Iwo Jima
+  fr: Bataille d’Iwo Jima
+description:
+  en: >-
+    Battle in which US Marines, supported by the Navy and Army, landed on the Japanese island of Iwo Jima and captured it, with its two airfields, from about 21,000 Japanese defenders dug into the volcanic terrain and its caves. More than five weeks of fighting included assaults on strongholds such as the Meat Grinder; only 216 Japanese were taken prisoner. It was one of the few Pacific battles in which American casualties exceeded Japanese ones, and the raising of the US flag on Mount Suribachi became an iconic image.
+  fr: >-
+    Bataille au cours de laquelle les Marines américains, appuyés par la Navy et l’Army, ont débarqué sur l’île japonaise d’Iwo Jima et l’ont prise, avec ses deux aérodromes, à environ 21 000 défenseurs japonais retranchés dans le terrain volcanique et ses grottes. Plus de cinq semaines de combats ont compris l’assaut de positions comme le « hachoir à viande » ; seuls 216 Japonais ont été faits prisonniers. Ce fut l’une des rares batailles du Pacifique où les pertes américaines ont dépassé celles des Japonais, et le lever du drapeau sur le mont Suribachi est devenu une image emblématique.
+categories: [war]
+kind: event
+start: "1945-02-19"
+end: "1945-03-26"
+deaths:
+  best: 28000
+  note:
+    en: "Military deaths on both sides. Best: about 28,000, Necrometrics' estimate of military deaths. Components: 6,821 Americans killed (Wikipedia, National WWII Museum), with Necrometrics also citing about 900 sailors, and 17,845 to 18,375 Japanese killed or missing in the main battle (Wikipedia), nearly all of the 21,000 defenders. The 19,217 American wounded are not counted."
+    fr: "Morts militaires des deux camps. Valeur centrale : environ 28 000, estimation des morts militaires de Necrometrics. Composantes : 6 821 Américains tués (Wikipédia, National WWII Museum), Necrometrics citant aussi environ 900 marins, et 17 845 à 18 375 Japonais tués ou disparus pendant la bataille principale (Wikipédia), soit presque tous les 21 000 défenseurs. Les 19 217 blessés américains ne sont pas comptés."
+countries:
+  - { code: JP, deaths: 28000 }
+partOf: second-world-war
+sources:
+  - title: Battle of Iwo Jima
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Battle_of_Iwo_Jima
+    accessed: "2026-10-22"
+  - title: "Iwo Jima and Okinawa: Death at Japan's Doorstep"
+    publisher: The National WWII Museum
+    url: https://www.nationalww2museum.org/war/articles/iwo-jima-and-okinawa-death-japans-doorstep
+    accessed: "2026-10-22"
+  - title: Bloodiest Battles of the 20th Century
+    publisher: Necrometrics (Matthew White)
+    url: https://necrometrics.com/battles.htm
+    accessed: "2026-10-22"
+reviewed: false

@@ -1,0 +1,41 @@
+id: pakistan-floods-2025
+title:
+  en: 2025 Pakistan floods
+  fr: Inondations de 2025 au Pakistan
+description:
+  en: >-
+    From late June to September 2025, heavy monsoon rains caused flash floods, landslides and river floods across Pakistan. The north-west was hit hardest: on 15 August, cloudbursts unleashed flash floods in Khyber Pakhtunkhwa that killed more than 200 people in a single day, most of them in Buner district. Later, the Ravi, Sutlej and Chenab rivers, swollen by rain upstream in India, flooded large parts of Punjab, reaching parts of Lahore and displacing millions of people.
+  fr: >-
+    De fin juin à septembre 2025, de fortes pluies de mousson ont provoqué crues soudaines, glissements de terrain et débordements de rivières dans tout le Pakistan. Le nord-ouest a été le plus touché : le 15 août, des pluies diluviennes ont déclenché au Khyber Pakhtunkhwa des crues soudaines qui ont tué plus de 200 personnes en une seule journée, surtout dans le district de Buner. Puis la Ravi, la Sutlej et la Chenab, gonflées par les pluies en amont en Inde, ont inondé une grande partie du Pendjab, jusqu’à certains quartiers de Lahore, déplaçant des millions de personnes.
+categories: [natural-disaster]
+kind: event
+start: "2025-06-26"
+end: "2025-09"
+deaths:
+  best: 1037
+  low: 1006
+  note:
+    en: >-
+      Best is the National Disaster Management Authority toll for the monsoon season since 26 June 2025, as reported in December 2025: 1,037 deaths, including more than 500 in Khyber Pakhtunkhwa and 304 in Punjab. Low is the 1,006 deaths (275 of them children) reported by UNICEF on 26 September 2025, before the last updates.
+    fr: >-
+      L’estimation centrale est le bilan de l’Autorité nationale de gestion des catastrophes pour la mousson depuis le 26 juin 2025, tel que rapporté en décembre 2025 : 1 037 morts, dont plus de 500 au Khyber Pakhtunkhwa et 304 au Pendjab. La borne basse correspond aux 1 006 morts (dont 275 enfants) rapportés par l’UNICEF le 26 septembre 2025, avant les dernières mises à jour.
+countries:
+  - { code: PK, deaths: 1037 }
+sources:
+  - title: 2025 Pakistan floods
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2025_Pakistan_floods
+    accessed: "2026-10-22"
+  - title: "Pakistan Flooding Response, Situation Report #8, December 2, 2025"
+    publisher: International Medical Corps (via ReliefWeb)
+    url: https://reliefweb.int/report/pakistan/pakistan-flooding-response-situation-report-8-december-2-2025
+    accessed: "2026-10-22"
+  - title: "Pakistan Floods, Humanitarian Situation Report No. 2, 26 September 2025"
+    publisher: UNICEF
+    url: https://www.unicef.org/media/174536/file/Pakistan-Floods-No2-26-September-2025.pdf
+    accessed: "2026-10-22"
+  - title: Over 200 killed as flash flooding devastates country's northern areas
+    publisher: Dawn
+    url: https://www.dawn.com/news/1931033
+    accessed: "2026-10-22"
+reviewed: false

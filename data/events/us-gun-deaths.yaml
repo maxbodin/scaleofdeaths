@@ -1,0 +1,37 @@
+id: us-gun-deaths
+title:
+  en: Deaths from firearms in the United States per year
+  fr: Décès par arme à feu aux États-Unis par an
+description:
+  en: >-
+    People killed by firearms in the United States in one year, from death certificate data of the Centers for Disease Control and Prevention (CDC). The count covers all intents: suicides, which are the majority and reached an all-time high, homicides, police shootings, unintentional shootings and deaths of undetermined intent. About 86% of the dead are male, and firearms have been the leading cause of death among children and teenagers aged 1 to 17 for five years in a row. Gun deaths peaked in 2021 and have declined slowly since; the 2024 fall came mainly from fewer homicides.
+  fr: >-
+    Personnes tuées par arme à feu aux États-Unis en un an, d’après les certificats de décès compilés par les Centers for Disease Control and Prevention (CDC). Le décompte couvre toutes les intentions : suicides, majoritaires et à un niveau record, homicides, tirs de police, accidents et cas d’intention indéterminée. Environ 86 % des morts sont des hommes, et les armes à feu sont la première cause de mortalité des 1-17 ans depuis cinq ans. Les décès ont culminé en 2021 et baissent lentement depuis ; la baisse de 2024 vient surtout du recul des homicides.
+categories: [annual]
+kind: endemic-total
+start: "2024"
+end: "2024"
+deaths:
+  best: 44447
+  note:
+    en: >-
+      Johns Hopkins Center for Gun Violence Solutions, analysis of final 2024 CDC mortality data: 44,447 firearm deaths in 2024, down 5% from 2023 and about 9% below the 2021 peak of 48,830. They include 27,593 suicides (also given by CDC FastStats) and 15,364 homicides, the rest being police shootings, unintentional and undetermined deaths. This is a count from death certificates, so no range is given.
+    fr: >-
+      Johns Hopkins Center for Gun Violence Solutions, analyse des données de mortalité définitives 2024 des CDC : 44 447 décès par arme à feu en 2024, 5 % de moins qu’en 2023 et environ 9 % sous le pic de 48 830 en 2021. Ils comprennent 27 593 suicides (chiffre aussi donné par les FastStats des CDC) et 15 364 homicides, le reste étant des tirs de police, des accidents et des cas indéterminés. Il s’agit d’un décompte des certificats de décès, sans fourchette.
+countries:
+  - { code: US, deaths: 44447 }
+related: [homicide-deaths]
+sources:
+  - title: Declining gun homicides, record gun suicides in 2024
+    publisher: Johns Hopkins University (Hub)
+    url: https://hub.jhu.edu/2026/07/10/declining-gun-homicides-record-gun-suicides-2024/
+    accessed: "2026-10-22"
+  - title: "FastStats: Suicide and Self-Inflicted Injury"
+    publisher: Centers for Disease Control and Prevention (NCHS)
+    url: https://www.cdc.gov/nchs/fastats/suicide.htm
+    accessed: "2026-10-22"
+  - title: "Fast Facts: Firearm Injury and Death"
+    publisher: Centers for Disease Control and Prevention
+    url: https://www.cdc.gov/firearm-violence/data-research/facts-stats/index.html
+    accessed: "2026-10-22"
+reviewed: false

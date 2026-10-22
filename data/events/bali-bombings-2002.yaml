@@ -1,0 +1,31 @@
+id: bali-bombings-2002
+title:
+  en: 2002 Bali bombings
+  fr: Attentats de Bali de 2002
+description:
+  en: >-
+    Bomb attacks on the night of 12 October 2002 in the tourist district of Kuta, on the Indonesian island of Bali. A suicide bomber set off an explosive vest inside Paddy's Pub and, twenty seconds later, a second one detonated a van bomb beside the nearby Sari Club; a smaller bomb went off near the US consulate in Denpasar. Most victims were foreign tourists, mainly Australians, and Indonesians. The attacks were attributed to the Islamist group Jemaah Islamiyah; three of its members were executed in 2008 for their role. It remains the deadliest terrorist attack in Indonesia's history.
+  fr: >-
+    Attentats à la bombe commis dans la nuit du 12 octobre 2002 dans le quartier touristique de Kuta, sur l’île indonésienne de Bali. Un kamikaze déclenche sa ceinture d’explosifs dans le Paddy’s Pub et, vingt secondes plus tard, un second fait exploser une camionnette piégée devant le Sari Club voisin ; une bombe plus petite explose près du consulat américain à Denpasar. La plupart des victimes sont des touristes étrangers, surtout australiens, et des Indonésiens. Les attentats sont attribués au groupe islamiste Jemaah Islamiyah ; trois de ses membres sont exécutés en 2008.
+categories: [genocide]
+kind: event
+start: "2002-10-12"
+deaths:
+  best: 202
+  note:
+    en: >-
+      People killed in the two Kuta blasts, including 88 Australians and 38 Indonesians (Prime Minister of Australia, Wikipedia). The Australian government counts the 202 as lives lost among the victims, while Wikipedia's infobox says the total includes two bombers, so it is unclear whether the attackers are included.
+    fr: >-
+      Personnes tuées dans les deux explosions de Kuta, dont 88 Australiens et 38 Indonésiens (Premier ministre australien, Wikipédia). Le gouvernement australien compte ces 202 morts parmi les victimes, tandis que l’infobox de Wikipédia indique que le total inclut deux poseurs de bombe ; on ne sait donc pas avec certitude si les auteurs sont comptés.
+countries:
+  - { code: ID, deaths: 202 }
+sources:
+  - title: 2002 Bali bombings
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/2002_Bali_bombings
+    accessed: "2026-10-22"
+  - title: 20th Anniversary of the 2002 Bali Bombings
+    publisher: Prime Minister of Australia
+    url: https://www.pm.gov.au/media/20th-anniversary-2002-bali-bombings
+    accessed: "2026-10-22"
+reviewed: false

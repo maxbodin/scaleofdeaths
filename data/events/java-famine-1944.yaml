@@ -1,0 +1,37 @@
+id: java-famine-1944
+title:
+  en: Java famine of 1944-1945
+  fr: Famine de Java de 1944-1945
+description:
+  en: >-
+    Famine in Java, the most populous island of the Dutch East Indies, during the Japanese occupation. Harvest shortfalls, in which weather played a large part, left too little food for the population, while between 4 and 10 million Indonesians were recruited as forced labourers (romusha) on Japanese projects in Java and beyond. The historian Gregg Huff argues that the authorities could nonetheless have largely, perhaps wholly, prevented the famine. Unlike the concurrent famine in Vietnam, it had few political repercussions.
+  fr: >-
+    Famine à Java, l’île la plus peuplée des Indes orientales néerlandaises, pendant l’occupation japonaise. Des récoltes insuffisantes, dues pour beaucoup aux conditions climatiques, ne suffisaient plus à nourrir la population, tandis que 4 à 10 millions d’Indonésiens étaient enrôlés comme travailleurs forcés (romusha) sur des chantiers japonais à Java et au-delà. Selon l’historien Gregg Huff, les autorités auraient pourtant pu en grande partie, voire totalement, éviter la famine. Contrairement à celle du Vietnam à la même époque, elle a eu peu de conséquences politiques.
+categories: [famine]
+kind: event
+start: "1944"
+end: "1945"
+deaths:
+  best: 2400000
+  high: 4000000
+  note:
+    en: "Deaths from starvation and disease. Best: 2.4 million, the World Peace Foundation estimate for famine deaths in Indonesia under Japanese occupation (dated 1942-1945 in its dataset), consistent with Huff's (2020) estimate of about 3.4 million deaths for the Java and Vietnam famines together. High: 4 million, the toll of famine and forced labour in the Dutch East Indies during the occupation according to a later United Nations report cited by Wikipedia; it also includes forced labourers who died far from Java and some 30,000 European internees."
+    fr: "Morts de faim et de maladie. Valeur centrale : 2,4 millions, estimation de la World Peace Foundation pour les morts de famine en Indonésie sous occupation japonaise (datées 1942-1945 dans sa base), cohérente avec l’estimation de Huff (2020) d’environ 3,4 millions de morts pour les famines de Java et du Vietnam réunies. Haut : 4 millions, bilan de la famine et du travail forcé aux Indes orientales néerlandaises pendant l’occupation selon un rapport ultérieur des Nations unies cité par Wikipédia ; il inclut aussi des travailleurs forcés morts loin de Java et quelque 30 000 internés européens."
+countries:
+  - { code: ID, deaths: 2400000 }
+partOf: second-world-war
+related: [vietnamese-famine-1945]
+sources:
+  - title: Japanese occupation of the Dutch East Indies
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Japanese_occupation_of_the_Dutch_East_Indies
+    accessed: "2026-10-22"
+  - title: The Great Second World War Vietnam and Java Famines (Gregg Huff)
+    publisher: Modern Asian Studies (Cambridge University Press)
+    url: https://doi.org/10.1017/S0026749X18000148
+    accessed: "2026-10-22"
+  - title: Famines and the deaths in them
+    publisher: Our World in Data (World Peace Foundation data)
+    url: https://ourworldindata.org/grapher/famines-and-the-deaths-in-them
+    accessed: "2026-10-22"
+reviewed: false

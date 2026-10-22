@@ -1,0 +1,37 @@
+id: finnish-civil-war
+title:
+  en: Finnish Civil War
+  fr: Guerre civile finlandaise
+description:
+  en: >-
+    Civil war in newly independent Finland between the Reds, led by the Social Democrats and supported by Soviet Russia, and the conservative Whites of the Senate, supported by the German Empire. The Whites under Carl Gustaf Mannerheim, helped by German troops, took Tampere and Helsinki and defeated the Reds by May 1918. Most of the dead were Reds: thousands were executed during and after the fighting, and many thousands died of hunger and disease in prison camps.
+  fr: >-
+    Guerre civile dans la Finlande nouvellement indépendante entre les Rouges, menés par les sociaux-démocrates et soutenus par la Russie soviétique, et les Blancs conservateurs du Sénat, soutenus par l’Empire allemand. Les Blancs de Carl Gustaf Mannerheim, aidés par des troupes allemandes, prennent Tampere et Helsinki et battent les Rouges en mai 1918. La plupart des morts sont des Rouges : des milliers sont exécutés pendant et après les combats, et des milliers d’autres meurent de faim et de maladie dans les camps de prisonniers.
+categories: [war]
+kind: event
+start: "1918-01-27"
+end: "1918-05-15"
+deaths:
+  best: 38000
+  low: 35000
+  high: 40000
+  note:
+    en: "All deaths related to the war, in battle, by execution (some 10,000 Reds) and in prison camps (about 12,500, including 3,000 to 4,000 from the Spanish flu, which are also part of the separate Spanish flu event). Best: about 38,000 (Wikipedia; Finnish Heritage Agency). Low: about 35,000, the figure in Wikipedia's aftermath section. High: 40,000, based on the register of named victims and reported by Yle in 2003 as 4,000 more than earlier estimates; parish records of 1919 had counted only 26,000."
+    fr: "Ensemble des morts liées à la guerre, au combat, par exécution (quelque 10 000 Rouges) et dans les camps de prisonniers (environ 12 500, dont 3 000 à 4 000 dues à la grippe espagnole, également comptées dans l’événement distinct de la grippe espagnole). Estimation centrale : environ 38 000 (Wikipédia ; Agence finlandaise du patrimoine). Bas : environ 35 000, chiffre de la section de Wikipédia sur les conséquences. Haut : 40 000, d’après le registre nominatif des victimes, chiffre rapporté par Yle en 2003 comme supérieur de 4 000 aux estimations antérieures ; les registres paroissiaux de 1919 n’en comptaient que 26 000."
+countries:
+  - { code: FI, deaths: 38000 }
+related: [russian-civil-war, spanish-flu]
+sources:
+  - title: Finnish Civil War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Finnish_Civil_War
+    accessed: "2026-10-22"
+  - title: A Finnish Tragedy
+    publisher: Finnish Heritage Agency (Museovirasto)
+    url: https://www.museovirasto.fi/en/collection-and-information-services/the_picture_collections/whats-on/articles-in-kamera-magazine-2018/a-finnish-tragedy
+    accessed: "2026-10-22"
+  - title: 40,000 Perished in Finnish Civil War
+    publisher: Yle
+    url: https://yle.fi/a/3-5145988
+    accessed: "2026-10-22"
+reviewed: false

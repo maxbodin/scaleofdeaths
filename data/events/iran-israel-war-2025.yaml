@@ -1,0 +1,43 @@
+id: iran-israel-war-2025
+title:
+  en: Twelve-Day War
+  fr: Guerre des Douze Jours
+description:
+  en: >-
+    War between Israel and Iran from 13 to 24 June 2025, also called the Iran-Israel war. It began with a surprise Israeli air campaign against Iranian nuclear and military sites that killed senior commanders and nuclear scientists, as well as civilians. Iran retaliated with about 550 ballistic missiles and some 1,000 drones against Israel, several of which hit residential areas. The United States bombed three Iranian nuclear sites on 22 June, and a ceasefire took effect on 24 June under US pressure.
+  fr: >-
+    Guerre entre Israël et l’Iran du 13 au 24 juin 2025, aussi appelée guerre Iran-Israël. Elle commence par une campagne aérienne israélienne surprise contre des sites nucléaires et militaires iraniens, qui tue des hauts gradés et des scientifiques du nucléaire ainsi que des civils. L’Iran riposte avec environ 550 missiles balistiques et un millier de drones contre Israël, dont plusieurs frappent des zones résidentielles. Les États-Unis bombardent trois sites nucléaires iraniens le 22 juin, et un cessez-le-feu entre en vigueur le 24 juin sous pression américaine.
+categories: [war]
+kind: event
+start: "2025-06-13"
+end: "2025-06-24"
+deaths:
+  best: 1062
+  high: 1190
+  note:
+    en: >-
+      Best is the Iranian government's toll of at least 1,062 people killed in Iran, including 102 women and 38 children, announced in July 2025 (Times of Israel); a few days earlier the head of Iran's Foundation of Martyrs had given 1,060 and warned it could reach 1,100 (AP). High is the count of the Washington-based group Human Rights Activists (HRANA): 1,190 killed in Iran, including 436 civilians and 435 security force members (AP). Neither figure includes deaths in Israel, where Iranian missiles killed 28 people, all but one civilians (Times of Israel); no source gives a combined total.
+    fr: >-
+      L’estimation centrale est le bilan du gouvernement iranien d’au moins 1 062 morts en Iran, dont 102 femmes et 38 enfants, annoncé en juillet 2025 (Times of Israel) ; quelques jours plus tôt, le directeur de la Fondation iranienne des martyrs avait donné 1 060 morts en prévenant que le bilan pourrait atteindre 1 100 (AP). Le haut est le décompte de l’organisation Human Rights Activists (HRANA), basée à Washington : 1 190 morts en Iran, dont 436 civils et 435 membres des forces de sécurité (AP). Aucun des deux chiffres n’inclut les morts en Israël, où les missiles iraniens ont tué 28 personnes, toutes civiles sauf une (Times of Israel) ; aucune source ne donne de total commun.
+countries:
+  - { code: IR, deaths: 1062 }
+  - { code: IL, deaths: 28 }
+related: [gaza-war, israel-hezbollah-war, iran-war-2026]
+sources:
+  - title: Twelve-Day War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Twelve-Day_War
+    accessed: "2026-10-22"
+  - title: Iran's government says at least 1,060 people were killed in the war with Israel
+    publisher: WAVY (Associated Press)
+    url: https://www.wavy.com/news/world/ap-irans-government-says-at-least-1060-people-were-killed-in-the-war-with-israel/
+    accessed: "2026-10-22"
+  - title: Iranian death toll in war with Israel reaches 1,062, Tehran says
+    publisher: The Times of Israel
+    url: https://www.timesofisrael.com/liveblog_entry/iranian-death-toll-in-war-with-israel-reaches-1062-tehran-says/
+    accessed: "2026-10-22"
+  - title: The Israel-Iran war by the numbers, after 12 days of fighting
+    publisher: The Times of Israel
+    url: https://www.timesofisrael.com/the-israel-iran-war-by-the-numbers-after-12-days-of-fighting/
+    accessed: "2026-10-22"
+reviewed: false

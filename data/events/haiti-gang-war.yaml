@@ -1,0 +1,37 @@
+id: haiti-gang-war
+title:
+  en: Haitian gang war
+  fr: Guerre des gangs en Haïti
+description:
+  en: >-
+    Armed conflict in Haiti between rival gang coalitions, the state security forces and vigilante groups, centred on Port-au-Prince, where gangs came to control most of the capital. Violence surged after the assassination of President Jovenel Moïse in July 2021 and again in 2024, when the rival G9 and G-Pèp alliances united as Viv Ansanm and attacked prisons and state institutions. Massacres, kidnappings and widespread sexual violence have displaced well over a million people, despite a Kenyan-led international mission and later the Gang Suppression Force.
+  fr: >-
+    Conflit armé en Haïti entre coalitions de gangs rivales, forces de sécurité de l’État et groupes d’autodéfense, centré sur Port-au-Prince, dont les gangs finissent par contrôler l’essentiel. La violence s’envole après l’assassinat du président Jovenel Moïse en juillet 2021, puis en 2024, quand les alliances rivales G9 et G-Pèp s’unissent dans Viv Ansanm et attaquent prisons et institutions. Massacres, enlèvements et violences sexuelles massives déplacent bien plus d’un million de personnes, malgré une mission internationale menée par le Kenya puis la Force de répression des gangs.
+categories: [war]
+kind: event
+start: "2020"
+ongoing: true
+asOf: "2026-03-31"
+deaths:
+  best: 16000
+  note:
+    en: >-
+      Best is the count of the UN human rights office: over 16,000 people killed in Haiti from January 2022 to March 2026, including over 8,200 between January 2025 and March 2026 (Global Centre for the Responsibility to Protect). It includes people killed by gangs, during security-force operations against them and by vigilante groups. Deaths in 2020-2021 are not included, and the UN figures cover only documented cases. The UN mission in Haiti (BINUH) recorded at least 1,408 more people killed from April to June 2026 (UN News). Wikipedia's infobox gives over 25,000 killed since 2020, a sum of several annual estimates.
+    fr: >-
+      L’estimation centrale est le décompte du Haut-Commissariat des Nations unies aux droits de l’homme : plus de 16 000 personnes tuées en Haïti de janvier 2022 à mars 2026, dont plus de 8 200 entre janvier 2025 et mars 2026 (Global Centre for the Responsibility to Protect). Il inclut les personnes tuées par les gangs, lors des opérations des forces de sécurité contre eux et par les groupes d’autodéfense. Les morts de 2020-2021 ne sont pas comptées, et les chiffres de l’ONU ne couvrent que les cas documentés. Le Bureau intégré des Nations unies en Haïti (BINUH) a recensé au moins 1 408 morts supplémentaires d’avril à juin 2026 (ONU Info). L’infobox de Wikipédia indique plus de 25 000 morts depuis 2020, somme de plusieurs estimations annuelles.
+countries:
+  - { code: HT, deaths: 16000 }
+sources:
+  - title: Haitian conflict
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Haitian_conflict
+    accessed: "2026-10-22"
+  - title: Haiti
+    publisher: Global Centre for the Responsibility to Protect
+    url: https://www.globalr2p.org/countries/haiti/
+    accessed: "2026-10-22"
+  - title: Haiti ramps up the fight against gangs in the capital, but violence spreads elsewhere
+    publisher: UN News
+    url: https://news.un.org/en/story/2026/08/1168203
+    accessed: "2026-10-22"
+reviewed: false
