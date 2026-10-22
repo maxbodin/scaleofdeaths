@@ -1,0 +1,30 @@
+# Display order, colour and labels for each category.
+# Colours are checked for colour-blind safety and for at least 3:1 contrast on a white background.
+- id: war
+  order: 1
+  color: "#D55E00"
+  label: { en: War & armed conflict, fr: Guerres et conflits armés }
+- id: epidemic
+  order: 2
+  color: "#009E73"
+  label: { en: Epidemic & pandemic, fr: Épidémies et pandémies }
+- id: natural-disaster
+  order: 3
+  color: "#0072B2"
+  label: { en: Natural disaster, fr: Catastrophes naturelles }
+- id: famine
+  order: 4
+  color: "#6B4E16"
+  label: { en: Famine, fr: Famines }
+- id: genocide
+  order: 5
+  color: "#4B2D5C"
+  label: { en: Genocide & political violence, fr: Génocides et violences politiques }
+- id: accident
+  order: 6
+  color: "#6E7681"
+  label: { en: Accident & technological disaster, fr: Accidents et catastrophes technologiques }
+- id: annual
+  order: 7
+  color: "#8F2D56"
+  label: { en: Annual causes of death, fr: Causes de décès annuelles }

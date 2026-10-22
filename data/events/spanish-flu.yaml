@@ -1,0 +1,44 @@
+id: spanish-flu
+title:
+  en: 1918 influenza pandemic ("Spanish flu")
+  fr: Pandémie de grippe de 1918 (« grippe espagnole »)
+description:
+  en: >-
+    An H1N1 influenza pandemic that spread worldwide in several waves at the end of the First World War, infecting about a third of the world's population. Unusually, it killed many healthy young adults.
+  fr: >-
+    Pandémie de grippe H1N1 qui s’est propagée dans le monde entier en plusieurs vagues à la fin de la Première Guerre mondiale, infectant environ un tiers de la population mondiale. Fait inhabituel, elle a tué de nombreux jeunes adultes en bonne santé.
+categories: [epidemic]
+kind: event
+start: "1918-02"
+end: "1920-04"
+deaths:
+  best: 50,000,000
+  low: 17,000,000
+  high: 100,000,000
+  note:
+    en: Estimates vary widely because many countries kept no reliable records.
+    fr: Les estimations varient fortement, faute de registres fiables dans de nombreux pays.
+countries:
+  - { code: IN, deaths: }
+  - { code: US, deaths: 675, 000 }
+  - { code: CANADA, deaths: 50,000 }
+  - { code: ID, deaths: }
+  - { code: UK, deaths: 250, 000 }
+  - { code: BRAZIL, deaths: 300, 000 }
+  - { code: GHANA, deaths: 100, 000 }
+  - { code: FR, deaths: 400, 000 }
+  - { code: RUSSIA, deaths: 450, 000 }
+  - { code: FINLAND, deaths: 20, 000 }
+  - { code: SWEDEN, deaths: 34, 000 }
+  - { code: JAPAN, deaths: 500, 000 }
+  - { code: NEW ZEALAND, deaths: 8, 900 }
+sources:
+  - title: Spanish flu
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Spanish_flu
+    accessed: "2026-10-21"
+  - title: 1918 Pandemic (H1N1 virus) (archived page)
+    publisher: Centers for Disease Control and Prevention
+    url: https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/1918-pandemic-h1n1.html
+    accessed: "2026-10-21"
+reviewed: true

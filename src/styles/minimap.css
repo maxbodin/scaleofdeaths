@@ -1,0 +1,49 @@
+.minimap {
+	position: fixed;
+	right: 16px;
+	top: calc(var(--bar-h) + 16px);
+	bottom: 16px;
+	width: 20px;
+	z-index: var(--z-minimap);
+}
+.mm-in,
+.minimap ol {
+	position: absolute;
+	inset: 0;
+}
+.mm-in {
+	cursor: pointer;
+	touch-action: none;
+}
+.minimap li {
+	position: absolute;
+	left: 0;
+	right: 0;
+	min-height: 1px;
+	background: var(--c);
+	border-radius: 1px;
+}
+.mm-in:hover li {
+	opacity: 0.85;
+}
+.mm-view {
+	position: absolute;
+	left: -4px;
+	right: -4px;
+	border: 1.5px solid var(--text);
+	border-radius: 3px;
+	pointer-events: none;
+	min-height: 4px;
+}
+@media (max-width: 899px) {
+	.minimap {
+		right: 3px;
+		width: 16px;
+		top: calc(var(--bar-h) + 8px);
+		bottom: 8px;
+	}
+	.mm-view {
+		left: -2px;
+		right: -2px;
+	}
+}

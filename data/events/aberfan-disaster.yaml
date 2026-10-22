@@ -1,0 +1,29 @@
+id: aberfan-disaster
+title:
+  en: Aberfan disaster
+  fr: Catastrophe d’Aberfan
+description:
+  en: >-
+    At about 9:15 a.m. on 21 October 1966, a colliery spoil tip of the Merthyr Vale mine, built on a mountain slope over a natural spring, slid down onto the Welsh village of Aberfan after heavy rain had saturated it. The slurry engulfed Pantglas Junior School, where pupils had just arrived for the last day before the half-term holiday, and a row of houses. The inquiry blamed the National Coal Board and nine named employees, but neither the board nor any of its staff was prosecuted. The disaster led to the Mines and Quarries (Tips) Act 1969.
+  fr: >-
+    Vers 9 h 15 le 21 octobre 1966, un terril de la mine de Merthyr Vale, édifié sur une pente au-dessus d’une source, glisse sur le village gallois d’Aberfan après avoir été gorgé d’eau par de fortes pluies. La coulée de boue engloutit l’école primaire de Pantglas, où les élèves venaient d’arriver pour le dernier jour avant les vacances, ainsi qu’une rangée de maisons. L’enquête a mis en cause le National Coal Board et neuf de ses employés, mais ni l’organisme ni son personnel n’ont été poursuivis. La catastrophe a conduit à une loi de 1969 sur les terrils.
+categories: [accident]
+kind: event
+start: "1966-10-21"
+deaths:
+  best: 144
+  note:
+    en: 116 children and 28 adults (Wikipedia, Amgueddfa Cymru - Museum Wales). According to Wikipedia, 109 of the children and five teachers were killed inside the school.
+    fr: 116 enfants et 28 adultes (Wikipédia, Amgueddfa Cymru - Musée national du pays de Galles). Selon Wikipédia, 109 des enfants et cinq enseignants ont été tués dans l’école.
+countries:
+  - { code: GB, deaths: 144 }
+sources:
+  - title: Aberfan disaster
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Aberfan_disaster
+    accessed: "2026-10-22"
+  - title: Aberfan 60
+    publisher: Amgueddfa Cymru - Museum Wales
+    url: https://museum.wales/aberfan60/
+    accessed: "2026-10-22"
+reviewed: true

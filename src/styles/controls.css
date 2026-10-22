@@ -1,0 +1,269 @@
+.bar {
+	position: sticky;
+	top: 0;
+	z-index: var(--z-bar);
+	background: var(--bg);
+	border-bottom: 1px solid var(--line);
+}
+.bar-in {
+	display: flex;
+	align-items: center;
+	gap: 16px;
+	height: calc(var(--bar-h) - 1px);
+}
+.sort {
+	flex: 0 1 auto;
+	text-overflow: ellipsis;
+}
+select,
+input,
+.btn {
+	font: inherit;
+	font-size: 0.875rem;
+	height: 36px;
+	border: 1px solid var(--line);
+	border-radius: 8px;
+	background: var(--bg);
+	color: var(--text);
+}
+/* Native selects ignore borders and shadows in some engines: draw them like the other controls. */
+select {
+	appearance: none;
+	padding: 0 32px 0 10px;
+	max-width: 100%;
+	min-width: 0;
+	background: var(--bg)
+		url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12'%3E%3Cpath d='M3 4.5l3 3 3-3' fill='none' stroke='%2316181d' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E")
+		no-repeat right 10px center;
+	cursor: pointer;
+}
+input {
+	padding: 0 10px;
+	min-width: 0;
+}
+.btn {
+	display: inline-flex;
+	align-items: center;
+	gap: 6px;
+	padding: 0 12px;
+	font-weight: 600;
+	cursor: pointer;
+	white-space: nowrap;
+}
+.btn:hover {
+	background: var(--surface);
+}
+.btn-regular {
+	font-weight: 400;
+}
+.btn-icon {
+	width: 36px;
+	justify-content: center;
+	padding: 0;
+	text-decoration: none;
+}
+.btn:disabled {
+	opacity: 0.5;
+	cursor: default;
+}
+.dice {
+	width: 16px;
+	height: 16px;
+	flex: none;
+	background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16'%3E%3Crect x='1.75' y='1.75' width='12.5' height='12.5' rx='3' fill='none' stroke='%2316181d' stroke-width='1.5'/%3E%3Cg fill='%2316181d'%3E%3Ccircle cx='5.25' cy='5.25' r='1.2'/%3E%3Ccircle cx='10.75' cy='5.25' r='1.2'/%3E%3Ccircle cx='8' cy='8' r='1.2'/%3E%3Ccircle cx='5.25' cy='10.75' r='1.2'/%3E%3Ccircle cx='10.75' cy='10.75' r='1.2'/%3E%3C/g%3E%3C/svg%3E")
+		no-repeat center;
+}
+/* Selected state, identical on every control: keyboard focus, open select, open filters panel. */
+select:focus,
+input:not([type="checkbox"]):focus-visible,
+.btn:focus-visible,
+.btn[aria-expanded="true"] {
+	outline: none;
+	border-color: var(--text);
+	box-shadow: 0 0 0 1px var(--text);
+}
+.btn-q {
+	border-color: transparent;
+}
+.bar-in .btn {
+	flex: none;
+}
+.badge {
+	min-width: 18px;
+	height: 18px;
+	padding: 0 5px;
+	border-radius: 9px;
+	background: var(--text);
+	color: var(--bg);
+	font-size: 0.6875rem;
+	line-height: 18px;
+	text-align: center;
+}
+@media (max-width: 559px) {
+	.sort {
+		flex: 1 1 0;
+	}
+	/* Narrow screens show the dice only; the label stays available to screen readers. */
+	.btn-l {
+		position: absolute;
+		width: 1px;
+		height: 1px;
+		overflow: hidden;
+		clip-path: inset(50%);
+		white-space: nowrap;
+	}
+}
+.panel {
+	position: absolute;
+	left: 0;
+	right: 0;
+	top: 100%;
+	max-height: calc(100vh - var(--bar-h));
+	overflow: auto;
+	background: var(--bg);
+	border-bottom: 1px solid var(--line);
+	box-shadow: 0 12px 24px rgb(0 0 0 / 0.08);
+}
+.panel-in {
+	display: grid;
+	gap: 20px;
+	padding: 18px 0 20px;
+}
+@media (min-width: 900px) {
+	.panel-in {
+		grid-template-columns: 1.3fr 1fr 1fr;
+	}
+	.fs-search,
+	.panel-a {
+		grid-column: 1 / -1;
+	}
+}
+.fs legend {
+	font-size: 0.8125rem;
+	font-weight: 650;
+	color: var(--muted);
+	margin-bottom: 8px;
+	padding: 0;
+}
+.chips {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 6px;
+}
+.chip {
+	display: inline-flex;
+	align-items: center;
+	gap: 6px;
+	padding: 4px 10px 4px 6px;
+	border: 1px solid var(--line);
+	border-radius: 999px;
+	font-size: 0.8125rem;
+	cursor: pointer;
+}
+.chip input {
+	width: 16px;
+	height: 16px;
+	margin: 0;
+	accent-color: var(--c);
+}
+.chip:has(input:checked) {
+	border-color: color-mix(in oklab, var(--c) 55%, #fff);
+	background: color-mix(in oklab, var(--c) 9%, #fff);
+}
+.row {
+	display: flex;
+	align-items: center;
+	gap: 6px;
+}
+.row + .row {
+	margin-top: 8px;
+}
+.row input {
+	flex: 1;
+}
+.row input[type="number"] {
+	width: 6.5em;
+	flex: none;
+}
+.row-l {
+	width: 2.6em;
+	font-size: 0.8125rem;
+	color: var(--muted);
+}
+.picked {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 6px;
+	margin-top: 8px;
+}
+.picked button {
+	font: inherit;
+	font-size: 0.8125rem;
+	padding: 3px 10px;
+	border: 1px solid var(--text);
+	border-radius: 999px;
+	background: var(--bg);
+	cursor: pointer;
+}
+.picked button::after {
+	content: "\00d7";
+	margin-left: 6px;
+}
+.panel-a {
+	display: flex;
+	gap: 8px;
+}
+.combo {
+	position: relative;
+	max-width: 480px;
+}
+.combo input {
+	width: 100%;
+	appearance: none;
+}
+.combo-l {
+	position: absolute;
+	z-index: 1;
+	top: calc(100% + 4px);
+	left: 0;
+	right: 0;
+	max-height: 232px;
+	overflow-y: auto;
+	padding: 4px;
+	background: var(--bg);
+	border: 1px solid var(--line);
+	border-radius: 8px;
+	box-shadow: 0 12px 24px rgb(0 0 0 / 0.12);
+}
+.opt {
+	display: flex;
+	align-items: baseline;
+	gap: 10px;
+	padding: 6px 8px;
+	border-radius: 6px;
+	font-size: 0.875rem;
+	cursor: pointer;
+}
+.opt:hover,
+.opt[aria-selected="true"] {
+	background: var(--surface);
+}
+.opt-t {
+	flex: 1 1 auto;
+	min-width: 0;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.opt-m {
+	flex: none;
+	color: var(--muted);
+	font-size: 0.8125rem;
+}
+.opt-none {
+	color: var(--muted);
+	cursor: default;
+}
+.opt-none:hover {
+	background: none;
+}

@@ -1,0 +1,243 @@
+.ev {
+	margin-top: 56px;
+}
+.ev-h {
+	position: sticky;
+	top: var(--bar-h);
+	z-index: var(--z-event-header);
+	background: var(--bg);
+	padding: 10px 0 8px;
+	box-shadow: 0 1px 0 var(--line);
+}
+.no-js .ev-h {
+	top: 0;
+}
+.ev-t {
+	font-size: 1.125rem;
+	line-height: 1.3;
+	font-weight: 680;
+	letter-spacing: -0.01em;
+}
+.ev-t::before {
+	content: "";
+	display: inline-block;
+	width: 0.62em;
+	height: 0.62em;
+	margin-right: 0.45em;
+	border-radius: 50%;
+	background: var(--c);
+	vertical-align: 0.06em;
+}
+.ev-m {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 2px 14px;
+	margin-top: 2px;
+	font-size: 0.9375rem;
+	color: var(--muted);
+}
+.ev-n strong {
+	color: var(--text);
+	font-weight: 650;
+}
+.ev-r {
+	font-size: 0.875rem;
+}
+.tags {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 6px;
+	margin-top: 10px;
+}
+.tag {
+	font-size: 0.75rem;
+	line-height: 1.5;
+	padding: 1px 9px;
+	border-radius: 999px;
+	border: 1px solid color-mix(in oklab, var(--c) 45%, #fff);
+	background: color-mix(in oklab, var(--c) 9%, #fff);
+}
+.tag-plain,
+.tag-draft {
+	border-color: var(--line);
+	background: var(--surface);
+}
+.tag-draft {
+	border-style: dashed;
+	color: var(--muted);
+}
+.incl {
+	margin-top: 12px;
+	font-size: 0.875rem;
+}
+.incl-h {
+	color: var(--muted);
+}
+.incl-l li {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	margin-top: 4px;
+}
+.incl-n {
+	color: var(--muted);
+}
+.sw {
+	width: 10px;
+	height: 10px;
+	border-radius: 50%;
+	background: var(--k);
+	flex: none;
+}
+.sw-none {
+	background: none;
+	border: 1px dashed var(--muted);
+}
+.ev-d {
+	margin-top: 10px;
+	font-size: 0.9375rem;
+}
+.ev-d summary {
+	cursor: pointer;
+	width: fit-content;
+	color: var(--muted);
+	font-size: 0.875rem;
+	text-decoration: underline;
+	text-underline-offset: 3px;
+}
+.ev-d summary:hover {
+	color: var(--text);
+}
+.ev-body {
+	margin-top: 10px;
+	padding: 16px;
+	background: var(--surface);
+	border-radius: 10px;
+}
+.ev-body > * + * {
+	margin-top: 12px;
+}
+.ev-body dl {
+	display: grid;
+	grid-template-columns: max-content 1fr;
+	gap: 6px 16px;
+}
+.ev-body dt {
+	color: var(--muted);
+}
+.ev-body h3 {
+	font-size: 0.9375rem;
+	font-weight: 650;
+}
+.note {
+	color: var(--muted);
+}
+.countries {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 2px 14px;
+}
+.num {
+	color: var(--muted);
+}
+.sources {
+	list-style: decimal;
+	padding-left: 1.4em;
+}
+.sources li + li {
+	margin-top: 4px;
+}
+
+/* Dot grid: geometry computed in CSS so it renders without JS and reflows on resize. */
+.gw {
+	position: relative;
+	margin-top: 14px;
+}
+.grid {
+	position: relative;
+	width: var(--w);
+	height: calc(round(up, var(--t) / var(--cols), 1) * var(--p));
+	content-visibility: auto;
+}
+/* Row and column of the dot at index --o: shared by dot runs, partial dots and milestone labels. */
+.s,
+.f,
+.milestone {
+	--row: round(down, var(--o) / var(--cols), 1);
+	--col: mod(var(--o), var(--cols));
+}
+.s,
+.f {
+	--dc: var(--k, var(--c));
+	position: absolute;
+	background:
+		radial-gradient(circle, var(--dc) 0 var(--r), #0000 calc(var(--r) + 0.6px)) 0 0 / var(--p)
+		var(--p);
+}
+.s {
+	--last: calc(var(--o) + var(--n) - 1);
+	--last-row: round(down, var(--last) / var(--cols), 1);
+	--x0: calc(var(--col) * var(--p));
+	--x1: calc((mod(var(--last), var(--cols)) + 1) * var(--p));
+	left: 0;
+	width: 100%;
+	top: calc(var(--row) * var(--p));
+	height: calc((var(--last-row) - var(--row) + 1) * var(--p));
+	clip-path: polygon(
+		var(--x0) 0,
+		100% 0,
+		100% calc(100% - var(--p)),
+		var(--x1) calc(100% - var(--p)),
+		var(--x1) 100%,
+		0 100%,
+		0 var(--p),
+		var(--x0) var(--p)
+	);
+}
+.s.u {
+	background:
+		radial-gradient(
+			circle,
+			#0000 0 calc(var(--r) - 1.1px),
+			var(--dc) calc(var(--r) - 0.9px) var(--r),
+			#0000 calc(var(--r) + 0.6px)
+		)
+		0 0 / var(--p) var(--p);
+}
+.f {
+	top: calc(var(--row) * var(--p));
+	left: calc(var(--col) * var(--p));
+	width: var(--p);
+	height: var(--p);
+	opacity: max(0.15, var(--f));
+}
+.milestones {
+	position: absolute;
+	inset: 0 auto 0 0;
+	width: 0;
+	pointer-events: none;
+}
+.milestone {
+	position: absolute;
+	top: calc((var(--row) + 0.5) * var(--p));
+	left: 0;
+	transform: translateY(-50%);
+	font-size: 0.6875rem;
+	line-height: 1;
+	padding: 3px 6px;
+	border-radius: 999px;
+	background: rgb(255 255 255 / 0.92);
+	color: var(--text);
+	box-shadow: 0 0 0 1px var(--line);
+	white-space: nowrap;
+}
+@media (min-width: 900px) {
+	.milestone {
+		left: auto;
+		right: 10px;
+		box-shadow: none;
+		background: none;
+		color: var(--muted);
+		padding: 0;
+	}
+}

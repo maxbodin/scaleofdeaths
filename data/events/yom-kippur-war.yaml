@@ -1,0 +1,40 @@
+id: yom-kippur-war
+title:
+  en: Yom Kippur War
+  fr: Guerre du Kippour
+description:
+  en: >-
+    War launched on 6 October 1973, the Jewish holy day of Yom Kippur, by Egypt and Syria in a surprise attack to recover the Sinai and the Golan Heights lost in 1967, with smaller contingents from Iraq, Jordan and other Arab states. Egyptian forces crossed the Suez Canal and Syrian forces advanced on the Golan before Israeli counter-offensives pushed back the Syrians and crossed the canal. Large tank and air battles caused heavy losses on all sides. A UN-backed ceasefire took hold on 25 October.
+  fr: >-
+    Guerre déclenchée le 6 octobre 1973, jour de la fête juive de Yom Kippour, par une attaque surprise de l’Égypte et de la Syrie visant à reprendre le Sinaï et le Golan perdus en 1967, avec des contingents de l’Irak, de la Jordanie et d’autres États arabes. Les forces égyptiennes franchissent le canal de Suez et les forces syriennes avancent sur le Golan, avant que des contre-offensives israéliennes ne repoussent les Syriens et ne franchissent le canal. De grandes batailles de chars et aériennes causent de lourdes pertes de tous côtés. Un cessez-le-feu soutenu par l’ONU s’impose le 25 octobre.
+categories: [war]
+kind: event
+start: "1973-10-06"
+end: "1973-10-25"
+deaths:
+  best: 16401
+  low: 10000
+  high: 25000
+  note:
+    en: Military deaths. Best is the total of the Correlates of War dataset (16,401, as reported in the PRIO Battle Deaths documentation), close to Dupuy's table of 16,974 killed. Low is the "more than ten thousand soldiers" of Bercovitch and Jackson and high the 25,000 deaths estimated by Brogan (both in PRIO's documentation). Wikipedia gives 8,000 to 18,500 Arab dead and 2,521 to 2,800 Israeli dead. Per-country figures are the low ends of Wikipedia's ranges (Egypt 5,000 to 15,000; Syria 3,000 to 3,500; Israel 2,521 to 2,800) and its figures for Iraq, Cuba, Jordan, Kuwait and Morocco.
+    fr: Morts militaires. L’estimation centrale est le total du jeu de données Correlates of War (16 401, d’après la documentation du PRIO sur les morts au combat), proche du tableau de Dupuy qui compte 16 974 tués. Le bas correspond aux « plus de dix mille soldats » de Bercovitch et Jackson et le haut aux 25 000 morts estimés par Brogan (tous deux cités par le PRIO). Wikipédia indique 8 000 à 18 500 morts arabes et 2 521 à 2 800 morts israéliens. Les chiffres par pays sont le bas des fourchettes de Wikipédia (Égypte 5 000 à 15 000 ; Syrie 3 000 à 3 500 ; Israël 2 521 à 2 800) et ses chiffres pour l’Irak, Cuba, la Jordanie, le Koweït et le Maroc.
+countries:
+  - { code: EG, deaths: 5000 }
+  - { code: SY, deaths: 3000 }
+  - { code: IL, deaths: 2521 }
+  - { code: IQ, deaths: 278 }
+  - { code: CU, deaths: 180 }
+  - { code: JO, deaths: 23 }
+  - { code: KW, deaths: 18 }
+  - { code: MA, deaths: 6 }
+related: [six-day-war]
+sources:
+  - title: Yom Kippur War
+    publisher: Wikipedia
+    url: https://en.wikipedia.org/wiki/Yom_Kippur_War
+    accessed: "2026-10-22"
+  - title: "The PRIO Battle Deaths Dataset, 1946-2008, Version 3.0: Documentation of Coding Decisions (Lacina), Israel and Palestine"
+    publisher: Peace Research Institute Oslo (PRIO)
+    url: https://cdn.cloud.prio.org/files/91648bba-8885-40ce-8a78-fae75c850c55/PRIO%20Battle%20Deaths%20Dataset%2030%20Documentation.pdf
+    accessed: "2026-10-22"
+reviewed: true
