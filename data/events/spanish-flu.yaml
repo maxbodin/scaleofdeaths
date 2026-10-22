@@ -1,44 +1,114 @@
 id: spanish-flu
 title:
-  en: 1918 influenza pandemic ("Spanish flu")
-  fr: Pandémie de grippe de 1918 (« grippe espagnole »)
+  en: Spanish flu (1918 influenza pandemic)
+  fr: Grippe espagnole (pandémie de grippe de 1918)
 description:
   en: >-
-    An H1N1 influenza pandemic that spread worldwide in several waves at the end of the First World War, infecting about a third of the world's population. Unusually, it killed many healthy young adults.
+    Influenza pandemic caused by an H1N1 virus that spread worldwide in successive waves from 1918 to 1920, at the end of the First World War. About 500 million people, a third of the world's population, were infected. Unusually, it killed many healthy young adults, most often through secondary bacterial pneumonia, and mortality was highest in parts of Asia and Africa and on Pacific islands. Wartime censorship let neutral Spain report it freely, hence the misleading name.
   fr: >-
-    Pandémie de grippe H1N1 qui s’est propagée dans le monde entier en plusieurs vagues à la fin de la Première Guerre mondiale, infectant environ un tiers de la population mondiale. Fait inhabituel, elle a tué de nombreux jeunes adultes en bonne santé.
+    Pandémie de grippe due à un virus H1N1, qui s’est propagée dans le monde entier par vagues successives de 1918 à 1920, à la fin de la Première Guerre mondiale. Environ 500 millions de personnes, un tiers de la population mondiale, ont été infectées. Fait inhabituel, elle a tué de nombreux jeunes adultes en bonne santé, le plus souvent par pneumonie bactérienne secondaire ; la mortalité a été la plus forte dans certaines régions d’Asie et d’Afrique et dans les îles du Pacifique. L’Espagne, neutre et sans censure de guerre, en parlait librement, d’où son nom trompeur.
 categories: [epidemic]
 kind: event
 start: "1918-02"
 end: "1920-04"
 deaths:
-  best: 50,000,000
-  low: 17,000,000
-  high: 100,000,000
+  best: 50000000
+  low: 17400000
+  high: 100000000
   note:
-    en: Estimates vary widely because many countries kept no reliable records.
-    fr: Les estimations varient fortement, faute de registres fiables dans de nombreux pays.
+    en: >-
+      Deaths from the pandemic in all waves, 1918-1920. Best is the widely cited figure of about 50 million (Johnson and Mueller 2002; the CDC says at least 50 million). Low is the 17.4 million reassessment by Spreeuwenberg et al. (2018); high is Johnson and Mueller's upper bound of 100 million, as much of the world kept no records. Per-country figures are the published death tolls compiled by Johnson and Mueller (2002), using the low end where they give a range (Ghana 88,500-100,000, China 4-9.5 million); their Ireland figure covers the whole island and their Russia figure is a rough estimate. Exceptions: United Kingdom (around 250,000, The National Archives), New Zealand (around 9,000, Summers et al. 2018) and Iran (low end of Afkhami's 902,400-2,431,000). Countries with no reliable figure are left out, so the per-country total is well below the global estimate.
+    fr: >-
+      Morts de la pandémie sur toutes ses vagues, de 1918 à 1920. L’estimation centrale est le chiffre le plus cité, environ 50 millions (Johnson et Mueller 2002 ; au moins 50 millions selon les CDC). La fourchette basse est la réévaluation à 17,4 millions de Spreeuwenberg et al. (2018) ; la haute est la borne supérieure de 100 millions de Johnson et Mueller, une grande partie du monde n’ayant pas tenu de registres. Les chiffres par pays sont les bilans publiés compilés par Johnson et Mueller (2002), avec la borne basse quand ils donnent une fourchette (Ghana 88 500 à 100 000, Chine 4 à 9,5 millions) ; leur chiffre pour l’Irlande couvre toute l’île et celui de la Russie est une estimation grossière. Exceptions : Royaume-Uni (environ 250 000, The National Archives), Nouvelle-Zélande (environ 9 000, Summers et al. 2018) et Iran (borne basse de la fourchette d’Afkhami, 902 400 à 2 431 000). Les pays sans chiffre fiable sont omis : le total par pays reste donc bien inférieur à l’estimation mondiale.
 countries:
-  - { code: IN, deaths: }
-  - { code: US, deaths: 675, 000 }
-  - { code: CANADA, deaths: 50,000 }
-  - { code: ID, deaths: }
-  - { code: UK, deaths: 250, 000 }
-  - { code: BRAZIL, deaths: 300, 000 }
-  - { code: GHANA, deaths: 100, 000 }
-  - { code: FR, deaths: 400, 000 }
-  - { code: RUSSIA, deaths: 450, 000 }
-  - { code: FINLAND, deaths: 20, 000 }
-  - { code: SWEDEN, deaths: 34, 000 }
-  - { code: JAPAN, deaths: 500, 000 }
-  - { code: NEW ZEALAND, deaths: 8, 900 }
+  - { code: IN, deaths: 18500000 }
+  - { code: CN, deaths: 4000000 }
+  - { code: ID, deaths: 1500000 }
+  - { code: IR, deaths: 902400 }
+  - { code: US, deaths: 675000 }
+  - { code: NG, deaths: 455000 }
+  - { code: RU, deaths: 450000 }
+  - { code: IT, deaths: 390000 }
+  - { code: JP, deaths: 388000 }
+  - { code: AF, deaths: 320000 }
+  - { code: CD, deaths: 300000 }
+  - { code: MX, deaths: 300000 }
+  - { code: ZA, deaths: 300000 }
+  - { code: ES, deaths: 257082 }
+  - { code: CM, deaths: 250000 }
+  - { code: GB, deaths: 250000 }
+  - { code: FR, deaths: 240000 }
+  - { code: DE, deaths: 225330 }
+  - { code: BR, deaths: 180000 }
+  - { code: KE, deaths: 150000 }
+  - { code: EG, deaths: 138600 }
+  - { code: HR, deaths: 109000 }
+  - { code: HU, deaths: 100000 }
+  - { code: PH, deaths: 93686 }
+  - { code: LK, deaths: 91600 }
+  - { code: GH, deaths: 88500 }
+  - { code: PT, deaths: 59000 }
+  - { code: CA, deaths: 50000 }
+  - { code: GT, deaths: 48600 }
+  - { code: NL, deaths: 48042 }
+  - { code: SN, deaths: 37500 }
+  - { code: CL, deaths: 35000 }
+  - { code: SE, deaths: 34374 }
+  - { code: TW, deaths: 25394 }
+  - { code: CH, deaths: 23277 }
+  - { code: AT, deaths: 20458 }
+  - { code: IE, deaths: 18367 }
+  - { code: FI, deaths: 18000 }
+  - { code: NO, deaths: 14676 }
+  - { code: AU, deaths: 14528 }
+  - { code: DK, deaths: 12374 }
+  - { code: MU, deaths: 12000 }
+  - { code: AR, deaths: 10200 }
+  - { code: FJ, deaths: 9000 }
+  - { code: NZ, deaths: 9000 }
+  - { code: WS, deaths: 8500 }
+  - { code: GM, deaths: 7800 }
+  - { code: BW, deaths: 7000 }
+  - { code: UY, deaths: 2050 }
+  - { code: GU, deaths: 858 }
+  - { code: MT, deaths: 588 }
+  - { code: IS, deaths: 484 }
+  - { code: MG }
+  - { code: SL }
+  - { code: ZW }
+  - { code: SO }
+  - { code: TD }
+  - { code: TO }
+  - { code: NR }
+related: [russian-flu-1889, asian-flu-1957, hong-kong-flu-1968, swine-flu-2009, persian-famine-1917]
 sources:
   - title: Spanish flu
     publisher: Wikipedia
     url: https://en.wikipedia.org/wiki/Spanish_flu
-    accessed: "2026-10-21"
+    accessed: "2026-10-22"
+  - title: 'Updating the Accounts: Global Mortality of the 1918-1920 "Spanish" Influenza Pandemic (Johnson and Mueller, 2002, doi:10.1353/bhm.2002.0022)'
+    publisher: Bulletin of the History of Medicine
+    url: https://jupiter.chem.uoa.gr/thanost/papers/papers8/BullHistMed_7692002)105.pdf
+    accessed: "2026-10-22"
   - title: 1918 Pandemic (H1N1 virus) (archived page)
     publisher: Centers for Disease Control and Prevention
     url: https://archive.cdc.gov/www_cdc_gov/flu/pandemic-resources/1918-pandemic-h1n1.html
-    accessed: "2026-10-21"
-reviewed: true
+    accessed: "2026-10-22"
+  - title: "The Spanish flu: the global impact of the largest influenza pandemic in history"
+    publisher: Our World in Data
+    url: https://ourworldindata.org/spanish-flu-largest-influenza-pandemic-in-history
+    accessed: "2026-10-22"
+  - title: State responses to epidemic outbreaks and pandemics
+    publisher: The National Archives (UK)
+    url: https://www.nationalarchives.gov.uk/explore-the-collection/stories/state-responses-to-epidemic-outbreaks-and-pandemics/
+    accessed: "2026-10-22"
+  - title: "New Zealand's experience of the 1918-19 influenza pandemic: a systematic review after 100 years (Summers, Baker and Wilson, 2018)"
+    publisher: New Zealand Medical Journal
+    url: https://nzmj.org.nz/media/pages/journal/vol-131-no-1487/new-zealand-s-experience-of-the-1918-19-influenza-pandemic-a-systematic-review-after-100-years/ef4958102b-1696475878/new-zealand-s-experience-of-the-1918-19-influenza-pandemic-a-systematic-review-after-100-years.pdf
+    accessed: "2026-10-22"
+  - title: 'Review of Afkhami, "Compromised Constitutions: the Iranian Experience with the 1918 Influenza Epidemic" (2003)'
+    publisher: Abstracta Iranica
+    url: https://journals.openedition.org/abstractairanica/2732
+    accessed: "2026-10-22"
+reviewed: false
+lastReviewed: "2026-10-22"
