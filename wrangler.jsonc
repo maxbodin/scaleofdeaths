@@ -5,6 +5,10 @@
 		"directory": "./dist"
 	},
 	"observability": {
-		"enabled": false
+		"logs": {
+			"enabled": true,
+			"invocation_logs": true,
+			"persist": true
+		}
 	}
 }
