@@ -20,7 +20,6 @@ export interface PageAssets {
 	css: { inline: string } | { href: string };
 	js: { inline: string } | { src: string };
 	csp?: string;
-	analyticsToken?: string;
 	siteUrl: string;
 }
 
@@ -240,7 +239,7 @@ function clientStrings(ctx: RenderContext): string {
 }
 
 /**
- * Renders the UI strings, the main script (inline or linked) and the optional analytics beacon.
+ * Renders the UI strings and the main script (inline or linked).
  *
  * @param ctx Render context.
  * @param assets Page assets and options.
@@ -252,16 +251,7 @@ function scripts(ctx: RenderContext, assets: PageAssets): string {
 			? `<script type="module">${assets.js.inline}</script>`
 			: `<script type="module" src="${esc(assets.js.src)}"></script>`;
 
-	const beaconConfig = esc(JSON.stringify({ token: assets.analyticsToken }));
-	const beacon = assets.analyticsToken
-		? `<script defer src="https://static.cloudflareinsights.com/beacon.min.js" data-cf-beacon='${beaconConfig}'></script>`
-		: '';
-
-	return join([
-		`<script type="application/json" id="i18n">${clientStrings(ctx)}</script>`,
-		main,
-		beacon,
-	]);
+	return join([`<script type="application/json" id="i18n">${clientStrings(ctx)}</script>`, main]);
 }
 
 /**

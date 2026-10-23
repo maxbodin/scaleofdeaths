@@ -1,6 +1,6 @@
 /**
  * Builds the site into `dist/` (or `SOD_OUT_DIR`) from `data/` (or `SOD_DATA_ROOT/data`).
- * Optional: `CF_ANALYTICS_TOKEN` adds the analytics beacon, `SITE_URL` enables absolute links.
+ * Optional: `SITE_URL` enables absolute links.
  */
 import { resolve } from 'node:path';
 import { buildSite, type SiteReport } from '../src/build/site.ts';
@@ -31,7 +31,6 @@ try {
 		root: ROOT,
 		dataRoot: resolve(ROOT, env.SOD_DATA_ROOT ?? '.'),
 		outDir: resolve(ROOT, env.SOD_OUT_DIR ?? 'dist'),
-		analyticsToken: env.CF_ANALYTICS_TOKEN || undefined,
 		siteUrl: env.SITE_URL,
 	});
 

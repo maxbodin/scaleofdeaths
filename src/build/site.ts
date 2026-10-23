@@ -14,7 +14,6 @@ export interface SiteOptions {
 	/** Directory containing `data/`. */
 	dataRoot: string;
 	outDir: string;
-	analyticsToken?: string;
 	siteUrl?: string;
 }
 
@@ -55,26 +54,18 @@ async function bundle(root: string, entry: string): Promise<string> {
 const sha = (text: string) => `'sha256-${createHash('sha256').update(text).digest('base64')}'`;
 
 /**
- * Builds the Content-Security-Policy: inline scripts are allowed by hash only, inline styles
- * are allowed, and no third-party origin is allowed except the optional analytics beacon.
+ * Builds the Content-Security-Policy: inline scripts are allowed by hash only, inline styles are allowed, and no third-party origin is allowed.
  *
  * @param js Content of the inline module script.
- * @param analytics Whether the Cloudflare beacon is included.
  * @returns The policy.
  */
-function contentSecurityPolicy(js: string, analytics: boolean): string {
-	const scriptSources = [sha(HEAD_SCRIPT), sha(js)];
-	if (analytics) scriptSources.push('https://static.cloudflareinsights.com');
-
-	const connectSources = ["'self'"];
-	if (analytics) connectSources.push('https://cloudflareinsights.com');
-
+function contentSecurityPolicy(js: string): string {
 	const directives = [
 		"default-src 'none'",
-		`script-src ${scriptSources.join(' ')}`,
+		`script-src ${sha(HEAD_SCRIPT)} ${sha(js)}`,
 		"style-src 'unsafe-inline'",
 		"img-src 'self' data:",
-		`connect-src ${connectSources.join(' ')}`,
+		"connect-src 'self'",
 		"base-uri 'none'",
 		"form-action 'none'",
 	];
@@ -86,7 +77,7 @@ function contentSecurityPolicy(js: string, analytics: boolean): string {
  * Bundles the client script and the stylesheet, and prepares the page assets.
  *
  * @param opts Build options.
- * @returns Inline CSS and JS, CSP, analytics token and site URL.
+ * @returns Inline CSS and JS, CSP and site URL.
  */
 async function prepareAssets(opts: SiteOptions): Promise<PageAssets> {
 	const script = await bundle(opts.root, 'src/client/main.ts');
@@ -96,17 +87,15 @@ async function prepareAssets(opts: SiteOptions): Promise<PageAssets> {
 	return {
 		css: { inline: css },
 		js: { inline: js },
-		csp: contentSecurityPolicy(js, Boolean(opts.analyticsToken)),
-		analyticsToken: opts.analyticsToken,
+		csp: contentSecurityPolicy(js),
 		siteUrl: (opts.siteUrl ?? '').replace(/\/$/, ''),
 	};
 }
 
 /**
- * Validates the data, bundles CSS and JS, and writes one self-contained HTML page per locale,
- * plus the static files from `public/`.
+ * Validates the data, bundles CSS and JS, and writes one self-contained HTML page per locale, plus the static files from `public/`.
  *
- * @param opts Source, data and output folders, and the optional analytics token and site URL.
+ * @param opts Source, data and output folders, and the optional site URL.
  * @returns The number of events, of unreviewed events, and of French fallbacks per locale.
  */
 export async function buildSite(opts: SiteOptions): Promise<SiteReport> {

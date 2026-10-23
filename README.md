@@ -44,7 +44,6 @@ bun run preview    # serve dist/ on http://localhost:4173
 
 **Build environment variables** (all optional):
 - `SITE_URL` (e.g. `https://example.org`) turns on the canonical link, `hreflang` alternates and an absolute `og:image`.
-- `CF_ANALYTICS_TOKEN` adds the cookieless Cloudflare Web Analytics beacon and extends the CSP to allow it.
 - `SOD_DATA_ROOT` and `SOD_OUT_DIR` build a different dataset or write to a different output folder.
 
 ## How it works

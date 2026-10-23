@@ -133,12 +133,13 @@ describe('production build', () => {
 		expect(html).not.toContain('cloudflareinsights');
 	}, 30_000);
 
-	it('injects the analytics beacon only with a token', async () => {
+	it('allows no third-party origin in the CSP', async () => {
 		const dir = tempDataset(EDGE_EVENTS.slice(0, 1));
-		await buildSite({ root, dataRoot: dir, outDir: join(dir, 'out'), analyticsToken: 'abc123' });
+		await buildSite({ root, dataRoot: dir, outDir: join(dir, 'out') });
 		const html = readFileSync(join(dir, 'out', 'index.html'), 'utf8');
-		expect(html).toContain('static.cloudflareinsights.com/beacon.min.js');
-		expect(html).toContain("connect-src 'self' https://cloudflareinsights.com");
+		const csp = html.match(/http-equiv="Content-Security-Policy" content="([^"]+)"/)?.[1] ?? '';
+		expect(csp).toContain("connect-src 'self'");
+		expect(csp).not.toMatch(/https?:/);
 	}, 30_000);
 });
 
